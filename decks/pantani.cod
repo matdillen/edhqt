@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Forest"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Hanweir Battlements"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Miren, the Moaning Well"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Mossfire Valley"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Brushland"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Universal Automaton"/>
+        <card number="1" name="Mysterious Egg"/>
+        <card number="1" name="Shields of Velis Vel"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Greater Gargadon"/>
+        <card number="1" name="Spawning Pit"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Impostor of the Sixth Pride"/>
+        <card number="1" name="Woodland Changeling"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Aura Shards"/>
+        <card number="1" name="Roc Egg"/>
+        <card number="1" name="Dragon Egg"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Martyr's Cause"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Summoner's Egg"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Farewell"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Clan Defiance"/>
+        <card number="1" name="Mass Mutiny"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Dragon Broodmother"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Molten Primordial"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Guardian Gladewalker"/>
+        <card number="1" name="Maskwood Nexus"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Grove of the Burnwillows"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Gruul Ragebeast"/>
+        <card number="1" name="Zetalpa, Primal Dawn"/>
+        <card number="1" name="Worldspine Wurm"/>
+        <card number="1" name="Altar of Dementia"/>
+        <card number="1" name="Wild Ricochet"/>
+        <card number="1" name="Shatterskull Smashing"/>
+        <card number="1" name="Woodfall Primus"/>
+        <card number="1" name="Flamekin Village"/>
+        <card number="1" name="Bogardan Hellkite"/>
+        <card number="1" name="Plateau"/>
+        <card number="1" name="Spinerock Knoll"/>
+        <card number="1" name="Etali, Primal Conqueror"/>
+        <card number="1" name="Fanatical Devotion"/>
+        <card number="1" name="Jetmir's Garden"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Luminate Primordial"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Nesting Dragon"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Ghalta, Stampede Tyrant"/>
+        <card number="1" name="Apex Altisaur"/>
+        <card number="1" name="Dinosaur Egg"/>
+        <card number="1" name="Palani's Hatcher"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Flare of Cultivation"/>
+        <card number="1" name="Three Tree Mascot"/>
+        <card number="1" name="Monster Manual // Zoological Study"/>
+        <card number="1" name="Greater Good"/>
+        <card number="1" name="Vaultborn Tyrant"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" name="Avacyn, Angel of Hope"/>
+        <card number="1" name="Arena of Glory"/>
+        <card number="1" name="Clifftop Retreat"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Atla Palani, Nest Tender"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Imotekh the Stormlord"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Not Dead After All"/>
+        <card number="1" name="Tortured Existence"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Leech Gauntlet"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Liquimetal Torque"/>
+        <card number="1" name="Leaden Myr"/>
+        <card number="1" name="Cranial Plating"/>
+        <card number="1" name="Tarrian's Journal"/>
+        <card number="1" name="Network Terminal"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Palladium Myr"/>
+        <card number="1" name="Attrition"/>
+        <card number="1" name="Circuit Mender"/>
+        <card number="1" name="Skeleton Shard"/>
+        <card number="1" name="Workshop Assistant"/>
+        <card number="1" name="Scrap Trawler"/>
+        <card number="1" name="Scarecrone"/>
+        <card number="1" name="Junk Diver"/>
+        <card number="1" name="Corpse Dance"/>
+        <card number="1" name="Haunted Crossroads"/>
+        <card number="1" name="Rug of Smothering"/>
+        <card number="1" name="Etched Champion"/>
+        <card number="1" name="Phyrexian Fleshgorger"/>
+        <card number="1" name="Moriok Replica"/>
+        <card number="1" name="Dross Golem"/>
+        <card number="1" name="Phyrexian Scriptures"/>
+        <card number="1" name="The Abyss"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Krark-Clan Ironworks"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Barbed Servitor"/>
+        <card number="1" name="Masticore"/>
+        <card number="1" name="Jhoira's Familiar"/>
+        <card number="1" name="Silent Arbiter"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="1" name="Canoptek Scarab Swarm"/>
+        <card number="1" name="Terror Ballista"/>
+        <card number="1" name="Golem Artisan"/>
+        <card number="1" name="Manor Gargoyle"/>
+        <card number="1" name="Beacon of Unrest"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Mirrorworks"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="16" name="Swamp"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Inkmoth Nexus"/>
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Phyrexia's Core"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Blinkmoth Nexus"/>
+        <card number="1" name="Razorlash Transmogrant"/>
+        <card number="1" name="Wurmcoil Engine"/>
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Psychomancer"/>
+        <card number="1" name="Cyberman Patrol"/>
+        <card number="1" name="Chronomancer"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Szarekh, the Silent King"/>
+        <card number="1" name="Throne of Eldraine"/>
+        <card number="1" name="Armix, Filigree Thrasher"/>
+        <card number="1" name="Canoptek Wraith"/>
+        <card number="1" name="Skorpekh Lord"/>
+        <card number="1" name="Noxious Gearhulk"/>
+        <card number="1" name="Cybermen Squadron"/>
+        <card number="1" name="Canoptek Spyder"/>
+        <card number="1" name="Cryptek"/>
+        <card number="1" name="Lokhust Heavy Destroyer"/>
+        <card number="1" name="Necron Deathmark"/>
+        <card number="1" name="Cryptothrall"/>
+        <card number="1" name="Their Name Is Death"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Abstergo Entertainment"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Fomori Vault"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Phyrexian Tower"/>
+    </zone>
+</cockatrice_deck>

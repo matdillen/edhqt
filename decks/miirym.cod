@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Domri, Anarch of Bolas"/>
+        <card number="1" name="Steely Resolve"/>
+        <card number="1" name="Dragon Tempest"/>
+        <card number="1" name="Dragon's Hoard"/>
+        <card number="1" name="Urza's Incubator"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Garruk's Uprising"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Disdainful Stroke"/>
+        <card number="1" name="Stubborn Denial"/>
+        <card number="1" name="Dragonspeaker Shaman"/>
+        <card number="1" name="Bogardan Hellkite"/>
+        <card number="1" name="Hellkite Tyrant"/>
+        <card number="1" name="Dragon Broodmother"/>
+        <card number="1" name="Dragonlord Atarka"/>
+        <card number="1" name="Rapacious Dragon"/>
+        <card number="1" name="Atsushi, the Blazing Sky"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Island"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Hanweir Battlements"/>
+        <card number="1" name="Haven of the Spirit Dragon"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Ketria Triome"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Grove of the Burnwillows"/>
+        <card number="1" name="Fire-Lit Thicket"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Karplusan Forest"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sulfur Falls"/>
+        <card number="1" name="Shivan Reef"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Steel Hellkite"/>
+        <card number="1" name="Draconic Muralists"/>
+        <card number="1" name="Wrathful Red Dragon"/>
+        <card number="1" name="Thrakkus the Butcher"/>
+        <card number="1" name="Ganax, Astral Hunter"/>
+        <card number="1" name="Lozhan, Dragons' Legacy"/>
+        <card number="1" name="Reckless Barbarian"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Keiga, the Tide Star"/>
+        <card number="1" name="Carnelian Orb of Dragonkind"/>
+        <card number="1" name="Kiora, Behemoth Beckoner"/>
+        <card number="1" name="Tyrant of Kher Ridges"/>
+        <card number="1" name="Spit Flame"/>
+        <card number="1" name="Patron of the Arts"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Monster Manual // Zoological Study"/>
+        <card number="1" name="Sapphire Dragon // Psionic Pulse"/>
+        <card number="1" name="Earthquake Dragon"/>
+        <card number="1" name="Temur Ascendancy"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Lofty Denial"/>
+        <card number="1" name="Scourge of Valkas"/>
+        <card number="1" name="Orb of Dragonkind"/>
+        <card number="1" name="Kura, the Boundless Sky"/>
+        <card number="1" name="Old Gnawbone"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Bonders' Enclave"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Cavern-Hoard Dragon"/>
+        <card number="1" name="Titan of Littjara"/>
+        <card number="1" name="Klauth's Will"/>
+        <card number="1" name="Kindred Discovery"/>
+        <card number="1" name="Terror of the Peaks"/>
+        <card number="1" name="Progenitor's Icon"/>
+        <card number="1" name="Drakuseth, Maw of Flames"/>
+        <card number="1" name="Deflecting Swat"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Rivendell"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Roaming Throne"/>
+        <card number="1" name="Raise the Palisade"/>
+        <card number="1" name="Mythos of Illuna"/>
+        <card number="1" name="Smuggler's Surprise"/>
+        <card number="1" name="Entish Restoration"/>
+        <card number="1" name="Molten Echoes"/>
+        <card number="1" name="Invasion of Tarkir"/>
+        <card number="1" name="Fanatic of Rhonas"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Rockfall Vale"/>
+        <card number="1" name="Arena of Glory"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Invert Polarity"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Miirym, Sentinel Wyrm"/>
+    </zone>
+</cockatrice_deck>

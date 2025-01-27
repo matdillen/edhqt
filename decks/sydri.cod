@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Sydri, Galvanic Genius"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Tezzeret, Betrayer of Flesh"/>
+        <card number="1" name="Weatherlight"/>
+        <card number="1" name="Shorikai, Genesis Engine"/>
+        <card number="1" name="Supreme Verdict"/>
+        <card number="1" name="Research Thief"/>
+        <card number="1" name="Bronze Guardian"/>
+        <card number="1" name="Sunfall"/>
+        <card number="1" name="Canoptek Spyder"/>
+        <card number="1" name="Forsaken Monument"/>
+        <card number="1" name="Parhelion II"/>
+        <card number="1" name="Darksteel Forge"/>
+        <card number="1" name="Metalwork Colossus"/>
+        <card number="1" name="Dance of the Manse"/>
+        <card number="1" name="Void Rend"/>
+        <card number="1" name="Cosima, God of the Voyage"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Chromatic Lantern"/>
+        <card number="1" name="Shimmer Myr"/>
+        <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Peacewalker Colossus"/>
+        <card number="1" name="Kotori, Pilot Prodigy"/>
+        <card number="1" name="Greasefang, Okiba Boss"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Prodigy's Prototype"/>
+        <card number="1" name="Swan Song"/>
+        <card number="1" name="Talisman of Dominance"/>
+        <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Drown in the Loch"/>
+        <card number="1" name="Baleful Strix"/>
+        <card number="1" name="Unlicensed Hearse"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Reckoner Bankbuster"/>
+        <card number="1" name="Jhoira's Toolbox"/>
+        <card number="1" name="Mechtitan Core"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Drowned Catacomb"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Scrubland"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Raffine's Tower"/>
+        <card number="1" name="Arcane Sanctum"/>
+        <card number="1" name="Mech Hangar"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Tundra"/>
+        <card number="2" name="Island"/>
+        <card number="2" name="Plains"/>
+        <card number="1" name="Snow-Covered Plains"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Mysterious Limousine"/>
+        <card number="1" name="Deluxe Dragster"/>
+        <card number="1" name="Katsumasa, the Animator"/>
+        <card number="1" name="Imposter Mech"/>
+        <card number="1" name="Cultivator's Caravan"/>
+        <card number="1" name="Sai, Master Thopterist"/>
+        <card number="1" name="Nautiloid Ship"/>
+        <card number="1" name="Cyberdrive Awakener"/>
+        <card number="1" name="Organic Extinction"/>
+        <card number="1" name="Lita, Mechanical Engineer"/>
+        <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Alela, Artful Provocateur"/>
+        <card number="1" name="Digsite Engineer"/>
+        <card number="1" name="Thousand Moons Smithy"/>
+        <card number="1" name="Illustrious Wanderglyph"/>
+        <card number="1" name="One with the Machine"/>
+        <card number="1" name="The Indomitable"/>
+        <card number="1" name="Midnight Crusader Shuttle"/>
+        <card number="1" name="Urza, Lord High Artificer"/>
+        <card number="1" name="Farewell"/>
+        <card number="1" name="Foreboding Steamboat"/>
+        <card number="1" name="One Last Job"/>
+        <card number="1" name="Archway of Innovation"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Shattered Sanctum"/>
+        <card number="1" name="Simulacrum Synthesizer"/>
+        <card number="1" name="Final Showdown"/>
+        <card number="1" name="Their Name Is Death"/>
+        <card number="1" name="Fomori Vault"/>
+        <card number="1" name="Unidentified Hovership"/>
+        <card number="1" name="Redress Fate"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Dawn's Truce"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Teferi's Protection"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Glacial Fortress"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,229 @@
+name,subtypes,manaValue
+island,Island,0.0
+mystic sanctuary,Island,0.0
+maze of ith,,0.0
+riptide laboratory,,0.0
+"nykthos, shrine to nyx",,0.0
+nesting grounds,,0.0
+lórien revealed,,5.0
+an offer you can't refuse,,1.0
+pongify,,1.0
+suspend,,1.0
+piracy charm,,1.0
+aquitect's will,Merfolk,1.0
+snapcaster mage,"Human, Wizard",2.0
+pollywog prodigy,"Frog, Wizard",2.0
+sea gate stormcaller,"Human, Wizard",2.0
+reality shift,,2.0
+thunderclap drake,Drake,2.0
+arcane signet,,2.0
+counterspell,,2.0
+cyber conversion,,2.0
+teferi's time twist,,2.0
+snap,,2.0
+gilded drake,Drake,2.0
+capsize,,3.0
+archmage's charm,,3.0
+tempest djinn,Djinn,3.0
+wavebreak hippocamp,"Horse, Fish",3.0
+geyser drake,Drake,3.0
+back to basics,,3.0
+loxodon warhammer,Equipment,3.0
+chrome host seedshark,"Phyrexian, Shark",3.0
+vedalken shackles,,3.0
+burnished hart,Elk,3.0
+commander's sphere,,3.0
+seasinger,Merfolk,3.0
+case of the ransacked lab,Case,3.0
+forbid,,3.0
+frantic search,,3.0
+unwind,,3.0
+blue sun's twilight,,2.0
+entrancing melody,,2.0
+illithid harvester // plant tadpoles,Horror,5.0
+curse of the swine,,2.0
+displacement wave,,2.0
+pull from tomorrow,,2.0
+mindsplice apparatus,,4.0
+sakashima the impostor,"Human, Rogue",4.0
+displacer kitten,"Cat, Beast",4.0
+inscription of insight,,4.0
+aetherize,,4.0
+reins of power,,4.0
+leyline of singularity,,4.0
+cryptic command,,4.0
+rewind,,4.0
+floodgate,Wall,4.0
+blatant thievery,,7.0
+invoke the winds,,5.0
+desertion,,5.0
+force of will,,5.0
+flood of tears,,6.0
+metallurgic summonings,,5.0
+the mirari conjecture,Saga,5.0
+mass manipulation,,4.0
+flow of ideas,,6.0
+flow of knowledge,,5.0
+consecrated sphinx,Sphinx,6.0
+scourge of fleets,Kraken,7.0
+"deekah, fractal theorist","Human, Wizard",5.0
+rise from the tides,,6.0
+"charix, the raging isle","Leviathan, Crab",4.0
+finale of revelation,,2.0
+the flood of mars,"Alien, Zombie, Horror",4.0
+twilight shepherd,Angel,6.0
+sunblast angel,Angel,6.0
+austere command,,6.0
+great desert prospector,"Human, Artificer",5.0
+sun titan,Giant,6.0
+cataclysmic gearhulk,Construct,5.0
+damning verdict,,5.0
+woodfall primus,"Treefolk, Shaman",8.0
+hero of goma fada,"Human, Knight, Ally",5.0
+deadwood treefolk,Treefolk,6.0
+titan of industry,Elemental,7.0
+thragtusk,Beast,5.0
+acidic slime,Ooze,5.0
+palace jailer,"Human, Soldier",4.0
+selfless squire,"Human, Soldier",4.0
+glorious protector,"Angel, Cleric",4.0
+teleportation circle,,4.0
+restoration angel,Angel,4.0
+stonehorn dignitary,"Rhino, Soldier",4.0
+solemn simulacrum,Golem,4.0
+druid of purification,"Human, Druid",4.0
+undermountain adventurer,"Giant, Warrior",4.0
+kozilek's predator,"Eldrazi, Drone",4.0
+"yasharn, implacable earth","Elemental, Boar",4.0
+white plume adventurer,"Orc, Cleric",3.0
+mangara of corondor,"Human, Wizard",3.0
+flickerwisp,Elemental,3.0
+skyclave apparition,"Kor, Spirit",3.0
+eternal witness,"Human, Shaman",3.0
+wood elves,"Elf, Scout",3.0
+aura shards,,3.0
+beast within,,3.0
+"selvala, heart of the wilds","Elf, Scout",3.0
+llanowar visionary,"Elf, Druid",3.0
+knight of autumn,"Dryad, Knight",3.0
+charming prince,"Human, Noble",2.0
+ephemerate,,1.0
+samwise the stouthearted,"Halfling, Peasant",2.0
+cloudshift,,1.0
+wall of roots,"Plant, Wall",2.0
+sunpetal grove,,0.0
+rogue's passage,,0.0
+horizon canopy,,0.0
+endless sands,Desert,0.0
+karn's bastion,,0.0
+forest,Forest,0.0
+plains,Plains,0.0
+temple garden,"Forest, Plains",0.0
+savannah,"Forest, Plains",0.0
+overgrown farmland,,0.0
+panharmonicon,,4.0
+farewell,,6.0
+the great henge,,9.0
+kodama of the east tree,Spirit,6.0
+guardian project,,4.0
+salvation swan,"Bird, Cleric",4.0
+clifftop lookout,"Frog, Scout",3.0
+lae'zel's acrobatics,,4.0
+guardian of faith,"Spirit, Knight",3.0
+"preston, the vanisher","Rabbit, Wizard",4.0
+conjurer's closet,,5.0
+"beza, the bounding spring","Elemental, Elk",4.0
+cavalier of dawn,"Elemental, Knight",5.0
+solitude,"Elemental, Incarnation",5.0
+unidentified hovership,Vehicle,3.0
+eerie interlude,,3.0
+seedborn muse,Spirit,5.0
+aven interrupter,"Bird, Rogue",3.0
+hornet queen,Insect,7.0
+avenger of zendikar,Elemental,7.0
+blessed sanctuary,,5.0
+akroma's will,,4.0
+god-eternal rhonas,"Zombie, God",5.0
+overlord of the hauntwoods,"Avatar, Horror",5.0
+saltcrusted steppe,,0.0
+windswept heath,,0.0
+swamp,Swamp,0.0
+bojuka bog,,0.0
+shambling vent,,0.0
+seraph sanctuary,,0.0
+arcane lighthouse,,0.0
+silent clearing,,0.0
+radiant fountain,,0.0
+scoured barrens,,0.0
+buried ruin,,0.0
+caves of koilos,,0.0
+godless shrine,"Plains, Swamp",0.0
+basilisk collar,Equipment,1.0
+leonin elder,"Cat, Cleric",1.0
+cleric class,Class,1.0
+soul warden,"Human, Cleric",1.0
+soul's attendant,"Human, Cleric",1.0
+swords to plowshares,,1.0
+sun droplet,,2.0
+tablet of the guilds,,2.0
+orzhov signet,,2.0
+damn,,2.0
+despark,,2.0
+vanishing verse,,2.0
+felidar umbra,Aura,2.0
+auriok champion,"Human, Cleric",2.0
+dawn of hope,,2.0
+suture priest,"Phyrexian, Cleric",2.0
+"daxos, blessed by the sun",Demigod,2.0
+blood artist,Vampire,2.0
+pristine talisman,,3.0
+vindicate,,3.0
+"kambal, consul of allocation","Human, Advisor",3.0
+lurrus of the dream-den,"Cat, Nightmare",3.0
+"heliod, sun-crowned",God,3.0
+stroke of midnight,,3.0
+celestial unicorn,Unicorn,3.0
+"delney, streetwise lookout","Human, Scout",3.0
+blessing of leeches,Aura,3.0
+toxic deluge,,3.0
+phyrexian arena,,3.0
+utter end,,4.0
+ajani's pridemate,"Cat, Soldier",2.0
+sangromancer,"Vampire, Shaman",4.0
+astarion's thirst,,4.0
+"sheoldred, the apocalypse","Phyrexian, Praetor",4.0
+greed,,4.0
+aetherflux reservoir,,4.0
+well of lost dreams,,4.0
+paradise plume,,4.0
+archangel of thune,Angel,5.0
+shattered angel,"Phyrexian, Angel",5.0
+sunscorch regent,Dragon,5.0
+righteous cause,,5.0
+return to the ranks,,2.0
+patron of the kitsune,Spirit,6.0
+"urborg, tomb of yawgmoth",,0.0
+exemplar of light,Angel,4.0
+raise the past,,4.0
+"sorin, vengeful bloodlord",Sorin,4.0
+"ajani, strength of the pride",Ajani,4.0
+crypt ghast,Spirit,4.0
+witch of the moors,"Human, Warlock",5.0
+polluted bonds,,5.0
+exquisite blood,,5.0
+bloodthirsty conqueror,"Vampire, Knight",5.0
+elenda's hierophant,"Vampire, Cleric",3.0
+black market connections,,3.0
+flawless maneuver,,3.0
+enduring innocence,"Sheep, Glimmer",3.0
+spectrum sentinel,Soldier,1.0
+authority of the consuls,,1.0
+guide of souls,"Human, Cleric",1.0
+case of the uneaten feast,Case,1.0
+blind obedience,,2.0
+amalia benavides aguirre,"Vampire, Scout",2.0
+voice of the blessed,"Spirit, Cleric",2.0
+essence channeler,"Bat, Cleric",2.0
+witch's clinic,,0.0
+castle locthwain,,0.0
+vault of the archangel,,0.0

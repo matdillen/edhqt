@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Volo, Guide to Monsters"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Prosperous Innkeeper"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Thieving Skydiver"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Gilded Drake"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Druid's Deliverance"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="City of Death"/>
+        <card number="1" name="Dutiful Replicator"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="1" name="Silkwing Scout"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="Second Harvest"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Amphin Mutineer"/>
+        <card number="1" name="Clever Impersonator"/>
+        <card number="1" name="Radagast the Brown"/>
+        <card number="1" name="Rite of Replication"/>
+        <card number="1" name="Kozilek's Predator"/>
+        <card number="1" name="Myconid Spore Tender"/>
+        <card number="1" name="Doppelgang"/>
+        <card number="1" name="Body Double"/>
+        <card number="1" name="Ixidron"/>
+        <card number="1" name="Traverse the Outlands"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Bladegriff Prototype"/>
+        <card number="1" name="Mind Flayer"/>
+        <card number="1" name="Sweet-Gum Recluse"/>
+        <card number="1" name="Frost Titan"/>
+        <card number="1" name="Pathbreaker Ibex"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="End-Raze Forerunners"/>
+        <card number="1" name="Astral Dragon"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="6" name="Forest"/>
+        <card number="5" name="Island"/>
+        <card number="1" name="Waterlogged Grove"/>
+        <card number="1" name="Lumbering Falls"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Mystifying Maze"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Jwari Disruption"/>
+        <card number="1" name="Soaring Seacliff"/>
+        <card number="1" name="Poison Dart Frog"/>
+        <card number="1" name="Perplexing Test"/>
+        <card number="1" name="Vanguard Suppressor"/>
+        <card number="1" name="Volo, Itinerant Scholar"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Selesnya Eulogist"/>
+        <card number="1" name="Full Flowering"/>
+        <card number="1" name="Cresting Mosasaurus"/>
+        <card number="1" name="Vineglimmer Snarl"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Shifting Woodland"/>
+        <card number="1" name="Season of Weaving"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="Irenicus's Vile Duplication"/>
+        <card number="1" name="Spark Double"/>
+        <card number="1" name="Three Steps Ahead"/>
+        <card number="1" name="For the Common Good"/>
+        <card number="1" name="Rootcast Apprenticeship"/>
+        <card number="1" name="Dino DNA"/>
+        <card number="1" name="Esika's Chariot"/>
+        <card number="1" name="Mirror Room // Fractured Realm"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Thassa, Deep-Dwelling"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Momentous Fall"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Littjara Mirrorlake"/>
+        <card number="1" name="Dreamroot Cascade"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Elminster's Simulacrum"/>
+        <card number="1" name="Bramble Sovereign"/>
+        <card number="1" name="Skyshroud Claim"/>
+    </zone>
+</cockatrice_deck>

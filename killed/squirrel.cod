@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Toski, Bearer of Secrets"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Ulvenwald Tracker"/>
+        <card number="1" name="Walking Ballista"/>
+        <card number="1" name="Voracious Hydra"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Evolutionary Leap"/>
+        <card number="1" name="Setessan Tactics"/>
+        <card number="1" name="Wildborn Preserver"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Yavimaya Elder"/>
+        <card number="1" name="Dense Foliage"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Questing Beast"/>
+        <card number="1" name="Verdurous Gearhulk"/>
+        <card number="1" name="Genesis"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Arena"/>
+        <card number="1" name="Treetop Village"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Yavimaya Hollow"/>
+        <card number="13" name="Forest"/>
+        <card number="5" name="Snow-Covered Forest"/>
+        <card number="1" name="Bellowing Tanglewurm"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Yavimaya Dryad"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Winding Canyons"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Vivien Reid"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Collector Ouphe"/>
+        <card number="1" name="Shaman of Forgotten Ways"/>
+        <card number="1" name="Argoth, Sanctum of Nature"/>
+        <card number="1" name="Llanowar Tribe"/>
+        <card number="1" name="The Tarrasque"/>
+        <card number="1" name="Monster Manual // Zoological Study"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="Hornet Queen"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Tendershoot Dryad"/>
+        <card number="1" name="Deep Forest Hermit"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Defiler of Vigor"/>
+        <card number="1" name="Howlpack Piper"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Tribute to the World Tree"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Ohran Frostfang"/>
+        <card number="1" name="Titan of Industry"/>
+        <card number="1" name="Silverback Elder"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Leyline Immersion"/>
+        <card number="1" name="Portal to Phyrexia"/>
+        <card number="1" name="Throne of Eldraine"/>
+        <card number="1" name="Old Gnawbone"/>
+        <card number="1" name="Vorinclex"/>
+        <card number="1" name="Elder Gargaroth"/>
+        <card number="1" name="Thundering Mightmare"/>
+        <card number="1" name="Molder Slug"/>
+        <card number="1" name="Temur Sabertooth"/>
+        <card number="1" name="Archdruid's Charm"/>
+        <card number="1" name="Apex Devastator"/>
+        <card number="1" name="Oakhollow Village"/>
+        <card number="1" name="Wrenn and Seven"/>
+        <card number="1" name="Preposterous Proportions"/>
+        <card number="1" name="The Great Aurora"/>
+        <card number="1" name="Overlord of the Hauntwoods"/>
+        <card number="1" name="Verdant Confluence"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Kodama's Reach"/>
+    </zone>
+</cockatrice_deck>

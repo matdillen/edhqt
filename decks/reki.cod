@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Reki, the History of Kamigawa"/>
+    </zone>
+    <zone name="main">
+        <card number="19" name="Forest"/>
+        <card number="1" name="War Room"/>
+        <card number="1" name="Yavimaya Hollow"/>
+        <card number="1" name="Tyrite Sanctum"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Yavimaya, Cradle of Growth"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Demolition Field"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Gaea's Cradle"/>
+        <card number="1" name="Winding Canyons"/>
+        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Blast Zone"/>
+        <card number="1" name="Oviya Pashiri, Sage Lifecrafter"/>
+        <card number="1" name="The Filigree Sylex"/>
+        <card number="1" name="Blackblade Reforged"/>
+        <card number="1" name="Bessie, the Doctor's Roadster"/>
+        <card number="1" name="Jolrael, Mwonvuli Recluse"/>
+        <card number="1" name="Shigeki, Jukai Visionary"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Nissa, Vastwood Seer"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Gwenna, Eyes of Gaea"/>
+        <card number="1" name="Omnath, Locus of Mana"/>
+        <card number="1" name="Dosan the Falling Leaf"/>
+        <card number="1" name="Hua Tuo, Honored Physician"/>
+        <card number="1" name="Matzalantli, the Great Door"/>
+        <card number="1" name="Palantír of Orthanc"/>
+        <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="1" name="Lithoform Engine"/>
+        <card number="1" name="Yeva, Nature's Herald"/>
+        <card number="1" name="Questing Beast"/>
+        <card number="1" name="Halana, Kessig Ranger"/>
+        <card number="1" name="Thrun, the Last Troll"/>
+        <card number="1" name="Garruk Wildspeaker"/>
+        <card number="1" name="Traxos, Scourge of Kroog"/>
+        <card number="1" name="Thran Temporal Gateway"/>
+        <card number="1" name="Vorinclex"/>
+        <card number="1" name="Wrenn and Seven"/>
+        <card number="1" name="Throne of Eldraine"/>
+        <card number="1" name="Vivien Reid"/>
+        <card number="1" name="Multani, Yavimaya's Avatar"/>
+        <card number="1" name="Silvos, Rogue Elemental"/>
+        <card number="1" name="Old Gnawbone"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="The Tarrasque"/>
+        <card number="1" name="Kamahl's Druidic Vow"/>
+        <card number="1" name="Excalibur, Sword of Eden"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Archdruid's Charm"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Leyline Immersion"/>
+        <card number="1" name="Ezuri's Predation"/>
+        <card number="1" name="The Great Aurora"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Praetor's Counsel"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Champion's Helm"/>
+        <card number="1" name="Honor-Worn Shaku"/>
+        <card number="1" name="Garruk, Primal Hunter"/>
+        <card number="1" name="Heroes' Podium"/>
+        <card number="1" name="Kogla, the Titan Ape"/>
+        <card number="1" name="Sceptre of Eternal Glory"/>
+        <card number="1" name="Kolvori, God of Kinship"/>
+        <card number="1" name="Nylea, Keen-Eyed"/>
+        <card number="1" name="Doric, Nature's Warden"/>
+        <card number="1" name="The Ring Goes South"/>
+        <card number="1" name="Kona, Rescue Beastie"/>
+        <card number="1" name="Tyvar, the Pummeler"/>
+        <card number="1" name="Sutina, Speaker of the Tajuru"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Bitterthorn, Nissa's Animus"/>
+        <card number="1" name="Eladamri, Korvecdal"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Gerrard's Hourglass Pendant"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Mox Amber"/>
+    </zone>
+</cockatrice_deck>
