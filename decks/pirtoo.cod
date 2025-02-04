@@ -17,7 +17,7 @@
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Opal Palace"/>
         <card number="3" name="Island"/>
-        <card number="6" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="The Ozolith"/>
         <card number="1" name="Power Conduit"/>
@@ -95,6 +95,7 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Traverse the Outlands"/>
         <card number="1" name="Zimone, Paradox Sculptor"/>
+        <card number="1" name="Reliquary Tower"/>
     </zone>
     <zone name="side">
         <card number="1" name="Pir, Imaginative Rascal"/>

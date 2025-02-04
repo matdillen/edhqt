@@ -6,7 +6,7 @@
         <card number="1" name="Reki, the History of Kamigawa"/>
     </zone>
     <zone name="main">
-        <card number="19" name="Forest"/>
+        <card number="18" name="Forest"/>
         <card number="1" name="War Room"/>
         <card number="1" name="Yavimaya Hollow"/>
         <card number="1" name="Tyrite Sanctum"/>
@@ -87,5 +87,6 @@
         <card number="1" name="Gerrard's Hourglass Pendant"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Mox Amber"/>
+        <card number="1" name="Reliquary Tower"/>
     </zone>
 </cockatrice_deck>

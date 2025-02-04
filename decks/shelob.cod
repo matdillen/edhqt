@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Shelob, Child of Ungoliant"/>
+    </zone>
+    <zone name="main">
+        <card number="9" name="Forest"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Disciple of Freyalise"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Mutavault"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Khalni Ambush"/>
+        <card number="1" name="Revitalizing Repast"/>
+        <card number="1" name="Malakir Rebirth"/>
+        <card number="1" name="Bridgeworks Battle"/>
+        <card number="1" name="Swarmyard"/>
+        <card number="1" name="Arena"/>
+        <card number="1" name="Penumbra Spider"/>
+        <card number="1" name="Obelisk Spider"/>
+        <card number="1" name="Broodspinner"/>
+        <card number="1" name="Drider"/>
+        <card number="1" name="Watcher in the Web"/>
+        <card number="1" name="Nyx Weaver"/>
+        <card number="1" name="Ishkanah, Grafwidow"/>
+        <card number="1" name="Chainweb Aracnir"/>
+        <card number="1" name="Mirkwood Spider"/>
+        <card number="1" name="Masked Vandal"/>
+        <card number="1" name="Twitching Doll"/>
+        <card number="1" name="Deadly Recluse"/>
+        <card number="1" name="Llanowar Greenwidow"/>
+        <card number="1" name="Realmwalker"/>
+        <card number="1" name="Arachnogenesis"/>
+        <card number="1" name="Spinner of Souls"/>
+        <card number="1" name="Moonglove Changeling"/>
+        <card number="1" name="Venomous Changeling"/>
+        <card number="1" name="Chameleon Colossus"/>
+        <card number="1" name="Skyfisher Spider"/>
+        <card number="1" name="Roaming Throne"/>
+        <card number="1" name="Arasta of the Endless Web"/>
+        <card number="1" name="Shelob, Dread Weaver"/>
+        <card number="1" name="Treetop Snarespinner"/>
+        <card number="1" name="Stingerfling Spider"/>
+        <card number="1" name="Lolth, Spider Queen"/>
+        <card number="1" name="Cairn Wanderer"/>
+        <card number="1" name="Silklash Spider"/>
+        <card number="1" name="Doom Weaver"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Hard-Hitting Question"/>
+        <card number="1" name="Unnatural Endurance"/>
+        <card number="1" name="Supernatural Stamina"/>
+        <card number="1" name="Viridian Longbow"/>
+        <card number="1" name="Three Visits"/>
+        <card number="1" name="Deadly Allure"/>
+        <card number="1" name="Legolas's Quick Reflexes"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Ram Through"/>
+        <card number="1" name="Master's Rebuke"/>
+        <card number="1" name="Peregrin Took"/>
+        <card number="1" name="Vraska, the Silencer"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="The Swarmweaver"/>
+        <card number="1" name="Pernicious Deed"/>
+        <card number="1" name="Blessing of Leeches"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Journey to Eternity"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Swarmyard Massacre"/>
+        <card number="1" name="Predatory Rampage"/>
+        <card number="1" name="You Look Upon the Tarrasque"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Coiling Rebirth"/>
+        <card number="1" name="Patriarch's Bidding"/>
+        <card number="1" name="Nissa's Expedition"/>
+        <card number="1" name="Back for More"/>
+        <card number="1" name="Tribal Unity"/>
+        <card number="1" name="Season of Gathering"/>
+        <card number="1" name="Spinning Wheel Kick"/>
+        <card number="1" name="Rotwidow Pack"/>
+        <card number="1" name="Twin-Silk Spider"/>
+        <card number="1" name="Curse of Clinging Webs"/>
+        <card number="1" name="Kessig Recluse"/>
+        <card number="1" name="Sol Ring"/>
+    </zone>
+</cockatrice_deck>

@@ -96,11 +96,11 @@
         <card number="1" name="Fanatic of Rhonas"/>
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Arixmethes, Slumbering Isle"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Invert Polarity"/>
+        <card number="1" name="Silumgar's Scorn"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

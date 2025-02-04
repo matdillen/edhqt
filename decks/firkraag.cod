@@ -6,7 +6,7 @@
         <card number="1" name="Firkraag, Cunning Instigator"/>
     </zone>
     <zone name="main">
-        <card number="8" name="Mountain"/>
+        <card number="7" name="Mountain"/>
         <card number="1" name="Kazuul's Fury"/>
         <card number="1" name="Shatterskull Smashing"/>
         <card number="8" name="Island"/>
@@ -24,7 +24,6 @@
         <card number="1" name="Volcanic Island"/>
         <card number="1" name="Taunting Kobold"/>
         <card number="1" name="Strix Serenade"/>
-        <card number="1" name="Manifold Key"/>
         <card number="1" name="Grenzo, Havoc Raiser"/>
         <card number="1" name="Popular Entertainer"/>
         <card number="1" name="Magda, the Hoardmaster"/>
@@ -36,7 +35,6 @@
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Mocking Doppelganger"/>
-        <card number="1" name="Goblin Racketeer"/>
         <card number="1" name="Vengeful Ancestor"/>
         <card number="1" name="Roaming Throne"/>
         <card number="1" name="Domineering Will"/>
@@ -69,7 +67,6 @@
         <card number="1" name="Shiny Impetus"/>
         <card number="1" name="Psychic Impetus"/>
         <card number="1" name="Bloodthirsty Blade"/>
-        <card number="1" name="Firespitter Whelp"/>
         <card number="1" name="Flamewake Phoenix"/>
         <card number="1" name="Alexios, Deimos of Kosmos"/>
         <card number="1" name="Public Enemy"/>
@@ -91,5 +88,9 @@
         <card number="1" name="War's Toll"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Cavern-Hoard Dragon"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Coveted Peacock"/>
+        <card number="1" name="Vow of Flight"/>
     </zone>
 </cockatrice_deck>

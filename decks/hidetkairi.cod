@@ -40,7 +40,6 @@
         <card number="1" name="Necromantic Selection"/>
         <card number="1" name="Fated Return"/>
         <card number="1" name="Decree of Pain"/>
-        <card number="1" name="In Garruk's Wake"/>
         <card number="1" name="Temporal Trespass"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Time Stretch"/>
@@ -53,7 +52,7 @@
         <card number="1" name="Sphinx of Jwar Isle"/>
         <card number="1" name="Stolen Identity"/>
         <card number="8" name="Swamp"/>
-        <card number="10" name="Island"/>
+        <card number="9" name="Island"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Boggart Trawler"/>
         <card number="1" name="Malakir Rebirth"/>
@@ -89,5 +88,7 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Breach the Multiverse"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Thought Vessel"/>
     </zone>
 </cockatrice_deck>
