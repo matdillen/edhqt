@@ -42,6 +42,7 @@ class MTGDeckAnalyzer(QMainWindow):
         self.card_cache = self.load_card_cache()  # Load card cache
         # index the EDH deck files (+ paths) and determine their color identities
         self.deck_files, self.color_identities = self.index_decks_folder()
+        self.deck_files_actu = self.deck_files
 
         # Main Layout
         main_layout = QHBoxLayout()
@@ -161,7 +162,7 @@ class MTGDeckAnalyzer(QMainWindow):
             color_identity = self.color_identities.get(deck_name, "")
             color_order = ["W", "U", "B", "R", "G"]
             color_squares = [
-                f'<span style="color:{self.get_color_code(c) if c in color_identity else "#808080"};">&#9632;</span>'
+                f'<span style="color:{self.get_color_code(c) if c in color_identity else "#202124"};">&#9632;</span>'
                 for c in color_order
             ]
             color_blocks_html = " ".join(color_squares)
@@ -417,7 +418,7 @@ class MTGDeckAnalyzer(QMainWindow):
         search_type = self.search_dropdown.currentText()
         matching_decks = []
 
-        for deck_name, deck_path in self.deck_files.items():
+        for deck_name, deck_path in self.deck_files_actu.items():
             try:
                 tree = ET.parse(deck_path)
                 root = tree.getroot()
@@ -467,9 +468,10 @@ class MTGDeckAnalyzer(QMainWindow):
             for deckname, identity in self.color_identities.items():
                 raw_identity = set(item.lower() for item in identity.split(', '))
                 if all(char in raw_identity for char in query):
-                    filtered_decks[deckname] = identity
+                    filtered_decks[deckname] = self.deck_files[deckname]
             self.deck_list.clear()
             self.init_decklists(filtered_decks)
+            self.deck_files_actu = filtered_decks
 
     def show_card_details(self, item):
         # show some card data and an image in the bottom right
