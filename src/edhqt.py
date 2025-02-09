@@ -49,46 +49,13 @@ class MTGDeckAnalyzer(QMainWindow):
         self.deck_list = QListWidget()
         main_layout.addWidget(self.deck_list)
 
-        color_blocks_html = []
-        for deck_name, deck_path in self.deck_files.items():
-            color_identity = self.color_identities.get(deck_name, "")
-            color_order = ["W", "U", "B", "R", "G"]
-            color_squares = [
-                f'<span style="color:{self.get_color_code(c) if c in color_identity else "#808080"};">&#9632;</span>'
-                for c in color_order
-            ]
-            color_blocks_html = " ".join(color_squares)
-
-            # Create a custom widget for list item
-            item_widget = QWidget()
-            item_layout = QHBoxLayout()
-            item_layout.setContentsMargins(5, 5, 5, 5)
-
-            # Create QLabel for colored blocks
-            color_label = QLabel()
-            color_label.setText(color_blocks_html)
-            color_label.setAlignment(Qt.AlignLeft)
-
-            # Create QLabel for deck name
-            deck_label = QLabel(deck_name)
-            deck_label.setAlignment(Qt.AlignLeft)
-
-            # Add widgets to layout
-            item_layout.addWidget(color_label)
-            item_layout.addWidget(deck_label)
-            item_layout.addStretch()  # Push items to the left
-            item_widget.setLayout(item_layout)
-
-            # Create QListWidgetItem and set custom widget
-            item = QListWidgetItem(self.deck_list)
-            item.setSizeHint(item_widget.sizeHint())  # Ensure proper spacing
-            self.deck_list.addItem(item)
-            self.deck_list.setItemWidget(item, item_widget)
+        self.init_decklists(self.deck_files)
         self.deck_list.itemClicked.connect(self.load_deck)
 
         self.setLayout(main_layout)
 
         search_layout = QHBoxLayout()
+        
         self.search_dropdown = QComboBox()
         self.search_dropdown.addItems(["Cards", "Subtypes"])
         search_layout.addWidget(self.search_dropdown)
@@ -102,15 +69,35 @@ class MTGDeckAnalyzer(QMainWindow):
         self.search_button.clicked.connect(self.search_decks)
         search_layout.addWidget(self.search_button)
         left_layout.addLayout(search_layout)
+        
+        filter_layout = QHBoxLayout()
+        
+        self.filter_dropdown = QComboBox()
+        self.filter_dropdown.addItems(["Color Identity", "TBD"])
+        filter_layout.addWidget(self.filter_dropdown)
+        
+        self.filter_input = QLineEdit()
+        self.filter_input.setPlaceholderText("Filter for a color in color identity")
+        self.filter_input.returnPressed.connect(self.filter_decks)
+        filter_layout.addWidget(self.filter_input)
+        
+        self.filter_button = QPushButton("Filter Decks")
+        self.filter_button.clicked.connect(self.filter_decks)
+        filter_layout.addWidget(self.filter_button)
 
-        self.reset_button = QPushButton("Reset Search")
+        self.reset_button = QPushButton("Reset Filter")
         self.reset_button.clicked.connect(self.reset_deck_list)
-        left_layout.addWidget(self.reset_button)
+        filter_layout.addWidget(self.reset_button)
+        
+        other_layout = QHBoxLayout()
 
         self.mana_curve_button = QPushButton("Show Mana Curve")
         self.mana_curve_button.clicked.connect(self.show_mana_curve)
-        left_layout.addWidget(self.mana_curve_button)
-
+        other_layout.addWidget(self.mana_curve_button)
+        
+        left_layout.addLayout(search_layout)
+        left_layout.addLayout(filter_layout)
+        left_layout.addLayout(other_layout)
         main_layout.addLayout(left_layout)
 
         # Top Right Panel: Deck Contents
@@ -154,6 +141,43 @@ class MTGDeckAnalyzer(QMainWindow):
             "G": "#008000"
         }
         return color_codes.get(color)
+    
+    def init_decklists(self, decks):
+        color_blocks_html = []
+        for deck_name, deck_path in decks.items():
+            color_identity = self.color_identities.get(deck_name, "")
+            color_order = ["W", "U", "B", "R", "G"]
+            color_squares = [
+                f'<span style="color:{self.get_color_code(c) if c in color_identity else "#808080"};">&#9632;</span>'
+                for c in color_order
+            ]
+            color_blocks_html = " ".join(color_squares)
+
+            # Create a custom widget for list item
+            item_widget = QWidget()
+            item_layout = QHBoxLayout()
+            item_layout.setContentsMargins(5, 5, 5, 5)
+
+            # Create QLabel for colored blocks
+            color_label = QLabel()
+            color_label.setText(color_blocks_html)
+            color_label.setAlignment(Qt.AlignLeft)
+
+            # Create QLabel for deck name
+            deck_label = QLabel(deck_name)
+            deck_label.setAlignment(Qt.AlignLeft)
+
+            # Add widgets to layout
+            item_layout.addWidget(color_label)
+            item_layout.addWidget(deck_label)
+            item_layout.addStretch()  # Push items to the left
+            item_widget.setLayout(item_layout)
+
+            # Create QListWidgetItem and set custom widget
+            item = QListWidgetItem(self.deck_list)
+            item.setSizeHint(item_widget.sizeHint())  # Ensure proper spacing
+            self.deck_list.addItem(item)
+            self.deck_list.setItemWidget(item, item_widget)
     
     def build_image_lookup(self):
         logging.info("Building image lookup table.")
@@ -395,7 +419,21 @@ class MTGDeckAnalyzer(QMainWindow):
 
     def reset_deck_list(self):
         self.deck_list.clear()
-        self.deck_list.addItems(self.deck_files.keys())
+        self.init_decklists(self.deck_files)
+        
+    def filter_decks(self):
+        query = self.filter_input.text().strip().lower()
+        if not query:
+            return
+        filter_type = self.filter_dropdown.currentText()
+        if filter_type == "Color Identity":
+            filtered_decks = {}
+            for deckname, identity in self.color_identities.items():
+                raw_identity = set(item.lower() for item in identity.split(', '))
+                if all(char in raw_identity for char in query):
+                    filtered_decks[deckname] = identity
+            self.deck_list.clear()
+            self.init_decklists(filtered_decks)
 
     def show_card_details(self, item):
         card_name = item.text().split("x ", 1)[-1].strip()
