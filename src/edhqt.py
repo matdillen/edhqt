@@ -7,11 +7,13 @@ import csv
 import xml.etree.ElementTree as ET
 import logging
 from PyQt5.QtWidgets import (
-    QApplication, QMainWindow, QVBoxLayout, QHBoxLayout, QListWidget, QLineEdit, QPushButton, QLabel, QWidget, QTableWidget, QTableWidgetItem, QMessageBox, QComboBox
+    QApplication, QMainWindow, QVBoxLayout, QHBoxLayout, QListWidget, QListWidgetItem, QLineEdit, QPushButton, QLabel, QWidget, QTableWidget, QTableWidgetItem, QMessageBox, QComboBox
 )
+from PyQt5 import QtGui
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
 import matplotlib.pyplot as plt
+import qdarktheme
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -21,7 +23,7 @@ class MTGDeckAnalyzer(QMainWindow):
         super().__init__()
 
         # Load configuration
-        with open("config.json", "r") as config_file:
+        with open("../config.json", "r") as config_file:
             config = json.load(config_file)
 
         self.decks_folder = config.get("decks_folder", "./decks")
@@ -34,8 +36,8 @@ class MTGDeckAnalyzer(QMainWindow):
 
         self.db_connection = self.connect_to_db(self.db_path)
         self.image_lookup = self.build_image_lookup()  # Pre-build image lookup table
-        self.deck_files = self.index_decks_folder()  # Index the decks folder
         self.card_cache = self.load_card_cache()  # Load card cache
+        self.deck_files, self.color_identities = self.index_decks_folder()  # Index the decks folder
 
         # Main Layout
         main_layout = QHBoxLayout()
@@ -43,10 +45,48 @@ class MTGDeckAnalyzer(QMainWindow):
         # Left Panel: Deck List and Search
         left_layout = QVBoxLayout()
 
+        self.color_labels = QLabel()
         self.deck_list = QListWidget()
-        self.deck_list.addItems(self.deck_files.keys())
+        main_layout.addWidget(self.deck_list)
+
+        color_blocks_html = []
+        for deck_name, deck_path in self.deck_files.items():
+            color_identity = self.color_identities.get(deck_name, "")
+            color_order = ["W", "U", "B", "R", "G"]
+            color_squares = [
+                f'<span style="color:{self.get_color_code(c) if c in color_identity else "#808080"};">&#9632;</span>'
+                for c in color_order
+            ]
+            color_blocks_html = " ".join(color_squares)
+
+            # Create a custom widget for list item
+            item_widget = QWidget()
+            item_layout = QHBoxLayout()
+            item_layout.setContentsMargins(5, 5, 5, 5)
+
+            # Create QLabel for colored blocks
+            color_label = QLabel()
+            color_label.setText(color_blocks_html)
+            color_label.setAlignment(Qt.AlignLeft)
+
+            # Create QLabel for deck name
+            deck_label = QLabel(deck_name)
+            deck_label.setAlignment(Qt.AlignLeft)
+
+            # Add widgets to layout
+            item_layout.addWidget(color_label)
+            item_layout.addWidget(deck_label)
+            item_layout.addStretch()  # Push items to the left
+            item_widget.setLayout(item_layout)
+
+            # Create QListWidgetItem and set custom widget
+            item = QListWidgetItem(self.deck_list)
+            item.setSizeHint(item_widget.sizeHint())  # Ensure proper spacing
+            self.deck_list.addItem(item)
+            self.deck_list.setItemWidget(item, item_widget)
         self.deck_list.itemClicked.connect(self.load_deck)
-        left_layout.addWidget(self.deck_list)
+
+        self.setLayout(main_layout)
 
         search_layout = QHBoxLayout()
         self.search_dropdown = QComboBox()
@@ -105,6 +145,16 @@ class MTGDeckAnalyzer(QMainWindow):
         self.currently_displayed_image = None  # Track the currently displayed image to prevent duplicate logs
         self.current_card_image_path = None
 
+    def get_color_code(self, color):
+        color_codes = {
+            "W": "#FFFFFF",
+            "U": "#0000FF",
+            "B": "#000000",
+            "R": "#FF0000",
+            "G": "#008000"
+        }
+        return color_codes.get(color)
+    
     def build_image_lookup(self):
         logging.info("Building image lookup table.")
         image_lookup = {}
@@ -127,16 +177,55 @@ class MTGDeckAnalyzer(QMainWindow):
             logging.error(f"Database connection failed: {e}")
             return None
 
+    def sanitize_name(self, name):
+        def sanitize_single_name(single_name):
+            single_name = single_name.split(" //")[0].strip()
+            single_name = ''.join(single_name.split("(")[0::2]).strip()
+            return single_name
+
+        if isinstance(name, str):
+            return sanitize_single_name(name)
+        elif isinstance(name, list):
+            return [sanitize_single_name(n) for n in name]
+        else:
+            raise TypeError("Name must be a string or a list of strings")
+
     def index_decks_folder(self):
         logging.info("Indexing decks folder.")
         deck_files = {}
+        color_identities = {}
 
         for file in os.listdir(self.decks_folder):
             if file.endswith(".cod"):
-                deck_files[file] = os.path.join(self.decks_folder, file)
+                deck_path = os.path.join(self.decks_folder, file)
+                try:
+                    tree = ET.parse(deck_path)
+                    root = tree.getroot()
+                    card_names = [card.attrib['name'] for card in root.findall("./zone[@name='side']/card")]
+                    card_names = self.sanitize_name(card_names)
+                    deck_name = " & ".join(card_names)
+                    deck_files[deck_name] = deck_path
+                    color_identity_set = set()
+                    for card_name in card_names:
+                        result = self.query_db(
+                            ("colorIdentity", "cards", "name = ?", (card_name,))
+                        )
+                        if not result:
+                            result = self.query_db(
+                                ("colorIdentity", "cards", "faceName = ?", (card_name,))
+                            )
+                        if result and result[0]:
+                            color_identity_set.update(result[0].split(", "))
+
+                    if color_identity_set:
+                        color_order = {"W": 0, "U": 1, "B": 2, "R": 3, "G": 4}
+                        sorted_colors = sorted(color_identity_set, key=lambda color: color_order.get(color, 5))
+                        color_identities[deck_name] = ", ".join(sorted_colors)
+                except Exception as e:
+                    logging.error(f"Error reading deck file {deck_path}: {e}")
 
         logging.info(f"Indexed {len(deck_files)} deck files.")
-        return deck_files
+        return deck_files, color_identities
 
     def load_card_cache(self):
         card_cache = {}
@@ -147,7 +236,8 @@ class MTGDeckAnalyzer(QMainWindow):
                 for row in reader:
                     card_cache[row["name"].lower()] = {
                         "subtypes": row["subtypes"],
-                        "manaValue": row["manaValue"]
+                        "manaValue": row["manaValue"],
+                        "colorIdentity": row.get("colorIdentity", "")
                     }
         else:
             logging.info("Card cache file not found, it will be created during deck loading.")
@@ -162,7 +252,9 @@ class MTGDeckAnalyzer(QMainWindow):
                 writer.writerow({"name": name, "subtypes": data["subtypes"], "manaValue": data.get("manaValue", "")})
 
     def load_deck(self, item):
-        deck_file = self.deck_files[item.text()]
+        deck_name = self.deck_list.itemWidget(item).layout().itemAt(1).widget().text().split(" (")[0]
+        logging.info(deck_name)
+        deck_file = self.deck_files[deck_name]
 
         try:
             tree = ET.parse(deck_file)
@@ -174,11 +266,11 @@ class MTGDeckAnalyzer(QMainWindow):
             for card in root.findall("./zone[@name='main']/card"):
                 card_name = card.attrib['name']
                 quantity = int(card.attrib['number'])
-
                 if card_name.lower() not in self.card_cache:
-                    cursor = self.db_connection.cursor()
-                    cursor.execute("SELECT subtypes, manaValue FROM cards WHERE name = ?", (card_name,))
-                    result = cursor.fetchone()
+                    result = self.query_db(
+                        ("subtypes, manaValue", "cards", "name = ?", (card_name,))
+                    )
+                    #logging.info(f"Query result for subtypes, manaValue of {card_name}: {result}")
                     if result:
                         self.card_cache[card_name.lower()] = {
                             "subtypes": result[0],
@@ -191,6 +283,16 @@ class MTGDeckAnalyzer(QMainWindow):
             self.display_deck_data(deck_data)
         except Exception as e:
             logging.error(f"Error loading deck {deck_file}: {e}")
+
+    def query_db(self, params):
+        try:
+            select_clause, from_clause, where_clause, query_params = params
+            cursor = self.db_connection.cursor()
+            cursor.execute(f"SELECT {select_clause} FROM {from_clause} WHERE {where_clause}", query_params)
+            return cursor.fetchone()
+        except sqlite3.Error as e:
+            logging.error(f"Database query failed: {e}")
+            return None
 
     def display_deck_data(self, deck_data):
         self.deck_display.clear()
@@ -319,6 +421,7 @@ class MTGDeckAnalyzer(QMainWindow):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
+    qdarktheme.setup_theme()
     window = MTGDeckAnalyzer()
     window.show()
     sys.exit(app.exec_())
