@@ -18,6 +18,11 @@ import qdarktheme
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
+class AutoSelectTextEdit(QLineEdit):
+    def mousePressEvent(self, event):
+        super().mousePressEvent(event)
+        self.selectAll()
+
 class MTGDeckAnalyzer(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -70,7 +75,7 @@ class MTGDeckAnalyzer(QMainWindow):
         self.search_dropdown.addItems(["Cards", "Subtypes"])
         search_layout.addWidget(self.search_dropdown)
 
-        self.search_input = QLineEdit()
+        self.search_input = AutoSelectTextEdit(self)
         self.search_input.setPlaceholderText("Search for a card or subtype")
         self.search_input.returnPressed.connect(self.search_decks)
         search_layout.addWidget(self.search_input)
@@ -440,7 +445,8 @@ class MTGDeckAnalyzer(QMainWindow):
                     matching_decks.append((deck_name, deck_matches))
             except Exception as e:
                 logging.error(f"Error searching deck {deck_path}: {e}")
-
+        if len(matching_decks) == 0:
+            matching_decks.append(("No results found for query: "+query,""))
         self.display_search_results(matching_decks)
 
     def display_search_results(self, matching_decks):
