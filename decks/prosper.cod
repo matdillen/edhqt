@@ -81,12 +81,12 @@
         <card number="1" name="Professional Face-Breaker"/>
         <card number="1" name="Passionate Archaeologist"/>
         <card number="1" name="Alchemist's Talent"/>
-        <card number="1" name="Grim Hireling"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Valgavoth, Terror Eater"/>
         <card number="1" name="Charred Foyer // Warped Space"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Evereth, Viceroy of Plunder"/>
         <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Thought Vessel"/>
     </zone>
 </cockatrice_deck>

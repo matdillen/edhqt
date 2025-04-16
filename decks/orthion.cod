@@ -6,7 +6,7 @@
         <card number="1" name="Orthion, Hero of Lavabrink"/>
     </zone>
     <zone name="main">
-        <card number="25" name="Mountain"/>
+        <card number="24" name="Mountain"/>
         <card number="1" name="Meteor Golem"/>
         <card number="1" name="Caged Sun"/>
         <card number="1" name="Ancient Copper Dragon"/>
@@ -26,7 +26,6 @@
         <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
         <card number="1" name="Helm of Possession"/>
         <card number="1" name="Canoptek Scarab Swarm"/>
-        <card number="1" name="Fireflux Squad"/>
         <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Flameshadow Conjuring"/>
         <card number="1" name="Flametongue Kavu"/>
@@ -35,7 +34,6 @@
         <card number="1" name="Dualcaster Mage"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Cursed Mirror"/>
-        <card number="1" name="Imperial Recruiter"/>
         <card number="1" name="Feldon of the Third Path"/>
         <card number="1" name="Voldaren Thrillseeker"/>
         <card number="1" name="Dire Fleet Daredevil"/>
@@ -81,5 +79,8 @@
         <card number="1" name="Ghired's Belligerence"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Sceptre of Eternal Glory"/>
+        <card number="1" name="Audacious Swap"/>
     </zone>
 </cockatrice_deck>

@@ -7,7 +7,7 @@
     </zone>
     <zone name="main">
         <card number="9" name="Forest"/>
-        <card number="8" name="Swamp"/>
+        <card number="7" name="Swamp"/>
         <card number="1" name="Boseiju, Who Endures"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Woodland Cemetery"/>
@@ -48,7 +48,6 @@
         <card number="1" name="Arasta of the Endless Web"/>
         <card number="1" name="Shelob, Dread Weaver"/>
         <card number="1" name="Treetop Snarespinner"/>
-        <card number="1" name="Stingerfling Spider"/>
         <card number="1" name="Lolth, Spider Queen"/>
         <card number="1" name="Cairn Wanderer"/>
         <card number="1" name="Silklash Spider"/>
@@ -75,20 +74,22 @@
         <card number="1" name="Journey to Eternity"/>
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Swarmyard Massacre"/>
-        <card number="1" name="Predatory Rampage"/>
         <card number="1" name="You Look Upon the Tarrasque"/>
         <card number="1" name="Vanquisher's Banner"/>
         <card number="1" name="Coiling Rebirth"/>
         <card number="1" name="Patriarch's Bidding"/>
         <card number="1" name="Nissa's Expedition"/>
         <card number="1" name="Back for More"/>
-        <card number="1" name="Tribal Unity"/>
         <card number="1" name="Season of Gathering"/>
         <card number="1" name="Spinning Wheel Kick"/>
-        <card number="1" name="Rotwidow Pack"/>
         <card number="1" name="Twin-Silk Spider"/>
-        <card number="1" name="Curse of Clinging Webs"/>
         <card number="1" name="Kessig Recluse"/>
         <card number="1" name="Sol Ring"/>
+        <card number="1" name="Tempt with Discovery"/>
+        <card number="1" name="Dread Slaver"/>
+        <card number="1" name="Gorgon's Head"/>
+        <card number="1" name="Thornbite Staff"/>
+        <card number="1" name="Hoarding Recluse"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
     </zone>
 </cockatrice_deck>

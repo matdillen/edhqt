@@ -8,17 +8,14 @@
     </zone>
     <zone name="main">
         <card number="1" name="Helm of Possession"/>
-        <card number="1" name="Smothering Tithe"/>
         <card number="1" name="Canoptek Scarab Swarm"/>
         <card number="1" name="Invasion of Zendikar"/>
         <card number="1" name="Anointed Procession"/>
         <card number="1" name="Humility"/>
         <card number="1" name="Parallel Lives"/>
-        <card number="1" name="Slate of Ancestry"/>
         <card number="1" name="Make a Stand"/>
         <card number="1" name="Rootborn Defenses"/>
         <card number="1" name="Aura Shards"/>
-        <card number="1" name="The Battle of Bywater"/>
         <card number="1" name="Mirror Entity"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Champion of Lambholt"/>
@@ -31,7 +28,6 @@
         <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Throne of the God-Pharaoh"/>
         <card number="1" name="Staff of the Storyteller"/>
-        <card number="1" name="Earthcraft"/>
         <card number="1" name="Mirrex"/>
         <card number="1" name="Hall of Tagsin"/>
         <card number="1" name="Hall of Heliod's Generosity"/>
@@ -55,7 +51,6 @@
         <card number="1" name="Craterhoof Behemoth"/>
         <card number="1" name="Tendershoot Dryad"/>
         <card number="1" name="Decree of Justice"/>
-        <card number="1" name="White Sun's Zenith"/>
         <card number="1" name="Grand Crescendo"/>
         <card number="1" name="March of the Multitudes"/>
         <card number="1" name="Increasing Devotion"/>
@@ -65,9 +60,7 @@
         <card number="1" name="Nissa's Expedition"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Camaraderie"/>
-        <card number="1" name="Primal Vigor"/>
         <card number="1" name="Secure the Wastes"/>
-        <card number="1" name="Hour of Reckoning"/>
         <card number="1" name="Farmer Cotton"/>
         <card number="1" name="White Sun's Twilight"/>
         <card number="1" name="Conqueror's Pledge"/>
@@ -77,9 +70,7 @@
         <card number="1" name="Moonshaker Cavalry"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Illustrious Wanderglyph"/>
-        <card number="1" name="Second Harvest"/>
         <card number="1" name="Mondrak, Glory Dominus"/>
-        <card number="1" name="Circle of Dreams Druid"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="Gavony Township"/>
         <card number="1" name="Perch Protection"/>
@@ -96,5 +87,14 @@
         <card number="1" name="Savannah"/>
         <card number="1" name="Crisis of Conscience"/>
         <card number="1" name="Season of the Burrow"/>
+        <card number="1" name="Everything Comes to Dust"/>
+        <card number="1" name="Hour of Reckoning"/>
+        <card number="1" name="Entrapment Maneuver"/>
+        <card number="1" name="Duty Beyond Death"/>
+        <card number="1" name="Call the Coppercoats"/>
+        <card number="1" name="Elspeth, Storm Slayer"/>
+        <card number="1" name="Idol of Oblivion"/>
+        <card number="1" name="Will of the Mardu"/>
+        <card number="1" name="Bennie Bracks, Zoologist"/>
     </zone>
 </cockatrice_deck>

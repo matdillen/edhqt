@@ -24,9 +24,7 @@
         <card number="1" name="Smell Fear"/>
         <card number="1" name="Gyre Sage"/>
         <card number="1" name="Nature's Lore"/>
-        <card number="1" name="Thrummingbird"/>
         <card number="1" name="Scavenging Ooze"/>
-        <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Hangarback Walker"/>
         <card number="1" name="Inspiring Call"/>
         <card number="1" name="Nissa, Voice of Zendikar"/>
@@ -96,6 +94,8 @@
         <card number="1" name="Traverse the Outlands"/>
         <card number="1" name="Zimone, Paradox Sculptor"/>
         <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Ride the Avalanche"/>
+        <card number="1" name="Aetheric Amplifier"/>
     </zone>
     <zone name="side">
         <card number="1" name="Pir, Imaginative Rascal"/>

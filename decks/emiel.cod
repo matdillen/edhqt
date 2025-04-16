@@ -12,7 +12,6 @@
         <card number="1" name="Great Desert Prospector"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
-        <card number="1" name="Damning Verdict"/>
         <card number="1" name="Woodfall Primus"/>
         <card number="1" name="Hero of Goma Fada"/>
         <card number="1" name="Deadwood Treefolk"/>
@@ -46,7 +45,6 @@
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Samwise the Stouthearted"/>
         <card number="1" name="Cloudshift"/>
-        <card number="1" name="Wall of Roots"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Nesting Grounds"/>
         <card number="1" name="Rogue's Passage"/>
@@ -62,7 +60,6 @@
         <card number="1" name="Farewell"/>
         <card number="1" name="The Great Henge"/>
         <card number="1" name="Kodama of the East Tree"/>
-        <card number="1" name="Guardian Project"/>
         <card number="1" name="Salvation Swan"/>
         <card number="1" name="Clifftop Lookout"/>
         <card number="1" name="Lae'zel's Acrobatics"/>
@@ -85,5 +82,8 @@
         <card number="1" name="Overlord of the Hauntwoods"/>
         <card number="1" name="Saltcrusted Steppe"/>
         <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Starfall Invocation"/>
+        <card number="1" name="Guardian Scalelord"/>
+        <card number="1" name="Bronzebeak Foragers"/>
     </zone>
 </cockatrice_deck>

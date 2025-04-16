@@ -27,7 +27,6 @@
         <card number="1" name="Scarecrone"/>
         <card number="1" name="Junk Diver"/>
         <card number="1" name="Corpse Dance"/>
-        <card number="1" name="Haunted Crossroads"/>
         <card number="1" name="Rug of Smothering"/>
         <card number="1" name="Etched Champion"/>
         <card number="1" name="Phyrexian Fleshgorger"/>
@@ -36,7 +35,6 @@
         <card number="1" name="Phyrexian Scriptures"/>
         <card number="1" name="The Abyss"/>
         <card number="1" name="Mystic Forge"/>
-        <card number="1" name="Krark-Clan Ironworks"/>
         <card number="1" name="Trading Post"/>
         <card number="1" name="Barbed Servitor"/>
         <card number="1" name="Masticore"/>
@@ -48,7 +46,6 @@
         <card number="1" name="Golem Artisan"/>
         <card number="1" name="Manor Gargoyle"/>
         <card number="1" name="Beacon of Unrest"/>
-        <card number="1" name="Forsaken Monument"/>
         <card number="1" name="Mirrorworks"/>
         <card number="1" name="Ugin, the Ineffable"/>
         <card number="16" name="Swamp"/>
@@ -90,5 +87,8 @@
         <card number="1" name="Fomori Vault"/>
         <card number="1" name="War Room"/>
         <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="Bitterthorn, Nissa's Animus"/>
+        <card number="1" name="Illuminor Szeras"/>
+        <card number="1" name="Ebony Fly"/>
     </zone>
 </cockatrice_deck>

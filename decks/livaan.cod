@@ -12,7 +12,6 @@
         <card number="1" name="Boundless Realms"/>
         <card number="1" name="Brass's Bounty"/>
         <card number="1" name="Armed // Dangerous"/>
-        <card number="1" name="Feed the Pack"/>
         <card number="1" name="Thrun, the Last Troll"/>
         <card number="1" name="Thrun, Breaker of Silence"/>
         <card number="1" name="Mana Geyser"/>
@@ -91,11 +90,12 @@
         <card number="1" name="Tanuki Transplanter"/>
         <card number="1" name="Seize the Day"/>
         <card number="1" name="Bulk Up"/>
-        <card number="1" name="Ashroot Animist"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Klauth's Will"/>
+        <card number="1" name="Rainveil Rejuvenator"/>
+        <card number="1" name="Belt of Giant Strength"/>
     </zone>
 </cockatrice_deck>

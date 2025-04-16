@@ -4,7 +4,7 @@
     <comments></comments>
     <zone name="main">
         <card number="5" name="Mountain"/>
-        <card number="6" name="Plains"/>
+        <card number="5" name="Plains"/>
         <card number="1" name="Needle Spires"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
         <card number="1" name="Exotic Orchard"/>
@@ -76,7 +76,6 @@
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Decanter of Endless Water"/>
         <card number="1" name="Legion Leadership"/>
-        <card number="1" name="Ashling, Flame Dancer"/>
         <card number="1" name="Unexplained Absence"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Slickshot Show-Off"/>
@@ -93,6 +92,8 @@
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Frontline Heroism"/>
         <card number="1" name="Giggling Skitterspike"/>
+        <card number="1" name="Witch Enchanter"/>
+        <card number="1" name="Generous Gift"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feather, the Redeemed"/>

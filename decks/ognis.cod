@@ -3,8 +3,6 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Gingerbrute"/>
-        <card number="1" name="Sarinth Steelseeker"/>
         <card number="1" name="Tarrian's Journal"/>
         <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Tibalt's Trickery"/>
@@ -13,8 +11,6 @@
         <card number="1" name="Stormclaw Rager"/>
         <card number="1" name="Mayhem Devil"/>
         <card number="1" name="Braids, Arisen Nightmare"/>
-        <card number="1" name="Ingenious Artillerist"/>
-        <card number="1" name="Goddric, Cloaked Reveler"/>
         <card number="1" name="Mimic Vat"/>
         <card number="1" name="Gruesome Encore"/>
         <card number="1" name="Broadside Bombardiers"/>
@@ -25,14 +21,12 @@
         <card number="1" name="Whip of Erebos"/>
         <card number="1" name="Guardian Project"/>
         <card number="1" name="Questing Beast"/>
-        <card number="1" name="Hellrider"/>
         <card number="1" name="Hate Mirage"/>
         <card number="1" name="Minsc &amp; Boo, Timeless Heroes"/>
         <card number="1" name="Macabre Mockery"/>
         <card number="1" name="Vengevine"/>
         <card number="1" name="Goblin Heelcutter"/>
         <card number="1" name="Flameshadow Conjuring"/>
-        <card number="1" name="Wulfgar of Icewind Dale"/>
         <card number="1" name="The Gitrog, Ravenous Ride"/>
         <card number="1" name="Mass Mutiny"/>
         <card number="1" name="Clackbridge Troll"/>
@@ -61,7 +55,6 @@
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Captain Lannery Storm"/>
-        <card number="1" name="Mirkwood Bats"/>
         <card number="1" name="Ruby, Daring Tracker"/>
         <card number="1" name="Seize the Spotlight"/>
         <card number="1" name="Krenko, Baron of Tin Street"/>
@@ -78,14 +71,10 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Ardoz, Cobbler of War"/>
-        <card number="1" name="Magda, the Hoardmaster"/>
-        <card number="1" name="Reckless Fireweaver"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Xorn"/>
         <card number="1" name="Samut, Vizier of Naktamun"/>
         <card number="1" name="Kellogg, Dangerous Mind"/>
-        <card number="1" name="Evereth, Viceroy of Plunder"/>
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Goldvein Hydra"/>
@@ -93,6 +82,17 @@
         <card number="1" name="Mazirek, Kraul Death Priest"/>
         <card number="1" name="Cavern-Hoard Dragon"/>
         <card number="1" name="Tempt with Vengeance"/>
+        <card number="1" name="Return of the Wildspeaker"/>
+        <card number="1" name="Sinister Waltz"/>
+        <card number="1" name="Dowsing Device"/>
+        <card number="1" name="Skyfire Phoenix"/>
+        <card number="1" name="Froghemoth"/>
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Sauron, the Lidless Eye"/>
+        <card number="1" name="Bloodbraid Challenger"/>
+        <card number="1" name="Kuldotha Phoenix"/>
+        <card number="1" name="Molten Primordial"/>
+        <card number="1" name="Realm-Scorcher Hellkite"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ognis, the Dragon's Lash"/>

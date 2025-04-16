@@ -6,23 +6,18 @@
         <card number="1" name="Kadena, Slinking Sorcerer"/>
     </zone>
     <zone name="main">
-        <card number="4" name="Swamp"/>
-        <card number="5" name="Forest"/>
-        <card number="5" name="Island"/>
+        <card number="3" name="Swamp"/>
+        <card number="4" name="Forest"/>
+        <card number="3" name="Island"/>
         <card number="1" name="Obscuring Aether"/>
-        <card number="1" name="Dulcet Sirens"/>
         <card number="1" name="Nervous Gardener"/>
         <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Fathom Seer"/>
-        <card number="1" name="Planar Incision"/>
         <card number="1" name="Hunted Bonebrute"/>
         <card number="1" name="Ainok Survivalist"/>
         <card number="1" name="Willbender"/>
         <card number="1" name="Stratus Dancer"/>
-        <card number="1" name="Secret Plans"/>
-        <card number="1" name="Dream Chisel"/>
         <card number="1" name="Cyber Conversion"/>
-        <card number="1" name="Overgrown Zealot"/>
         <card number="1" name="Exit Specialist"/>
         <card number="1" name="Den Protector"/>
         <card number="1" name="Vesuvan Shapeshifter"/>
@@ -31,23 +26,18 @@
         <card number="1" name="Abhorrent Oculus"/>
         <card number="1" name="Mischievous Quanar"/>
         <card number="1" name="Glitch Interpreter"/>
-        <card number="1" name="Skittering Cicada"/>
         <card number="1" name="Etrata, Deadly Fugitive"/>
         <card number="1" name="Cryptic Coat"/>
-        <card number="1" name="Cloudform"/>
         <card number="1" name="Icefeather Aven"/>
         <card number="1" name="Vivien, Champion of the Wilds"/>
         <card number="1" name="Scroll of Fate"/>
-        <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Song of the Dryads"/>
-        <card number="1" name="Aphetto Runecaster"/>
         <card number="1" name="Become Anonymous"/>
         <card number="1" name="Roshan, Hidden Magister"/>
         <card number="1" name="Zimone, Mystery Unraveler"/>
         <card number="1" name="Bane of the Living"/>
         <card number="1" name="Printlifter Ooze"/>
         <card number="1" name="Threats Around Every Corner"/>
-        <card number="1" name="High Fae Trickster"/>
         <card number="1" name="Vannifar, Evolved Enigma"/>
         <card number="1" name="Panoptic Projektor"/>
         <card number="1" name="Ugin's Mastery"/>
@@ -62,8 +52,6 @@
         <card number="1" name="Experiment Twelve"/>
         <card number="1" name="Deathmist Raptor"/>
         <card number="1" name="Ixidor, Reality Sculptor"/>
-        <card number="1" name="Skinthinner"/>
-        <card number="1" name="Hooded Hydra"/>
         <card number="1" name="Whisperwood Elemental"/>
         <card number="1" name="Illithid Harvester // Plant Tadpoles"/>
         <card number="1" name="Forsaken Monument"/>
@@ -94,5 +82,21 @@
         <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Fierce Guardianship"/>
+        <card number="1" name="Arcane Denial"/>
+        <card number="1" name="Arixmethes, Slumbering Isle"/>
+        <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Thieving Amalgam"/>
+        <card number="1" name="Shrine of the Forsaken Gods"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Underground Sea"/>
+        <card number="1" name="Ruins of Oran-Rief"/>
+        <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Glaring Fleshraker"/>
+        <card number="1" name="Death Begets Life"/>
+        <card number="1" name="All Is Dust"/>
+        <card number="1" name="Dream Chisel"/>
     </zone>
 </cockatrice_deck>

@@ -16,7 +16,6 @@
         <card number="1" name="Brushland"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Universal Automaton"/>
         <card number="1" name="Mysterious Egg"/>
@@ -98,6 +97,7 @@
         <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Overgrown Farmland"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atla Palani, Nest Tender"/>

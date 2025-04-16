@@ -35,7 +35,7 @@
         <card number="1" name="Massacre Wurm"/>
         <card number="1" name="Harvester of Souls"/>
         <card number="6" name="Plains"/>
-        <card number="6" name="Swamp"/>
+        <card number="5" name="Swamp"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Silent Clearing"/>
@@ -71,7 +71,6 @@
         <card number="1" name="Phyrexian Altar"/>
         <card number="1" name="Altar of Dementia"/>
         <card number="1" name="Fanatical Devotion"/>
-        <card number="1" name="Lich-Knights' Conquest"/>
         <card number="1" name="Living Death"/>
         <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Volrath's Stronghold"/>
@@ -92,6 +91,8 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Hostile Hostel"/>
         <card number="1" name="Valkyrie's Call"/>
+        <card number="1" name="Witch Enchanter"/>
+        <card number="1" name="Land Tax"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

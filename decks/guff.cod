@@ -21,7 +21,6 @@
         <card number="1" name="Ajani Vengeant"/>
         <card number="1" name="The Wandering Emperor"/>
         <card number="1" name="Elspeth, Knight-Errant"/>
-        <card number="1" name="Arena Rector"/>
         <card number="1" name="Thran Temporal Gateway"/>
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Wrath of God"/>
@@ -76,7 +75,6 @@
         <card number="1" name="Narset of the Ancient Way"/>
         <card number="1" name="Vronos, Masked Inquisitor"/>
         <card number="1" name="All Will Be One"/>
-        <card number="1" name="Contagion Engine"/>
         <card number="1" name="Teferi, Master of Time"/>
         <card number="1" name="Savor the Moment"/>
         <card number="1" name="The Eternal Wanderer"/>
@@ -101,5 +99,7 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Island Sanctuary"/>
         <card number="1" name="An Offer You Can't Refuse"/>
+        <card number="1" name="Teferi's Talent"/>
+        <card number="1" name="Aetheric Amplifier"/>
     </zone>
 </cockatrice_deck>

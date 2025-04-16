@@ -14,9 +14,7 @@
         <card number="1" name="Bronze Guardian"/>
         <card number="1" name="Sunfall"/>
         <card number="1" name="Canoptek Spyder"/>
-        <card number="1" name="Forsaken Monument"/>
         <card number="1" name="Parhelion II"/>
-        <card number="1" name="Darksteel Forge"/>
         <card number="1" name="Metalwork Colossus"/>
         <card number="1" name="Dance of the Manse"/>
         <card number="1" name="Void Rend"/>
@@ -29,7 +27,6 @@
         <card number="1" name="Kotori, Pilot Prodigy"/>
         <card number="1" name="Greasefang, Okiba Boss"/>
         <card number="1" name="Phyrexian Metamorph"/>
-        <card number="1" name="Prodigy's Prototype"/>
         <card number="1" name="Swan Song"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Talisman of Hierarchy"/>
@@ -72,17 +69,13 @@
         <card number="1" name="Sai, Master Thopterist"/>
         <card number="1" name="Nautiloid Ship"/>
         <card number="1" name="Cyberdrive Awakener"/>
-        <card number="1" name="Organic Extinction"/>
         <card number="1" name="Lita, Mechanical Engineer"/>
         <card number="1" name="Skysovereign, Consul Flagship"/>
         <card number="1" name="Alela, Artful Provocateur"/>
-        <card number="1" name="Digsite Engineer"/>
-        <card number="1" name="Thousand Moons Smithy"/>
         <card number="1" name="Illustrious Wanderglyph"/>
         <card number="1" name="One with the Machine"/>
         <card number="1" name="The Indomitable"/>
         <card number="1" name="Midnight Crusader Shuttle"/>
-        <card number="1" name="Urza, Lord High Artificer"/>
         <card number="1" name="Farewell"/>
         <card number="1" name="Foreboding Steamboat"/>
         <card number="1" name="One Last Job"/>
@@ -92,7 +85,6 @@
         <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Simulacrum Synthesizer"/>
         <card number="1" name="Final Showdown"/>
-        <card number="1" name="Their Name Is Death"/>
         <card number="1" name="Fomori Vault"/>
         <card number="1" name="Unidentified Hovership"/>
         <card number="1" name="Redress Fate"/>
@@ -103,5 +95,13 @@
         <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Deserted Beach"/>
         <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Tune Up"/>
+        <card number="1" name="Interface Ace"/>
+        <card number="1" name="Mu Yanling, Wind Rider"/>
+        <card number="1" name="Back on Track"/>
+        <card number="1" name="Alacrian Armory"/>
+        <card number="1" name="Demonic Junker"/>
+        <card number="1" name="Salvation Engine"/>
+        <card number="1" name="Valor's Flagship"/>
     </zone>
 </cockatrice_deck>

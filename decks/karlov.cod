@@ -3,8 +3,8 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="8" name="Swamp"/>
-        <card number="10" name="Plains"/>
+        <card number="6" name="Swamp"/>
+        <card number="7" name="Plains"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Shambling Vent"/>
         <card number="1" name="Seraph Sanctuary"/>
@@ -16,7 +16,6 @@
         <card number="1" name="Buried Ruin"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Basilisk Collar"/>
         <card number="1" name="Leonin Elder"/>
         <card number="1" name="Cleric Class"/>
         <card number="1" name="Soul Warden"/>
@@ -30,7 +29,6 @@
         <card number="1" name="Vanishing Verse"/>
         <card number="1" name="Felidar Umbra"/>
         <card number="1" name="Auriok Champion"/>
-        <card number="1" name="Dawn of Hope"/>
         <card number="1" name="Suture Priest"/>
         <card number="1" name="Daxos, Blessed by the Sun"/>
         <card number="1" name="Blood Artist"/>
@@ -41,14 +39,12 @@
         <card number="1" name="Heliod, Sun-Crowned"/>
         <card number="1" name="Stroke of Midnight"/>
         <card number="1" name="Celestial Unicorn"/>
-        <card number="1" name="Delney, Streetwise Lookout"/>
         <card number="1" name="Blessing of Leeches"/>
         <card number="1" name="Toxic Deluge"/>
         <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Utter End"/>
         <card number="1" name="Ajani's Pridemate"/>
         <card number="1" name="Sangromancer"/>
-        <card number="1" name="Astarion's Thirst"/>
         <card number="1" name="Sheoldred, the Apocalypse"/>
         <card number="1" name="Greed"/>
         <card number="1" name="Aetherflux Reservoir"/>
@@ -86,6 +82,15 @@
         <card number="1" name="Witch's Clinic"/>
         <card number="1" name="Castle Locthwain"/>
         <card number="1" name="Vault of the Archangel"/>
+        <card number="1" name="Isolated Chapel"/>
+        <card number="1" name="Kabira Crossroads"/>
+        <card number="1" name="Witch Enchanter"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Kambal, Profiteering Mayor"/>
+        <card number="1" name="Emeria's Call"/>
+        <card number="1" name="Fiendish Panda"/>
+        <card number="1" name="Accursed Duneyard"/>
+        <card number="1" name="Revenge of Ravens"/>
     </zone>
     <zone name="side">
         <card number="1" name="Karlov of the Ghost Council"/>

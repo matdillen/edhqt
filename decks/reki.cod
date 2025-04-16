@@ -24,7 +24,6 @@
         <card number="1" name="Oviya Pashiri, Sage Lifecrafter"/>
         <card number="1" name="The Filigree Sylex"/>
         <card number="1" name="Blackblade Reforged"/>
-        <card number="1" name="Bessie, the Doctor's Roadster"/>
         <card number="1" name="Jolrael, Mwonvuli Recluse"/>
         <card number="1" name="Shigeki, Jukai Visionary"/>
         <card number="1" name="Mithril Coat"/>
@@ -32,13 +31,11 @@
         <card number="1" name="Nissa, Vastwood Seer"/>
         <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Gwenna, Eyes of Gaea"/>
-        <card number="1" name="Omnath, Locus of Mana"/>
         <card number="1" name="Dosan the Falling Leaf"/>
         <card number="1" name="Hua Tuo, Honored Physician"/>
         <card number="1" name="Matzalantli, the Great Door"/>
         <card number="1" name="Palantír of Orthanc"/>
         <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
-        <card number="1" name="Lithoform Engine"/>
         <card number="1" name="Yeva, Nature's Herald"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Halana, Kessig Ranger"/>
@@ -63,7 +60,6 @@
         <card number="1" name="Song of the Dryads"/>
         <card number="1" name="Leyline Immersion"/>
         <card number="1" name="Ezuri's Predation"/>
-        <card number="1" name="The Great Aurora"/>
         <card number="1" name="All Is Dust"/>
         <card number="1" name="Praetor's Counsel"/>
         <card number="1" name="Heroic Intervention"/>
@@ -88,5 +84,9 @@
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Mox Amber"/>
         <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Ghalta, Stampede Tyrant"/>
+        <card number="1" name="The Skullspore Nexus"/>
+        <card number="1" name="The Peregrine Dynamo"/>
+        <card number="1" name="Ugin, Eye of the Storms"/>
     </zone>
 </cockatrice_deck>

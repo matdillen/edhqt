@@ -91,7 +91,6 @@
         <card number="1" name="Mudflat Village"/>
         <card number="1" name="Gossip's Talent"/>
         <card number="1" name="Silent Hallcreeper"/>
-        <card number="1" name="Kaito, Bane of Nightmares"/>
         <card number="1" name="Metamorphosis Fanatic"/>
         <card number="1" name="Enduring Curiosity"/>
         <card number="1" name="Sol Ring"/>
@@ -99,5 +98,6 @@
         <card number="1" name="Escape Tunnel"/>
         <card number="1" name="Minas Morgul, Dark Fortress"/>
         <card number="1" name="Shipwreck Marsh"/>
+        <card number="1" name="Schema Thief"/>
     </zone>
 </cockatrice_deck>

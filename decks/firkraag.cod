@@ -23,9 +23,7 @@
         <card number="1" name="Forbidden Orchard"/>
         <card number="1" name="Volcanic Island"/>
         <card number="1" name="Taunting Kobold"/>
-        <card number="1" name="Strix Serenade"/>
         <card number="1" name="Grenzo, Havoc Raiser"/>
-        <card number="1" name="Popular Entertainer"/>
         <card number="1" name="Magda, the Hoardmaster"/>
         <card number="1" name="Reckless Barbarian"/>
         <card number="1" name="Arcane Denial"/>
@@ -33,26 +31,18 @@
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Talisman of Creativity"/>
         <card number="1" name="Sword of the Animist"/>
-        <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Mocking Doppelganger"/>
         <card number="1" name="Vengeful Ancestor"/>
         <card number="1" name="Roaming Throne"/>
-        <card number="1" name="Domineering Will"/>
-        <card number="1" name="Reins of Power"/>
-        <card number="1" name="Fiery Confluence"/>
         <card number="1" name="Spiteful Banditry"/>
         <card number="1" name="Besmirch"/>
-        <card number="1" name="Agitator Ant"/>
         <card number="1" name="Coronation of Chaos"/>
         <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Baeloth Barrityl, Entertainer"/>
         <card number="1" name="Thundermaw Hellkite"/>
         <card number="1" name="Ganax, Astral Hunter"/>
-        <card number="1" name="Stormbreath Dragon"/>
-        <card number="1" name="Illusory Ambusher"/>
         <card number="1" name="Blasphemous Act"/>
-        <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Mana Drain"/>
         <card number="1" name="Bedlam"/>
         <card number="1" name="Bident of Thassa"/>
@@ -90,7 +80,17 @@
         <card number="1" name="Cavern-Hoard Dragon"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Coveted Peacock"/>
         <card number="1" name="Vow of Flight"/>
+        <card number="1" name="Consuming Tide"/>
+        <card number="1" name="Acquired Mutation"/>
+        <card number="1" name="Red Death, Shipwrecker"/>
+        <card number="1" name="Call for Aid"/>
+        <card number="1" name="Spectacular Showdown"/>
+        <card number="1" name="Fell Beast's Shriek"/>
+        <card number="1" name="Will of the Temur"/>
+        <card number="1" name="Maeve, Insidious Singer"/>
+        <card number="1" name="Laser Screwdriver"/>
+        <card number="1" name="Khârn the Betrayer"/>
+        <card number="1" name="Collective Restraint"/>
     </zone>
 </cockatrice_deck>

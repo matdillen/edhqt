@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Reyhan, Last of the Abzan"/>
+        <card number="1" name="Bruse Tarl, Boorish Herder"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Titanic Brawl"/>
+        <card number="1" name="Cauldron Haze"/>
+        <card number="1" name="Lion Sash"/>
+        <card number="1" name="Ride Down"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Winding Constrictor"/>
+        <card number="1" name="Cursed Wombat"/>
+        <card number="1" name="Synchronized Charge"/>
+        <card number="1" name="Devoted Druid"/>
+        <card number="1" name="Together Forever"/>
+        <card number="1" name="Scholar of New Horizons"/>
+        <card number="1" name="Hardened Scales"/>
+        <card number="1" name="Dusk Legion Duelist"/>
+        <card number="1" name="Brigone, Soldier of Meletis"/>
+        <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="Evolution Witness"/>
+        <card number="1" name="Stalwart Successor"/>
+        <card number="1" name="Yathan Tombguard"/>
+        <card number="1" name="Rhythm of the Wild"/>
+        <card number="1" name="Mawloc"/>
+        <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Invigorating Hot Spring"/>
+        <card number="1" name="Anim Pakal, Thousandth Moon"/>
+        <card number="1" name="Inspiring Call"/>
+        <card number="1" name="Visions of Dominance"/>
+        <card number="1" name="Pir, Imaginative Rascal"/>
+        <card number="1" name="Branching Evolution"/>
+        <card number="1" name="Kutzil, Malamet Exemplar"/>
+        <card number="1" name="Silkguard"/>
+        <card number="1" name="Sarulf, Realm Eater"/>
+        <card number="1" name="Feast on the Fallen"/>
+        <card number="1" name="Captured by Lagacs"/>
+        <card number="1" name="Abzan Falconer"/>
+        <card number="1" name="Pernicious Deed"/>
+        <card number="1" name="Selfless Squire"/>
+        <card number="1" name="Astarion's Thirst"/>
+        <card number="1" name="Corpsejack Menace"/>
+        <card number="1" name="Primeval Protector"/>
+        <card number="1" name="Crystalline Crawler"/>
+        <card number="1" name="Etched Oracle"/>
+        <card number="1" name="Mindless Automaton"/>
+        <card number="1" name="Citadel Siege"/>
+        <card number="1" name="Bloodtracker"/>
+        <card number="1" name="Skyclave Shadowcat"/>
+        <card number="1" name="Bright-Palm, Soul Awakener"/>
+        <card number="1" name="Barrensteppe Siege"/>
+        <card number="1" name="Phantom Centaur"/>
+        <card number="1" name="Host of the Hereafter"/>
+        <card number="1" name="One with the Kami"/>
+        <card number="1" name="Murderous Redcap"/>
+        <card number="1" name="Bane of Progress"/>
+        <card number="1" name="Biogenic Upgrade"/>
+        <card number="1" name="Twilight Shepherd"/>
+        <card number="1" name="Deathbringer Thoctar"/>
+        <card number="1" name="Miraculous Recovery"/>
+        <card number="1" name="Triskelion"/>
+        <card number="1" name="Cauldron of Souls"/>
+        <card number="1" name="Ascendant Acolyte"/>
+        <card number="1" name="Loyal Guardian"/>
+        <card number="1" name="Crime // Punishment"/>
+        <card number="1" name="Verdurous Gearhulk"/>
+        <card number="1" name="Vulturous Zombie"/>
+        <card number="1" name="Damning Verdict"/>
+        <card number="1" name="Uncivil Unrest"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Swamp"/>
+        <card number="2" name="Plains"/>
+        <card number="3" name="Forest"/>
+        <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Furycalm Snarl"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Savannah"/>
+        <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Game Trail"/>
+        <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Sandsteppe Citadel"/>
+        <card number="1" name="Murmuring Bosk"/>
+        <card number="1" name="Ziatora's Proving Ground"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="1" name="Nesting Grounds"/>
+        <card number="1" name="Bayou"/>
+        <card number="1" name="Ravenous Tyrannosaurus"/>
+    </zone>
+</cockatrice_deck>

@@ -20,7 +20,6 @@
         <card number="1" name="Tireless Provisioner"/>
         <card number="1" name="Wicked Wolf"/>
         <card number="1" name="Fangren Marauder"/>
-        <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Puppeteer Clique"/>
         <card number="1" name="Thrashing Wumpus"/>
         <card number="1" name="Mazirek, Kraul Death Priest"/>
@@ -76,7 +75,6 @@
         <card number="1" name="Boggart Trawler"/>
         <card number="1" name="Revitalizing Repast"/>
         <card number="1" name="Disciple of Freyalise"/>
-        <card number="1" name="Topiary Stomper"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Shifting Woodland"/>
         <card number="1" name="Deathcap Glade"/>
@@ -93,10 +91,12 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Journey to Eternity"/>
         <card number="1" name="Old Flitterfang"/>
-        <card number="1" name="Guardian Project"/>
         <card number="1" name="Assemble the Entmoot"/>
         <card number="1" name="Volrath's Stronghold"/>
         <card number="1" name="Sutina, Speaker of the Tajuru"/>
         <card number="1" name="The Great Henge"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Afterlife from the Loam"/>
+        <card number="1" name="Dredge the Mire"/>
     </zone>
 </cockatrice_deck>

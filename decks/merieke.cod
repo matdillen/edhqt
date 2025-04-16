@@ -23,8 +23,6 @@
         <card number="1" name="Palladium Myr"/>
         <card number="1" name="Mangara of Corondor"/>
         <card number="1" name="Royal Assassin"/>
-        <card number="1" name="Serendib Sorcerer"/>
-        <card number="1" name="Intrepid Hero"/>
         <card number="1" name="Vindicate"/>
         <card number="1" name="White Plume Adventurer"/>
         <card number="1" name="Ioreth of the Healing House"/>
@@ -37,7 +35,6 @@
         <card number="1" name="Azami, Lady of Scrolls"/>
         <card number="1" name="Arcanis the Omnipotent"/>
         <card number="1" name="Avatar of Woe"/>
-        <card number="1" name="Endbringer"/>
         <card number="1" name="Visara the Dreadful"/>
         <card number="1" name="Aura of Dominion"/>
         <card number="1" name="Shadowspear"/>
@@ -55,7 +52,7 @@
         <card number="1" name="Polluted Delta"/>
         <card number="2" name="Island"/>
         <card number="1" name="Swamp"/>
-        <card number="2" name="Plains"/>
+        <card number="1" name="Plains"/>
         <card number="1" name="Pemmin's Aura"/>
         <card number="1" name="Unbender Tine"/>
         <card number="1" name="Lost in the Maze"/>
@@ -88,7 +85,6 @@
         <card number="1" name="Farewell"/>
         <card number="1" name="Fierce Guardianship"/>
         <card number="1" name="Marvin, Murderous Mimic"/>
-        <card number="1" name="Split Up"/>
         <card number="1" name="Callous Oppressor"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Dawn's Truce"/>
@@ -100,6 +96,11 @@
         <card number="1" name="Reflecting Pool"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="High Market"/>
+        <card number="1" name="Deserted Beach"/>
+        <card number="1" name="Cut of the Profits"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Flawless Forgery"/>
+        <card number="1" name="Mundungu"/>
     </zone>
     <zone name="side">
         <card number="1" name="Merieke Ri Berit"/>

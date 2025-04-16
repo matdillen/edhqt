@@ -15,7 +15,6 @@
         <card number="1" name="Lórien Revealed"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Pongify"/>
-        <card number="1" name="Aquitect's Will"/>
         <card number="1" name="Snapcaster Mage"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Signet"/>
@@ -23,11 +22,9 @@
         <card number="1" name="Cyber Conversion"/>
         <card number="1" name="Teferi's Time Twist"/>
         <card number="1" name="Snap"/>
-        <card number="1" name="Gilded Drake"/>
         <card number="1" name="Capsize"/>
         <card number="1" name="Archmage's Charm"/>
         <card number="1" name="Tempest Djinn"/>
-        <card number="1" name="Back to Basics"/>
         <card number="1" name="Chrome Host Seedshark"/>
         <card number="1" name="Vedalken Shackles"/>
         <card number="1" name="Burnished Hart"/>
@@ -48,7 +45,6 @@
         <card number="1" name="Aetherize"/>
         <card number="1" name="Ojer Pakpatiq, Deepest Epoch"/>
         <card number="1" name="Reins of Power"/>
-        <card number="1" name="Leyline of Singularity"/>
         <card number="1" name="Cryptic Command"/>
         <card number="1" name="Rewind"/>
         <card number="1" name="Floodgate"/>
@@ -73,8 +69,6 @@
         <card number="1" name="Gather Specimens"/>
         <card number="1" name="Discontinuity"/>
         <card number="1" name="Throne of Eldraine"/>
-        <card number="1" name="Get Out"/>
-        <card number="1" name="Shadowspear"/>
         <card number="1" name="Haughty Djinn"/>
         <card number="1" name="Quicksilver Fountain"/>
         <card number="1" name="Reenact the Crime"/>
@@ -85,5 +79,11 @@
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="War Room"/>
         <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="In Too Deep"/>
+        <card number="1" name="Aethersnatch"/>
+        <card number="1" name="Crush of Tentacles"/>
+        <card number="1" name="Spectral Deluge"/>
+        <card number="1" name="Sudden Substitution"/>
+        <card number="1" name="Tidal Barracuda"/>
     </zone>
 </cockatrice_deck>

@@ -20,7 +20,6 @@
         <card number="1" name="Dutiful Replicator"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Man-o'-War"/>
-        <card number="1" name="Silkwing Scout"/>
         <card number="1" name="Llanowar Tribe"/>
         <card number="1" name="Second Harvest"/>
         <card number="1" name="Solemn Simulacrum"/>
@@ -47,7 +46,7 @@
         <card number="1" name="Astral Dragon"/>
         <card number="1" name="Bane of Progress"/>
         <card number="6" name="Forest"/>
-        <card number="5" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="1" name="Waterlogged Grove"/>
         <card number="1" name="Lumbering Falls"/>
         <card number="1" name="Temple of Mystery"/>
@@ -96,5 +95,7 @@
         <card number="1" name="Elminster's Simulacrum"/>
         <card number="1" name="Bramble Sovereign"/>
         <card number="1" name="Skyshroud Claim"/>
+        <card number="1" name="Faerie Artisans"/>
+        <card number="1" name="Sea Gate Restoration"/>
     </zone>
 </cockatrice_deck>

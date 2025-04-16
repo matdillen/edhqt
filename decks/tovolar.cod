@@ -7,7 +7,7 @@
     </zone>
     <zone name="main">
         <card number="12" name="Forest"/>
-        <card number="11" name="Mountain"/>
+        <card number="10" name="Mountain"/>
         <card number="1" name="Three Tree City"/>
         <card number="1" name="Shatterskull Smashing"/>
         <card number="1" name="Wooded Foothills"/>
@@ -16,7 +16,6 @@
         <card number="1" name="Fungal Reaches"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Yavimaya, Cradle of Growth"/>
-        <card number="1" name="Burgeoning"/>
         <card number="1" name="Outland Liberator"/>
         <card number="1" name="Kessig Naturalist"/>
         <card number="1" name="Werewolf Pack Leader"/>
@@ -53,17 +52,14 @@
         <card number="1" name="Rhythm of the Wild"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Great Train Heist"/>
-        <card number="1" name="Vivien, Champion of the Wilds"/>
         <card number="1" name="Howlpack Piper"/>
         <card number="1" name="Ill-Tempered Loner"/>
         <card number="1" name="Instigator Gang"/>
         <card number="1" name="Roaming Throne"/>
-        <card number="1" name="Master of the Wild Hunt"/>
         <card number="1" name="Huntmaster of the Fells"/>
         <card number="1" name="Ulvenwald Mystics"/>
         <card number="1" name="Nightpack Ambusher"/>
         <card number="1" name="Wicked Wolf"/>
-        <card number="1" name="Anara, Wolvid Familiar"/>
         <card number="1" name="Afflicted Deserter"/>
         <card number="1" name="Chameleon Colossus"/>
         <card number="1" name="Arlinn, the Pack's Hope"/>
@@ -77,12 +73,17 @@
         <card number="1" name="Return of the Wildspeaker"/>
         <card number="1" name="Cryptic Gateway"/>
         <card number="1" name="Avabruck Caretaker"/>
-        <card number="1" name="Hollowhenge Overlord"/>
         <card number="1" name="Tovolar's Huntmaster"/>
-        <card number="1" name="Preposterous Proportions"/>
         <card number="1" name="Tribal Unity"/>
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="The Great Henge"/>
+        <card number="1" name="Elven Chorus"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Lavaspur Boots"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Shadowspear"/>
     </zone>
 </cockatrice_deck>

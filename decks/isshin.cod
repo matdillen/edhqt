@@ -26,7 +26,6 @@
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Scrubland"/>
         <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Skysovereign, Consul Flagship"/>
@@ -36,9 +35,6 @@
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Hanweir Garrison"/>
         <card number="1" name="Thundering Raiju"/>
-        <card number="1" name="Hero of Oxid Ridge"/>
-        <card number="1" name="Audacious Thief"/>
-        <card number="1" name="Isareth the Awakener"/>
         <card number="1" name="Combat Calligrapher"/>
         <card number="1" name="Crackling Doom"/>
         <card number="1" name="Dolmen Gate"/>
@@ -62,7 +58,6 @@
         <card number="1" name="Tectonic Giant"/>
         <card number="1" name="Greatsword of Tyr"/>
         <card number="1" name="Mardu Ascendancy"/>
-        <card number="1" name="Triumphant Adventurer"/>
         <card number="1" name="Brutal Hordechief"/>
         <card number="1" name="Skyhunter Strike Force"/>
         <card number="1" name="Acolyte Hybrid"/>
@@ -77,12 +72,9 @@
         <card number="1" name="Restless Fortress"/>
         <card number="1" name="Decadent Dragon // Expensive Taste"/>
         <card number="1" name="Iroas, God of Victory"/>
-        <card number="1" name="Fervent Charge"/>
         <card number="1" name="Breeches, Eager Pillager"/>
         <card number="1" name="Anim Pakal, Thousandth Moon"/>
         <card number="1" name="Diamond Pick-Axe"/>
-        <card number="1" name="Aclazotz, Deepest Betrayal"/>
-        <card number="1" name="Rising of the Day"/>
         <card number="1" name="Akroma's Will"/>
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Careening Mine Cart"/>
@@ -95,15 +87,23 @@
         <card number="1" name="Agrus Kos, Spirit of Justice"/>
         <card number="1" name="Kellogg, Dangerous Mind"/>
         <card number="1" name="Phelia, Exuberant Shepherd"/>
-        <card number="1" name="Argent Dais"/>
         <card number="1" name="Agadeem's Awakening"/>
         <card number="1" name="Arena of Glory"/>
-        <card number="1" name="Midnight Crusader Shuttle"/>
-        <card number="1" name="Delney, Streetwise Lookout"/>
-        <card number="1" name="Jacked Rabbit"/>
-        <card number="1" name="Pip-Boy 3000"/>
         <card number="1" name="Alesha, Who Laughs at Fate"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Goldspan Dragon"/>
+        <card number="1" name="Ascend from Avernus"/>
+        <card number="1" name="Taunt from the Rampart"/>
+        <card number="1" name="Starry-Eyed Skyrider"/>
+        <card number="1" name="Bone-Cairn Butcher"/>
+        <card number="1" name="Zurgo, Thunder's Decree"/>
+        <card number="1" name="Mardu Siegebreaker"/>
+        <card number="1" name="Avenger of the Fallen"/>
+        <card number="1" name="Redoubled Stormsinger"/>
+        <card number="1" name="Windcrag Siege"/>
+        <card number="1" name="Zurgo Stormrender"/>
+        <card number="1" name="Voice of Victory"/>
+        <card number="1" name="Ainok Strike Leader"/>
     </zone>
 </cockatrice_deck>

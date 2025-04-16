@@ -24,10 +24,8 @@
         <card number="1" name="Gideon's Sacrifice"/>
         <card number="1" name="Shadowspear"/>
         <card number="1" name="Ulvenwald Tracker"/>
-        <card number="1" name="Boros Charm"/>
         <card number="1" name="Marauding Raptor"/>
         <card number="1" name="Boxing Ring"/>
-        <card number="1" name="Mawloc"/>
         <card number="1" name="Rolling Earthquake"/>
         <card number="1" name="Stormwild Capridor"/>
         <card number="1" name="Subterranean Tremors"/>
@@ -35,7 +33,6 @@
         <card number="1" name="Hungering Hydra"/>
         <card number="1" name="Domri, Anarch of Bolas"/>
         <card number="1" name="Aura Shards"/>
-        <card number="1" name="Heaven // Earth"/>
         <card number="1" name="Boros Reckoner"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Martyrdom"/>
@@ -48,8 +45,6 @@
         <card number="1" name="Trapjaw Tyrant"/>
         <card number="1" name="Stuffy Doll"/>
         <card number="1" name="Brash Taunter"/>
-        <card number="1" name="Incite Rebellion"/>
-        <card number="1" name="Polyraptor"/>
         <card number="1" name="Blasphemous Act"/>
         <card number="1" name="Ripjaw Raptor"/>
         <card number="1" name="Ranging Raptors"/>
@@ -72,33 +67,38 @@
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Spiteful Banditry"/>
-        <card number="1" name="Arcbond"/>
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Dawn's Truce"/>
         <card number="1" name="Pyrohemia"/>
-        <card number="1" name="Rishkar's Expertise"/>
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Desert"/>
         <card number="1" name="Screaming Nemesis"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Vigor"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Setessan Tactics"/>
         <card number="1" name="Cacophodon"/>
         <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Apex Altisaur"/>
         <card number="1" name="Genesis"/>
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Unexplained Absence"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Rite of Passage"/>
         <card number="1" name="Twinflame Tyrant"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Balduvian Trading Post"/>
+        <card number="1" name="Mithril Coat"/>
+        <card number="1" name="Shielded by Faith"/>
+        <card number="1" name="Generous Gift"/>
+        <card number="1" name="Final Showdown"/>
+        <card number="1" name="Wrathful Raptors"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Saber Ants"/>
+        <card number="1" name="Neyith of the Dire Hunt"/>
+        <card number="1" name="Druid's Call"/>
+        <card number="1" name="Darksteel Plate"/>
     </zone>
 </cockatrice_deck>
