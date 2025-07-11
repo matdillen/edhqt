@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 14:28:14 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="main">
         <card number="1" name="Domri, Anarch of Bolas"/>
         <card number="1" name="Steely Resolve"/>
@@ -70,7 +73,6 @@
         <card number="1" name="Kindred Discovery"/>
         <card number="1" name="Terror of the Peaks"/>
         <card number="1" name="Progenitor's Icon"/>
-        <card number="1" name="Deflecting Swat"/>
         <card number="1" name="Fierce Guardianship"/>
         <card number="1" name="Rivendell"/>
         <card number="1" name="Volcanic Island"/>
@@ -99,6 +101,7 @@
         <card number="1" name="Ureni, the Song Unending"/>
         <card number="1" name="Transcendent Dragon"/>
         <card number="1" name="Will of the Temur"/>
+        <card number="1" name="Bolt Bend" setShortName="WAR" collectorNumber="115" uuid="39b35408-3728-4e1b-9f58-b0775df914d6"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

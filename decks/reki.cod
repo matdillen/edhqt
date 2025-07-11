@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 15:20:54 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Reki, the History of Kamigawa</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
         <card number="1" name="Reki, the History of Kamigawa"/>
     </zone>
     <zone name="main">
-        <card number="18" name="Forest"/>
+        <card number="17" name="Forest"/>
         <card number="1" name="War Room"/>
         <card number="1" name="Yavimaya Hollow"/>
         <card number="1" name="Tyrite Sanctum"/>
@@ -32,7 +35,6 @@
         <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Gwenna, Eyes of Gaea"/>
         <card number="1" name="Dosan the Falling Leaf"/>
-        <card number="1" name="Hua Tuo, Honored Physician"/>
         <card number="1" name="Matzalantli, the Great Door"/>
         <card number="1" name="Palantír of Orthanc"/>
         <card number="1" name="Goreclaw, Terror of Qal Sisma"/>
@@ -48,7 +50,6 @@
         <card number="1" name="Throne of Eldraine"/>
         <card number="1" name="Vivien Reid"/>
         <card number="1" name="Multani, Yavimaya's Avatar"/>
-        <card number="1" name="Silvos, Rogue Elemental"/>
         <card number="1" name="Old Gnawbone"/>
         <card number="1" name="The Great Henge"/>
         <card number="1" name="Ugin, the Spirit Dragon"/>
@@ -88,5 +89,8 @@
         <card number="1" name="The Skullspore Nexus"/>
         <card number="1" name="The Peregrine Dynamo"/>
         <card number="1" name="Ugin, Eye of the Storms"/>
+        <card number="1" name="Clive's Hideaway" setShortName="FIN" collectorNumber="275" uuid="5e43c36f-b8a2-4b2b-b2ea-57e6fa97521c"/>
+        <card number="1" name="Rhonas the Indomitable" setShortName="J22" collectorNumber="719" uuid="bd0bd038-727f-4e7e-8b87-fccc7b2ca0a6"/>
+        <card number="1" name="Relic of Legends" setShortName="DMU" collectorNumber="236" uuid="64a2809e-c441-416c-90ff-6fb1e246dff3"/>
     </zone>
 </cockatrice_deck>

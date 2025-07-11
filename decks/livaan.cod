@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 16:13:43 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Livaan, Cultist of Tiamat</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
         <card number="1" name="Livaan, Cultist of Tiamat"/>
         <card number="1" name="Hardy Outlander"/>
@@ -33,7 +36,6 @@
         <card number="1" name="Hunter's Insight"/>
         <card number="1" name="Invigorate"/>
         <card number="1" name="Rush of Blood"/>
-        <card number="1" name="Spikeshot Goblin"/>
         <card number="1" name="Spikeshot Elder"/>
         <card number="1" name="Manaplasm"/>
         <card number="1" name="Embercleave"/>
@@ -97,5 +99,6 @@
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Rainveil Rejuvenator"/>
         <card number="1" name="Belt of Giant Strength"/>
+        <card number="1" name="Tifa's Limit Break" setShortName="FIN" collectorNumber="207" uuid="24d6eab7-22bd-494f-8cbe-204446f24be9"/>
     </zone>
 </cockatrice_deck>

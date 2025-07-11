@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 14:20:50 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Emiel the Blessed</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
         <card number="1" name="Emiel the Blessed"/>
     </zone>
@@ -51,8 +54,8 @@
         <card number="1" name="Horizon Canopy"/>
         <card number="1" name="Endless Sands"/>
         <card number="1" name="Karn's Bastion"/>
-        <card number="11" name="Forest"/>
-        <card number="11" name="Plains"/>
+        <card number="10" name="Forest"/>
+        <card number="10" name="Plains"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Savannah"/>
         <card number="1" name="Overgrown Farmland"/>
@@ -85,5 +88,7 @@
         <card number="1" name="Starfall Invocation"/>
         <card number="1" name="Guardian Scalelord"/>
         <card number="1" name="Bronzebeak Foragers"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="501" uuid="2488a80b-6882-4b59-8232-f02f800204a9"/>
+        <card number="1" name="Diamond City" setShortName="PIP" collectorNumber="967" uuid="38eddac3-aa5c-4163-b223-b57da25ee4a2"/>
     </zone>
 </cockatrice_deck>

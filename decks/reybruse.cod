@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 16:19:35 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
         <card number="1" name="Reyhan, Last of the Abzan"/>
         <card number="1" name="Bruse Tarl, Boorish Herder"/>
@@ -10,23 +13,15 @@
         <card number="1" name="Titanic Brawl"/>
         <card number="1" name="Cauldron Haze"/>
         <card number="1" name="Lion Sash"/>
-        <card number="1" name="Ride Down"/>
-        <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Winding Constrictor"/>
         <card number="1" name="Cursed Wombat"/>
         <card number="1" name="Synchronized Charge"/>
-        <card number="1" name="Devoted Druid"/>
         <card number="1" name="Together Forever"/>
-        <card number="1" name="Scholar of New Horizons"/>
         <card number="1" name="Hardened Scales"/>
-        <card number="1" name="Dusk Legion Duelist"/>
-        <card number="1" name="Brigone, Soldier of Meletis"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
         <card number="1" name="Evolution Witness"/>
         <card number="1" name="Stalwart Successor"/>
-        <card number="1" name="Yathan Tombguard"/>
         <card number="1" name="Rhythm of the Wild"/>
-        <card number="1" name="Mawloc"/>
         <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Invigorating Hot Spring"/>
         <card number="1" name="Anim Pakal, Thousandth Moon"/>
@@ -34,52 +29,28 @@
         <card number="1" name="Visions of Dominance"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Branching Evolution"/>
-        <card number="1" name="Kutzil, Malamet Exemplar"/>
         <card number="1" name="Silkguard"/>
         <card number="1" name="Sarulf, Realm Eater"/>
-        <card number="1" name="Feast on the Fallen"/>
         <card number="1" name="Captured by Lagacs"/>
         <card number="1" name="Abzan Falconer"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Selfless Squire"/>
-        <card number="1" name="Astarion's Thirst"/>
         <card number="1" name="Corpsejack Menace"/>
-        <card number="1" name="Primeval Protector"/>
         <card number="1" name="Crystalline Crawler"/>
         <card number="1" name="Etched Oracle"/>
         <card number="1" name="Mindless Automaton"/>
-        <card number="1" name="Citadel Siege"/>
-        <card number="1" name="Bloodtracker"/>
-        <card number="1" name="Skyclave Shadowcat"/>
         <card number="1" name="Bright-Palm, Soul Awakener"/>
         <card number="1" name="Barrensteppe Siege"/>
-        <card number="1" name="Phantom Centaur"/>
-        <card number="1" name="Host of the Hereafter"/>
         <card number="1" name="One with the Kami"/>
-        <card number="1" name="Murderous Redcap"/>
-        <card number="1" name="Bane of Progress"/>
-        <card number="1" name="Biogenic Upgrade"/>
-        <card number="1" name="Twilight Shepherd"/>
         <card number="1" name="Deathbringer Thoctar"/>
-        <card number="1" name="Miraculous Recovery"/>
-        <card number="1" name="Triskelion"/>
         <card number="1" name="Cauldron of Souls"/>
-        <card number="1" name="Ascendant Acolyte"/>
-        <card number="1" name="Loyal Guardian"/>
-        <card number="1" name="Crime // Punishment"/>
-        <card number="1" name="Verdurous Gearhulk"/>
-        <card number="1" name="Vulturous Zombie"/>
         <card number="1" name="Damning Verdict"/>
         <card number="1" name="Uncivil Unrest"/>
-        <card number="2" name="Mountain"/>
-        <card number="2" name="Swamp"/>
-        <card number="2" name="Plains"/>
-        <card number="3" name="Forest"/>
+        <card number="1" name="Forest"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Badlands"/>
@@ -91,7 +62,6 @@
         <card number="1" name="Savannah"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Godless Shrine"/>
-        <card number="1" name="Game Trail"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Savai Triome"/>
         <card number="1" name="Sandsteppe Citadel"/>
@@ -100,6 +70,44 @@
         <card number="1" name="Indatha Triome"/>
         <card number="1" name="Nesting Grounds"/>
         <card number="1" name="Bayou"/>
-        <card number="1" name="Ravenous Tyrannosaurus"/>
+        <card number="1" name="Gavony Township"/>
+        <card number="1" name="Karn's Bastion"/>
+        <card number="1" name="Oran-Rief, the Vastwood"/>
+        <card number="1" name="Revitalizing Repast"/>
+        <card number="1" name="Stocking the Pantry"/>
+        <card number="1" name="The Ozolith"/>
+        <card number="1" name="Requisition Raid"/>
+        <card number="1" name="Ozolith, the Shattered Spire"/>
+        <card number="1" name="Innkeeper's Talent"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Gyre Sage"/>
+        <card number="1" name="Conclave Mentor"/>
+        <card number="1" name="Hollowmurk Siege"/>
+        <card number="1" name="Managorger Hydra"/>
+        <card number="1" name="Lae'zel, Vlaakith's Champion"/>
+        <card number="1" name="Kami of Whispered Hopes"/>
+        <card number="1" name="Forgotten Ancient"/>
+        <card number="1" name="Felisa, Fang of Silverquill"/>
+        <card number="1" name="Atomize"/>
+        <card number="1" name="Annie Joins Up"/>
+        <card number="1" name="Bone Devourer"/>
+        <card number="1" name="Halana and Alena, Partners"/>
+        <card number="1" name="Doubling Season"/>
+        <card number="1" name="All Will Be One"/>
+        <card number="1" name="Kalonian Hydra"/>
+        <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
+        <card number="1" name="Jenova, Ancient Calamity" setShortName="FIN" collectorNumber="228" uuid="534f98ee-7bc2-44d6-b49f-f57c051807d5"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Exotic Orchard" setShortName="40K" collectorNumber="278" uuid="ec9c7011-694b-4705-b85c-bf4edf26e437"/>
+        <card number="1" name="The Earth Crystal" setShortName="FIN" collectorNumber="184" uuid="d585e218-3dc8-4fbd-8ad2-795fbc9b2155"/>
+        <card number="1" name="Sphere Grid" setShortName="FIC" collectorNumber="70" uuid="51188b1d-cb45-40f7-a3c2-5652b0679e02"/>
+        <card number="1" name="Season of Gathering" setShortName="BLB" collectorNumber="192" uuid="71dd3c27-e0d5-434e-a0f3-4a95245e21c2"/>
+        <card number="1" name="Maester Seymour" setShortName="FIC" collectorNumber="68" uuid="f6a4267b-aa76-4dec-bc72-252236c44968"/>
+        <card number="1" name="Herd Heirloom" setShortName="PTDM" collectorNumber="144p" uuid="5579a3ac-7fdb-4204-b44e-fe0174f78cfa"/>
+        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
+        <card number="1" name="Garruk's Uprising" setShortName="AFC" collectorNumber="159" uuid="7de1015f-8371-4fa6-817f-d10d11d50093"/>
+        <card number="1" name="Stomping Ground" setShortName="CLU" collectorNumber="281" uuid="3c54b71a-f4cb-4418-b886-5253151ad36a"/>
+        <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
+        <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
     </zone>
 </cockatrice_deck>

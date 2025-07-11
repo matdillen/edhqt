@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 16:58:26 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Not Dead After All" setShortName="WOE" collectorNumber="101" uuid="d01a2b68-efe6-4027-846d-db7b19d9eef6"/>
+        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
+        <card number="1" name="Village Rites" setShortName="GN3" collectorNumber="64" uuid="f990e5c1-7df4-4eaf-a01b-67f858064e5e"/>
+        <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
+        <card number="1" name="Corrupted Conviction" setShortName="MOM" collectorNumber="98" uuid="ce133ad5-8748-4a3d-ae8c-7b2a5938927d"/>
+        <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
+        <card number="1" name="Feign Death" setShortName="AFR" collectorNumber="103" uuid="32af7061-fca6-4a06-be3c-01881e6b96f7"/>
+        <card number="1" name="Kaya's Ghostform" setShortName="PLST" collectorNumber="WAR-94" uuid="8cae3159-b321-4ce5-900d-5b2371e1fedb"/>
+        <card number="1" name="Tarrian's Journal" setShortName="LCI" collectorNumber="126" uuid="99255a66-b868-45fc-a2a9-0c89bd851b69"/>
+        <card number="1" name="Nasty End" setShortName="LTR" collectorNumber="99" uuid="c34f88d7-15a1-434f-88d7-3d4fcf406d54"/>
+        <card number="1" name="Deadly Dispute" setShortName="AFR" collectorNumber="94" uuid="7373fe95-ad1c-44b9-8c7f-464ce8cbffc6"/>
+        <card number="1" name="Culling Dais" setShortName="2XM" collectorNumber="246" uuid="54dc8c2a-928d-465e-8f76-82a90cc66854"/>
+        <card number="1" name="Spawning Pit" setShortName="J22" collectorNumber="136" uuid="d1f1ece0-83be-4f46-8c17-3fb0af900b7a"/>
+        <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
+        <card number="1" name="Consuming Corruption" setShortName="MH3" collectorNumber="84" uuid="9068b3a4-9130-42d8-a26b-52010b7daa8b"/>
+        <card number="1" name="Feed the Swarm" setShortName="BRC" collectorNumber="106" uuid="7d95a0e0-d609-451b-b045-85990eede219"/>
+        <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
+        <card number="1" name="Saw in Half" setShortName="BLC" collectorNumber="113" uuid="90f8de01-c1bd-4533-9e98-61e7d25dcf88"/>
+        <card number="1" name="Attrition" setShortName="MP2" collectorNumber="19" uuid="948bcca4-6e7a-4884-82f8-21926db8bdd5"/>
+        <card number="1" name="Mirage Mirror" setShortName="CMM" collectorNumber="962" uuid="cb1252c2-b951-4125-93a2-9282b607b6a4"/>
+        <card number="1" name="Oblivion Stone" setShortName="BRC" collectorNumber="153" uuid="e8b06a3d-897e-423e-bae6-9bf21beb2aa5"/>
+        <card number="1" name="Toxic Deluge" setShortName="CC2" collectorNumber="6" uuid="db34617f-b04f-4b65-84cf-5c5be1eb7226"/>
+        <card number="1" name="Phyrexian Arena" setShortName="CC2" collectorNumber="4" uuid="b4142d3b-9c17-4a26-949e-3fc3e600fd1c"/>
+        <card number="1" name="Murderous Rider // Swift End" setShortName="DRC" collectorNumber="45" uuid="67ea8e53-aa22-42d1-bca4-64b0b0f0bbdb"/>
+        <card number="1" name="Phyrexian Altar" setShortName="2X2" collectorNumber="311" uuid="95d9f93c-50a8-41a9-be98-d1900bf1c12f"/>
+        <card number="1" name="Black Market Connections" setShortName="ACR" collectorNumber="87" uuid="9bac8176-d0db-4397-820d-acbdd3264377"/>
+        <card number="1" name="Solemn Simulacrum" setShortName="AFC" collectorNumber="216" uuid="71ec1e1d-8c7b-40e9-b916-440f8acf3ea5"/>
+        <card number="1" name="Crypt Ghast" setShortName="DSC" collectorNumber="368" uuid="060c12ee-65b0-48d3-82d0-fdb5e27097a8"/>
+        <card number="1" name="Flare of Malice" setShortName="MH3" collectorNumber="95" uuid="19efb9ce-62eb-4cbf-b01e-979f3fd09ba6"/>
+        <card number="1" name="Korlash, Heir to Blackblade" setShortName="PLST" collectorNumber="FUT-87" uuid="79809fe9-b170-46bf-b67c-c06da4e196ea"/>
+        <card number="1" name="Nyx Lotus" setShortName="THB" collectorNumber="235" uuid="5bd6353f-d119-40e6-895c-030a11a7a2fe"/>
+        <card number="1" name="Scavenger Regent" setShortName="TDM" collectorNumber="90" uuid="0d4b46a3-847a-44a7-9f68-2cb4657cad61"/>
+        <card number="1" name="Nightmare Lash" setShortName="MRD" collectorNumber="219" uuid="7f8e3fa6-494c-412f-90cc-36d45cd2b175"/>
+        <card number="1" name="Lashwrithe" setShortName="C14" collectorNumber="245" uuid="de21d433-5c2c-49c0-80d1-bf6e8471f9d4"/>
+        <card number="1" name="Tendrils of Corruption" setShortName="PLST" collectorNumber="C14-166" uuid="16344025-1a71-4a97-88ee-1ec4437f2089"/>
+        <card number="1" name="Night of Souls' Betrayal" setShortName="HA6" collectorNumber="4" uuid="015f8c38-5d0e-4bdb-a705-24313dcece99"/>
+        <card number="1" name="Canoptek Tomb Sentinel" setShortName="40K" collectorNumber="152" uuid="aec9ba42-4c58-4e40-a8c5-63da81c44616"/>
+        <card number="1" name="Beacon of Unrest" setShortName="40K" collectorNumber="194" uuid="e313ae8b-f77b-47a4-9202-305bf6deb3dc"/>
+        <card number="1" name="Throne of Eldraine" setShortName="WOC" collectorNumber="28" uuid="9076e13d-d16e-4528-aad0-8b8081b00e8d"/>
+        <card number="1" name="The Eldest Reborn" setShortName="CMM" collectorNumber="867" uuid="06831e80-845d-4bd7-8fdc-8140eb606fe4"/>
+        <card number="1" name="Crux of Fate" setShortName="STA" collectorNumber="25" uuid="f3ccea48-ee90-4da8-832d-8c30c98bf1dd"/>
+        <card number="1" name="Promise of Power" setShortName="PLST" collectorNumber="DDC-54" uuid="ad5c6863-da34-4d5a-8782-ddaf3ccb498f"/>
+        <card number="1" name="Massacre Girl" setShortName="DSC" collectorNumber="146" uuid="59957c45-4672-4650-80b1-70e4a60b429e"/>
+        <card number="1" name="Sheoldred" setShortName="MOM" collectorNumber="125" uuid="bf2249e6-af74-4b88-8eb7-144ce8fa7f6b"/>
+        <card number="1" name="Spreading Plague" setShortName="INV" collectorNumber="125" uuid="ac86055d-ce08-4b05-a92c-45e007ca0ba4"/>
+        <card number="1" name="Breach the Multiverse" setShortName="MOM" collectorNumber="94" uuid="daf51a76-7a57-4462-ae18-a19e817e49e5"/>
+        <card number="1" name="Decree of Pain" setShortName="40K" collectorNumber="198" uuid="458b4f09-7c59-4e72-b37f-f1a69ec0fb05"/>
+        <card number="1" name="Fated Return" setShortName="ZNC" collectorNumber="42" uuid="5d168856-5568-4ee0-942d-78865d2bb1ef"/>
+        <card number="1" name="Necromantic Selection" setShortName="AFC" collectorNumber="103" uuid="d3cec373-0a3f-4628-8706-b7c9c205f150"/>
+        <card number="1" name="Black Sun's Zenith" setShortName="DCI" collectorNumber="68" uuid="dd88131a-2811-4a1f-bb9a-c82e12c1493b"/>
+        <card number="1" name="Caged Sun" setShortName="40K" collectorNumber="231" uuid="e828d87a-f2c7-475b-8c8f-b36474c50cf9"/>
+        <card number="1" name="Exsanguinate" setShortName="CMM" collectorNumber="156" uuid="0a5352af-e275-4186-a265-2fd3c2c47c6a"/>
+        <card number="1" name="Nirkana Revenant" setShortName="VOC" collectorNumber="134" uuid="96da0a4c-2865-4383-875a-9f5d6503baee"/>
+        <card number="23" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="1" name="Cabal Coffers" setShortName="LTC" collectorNumber="360" uuid="a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f"/>
+        <card number="1" name="Cabal Stronghold" setShortName="DOM" collectorNumber="238" uuid="0bda51ef-ee3e-48d4-92e2-c9083bbe0f80"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
+        <card number="1" name="War Room" setShortName="CLB" collectorNumber="929" uuid="ed5cebc0-6a58-468d-a75e-46087ea2eb46"/>
+        <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
+        <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
+        <card number="1" name="Bojuka Bog" setShortName="AFC" collectorNumber="226" uuid="6e1d1e83-c34a-46af-8aec-ff698446099f"/>
+        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="EA2" collectorNumber="24" uuid="920bbc28-1a57-4dc3-86e9-6a491a4afa1e"/>
+        <card number="1" name="High Market" setShortName="AFC" collectorNumber="246" uuid="9d56844f-ee3b-4161-85d2-18b872a9b465"/>
+        <card number="1" name="Come Back Wrong" setShortName="DSK" collectorNumber="86" uuid="72ee3b45-aa4e-4c5b-a9e6-608bfbd93f8b"/>
+        <card number="1" name="Thespian's Stage" setShortName="EA3" collectorNumber="25" uuid="cc67fd50-e74b-4277-8266-740170154dcd"/>
+        <card number="1" name="Greed" setShortName="MH2" collectorNumber="274" uuid="851f8d1f-163c-4c4f-beee-431b64ec8a99"/>
+        <card number="1" name="Netherborn Altar" setShortName="PLST" collectorNumber="C20-45" uuid="f5bee7ce-c5f9-4ea3-ac17-66218d61518a"/>
+        <card number="1" name="Gray Merchant of Asphodel" setShortName="DSC" collectorNumber="142" uuid="00d001d0-fd29-4b7c-9d0e-9131b995f910"/>
+        <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
+        <card number="1" name="Sacrifice" setShortName="30A" collectorNumber="121" uuid="8f067622-edb8-4c52-b2d7-cea1370b9a16"/>
+        <card number="1" name="Undying Malice" setShortName="DBL" collectorNumber="401" uuid="f94218a8-a509-4aa4-9ee3-3a76833e307c"/>
+        <card number="1" name="Strionic Resonator" setShortName="BRC" collectorNumber="165" uuid="56d770bf-a8ad-4817-8342-b0dde94c538a"/>
+        <card number="1" name="Blade of Selves" setShortName="CLB" collectorNumber="301" uuid="ce3367f8-5f5a-4205-909a-247b92a9c082"/>
+        <card number="1" name="The Darkness Crystal" setShortName="FIN" collectorNumber="96" uuid="0f93b6ac-54ce-45d0-8549-19307406e6e5"/>
+        <card number="1" name="Stinging Study" setShortName="C21" collectorNumber="44" uuid="b8840226-1693-44bc-a067-e50198c5e17e"/>
+        <card number="1" name="Mikaeus, the Unhallowed" setShortName="CMM" collectorNumber="173" uuid="bc1f42a2-fe11-45da-9552-069803b4068a"/>
+        <card number="1" name="Drivnod, Carnage Dominus" setShortName="ONE" collectorNumber="90" uuid="6bc26bca-c4d8-4e8b-a96a-9529fc2daed7"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kokusho, the Evening Star" setShortName="SLD" collectorNumber="1528" uuid="154c2d54-6dc2-4350-8cc1-f099c7d13ccc"/>
+    </zone>
+</cockatrice_deck>

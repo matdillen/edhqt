@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 16:51:28 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Satoru Umezawa</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
         <card number="1" name="Satoru Umezawa"/>
     </zone>
@@ -14,14 +17,12 @@
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Otawara, Soaring City"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" name="Takenuma, Abandoned Mire"/>
         <card number="1" name="Diluvian Primordial"/>
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Inkwell Leviathan"/>
         <card number="1" name="Sheoldred, Whispering One"/>
-        <card number="1" name="Darksteel Colossus"/>
         <card number="1" name="Silent-Blade Oni"/>
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Dread"/>
@@ -44,7 +45,6 @@
         <card number="1" name="Dauthi Voidwalker"/>
         <card number="1" name="Order of Midnight // Alter Fate"/>
         <card number="1" name="Dimir Infiltrator"/>
-        <card number="1" name="Smuggler's Copter"/>
         <card number="1" name="Invisible Stalker"/>
         <card number="1" name="Sakashima's Student"/>
         <card number="1" name="Baleful Strix"/>
@@ -75,7 +75,6 @@
         <card number="1" name="Glasspool Mimic"/>
         <card number="1" name="Port of Karfell"/>
         <card number="1" name="Counterspell"/>
-        <card number="1" name="Negate"/>
         <card number="1" name="Gríma, Saruman's Footman"/>
         <card number="1" name="Yuriko, the Tiger's Shadow"/>
         <card number="1" name="The Black Gate"/>
@@ -92,12 +91,16 @@
         <card number="1" name="Gossip's Talent"/>
         <card number="1" name="Silent Hallcreeper"/>
         <card number="1" name="Metamorphosis Fanatic"/>
-        <card number="1" name="Enduring Curiosity"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Ancient Silver Dragon"/>
         <card number="1" name="Escape Tunnel"/>
         <card number="1" name="Minas Morgul, Dark Fortress"/>
         <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Schema Thief"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
+        <card number="1" name="Arcane Heist" setShortName="OTC" collectorNumber="13" uuid="3ceb13f4-ac9e-4ddd-9170-545f8d37b87a"/>
+        <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
+        <card number="1" name="Hraesvelgr of the First Brood" setShortName="FIC" collectorNumber="37" uuid="abcfefe3-c66d-4512-bcc3-c9a39cfbb983"/>
     </zone>
 </cockatrice_deck>

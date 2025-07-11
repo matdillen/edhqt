@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 16:54:12 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Volo, Guide to Monsters</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="side">
         <card number="1" name="Volo, Guide to Monsters"/>
     </zone>
@@ -17,10 +20,8 @@
         <card number="1" name="Beast Within"/>
         <card number="1" name="Mimic Vat"/>
         <card number="1" name="City of Death"/>
-        <card number="1" name="Dutiful Replicator"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Man-o'-War"/>
-        <card number="1" name="Llanowar Tribe"/>
         <card number="1" name="Second Harvest"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Amphin Mutineer"/>
@@ -37,8 +38,6 @@
         <card number="1" name="Bladegriff Prototype"/>
         <card number="1" name="Mind Flayer"/>
         <card number="1" name="Sweet-Gum Recluse"/>
-        <card number="1" name="Frost Titan"/>
-        <card number="1" name="Pathbreaker Ibex"/>
         <card number="1" name="Duplicant"/>
         <card number="1" name="Diluvian Primordial"/>
         <card number="1" name="Craterhoof Behemoth"/>
@@ -97,5 +96,9 @@
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Faerie Artisans"/>
         <card number="1" name="Sea Gate Restoration"/>
+        <card number="1" name="Malanthrope" setShortName="40K" collectorNumber="132" uuid="28d4eb51-a6ec-488a-a79a-ec4676d7af52"/>
+        <card number="1" name="Relm's Sketching" setShortName="FIN" collectorNumber="67" uuid="6aedac12-3714-4a81-bd4d-1d2555c66f78"/>
+        <card number="1" name="Aggressive Biomancy" setShortName="M3C" collectorNumber="69" uuid="24cf121b-c6ad-4425-a2fc-7ce185cd30ef"/>
+        <card number="1" name="Octomancer" setShortName="BLC" collectorNumber="37" uuid="f260197a-0297-4673-96de-dee915d79353"/>
     </zone>
 </cockatrice_deck>

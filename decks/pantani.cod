@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jul 11 16:12:55 2025</lastLoadedTimestamp>
     <deckname></deckname>
+    <bannerCard providerId="">Atla Palani, Nest Tender</bannerCard>
     <comments></comments>
+    <tags/>
     <zone name="main">
         <card number="3" name="Forest"/>
         <card number="2" name="Mountain"/>
@@ -63,7 +66,6 @@
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Gruul Ragebeast"/>
-        <card number="1" name="Zetalpa, Primal Dawn"/>
         <card number="1" name="Worldspine Wurm"/>
         <card number="1" name="Altar of Dementia"/>
         <card number="1" name="Wild Ricochet"/>
@@ -98,6 +100,7 @@
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Overgrown Farmland"/>
+        <card number="1" name="Gisela, Blade of Goldnight" setShortName="CMM" collectorNumber="338" uuid="c40ba800-4423-4fd9-94c7-a9019c857af6"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atla Palani, Nest Tender"/>
