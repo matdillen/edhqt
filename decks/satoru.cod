@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 16:51:28 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Aug 29 13:38:22 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Satoru Umezawa</bannerCard>
     <comments></comments>
@@ -44,7 +44,6 @@
         <card number="1" name="Thada Adel, Acquisitor"/>
         <card number="1" name="Dauthi Voidwalker"/>
         <card number="1" name="Order of Midnight // Alter Fate"/>
-        <card number="1" name="Dimir Infiltrator"/>
         <card number="1" name="Invisible Stalker"/>
         <card number="1" name="Sakashima's Student"/>
         <card number="1" name="Baleful Strix"/>
@@ -102,5 +101,6 @@
         <card number="1" name="Arcane Heist" setShortName="OTC" collectorNumber="13" uuid="3ceb13f4-ac9e-4ddd-9170-545f8d37b87a"/>
         <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
         <card number="1" name="Hraesvelgr of the First Brood" setShortName="FIC" collectorNumber="37" uuid="abcfefe3-c66d-4512-bcc3-c9a39cfbb983"/>
+        <card number="1" name="Archpriest of Shadows" setShortName="MOM" collectorNumber="89" uuid="f5931746-a55c-4528-9e4a-ee15edab3489"/>
     </zone>
 </cockatrice_deck>

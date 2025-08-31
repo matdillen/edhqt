@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 14:35:30 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 20:49:07 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="6e779a16-7528-49f4-8304-502bb603c15b">Bohn, Beguiling Balladeer</bannerCard>
     <comments></comments>
@@ -10,8 +10,8 @@
     </zone>
     <zone name="main">
         <card number="1" name="All Is Dust" setShortName="CMM" collectorNumber="800" uuid="4210c54e-89fd-4971-ab6a-ca8f4e7fe97a"/>
-        <card number="10" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
-        <card number="11" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="8" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="8" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Shatterskull Smashing" setShortName="ZNR" collectorNumber="161" uuid="bc7239ea-f8aa-4a6f-87bd-c35359635673"/>
         <card number="1" name="Mystic Sanctuary" setShortName="MB2" collectorNumber="110" uuid="967a6608-6e5d-40b3-b0c6-2e79b97f10ba"/>
         <card number="1" name="Shivan Reef" setShortName="BLC" collectorNumber="331" uuid="59d5e76c-4961-4dbf-be38-a18a2c16d33f"/>
@@ -27,18 +27,14 @@
         <card number="1" name="Izzet Signet" setShortName="BLC" collectorNumber="278" uuid="a39b4b15-cd3e-4d30-8de2-8e584524d018"/>
         <card number="1" name="Brazen Borrower // Petty Theft" setShortName="PLST" collectorNumber="ELD-281" uuid="112e1809-4323-48bc-afa1-13cc7ba6a3b5"/>
         <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
-        <card number="1" name="Snapcaster Mage" setShortName="INR" collectorNumber="478" uuid="22b36ad5-bf4d-436a-9c3c-fa4acd0052fe"/>
         <card number="1" name="Return the Favor" setShortName="OTJ" collectorNumber="142" uuid="a9cc02d1-799d-42aa-9bc2-4c05452b63b4"/>
         <card number="1" name="Delayed Blast Fireball" setShortName="CLB" collectorNumber="630" uuid="400c76c6-f677-4e7e-87ad-2e526d4b498a"/>
-        <card number="1" name="Phyrexian Dragon Engine" setShortName="BRO" collectorNumber="163a" uuid="e2b826be-4256-4fd6-ad4d-6c80933ee940"/>
         <card number="1" name="The Mirari Conjecture" setShortName="PLST" collectorNumber="DOM-57" uuid="18ee3a98-0254-4fe9-ba6b-94eb9266ac70"/>
         <card number="1" name="Unwind" setShortName="DOM" collectorNumber="72" uuid="97da6607-9131-4f8b-8af3-63439a59b78b"/>
-        <card number="1" name="Imprisoned in the Moon" setShortName="AFC" collectorNumber="85" uuid="1d916675-1e7e-477f-bbb5-bd54fdfd8159"/>
         <card number="1" name="Supreme Will" setShortName="GN3" collectorNumber="40" uuid="fe64b0a3-ab59-44c5-84d0-0647a0572d5d"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Grab the Reins" setShortName="PLST" collectorNumber="MRD-95" uuid="be4fff3d-4267-404f-a62f-744fa396af17"/>
         <card number="1" name="Unexpected Windfall" setShortName="AFR" collectorNumber="164" uuid="bae6a5fb-39f5-4cf8-85f7-661cb4570507"/>
-        <card number="1" name="Mindsplice Apparatus" setShortName="ONE" collectorNumber="63" uuid="7f4ad1cb-4bbb-4485-b322-0b003f06d034"/>
         <card number="1" name="Inscription of Insight" setShortName="ZNR" collectorNumber="61" uuid="281cdb1c-21ae-4430-8e0f-c993f52ba891"/>
         <card number="1" name="Voracious Bibliophile" setShortName="TDC" collectorNumber="23" uuid="77d2c30b-3130-4d9d-bd3d-484fe6dc306d"/>
         <card number="1" name="Wild Ricochet" setShortName="SCD" collectorNumber="169" uuid="ecbe8717-07a1-4145-9cd4-b98b145c2d4c"/>
@@ -69,7 +65,6 @@
         <card number="1" name="Portal to Phyrexia" setShortName="BRO" collectorNumber="240" uuid="5f608efc-0dbc-4cc3-aadd-ed473bfc29ab"/>
         <card number="1" name="Starstorm" setShortName="40K" collectorNumber="208" uuid="b45264cb-67d0-4dfb-9229-61c4e90c760a"/>
         <card number="1" name="Draining Whelk" setShortName="TSR" collectorNumber="62" uuid="51eca246-591e-4ea8-8432-9f4c1f16a65e"/>
-        <card number="1" name="Quistis Trepe" setShortName="FIN" collectorNumber="66" uuid="61784cbd-92e9-43c7-a1a8-4004b1bf4dae"/>
         <card number="1" name="Cosmos Charger" setShortName="KHM" collectorNumber="51" uuid="4ec318c6-b718-436f-b9e8-e0c6154e5010"/>
         <card number="1" name="Etali, Primal Storm" setShortName="AFC" collectorNumber="126" uuid="5ed1070d-fc21-4f4c-8e6e-5e4a2e6e2dce"/>
         <card number="1" name="Ovika, Enigma Goliath" setShortName="FDN" collectorNumber="663" uuid="54819d7a-eec6-49e6-a0bb-d9d07d42b4a6"/>
@@ -85,9 +80,19 @@
         <card number="1" name="Mana Geyser" setShortName="GN3" collectorNumber="84" uuid="fd805298-9dbf-4294-a0f9-b3532167c341"/>
         <card number="1" name="Ultimate Magic: Meteor" setShortName="FIC" collectorNumber="62" uuid="b5b0f0fd-574a-4ae7-ab55-b815112d6b3a"/>
         <card number="1" name="Nalfeshnee" setShortName="CLB" collectorNumber="632" uuid="58e3b25f-beb1-4688-8b14-be597b9aee81"/>
-        <card number="1" name="Urabrask" setShortName="MOM" collectorNumber="169" uuid="712fb9e5-bd67-4173-a2d4-061aeb6253b5"/>
         <card number="1" name="Eris, Roar of the Storm" setShortName="OTC" collectorNumber="5" uuid="1adce281-4d5a-44d2-8cfa-25f860b015ff"/>
         <card number="1" name="Pinnacle Monk" setShortName="MH3" collectorNumber="246" uuid="24d4f26e-7f96-4b38-867e-4fac819b2679"/>
         <card number="1" name="Hydroelectric Specimen" setShortName="MH3" collectorNumber="240" uuid="8689ecd7-e9a6-458b-99d2-6dbaca527f00"/>
+        <card number="1" name="Spiteful Banditry" setShortName="LTR" collectorNumber="149" uuid="e85a82bc-49f3-4694-b688-808a541146db"/>
+        <card number="1" name="Megaton's Fate" setShortName="PIP" collectorNumber="61" uuid="e8492127-888d-4da0-b49f-fba6a356b0a9"/>
+        <card number="1" name="See the Truth" setShortName="M21" collectorNumber="69" uuid="91af15cc-fdd5-4d72-a53a-314fa5353527"/>
+        <card number="1" name="Phial of Galadriel" setShortName="LTR" collectorNumber="248" uuid="ac6d60fe-681b-495e-813c-c8418f3f29e5"/>
+        <card number="1" name="Midnight Clock" setShortName="CLB" collectorNumber="727" uuid="72ca85ed-3870-4ba4-abe7-cdcab3cad122"/>
+        <card number="1" name="Misleading Signpost" setShortName="WOC" collectorNumber="11" uuid="c15dfe35-c570-4aaf-b82d-270c15464fe2"/>
+        <card number="1" name="Cori Mountain Monastery" setShortName="PTDM" collectorNumber="252p" uuid="9aa63bba-16c5-4330-8afb-7bc4029b13a6"/>
+        <card number="1" name="Mistrise Village" setShortName="PTDM" collectorNumber="261p" uuid="52f7e36c-87fb-4145-a5ca-6df7f55b3f1e"/>
+        <card number="1" name="Scalding Tarn" setShortName="MH2" collectorNumber="254" uuid="71e491c5-8c07-449b-b2f1-ffa052e6d311"/>
+        <card number="1" name="Stormcarved Coast" setShortName="DBL" collectorNumber="532" uuid="133c1ed0-9fd4-43ae-a32f-f0b4be50ed66"/>
+        <card number="1" name="Sulfur Falls" setShortName="BLC" collectorNumber="333" uuid="1db63651-5241-4eee-982e-5fa19db87179"/>
     </zone>
 </cockatrice_deck>

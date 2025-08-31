@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 14:15:04 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 21:08:34 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Gyome, Master Chef</bannerCard>
     <comments></comments>
@@ -14,7 +14,6 @@
         <card number="1" name="Cauldron Familiar"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Reassembling Skeleton"/>
-        <card number="1" name="Reckless Imp"/>
         <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Academy Manufactor"/>
         <card number="1" name="Eternal Witness"/>
@@ -101,5 +100,6 @@
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Afterlife from the Loam"/>
         <card number="1" name="Rejoin the Fight" setShortName="FIC" collectorNumber="49" uuid="f3140950-1ce2-41b8-91f9-da53bfbee963"/>
+        <card number="1" name="Timeline Culler" setShortName="EOE" collectorNumber="121" uuid="33410410-72f2-49c4-9e63-a72202cd075a"/>
     </zone>
 </cockatrice_deck>

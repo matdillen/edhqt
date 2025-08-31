@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 16:58:26 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 20:39:37 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
     <comments></comments>
@@ -17,11 +17,9 @@
         <card number="1" name="Tarrian's Journal" setShortName="LCI" collectorNumber="126" uuid="99255a66-b868-45fc-a2a9-0c89bd851b69"/>
         <card number="1" name="Nasty End" setShortName="LTR" collectorNumber="99" uuid="c34f88d7-15a1-434f-88d7-3d4fcf406d54"/>
         <card number="1" name="Deadly Dispute" setShortName="AFR" collectorNumber="94" uuid="7373fe95-ad1c-44b9-8c7f-464ce8cbffc6"/>
-        <card number="1" name="Culling Dais" setShortName="2XM" collectorNumber="246" uuid="54dc8c2a-928d-465e-8f76-82a90cc66854"/>
         <card number="1" name="Spawning Pit" setShortName="J22" collectorNumber="136" uuid="d1f1ece0-83be-4f46-8c17-3fb0af900b7a"/>
         <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
         <card number="1" name="Consuming Corruption" setShortName="MH3" collectorNumber="84" uuid="9068b3a4-9130-42d8-a26b-52010b7daa8b"/>
-        <card number="1" name="Feed the Swarm" setShortName="BRC" collectorNumber="106" uuid="7d95a0e0-d609-451b-b045-85990eede219"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
         <card number="1" name="Saw in Half" setShortName="BLC" collectorNumber="113" uuid="90f8de01-c1bd-4533-9e98-61e7d25dcf88"/>
         <card number="1" name="Attrition" setShortName="MP2" collectorNumber="19" uuid="948bcca4-6e7a-4884-82f8-21926db8bdd5"/>
@@ -29,8 +27,6 @@
         <card number="1" name="Oblivion Stone" setShortName="BRC" collectorNumber="153" uuid="e8b06a3d-897e-423e-bae6-9bf21beb2aa5"/>
         <card number="1" name="Toxic Deluge" setShortName="CC2" collectorNumber="6" uuid="db34617f-b04f-4b65-84cf-5c5be1eb7226"/>
         <card number="1" name="Phyrexian Arena" setShortName="CC2" collectorNumber="4" uuid="b4142d3b-9c17-4a26-949e-3fc3e600fd1c"/>
-        <card number="1" name="Murderous Rider // Swift End" setShortName="DRC" collectorNumber="45" uuid="67ea8e53-aa22-42d1-bca4-64b0b0f0bbdb"/>
-        <card number="1" name="Phyrexian Altar" setShortName="2X2" collectorNumber="311" uuid="95d9f93c-50a8-41a9-be98-d1900bf1c12f"/>
         <card number="1" name="Black Market Connections" setShortName="ACR" collectorNumber="87" uuid="9bac8176-d0db-4397-820d-acbdd3264377"/>
         <card number="1" name="Solemn Simulacrum" setShortName="AFC" collectorNumber="216" uuid="71ec1e1d-8c7b-40e9-b916-440f8acf3ea5"/>
         <card number="1" name="Crypt Ghast" setShortName="DSC" collectorNumber="368" uuid="060c12ee-65b0-48d3-82d0-fdb5e27097a8"/>
@@ -38,9 +34,7 @@
         <card number="1" name="Korlash, Heir to Blackblade" setShortName="PLST" collectorNumber="FUT-87" uuid="79809fe9-b170-46bf-b67c-c06da4e196ea"/>
         <card number="1" name="Nyx Lotus" setShortName="THB" collectorNumber="235" uuid="5bd6353f-d119-40e6-895c-030a11a7a2fe"/>
         <card number="1" name="Scavenger Regent" setShortName="TDM" collectorNumber="90" uuid="0d4b46a3-847a-44a7-9f68-2cb4657cad61"/>
-        <card number="1" name="Nightmare Lash" setShortName="MRD" collectorNumber="219" uuid="7f8e3fa6-494c-412f-90cc-36d45cd2b175"/>
         <card number="1" name="Lashwrithe" setShortName="C14" collectorNumber="245" uuid="de21d433-5c2c-49c0-80d1-bf6e8471f9d4"/>
-        <card number="1" name="Tendrils of Corruption" setShortName="PLST" collectorNumber="C14-166" uuid="16344025-1a71-4a97-88ee-1ec4437f2089"/>
         <card number="1" name="Night of Souls' Betrayal" setShortName="HA6" collectorNumber="4" uuid="015f8c38-5d0e-4bdb-a705-24313dcece99"/>
         <card number="1" name="Canoptek Tomb Sentinel" setShortName="40K" collectorNumber="152" uuid="aec9ba42-4c58-4e40-a8c5-63da81c44616"/>
         <card number="1" name="Beacon of Unrest" setShortName="40K" collectorNumber="194" uuid="e313ae8b-f77b-47a4-9202-305bf6deb3dc"/>
@@ -57,7 +51,6 @@
         <card number="1" name="Necromantic Selection" setShortName="AFC" collectorNumber="103" uuid="d3cec373-0a3f-4628-8706-b7c9c205f150"/>
         <card number="1" name="Black Sun's Zenith" setShortName="DCI" collectorNumber="68" uuid="dd88131a-2811-4a1f-bb9a-c82e12c1493b"/>
         <card number="1" name="Caged Sun" setShortName="40K" collectorNumber="231" uuid="e828d87a-f2c7-475b-8c8f-b36474c50cf9"/>
-        <card number="1" name="Exsanguinate" setShortName="CMM" collectorNumber="156" uuid="0a5352af-e275-4186-a265-2fd3c2c47c6a"/>
         <card number="1" name="Nirkana Revenant" setShortName="VOC" collectorNumber="134" uuid="96da0a4c-2865-4383-875a-9f5d6503baee"/>
         <card number="23" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Cabal Coffers" setShortName="LTC" collectorNumber="360" uuid="a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f"/>
@@ -83,6 +76,13 @@
         <card number="1" name="Stinging Study" setShortName="C21" collectorNumber="44" uuid="b8840226-1693-44bc-a067-e50198c5e17e"/>
         <card number="1" name="Mikaeus, the Unhallowed" setShortName="CMM" collectorNumber="173" uuid="bc1f42a2-fe11-45da-9552-069803b4068a"/>
         <card number="1" name="Drivnod, Carnage Dominus" setShortName="ONE" collectorNumber="90" uuid="6bc26bca-c4d8-4e8b-a96a-9529fc2daed7"/>
+        <card number="1" name="Summon: Bahamut" setShortName="FIN" collectorNumber="1" uuid="95318d85-4a08-47ac-a43d-ea83c0bea81c"/>
+        <card number="1" name="Will of the Abzan" setShortName="TDC" collectorNumber="31" uuid="e7e92b6b-ec63-477b-8a83-18c0e52615cc"/>
+        <card number="1" name="Zero Point Ballad" setShortName="EOE" collectorNumber="128" uuid="59cf9f4d-54cd-4cda-9726-65e16100ab46"/>
+        <card number="1" name="The Soul Stone" setShortName="SPM" collectorNumber="66" uuid="1982f910-a9bd-4e94-a187-84381b22aacc"/>
+        <card number="1" name="Colossus of Akros" setShortName="THS" collectorNumber="214" uuid="3e394ffe-7460-4c59-a403-e9404b0d10c1"/>
+        <card number="1" name="Witch-king of Angmar" setShortName="LTR" collectorNumber="114" uuid="a55e6508-0b59-4573-bc4e-67b27279cfed"/>
+        <card number="1" name="Zodiark, Umbral God" setShortName="FIN" collectorNumber="128" uuid="9ba292d5-5139-42ea-950d-0a638445277f"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kokusho, the Evening Star" setShortName="SLD" collectorNumber="1528" uuid="154c2d54-6dc2-4350-8cc1-f099c7d13ccc"/>

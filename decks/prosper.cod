@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 16:39:27 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 21:37:05 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Prosper, Tome-Bound</bannerCard>
     <comments></comments>
@@ -47,7 +47,6 @@
         <card number="1" name="Inspired Tinkering"/>
         <card number="1" name="Kami of Celebration"/>
         <card number="1" name="Knowledge Pool"/>
-        <card number="1" name="Oblivion Sower"/>
         <card number="1" name="Aurora Phoenix"/>
         <card number="1" name="Hedonist's Trove"/>
         <card number="1" name="Trumpeting Carnosaur"/>
@@ -91,5 +90,6 @@
         <card number="1" name="Evereth, Viceroy of Plunder"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Kefka, Dancing Mad" setShortName="FIC" collectorNumber="84" uuid="21cfc161-11b8-4253-a872-3b08a13b6991"/>
     </zone>
 </cockatrice_deck>

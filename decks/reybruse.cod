@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 16:19:35 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 21:25:45 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
@@ -32,14 +32,12 @@
         <card number="1" name="Silkguard"/>
         <card number="1" name="Sarulf, Realm Eater"/>
         <card number="1" name="Captured by Lagacs"/>
-        <card number="1" name="Abzan Falconer"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Corpsejack Menace"/>
         <card number="1" name="Crystalline Crawler"/>
         <card number="1" name="Etched Oracle"/>
         <card number="1" name="Mindless Automaton"/>
-        <card number="1" name="Bright-Palm, Soul Awakener"/>
         <card number="1" name="Barrensteppe Siege"/>
         <card number="1" name="One with the Kami"/>
         <card number="1" name="Deathbringer Thoctar"/>
@@ -76,7 +74,6 @@
         <card number="1" name="Revitalizing Repast"/>
         <card number="1" name="Stocking the Pantry"/>
         <card number="1" name="The Ozolith"/>
-        <card number="1" name="Requisition Raid"/>
         <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Innkeeper's Talent"/>
         <card number="1" name="Incubation Druid"/>
@@ -89,8 +86,6 @@
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Felisa, Fang of Silverquill"/>
         <card number="1" name="Atomize"/>
-        <card number="1" name="Annie Joins Up"/>
-        <card number="1" name="Bone Devourer"/>
         <card number="1" name="Halana and Alena, Partners"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="All Will Be One"/>
@@ -109,5 +104,10 @@
         <card number="1" name="Stomping Ground" setShortName="CLU" collectorNumber="281" uuid="3c54b71a-f4cb-4418-b886-5253151ad36a"/>
         <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
         <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
+        <card number="1" name="Patrolling Peacemaker" setShortName="EOC" collectorNumber="5" uuid="1e06d6be-c2a3-4c73-a916-89674c0ddfed"/>
+        <card number="1" name="Terrasymbiosis" setShortName="EOE" collectorNumber="210" uuid="26008c7d-5dbe-4da2-b475-4dd307e7bc68"/>
+        <card number="1" name="Ouroboroid" setShortName="EOE" collectorNumber="201" uuid="209c591a-4ab2-4e89-9523-a7b766cf4e51"/>
+        <card number="1" name="Agonasaur Rex" setShortName="DFT" collectorNumber="151" uuid="5b11ec26-9e07-45e1-bcaa-5d44d1231586"/>
+        <card number="1" name="Bulwark Ox" setShortName="DFT" collectorNumber="7" uuid="106944b2-f3ae-4350-be33-61b9f92fc92f"/>
     </zone>
 </cockatrice_deck>

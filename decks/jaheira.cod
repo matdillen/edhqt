@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 15:06:05 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 21:38:00 2025</lastLoadedTimestamp>
     <deckname>jaheira</deckname>
     <bannerCard providerId="">Jaheira, Friend of the Forest</bannerCard>
     <comments></comments>
@@ -44,7 +44,7 @@
         <card number="1" name="Gaea's Cradle"/>
         <card number="1" name="Boseiju, Who Endures"/>
         <card number="6" name="Plains"/>
-        <card number="6" name="Forest"/>
+        <card number="5" name="Forest"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Expel the Interlopers"/>
         <card number="1" name="Cathars' Crusade"/>
@@ -64,7 +64,6 @@
         <card number="1" name="Farmer Cotton"/>
         <card number="1" name="White Sun's Twilight"/>
         <card number="1" name="Conqueror's Pledge"/>
-        <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Three Tree City"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Moonshaker Cavalry"/>
@@ -99,5 +98,7 @@
         <card number="1" name="Champions from Beyond" setShortName="FIC" collectorNumber="11" uuid="d1031ce5-063f-4c38-a6a9-abc15d254dfc"/>
         <card number="1" name="Diamond City" setShortName="PIP" collectorNumber="147" uuid="3e9bd49a-e9f1-4543-b04a-777a9e5a55ec"/>
         <card number="1" name="Kabira Takedown" setShortName="PIO" collectorNumber="19" uuid="deeb3dc0-49c4-4699-9125-00520235d370"/>
+        <card number="1" name="Exalted Sunborn" setShortName="EOE" collectorNumber="15" uuid="7e1fe101-f634-41e5-9aa4-e8d7474535dc"/>
+        <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
     </zone>
 </cockatrice_deck>

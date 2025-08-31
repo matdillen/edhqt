@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 14:26:19 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 20:30:50 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -59,7 +59,6 @@
         <card number="1" name="Firbolg Flutist"/>
         <card number="1" name="Display of Power"/>
         <card number="1" name="Panharmonicon"/>
-        <card number="1" name="Charming Scoundrel"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Nykthos, Shrine to Nyx"/>
@@ -77,7 +76,6 @@
         <card number="1" name="Fountainport"/>
         <card number="1" name="Molten Primordial"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Echoing Assault"/>
         <card number="1" name="Ghired's Belligerence"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of the False God"/>
@@ -85,5 +83,7 @@
         <card number="1" name="Sceptre of Eternal Glory"/>
         <card number="1" name="Audacious Swap"/>
         <card number="1" name="Clive, Ifrit's Dominant" setShortName="FIN" collectorNumber="458" uuid="cdf7fb4a-acb5-4fae-a44c-c437e5b82ec4"/>
+        <card number="1" name="Anticausal Vestige" setShortName="EOE" collectorNumber="1" uuid="35372b69-6086-44e0-9f7c-681e362e5142"/>
+        <card number="1" name="Dauntless Scrapbot" setShortName="EOE" collectorNumber="237" uuid="0efe5342-42b7-4f49-b4b4-d77055508c4d"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 14:31:31 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 20:31:47 2025</lastLoadedTimestamp>
     <deckname>wayta</deckname>
     <bannerCard providerId="">Wayta, Trainer Prodigy</bannerCard>
     <comments></comments>
@@ -59,7 +59,6 @@
         <card number="1" name="Ill-Tempered Loner"/>
         <card number="1" name="Blazing Sunsteel"/>
         <card number="1" name="Pariah"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Spitemare"/>
@@ -103,5 +102,6 @@
         <card number="1" name="Neyith of the Dire Hunt"/>
         <card number="1" name="Druid's Call"/>
         <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Pain for All" setShortName="EOE" collectorNumber="151" uuid="d2948913-817b-4715-92d5-ed3cde347be7"/>
     </zone>
 </cockatrice_deck>

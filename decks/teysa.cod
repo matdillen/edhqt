@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 20:48:03 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -83,7 +83,6 @@
         <card number="1" name="Woe Strider"/>
         <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Illustrious Wanderglyph"/>
-        <card number="1" name="Marionette Apprentice"/>
         <card number="1" name="Agadeem's Awakening"/>
         <card number="1" name="Warren Soultrader"/>
         <card number="1" name="Grim Haruspex"/>
@@ -96,6 +95,7 @@
         <card number="1" name="Valkyrie's Call"/>
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Land Tax"/>
+        <card number="1" name="Sothera, the Supervoid" setShortName="EOE" collectorNumber="115" uuid="e99d6fc0-dcf2-4b25-81c2-02c230a36246"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

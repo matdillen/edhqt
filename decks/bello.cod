@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Aug 31 22:01:58 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="10" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="10" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="1" name="Stomping Ground" setShortName="CLU" collectorNumber="281" uuid="3c54b71a-f4cb-4418-b886-5253151ad36a"/>
+        <card number="1" name="Rockfall Vale" setShortName="DBL" collectorNumber="266" uuid="a77ede1d-e9b0-4828-a161-04b787be0c81"/>
+        <card number="1" name="Wooded Foothills" setShortName="MH3" collectorNumber="236" uuid="4e11ea8a-f895-438d-a3b7-f070238e4161"/>
+        <card number="1" name="Karplusan Forest" setShortName="BLC" collectorNumber="314" uuid="bf999ad0-ec64-4bbc-b0c3-fc0946cf65de"/>
+        <card number="1" name="Game Trail" setShortName="40K" collectorNumber="282" uuid="f2777ccc-342d-4a1a-8566-94810decee11"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Rogue's Passage" setShortName="CLB" collectorNumber="913" uuid="e1f1dd27-be41-4bfa-b59d-3a002647f1ad"/>
+        <card number="1" name="Buried Ruin" setShortName="BRC" collectorNumber="177" uuid="34e53bc3-f8af-4547-a694-d01c18bf56c1"/>
+        <card number="1" name="Skarrg, the Rage Pits" setShortName="PLST" collectorNumber="PCA-127" uuid="a753ddca-78e0-4e58-a8be-abec6c1183f9"/>
+        <card number="1" name="Kessig Wolf Run" setShortName="CLB" collectorNumber="898" uuid="814e1393-34e1-4a31-98c5-97a3290a105b"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Shatterskull Smashing" setShortName="ZNR" collectorNumber="161" uuid="bc7239ea-f8aa-4a6f-87bd-c35359635673"/>
+        <card number="1" name="Sokenzan, Crucible of Defiance" setShortName="NEO" collectorNumber="276" uuid="aa548dcd-c1dd-492d-a69f-c65dfeef0633"/>
+        <card number="1" name="Yavimaya, Cradle of Growth" setShortName="LTC" collectorNumber="377" uuid="f442758d-4fee-43fa-a2cb-d09c326da149"/>
+        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
+        <card number="1" name="Tempt with Discovery" setShortName="BLC" collectorNumber="124" uuid="580bbd5b-795e-41fe-b061-579c42218670"/>
+        <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
+        <card number="1" name="Beast Within" setShortName="AFC" collectorNumber="152" uuid="6dc4dfa3-527f-4401-bc76-32d81e9f6ef1"/>
+        <card number="1" name="Titania's Song" setShortName="ME4" collectorNumber="170" uuid="4bb135e7-f9e3-4abc-8374-180316498fc3"/>
+        <card number="1" name="Relentless Assault" setShortName="MB2" collectorNumber="132" uuid="867b1839-1632-45e1-99fa-a85e65003414"/>
+        <card number="1" name="Elemental Bond" setShortName="PLST" collectorNumber="ORI-174" uuid="582e4fed-c79d-4e65-aec1-1b6f78b4e7e0"/>
+        <card number="1" name="Smoke" setShortName="30A" collectorNumber="171" uuid="e2114804-d081-4a50-91df-932c281bc171"/>
+        <card number="1" name="Nature's Lore" setShortName="AFC" collectorNumber="164" uuid="a2a64307-b0ab-4f28-ad37-47d8b4c8b882"/>
+        <card number="1" name="Sakura-Tribe Elder" setShortName="BLC" collectorNumber="236" uuid="3696297a-b068-4e89-a62c-6cd5ad437618"/>
+        <card number="1" name="Up the Beanstalk" setShortName="WOE" collectorNumber="195" uuid="2d5e991f-23b2-4db0-a452-7755125b1fd2"/>
+        <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
+        <card number="1" name="Fog" setShortName="30A" collectorNumber="189" uuid="9e295859-c5b3-41e4-a714-31f1b91d4280"/>
+        <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
+        <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
+        <card number="1" name="Obscuring Haze" setShortName="CMM" collectorNumber="308" uuid="21c8e59c-edf1-4b4d-982d-3c891e7b96ba"/>
+        <card number="1" name="Arachnogenesis" setShortName="CMM" collectorNumber="272" uuid="ef6b1fd8-7c0b-4736-a100-cabd82052227"/>
+        <card number="1" name="Ensnaring Bridge" setShortName="LTC" collectorNumber="350" uuid="1b251eca-06c2-4609-aaed-a88711ef6a45"/>
+        <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
+        <card number="1" name="Outcaster Trailblazer" setShortName="OTJ" collectorNumber="173" uuid="33b9cd6c-d75c-4905-aa38-ff03a9c4b398"/>
+        <card number="1" name="Mirage Mirror" setShortName="CMM" collectorNumber="962" uuid="cb1252c2-b951-4125-93a2-9282b607b6a4"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
+        <card number="1" name="Arasta of the Endless Web" setShortName="BLC" collectorNumber="205" uuid="6dda8d6b-fd31-4908-a953-20c180a33e56"/>
+        <card number="1" name="Fade from History" setShortName="BRO" collectorNumber="177" uuid="71f13f67-e852-4a6a-8f32-b16195e53ec3"/>
+        <card number="1" name="Audacious Swap" setShortName="NCC" collectorNumber="44" uuid="816cb69f-8c9f-4a1e-90d4-8c304501876c"/>
+        <card number="1" name="RMS Titanic" setShortName="WHO" collectorNumber="93" uuid="3f5bcf60-f956-4e0d-beb7-a7f5c1c83692"/>
+        <card number="1" name="Purphoros, God of the Forge" setShortName="CMM" collectorNumber="246" uuid="4736a2c4-c89c-48db-a104-6303e7e2eee8"/>
+        <card number="1" name="Blood Mist" setShortName="INR" collectorNumber="143" uuid="2c01ef93-f41a-406f-91fc-f015b6014575"/>
+        <card number="1" name="Thran Dynamo" setShortName="BLC" collectorNumber="290" uuid="6455b185-aa5e-45e1-951e-f6eef517daf2"/>
+        <card number="1" name="Conduit of Worlds" setShortName="ONE" collectorNumber="163" uuid="635146da-d415-4107-a7f9-2c46189e5c52"/>
+        <card number="1" name="Case of the Locked Hothouse" setShortName="MKM" collectorNumber="155" uuid="0929a1bd-e35c-4ca5-8c8c-dd304cf4b830"/>
+        <card number="1" name="Guardian Project" setShortName="PIP" collectorNumber="199" uuid="4e1b0ed2-dc94-471d-9ea4-1a17f3cbb81a"/>
+        <card number="1" name="Gruul War Chant" setShortName="PLST" collectorNumber="DGM-75" uuid="d474c8f5-0229-4dcb-9a59-3390e9fe30e9"/>
+        <card number="1" name="Hedron Archive" setShortName="40K" collectorNumber="240" uuid="2feb16d2-7406-45ab-9595-e6c48fc47bf5"/>
+        <card number="1" name="Nevinyrral's Disk" setShortName="30A" collectorNumber="263" uuid="751aa8f7-e9b1-41d5-bced-25f3ccf00275"/>
+        <card number="1" name="Midnight Crusader Shuttle" setShortName="WHO" collectorNumber="179" uuid="0a8dcf01-8e2c-439c-81c4-650dd01ecb65"/>
+        <card number="1" name="Soratami Cloud Chariot" setShortName="SOK" collectorNumber="160" uuid="25e6129a-fa5c-4e27-a4d4-cbde7392164b"/>
+        <card number="1" name="Asceticism" setShortName="LTC" collectorNumber="233" uuid="bde335c5-0e87-43c9-bef6-423e4d1caf35"/>
+        <card number="1" name="Shamanic Revelation" setShortName="AFC" collectorNumber="171" uuid="22d99567-8b8a-45cf-85f9-233e97256194"/>
+        <card number="1" name="Berserkers' Onslaught" setShortName="BLC" collectorNumber="192" uuid="83c64ec3-ad6d-45d8-a44a-fd557d1ad2bf"/>
+        <card number="1" name="Kazuul, Tyrant of the Cliffs" setShortName="CLB" collectorNumber="800" uuid="4ce569cd-964e-44d6-a155-5a853ccc1478"/>
+        <card number="1" name="Burn Down the House" setShortName="DBL" collectorNumber="131" uuid="4b73cbec-3c03-453f-903e-9a948cd40a8b"/>
+        <card number="1" name="Gratuitous Violence" setShortName="AFC" collectorNumber="127" uuid="73a5760c-e412-4bb4-b176-cfd0e8fc8f95"/>
+        <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
+        <card number="1" name="Jaheira's Respite" setShortName="CLB" collectorNumber="238" uuid="04ce0b01-7b52-4cb9-86ea-13395cf52312"/>
+        <card number="1" name="Alhammarret's Archive" setShortName="PLST" collectorNumber="ORI-221" uuid="810c91b8-6b2f-469f-8fd1-568885178c9b"/>
+        <card number="1" name="Mind's Eye" setShortName="BRR" collectorNumber="33" uuid="1a563a5d-2619-445c-b72e-d588e82e0900"/>
+        <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
+        <card number="1" name="Subterranean Tremors" setShortName="PZ2" collectorNumber="30" uuid="0a61707a-9952-4304-ad72-521194e410d8"/>
+        <card number="1" name="Wildsear, Scouring Maw" setShortName="BLC" collectorNumber="8" uuid="48494ef9-5eb3-4b55-ad1d-b32bbed89ca5"/>
+        <card number="1" name="Glorious Sunrise" setShortName="DBL" collectorNumber="467" uuid="3b1f7506-fe59-4901-98a2-131e0d3a54cd"/>
+        <card number="1" name="Incite Rebellion" setShortName="CM2" collectorNumber="108" uuid="3633c759-f86a-436d-b54d-0d6c9ef14b63"/>
+        <card number="1" name="Reckless Endeavor" setShortName="AFC" collectorNumber="33" uuid="ba98a4bd-e217-4dba-aee9-315b4f843cdf"/>
+        <card number="1" name="Haphazard Bombardment" setShortName="DOM" collectorNumber="131" uuid="e558a5bd-e8f9-477f-a514-1bf0708f4e9e"/>
+        <card number="1" name="Full Throttle" setShortName="DFT" collectorNumber="127" uuid="d91f7cad-89e8-45cb-a78e-b35b0ee64783"/>
+        <card number="1" name="Warstorm Surge" setShortName="40K" collectorNumber="209" uuid="1706ca09-1fdb-47d5-b31b-b4637a0ef5da"/>
+        <card number="1" name="Rage Reflection" setShortName="PLST" collectorNumber="SHM-104" uuid="84ef99c0-1a33-473a-80ff-bfe5544e7784"/>
+        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
+        <card number="1" name="Demolisher Spawn" setShortName="DSC" collectorNumber="31" uuid="16b97600-e4cf-4b9e-8f2d-2eb74298eb54"/>
+        <card number="1" name="Bane of Progress" setShortName="FIC" collectorNumber="299" uuid="5fc6876d-7441-42ac-b9a1-c10a0f6a387a"/>
+        <card number="1" name="Praetor's Counsel" setShortName="PLST" collectorNumber="C14-209" uuid="08baf0e0-5b9d-43a6-a2ff-e5d504e81025"/>
+        <card number="1" name="Sight of the Scalelords" setShortName="DTK" collectorNumber="207" uuid="b5921758-4e21-4d34-8cf7-b0205d4b0912"/>
+        <card number="1" name="Rishkar's Expertise" setShortName="AFC" collectorNumber="170" uuid="525e605c-5579-4524-9d7b-f7edac4e4d96"/>
+        <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
+        <card number="1" name="Blessed Respite" setShortName="MH2" collectorNumber="150" uuid="2217881d-26dc-44c0-81d8-8c78c44bc5f0"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bello, Bard of the Brambles" setShortName="BLC" collectorNumber="1" uuid="31e4b7a1-b377-49d2-a92e-4bcb0db35f16"/>
+    </zone>
+</cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 15:24:48 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Aug 31 21:58:53 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="be219928-3d0e-4d00-b124-152ce8a8c13b">Delney, Streetwise Lookout</bannerCard>
     <comments></comments>
@@ -24,7 +24,6 @@
         <card number="1" name="Charming Prince" setShortName="FDN" collectorNumber="568" uuid="aa7b47e1-7e32-4f2f-aecf-bac7ca197081"/>
         <card number="1" name="Dawnbringer Cleric" setShortName="AFR" collectorNumber="9" uuid="c00856f7-fef5-4ba5-9079-59a81d452c82"/>
         <card number="1" name="Darksteel Mutation" setShortName="CMM" collectorNumber="21" uuid="e47a6750-4fdd-44e2-86ae-5bc4d414bf42"/>
-        <card number="1" name="Brought Back" setShortName="PLST" collectorNumber="M20-9" uuid="40fd5347-c0ac-4b4a-b65b-34bfb737c5a9"/>
         <card number="1" name="Luminarch Aspirant" setShortName="NCC" collectorNumber="205" uuid="dcd27fa3-f6b6-4137-9b6c-4cba7187664c"/>
         <card number="1" name="Lion Sash" setShortName="NEO" collectorNumber="26" uuid="3e1766e9-2fa7-4446-a255-7beea1467ece"/>
         <card number="1" name="Anafenza, Kin-Tree Spirit" setShortName="CMM" collectorNumber="11" uuid="1717da7b-9e87-4694-873b-abd4e3bcd5e2"/>
@@ -60,7 +59,6 @@
         <card number="1" name="Teshar, Ancestor's Apostle" setShortName="BRC" collectorNumber="77" uuid="31b96ec5-065e-41a8-9383-2b86888f4405"/>
         <card number="1" name="Mangara, the Diplomat" setShortName="BLC" collectorNumber="145" uuid="26f0d639-9d7f-4a90-bbfd-f942bd59a89b"/>
         <card number="1" name="Panharmonicon" setShortName="2X2" collectorNumber="310" uuid="998d0cc8-ca2a-41c3-ab65-d05c26ab8278"/>
-        <card number="1" name="Cathars' Crusade" setShortName="INR" collectorNumber="17" uuid="5296e353-2efc-4d72-a877-7957eff630b9"/>
         <card number="1" name="Fell the Mighty" setShortName="40K" collectorNumber="186" uuid="7b28bdec-927a-4737-9b55-d5565c5c69f2"/>
         <card number="1" name="Conjurer's Closet" setShortName="DRC" collectorNumber="126" uuid="7e520d49-f3d5-46b3-a941-c57936648a47"/>
         <card number="1" name="Karmic Guide" setShortName="AFC" collectorNumber="68" uuid="c48e3d51-1c63-4b39-97df-92c260311dad"/>
@@ -88,5 +86,7 @@
         <card number="1" name="Raise the Past" setShortName="FDN" collectorNumber="22" uuid="6c6be129-56da-4fe7-a6bd-6a1d402c09e1"/>
         <card number="1" name="Rosa, Resolute White Mage" setShortName="FIN" collectorNumber="431" uuid="d7964800-1392-4bb8-84e2-c9f3938ceac3"/>
         <card number="1" name="Welcoming Vampire" setShortName="DBL" collectorNumber="313" uuid="10369eee-c364-4796-ae5a-aeab9188a510"/>
+        <card number="1" name="All-Fates Stalker" setShortName="EOE" collectorNumber="3" uuid="82ae4f7b-8122-4af6-8079-888eabf1a11e"/>
+        <card number="1" name="Commander Sofia Daguerre" setShortName="PIP" collectorNumber="15" uuid="712697a4-69b4-4237-9340-96f0e5a32229"/>
     </zone>
 </cockatrice_deck>
