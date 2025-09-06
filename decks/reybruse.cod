@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 21:25:45 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 00:48:22 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
@@ -26,7 +26,6 @@
         <card number="1" name="Invigorating Hot Spring"/>
         <card number="1" name="Anim Pakal, Thousandth Moon"/>
         <card number="1" name="Inspiring Call"/>
-        <card number="1" name="Visions of Dominance"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Branching Evolution"/>
         <card number="1" name="Silkguard"/>
@@ -109,5 +108,6 @@
         <card number="1" name="Ouroboroid" setShortName="EOE" collectorNumber="201" uuid="209c591a-4ab2-4e89-9523-a7b766cf4e51"/>
         <card number="1" name="Agonasaur Rex" setShortName="DFT" collectorNumber="151" uuid="5b11ec26-9e07-45e1-bcaa-5d44d1231586"/>
         <card number="1" name="Bulwark Ox" setShortName="DFT" collectorNumber="7" uuid="106944b2-f3ae-4350-be33-61b9f92fc92f"/>
+        <card number="1" name="Loading Zone" setShortName="EOE" collectorNumber="196" uuid="0d2c95bd-79af-4a23-b265-62cc0b164e3e"/>
     </zone>
 </cockatrice_deck>

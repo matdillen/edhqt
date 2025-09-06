@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Aug 29 13:46:22 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 01:08:51 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Isshin, Two Heavens as One</bannerCard>
     <comments></comments>
@@ -20,7 +20,6 @@
         <card number="1" name="Plains"/>
         <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
-        <card number="1" name="Honored Crop-Captain"/>
         <card number="1" name="Accorder Paladin"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Caves of Koilos"/>
@@ -105,6 +104,7 @@
         <card number="1" name="Ainok Strike Leader"/>
         <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
+        <card number="1" name="Chorale of the Void" setShortName="EOE" collectorNumber="91" uuid="7389fe88-f6ff-4497-a037-9ca283fb89e3"/>
     </zone>
     <zone name="side">
         <card number="1" name="Isshin, Two Heavens as One" setShortName="FCA" collectorNumber="54" uuid="a3baaf97-171a-40c0-a1dc-74ae05db0e25"/>

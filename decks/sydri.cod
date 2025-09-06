@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 21:01:24 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 00:42:51 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Sydri, Galvanic Genius</bannerCard>
     <comments></comments>
@@ -14,7 +14,6 @@
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Research Thief"/>
-        <card number="1" name="Bronze Guardian"/>
         <card number="1" name="Sunfall"/>
         <card number="1" name="Canoptek Spyder"/>
         <card number="1" name="Parhelion II"/>
@@ -37,7 +36,6 @@
         <card number="1" name="Unlicensed Hearse"/>
         <card number="1" name="Reckoner Bankbuster"/>
         <card number="1" name="Jhoira's Toolbox"/>
-        <card number="1" name="Mechtitan Core"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Polluted Delta"/>
@@ -56,7 +54,7 @@
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Tundra"/>
         <card number="2" name="Island"/>
-        <card number="2" name="Plains"/>
+        <card number="1" name="Plains"/>
         <card number="1" name="Snow-Covered Plains"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Mysterious Limousine"/>
@@ -106,5 +104,8 @@
         <card number="1" name="The Falcon, Airship Restored" setShortName="FIC" collectorNumber="45" uuid="080fc2be-d463-4e8e-ba42-8f3cb0c95ed3"/>
         <card number="1" name="Uthros, Titanic Godcore" setShortName="EOE" collectorNumber="260" uuid="11da39d6-cfa6-498d-91b1-11454cc7e5a3"/>
         <card number="1" name="Guardian Beast" setShortName="OLEP" collectorNumber="23" uuid="0335bfc8-6a72-41b0-888c-9653c151b411"/>
+        <card number="1" name="Adagia, Windswept Bastion" setShortName="EOE" collectorNumber="250" uuid="c634273a-94b0-4104-9d10-ae522ece1fc7"/>
+        <card number="1" name="Synthesizer Labship" setShortName="EOE" collectorNumber="81" uuid="fba6332c-acba-43f9-877c-ca6c5328aae9"/>
+        <card number="1" name="Uthros Research Craft" setShortName="EOC" collectorNumber="7" uuid="6ade097b-349f-4876-bdc8-7bcd051e9952"/>
     </zone>
 </cockatrice_deck>

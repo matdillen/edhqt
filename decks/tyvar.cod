@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Sep 1 12:08:00 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Tyvar the Bellicose" setShortName="MAT" collectorNumber="48" uuid="01a543f0-72fe-4a30-a4a0-356971c1c68a"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Kindred Dominance" setShortName="CMM" collectorNumber="169" uuid="af613b69-b9f6-4221-a21b-c8e4b0f010f1"/>
+        <card number="1" name="Kindred Summons" setShortName="AFC" collectorNumber="163" uuid="54c0cc74-0a5c-40ee-961b-ade71719937a"/>
+        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
+        <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
+        <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
+        <card number="1" name="Haunting Voyage" setShortName="KHM" collectorNumber="98" uuid="2ac5bca0-35fe-47be-a78c-d5eac68a3bfa"/>
+        <card number="1" name="Vanquisher's Banner" setShortName="CMM" collectorNumber="982" uuid="8162961c-bfe0-4e30-bad4-f473bf582f21"/>
+        <card number="1" name="Banner of Kinship" setShortName="FDN" collectorNumber="127" uuid="a14c16c0-4053-46b0-8fa6-be8b4a7a1c8a"/>
+        <card number="1" name="Shamanic Revelation" setShortName="AFC" collectorNumber="171" uuid="22d99567-8b8a-45cf-85f9-233e97256194"/>
+        <card number="1" name="Patriarch's Bidding" setShortName="MH2" collectorNumber="275" uuid="317686d8-b762-4598-b74a-8b1fa6b899ba"/>
+        <card number="1" name="Elvish Dreadlord" setShortName="CMR" collectorNumber="121" uuid="1f452927-4d04-4c1d-9d88-19901fd06937"/>
+        <card number="1" name="Ruthless Winnower" setShortName="KHC" collectorNumber="10" uuid="886ef13a-4f9d-425b-a071-6366cdb637c8"/>
+        <card number="1" name="Cauldron of Souls" setShortName="PLST" collectorNumber="CM2-180" uuid="3cd9c327-c2ff-4834-b806-f4ab1fb4325f"/>
+        <card number="1" name="Nissa, Vital Force" setShortName="KLR" collectorNumber="172" uuid="250d56bd-2f6d-40d9-8e9d-bc51dbdd2c3d"/>
+        <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
+        <card number="1" name="Seedborn Muse" setShortName="MKC" collectorNumber="186" uuid="f4a9cb46-d4e0-46f2-973f-09275ba0d99c"/>
+        <card number="1" name="Beast Whisperer" setShortName="CLU" collectorNumber="158" uuid="daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59"/>
+        <card number="1" name="Dionus, Elvish Archdruid" setShortName="J25" collectorNumber="52" uuid="5a3dfd71-9ec0-4842-b99d-c1833679f0c5"/>
+        <card number="1" name="Sylvan Offering" setShortName="LTC" collectorNumber="261" uuid="96320770-e879-4c29-ab93-03b6ff191464"/>
+        <card number="1" name="Wirewood Channeler" setShortName="PLST" collectorNumber="LGN-144" uuid="bd9f8f0d-d274-44f2-8f6d-855b8d60f2ad"/>
+        <card number="1" name="Crippling Fear" setShortName="CLB" collectorNumber="745" uuid="0c5bc7db-0627-410b-bc27-970e1fa6789e"/>
+        <card number="1" name="Elven Chorus" setShortName="LTR" collectorNumber="160" uuid="616cfb94-3faf-44fe-bf04-e90643765e48"/>
+        <card number="1" name="Door of Destinies" setShortName="LTC" collectorNumber="277" uuid="ef038cae-d00b-42f4-81ae-09929b05d881"/>
+        <card number="1" name="Karametra's Acolyte" setShortName="THS" collectorNumber="160" uuid="374a1b7c-ce11-4734-aff2-b0bd00857fad"/>
+        <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
+        <card number="1" name="Realmwalker" setShortName="CMM" collectorNumber="909" uuid="d0c65ef6-93b4-448b-bf1c-01fe263cc39d"/>
+        <card number="1" name="Elvish Guidance" setShortName="ONS" collectorNumber="255" uuid="8698c46b-2628-4482-88f9-e37a01ade274"/>
+        <card number="1" name="Reclamation Sage" setShortName="FDN" collectorNumber="231" uuid="1918ea65-ab7f-4d40-97fd-a656c892a2a1"/>
+        <card number="1" name="Ezuri, Renegade Leader" setShortName="PLST" collectorNumber="C14-195" uuid="ad74bb11-9e62-49e3-8cd0-5e312dc0bcaa"/>
+        <card number="1" name="Gwenna, Eyes of Gaea" setShortName="BRO" collectorNumber="185" uuid="7ee387b7-18e4-41b7-aefe-f2b5954e3051"/>
+        <card number="1" name="Llanowar Tribe" setShortName="GN3" collectorNumber="102" uuid="c53d8be8-8a16-4d2d-b0cf-dae5c8e7af89"/>
+        <card number="1" name="Elvish Branchbender" setShortName="DDU" collectorNumber="6" uuid="f3731491-097c-4915-acab-1da2d5176b37"/>
+        <card number="1" name="Llanowar Visionary" setShortName="J25" collectorNumber="684" uuid="c2635b0c-c990-4cce-9ac4-97602a757cf0"/>
+        <card number="1" name="Tyvar, Jubilant Brawler" setShortName="ONE" collectorNumber="218" uuid="66605fe1-9a20-4c95-b53e-1249cedb978b"/>
+        <card number="1" name="Mirage Mirror" setShortName="CMM" collectorNumber="962" uuid="cb1252c2-b951-4125-93a2-9282b607b6a4"/>
+        <card number="1" name="Thousand-Year Elixir" setShortName="PLST" collectorNumber="LRW-263" uuid="9c91e8ff-c131-49c5-ae10-18b46c4b9cb6"/>
+        <card number="1" name="Wrenn and Realmbreaker" setShortName="MOM" collectorNumber="217" uuid="6f807d91-b157-44e8-a431-49782184f876"/>
+        <card number="1" name="Circle of Dreams Druid" setShortName="AFR" collectorNumber="176" uuid="be6fdec0-a2c4-4da2-ae14-961185eaee66"/>
+        <card number="1" name="Pernicious Deed" setShortName="PLST" collectorNumber="A25-212" uuid="fb5e76e7-7098-415e-9230-8ceebbe3f14a"/>
+        <card number="1" name="Elvish Archdruid" setShortName="FDN" collectorNumber="219" uuid="341da856-7414-403b-b2e3-4bebd58a5aa4"/>
+        <card number="1" name="Shaman of Forgotten Ways" setShortName="DTK" collectorNumber="204" uuid="a3e9c8f7-2232-4a2a-8a00-0a2908bc7543"/>
+        <card number="1" name="Marwyn, the Nurturer" setShortName="J25" collectorNumber="687" uuid="4c92e444-2a33-4e67-a8be-8cf5d564e589"/>
+        <card number="1" name="Elvish Champion" setShortName="PLST" collectorNumber="INV-186" uuid="d2cbbb9f-d4ab-4602-ab6e-54f92ea6e3a4"/>
+        <card number="1" name="Song of the Dryads" setShortName="CMM" collectorNumber="324" uuid="161e66e3-0339-495c-bd06-0a799a254906"/>
+        <card number="1" name="Masked Vandal" setShortName="PLST" collectorNumber="KHM-184" uuid="d6f47fe1-36c6-4af9-a9eb-f2919e8e3446"/>
+        <card number="1" name="Priest of Titania" setShortName="MH3" collectorNumber="286" uuid="eb11921b-1b28-483f-a707-4de21a6daa31"/>
+        <card number="1" name="Skemfar Avenger" setShortName="KHM" collectorNumber="109" uuid="fad2c6d4-03dd-4dab-861c-77c55bda0db7"/>
+        <card number="1" name="Miara, Thorn of the Glade" setShortName="KHC" collectorNumber="51" uuid="7bdb9bfe-5e56-429d-af23-7548532e2406"/>
+        <card number="1" name="Quest for Renewal" setShortName="WWK" collectorNumber="110" uuid="41b7ad82-1115-4f80-886a-3f59f568423f"/>
+        <card number="1" name="Devoted Druid" setShortName="2X2" collectorNumber="143" uuid="1ab94f16-778d-4437-a1b9-2f67cd214cc0"/>
+        <card number="1" name="Wall of Roots" setShortName="NCC" collectorNumber="319" uuid="d80940ad-8e36-4226-ad5f-b54487c75c76"/>
+        <card number="1" name="Assassin's Trophy" setShortName="2X2" collectorNumber="175" uuid="aeb63464-d06b-4626-a57a-1e393ef04a58"/>
+        <card number="1" name="Driven // Despair" setShortName="AKR" collectorNumber="233" uuid="f7020563-0701-4cd0-9a78-1568a23bf02d"/>
+        <card number="1" name="Wildborn Preserver" setShortName="FDN" collectorNumber="650" uuid="8a249d1c-a5fe-48e5-bd9b-e50d8eea391b"/>
+        <card number="1" name="Leaf-Crowned Visionary" setShortName="DMU" collectorNumber="167" uuid="aa7bd814-9f88-4e01-932d-07ac1abc060e"/>
+        <card number="1" name="Dolmen Gate" setShortName="PLST" collectorNumber="LRW-256" uuid="8a44fcd0-9c12-4cd7-9eff-b58294891fdc"/>
+        <card number="1" name="Throne of the God-Pharaoh" setShortName="AKR" collectorNumber="281" uuid="8c47b08c-7182-4315-8ad1-8ecad048a0df"/>
+        <card number="1" name="Joraga Treespeaker" setShortName="PLST" collectorNumber="ROE-190" uuid="de6b6d2d-c2b0-421b-aad6-41e80d325fff"/>
+        <card number="1" name="Fyndhorn Elves" setShortName="P30A" collectorNumber="3" uuid="ef7a1bd1-abcd-4e06-9b38-f9e79bad71fa"/>
+        <card number="1" name="Elves of Deep Shadow" setShortName="PLST" collectorNumber="GK1-56" uuid="8c41769e-5ebb-42b2-ac55-fa471cd7201e"/>
+        <card number="1" name="Wirewood Symbiote" setShortName="MH3" collectorNumber="288" uuid="d237f5cc-2b9b-4929-9697-72078bac4c77"/>
+        <card number="1" name="Deathrite Shaman" setShortName="EA3" collectorNumber="15" uuid="2071ed5f-7a50-4b02-b6a4-f5c781ef9212"/>
+        <card number="1" name="Paradise Mantle" setShortName="PLST" collectorNumber="MMA-211" uuid="a3bb5de4-7838-465a-8ed9-0b217593703c"/>
+        <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
+        <card number="1" name="Heritage Druid" setShortName="SLC" collectorNumber="2008" uuid="b2a6bfbc-24e9-4309-8490-0f0dbe74aae6"/>
+        <card number="1" name="Elvish Mystic" setShortName="CMM" collectorNumber="284" uuid="75918859-c93f-41b4-9ad0-a4a96c389f0d"/>
+        <card number="1" name="Llanowar Elves" setShortName="30A" collectorNumber="206" uuid="07c3165a-39a9-4928-803c-22b60552346c"/>
+        <card number="5" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="6" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="1" name="Boggart Trawler" setShortName="MH3" collectorNumber="243" uuid="d0d484a6-5610-4f1d-95ec-eda273c255e4"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Karn's Bastion" setShortName="CMM" collectorNumber="1007" uuid="875ca80a-3eb8-434c-8114-536caab23211"/>
+        <card number="1" name="Volrath's Stronghold" setShortName="TPR" collectorNumber="248" uuid="f465ae5f-61f0-42c4-978f-841ba1226f56"/>
+        <card number="1" name="Inkmoth Nexus" setShortName="EOS" collectorNumber="20" uuid="4c65f0c0-e771-4236-a3aa-02a0104eb4bc"/>
+        <card number="1" name="Blinkmoth Nexus" setShortName="EOS" collectorNumber="3" uuid="765fad0a-50fe-4e19-87a1-c3ec70937f61"/>
+        <card number="1" name="Mishra's Factory" setShortName="AFC" collectorNumber="248" uuid="7c05c946-66c3-4785-90f9-ca0c606e036b"/>
+        <card number="1" name="Svogthos, the Restless Tomb" setShortName="CM2" collectorNumber="270" uuid="ffe08b0f-bb53-40b9-8057-10b60070459b"/>
+        <card number="1" name="Skemfar Elderhall" setShortName="KHM" collectorNumber="268" uuid="82c2a0f7-0f53-4627-8be8-227fde331a69"/>
+        <card number="1" name="Treetop Village" setShortName="J22" collectorNumber="827" uuid="3e9d39df-aaab-4733-b7c4-f33c9b4fb10c"/>
+        <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
+        <card number="1" name="Revitalizing Repast" setShortName="MH3" collectorNumber="256" uuid="03522b6b-31ec-4126-8885-5dbb2248688b"/>
+        <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
+        <card number="1" name="Wirewood Lodge" setShortName="PLST" collectorNumber="DD1-26" uuid="cf3f4954-ab60-44a9-b2d6-a4be598e8ce6"/>
+        <card number="1" name="Verdant Catacombs" setShortName="MH2" collectorNumber="260" uuid="94c229ea-90da-4aa0-bfda-b162fb3b5b8b"/>
+        <card number="1" name="Nurturing Peatland" setShortName="ACR" collectorNumber="114" uuid="ab4b80c5-fe04-4e5e-9637-b745c2c8956b"/>
+        <card number="1" name="Golgari Rot Farm" setShortName="2X2" collectorNumber="324" uuid="5a9b093d-a483-4c7d-81b5-9c70c866bbb1"/>
+        <card number="1" name="Woodland Cemetery" setShortName="BLC" collectorNumber="354" uuid="7ab2f083-b674-4f8d-897b-9dc84ff85658"/>
+        <card number="1" name="Overgrown Tomb" setShortName="CLU" collectorNumber="278" uuid="2c92e23a-329e-41f9-b5ca-577050be0b7e"/>
+        <card number="1" name="Llanowar Wastes" setShortName="BLC" collectorNumber="315" uuid="f01e0e0e-f8c1-416d-bf4b-2b7661924e9b"/>
+        <card number="1" name="Bayou" setShortName="30A" collectorNumber="274" uuid="538dfd90-5215-4aa0-8e10-1e6fd9f717c8"/>
+    </zone>
+</cockatrice_deck>

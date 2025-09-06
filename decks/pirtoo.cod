@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 21:32:47 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 00:53:42 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Pir, Imaginative Rascal</bannerCard>
     <comments></comments>
@@ -36,7 +36,6 @@
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Spike Weaver"/>
         <card number="1" name="Kalonian Hydra"/>
-        <card number="1" name="Inexorable Tide"/>
         <card number="1" name="Deepglow Skate"/>
         <card number="1" name="Triskelion"/>
         <card number="1" name="Walking Ballista"/>
@@ -92,13 +91,14 @@
         <card number="1" name="Zimone, Paradox Sculptor"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Aetheric Amplifier"/>
-        <card number="1" name="Maester Seymour" setShortName="FIC" collectorNumber="68" uuid="f6a4267b-aa76-4dec-bc72-252236c44968"/>
         <card number="1" name="The Earth Crystal" setShortName="FIN" collectorNumber="184" uuid="d585e218-3dc8-4fbd-8ad2-795fbc9b2155"/>
         <card number="1" name="Lulu, Stern Guardian" setShortName="FIC" collectorNumber="38" uuid="9c0b1d5d-2b10-4dde-bb95-8cbf780cca97"/>
         <card number="1" name="Kimahri, Valiant Guardian" setShortName="FIC" collectorNumber="85" uuid="42006bd4-f6f0-4638-a50e-46d9d7a54b6e"/>
         <card number="1" name="Solar Array" setShortName="EOC" collectorNumber="18" uuid="03c45b66-ddc7-43f8-95d0-fe2ad743b3a4"/>
         <card number="1" name="Mutational Advantage" setShortName="PIP" collectorNumber="111" uuid="b1ff92f1-9dc7-48e6-9e7c-9ef4a88518cb"/>
         <card number="1" name="Terrasymbiosis" setShortName="EOE" collectorNumber="210" uuid="26008c7d-5dbe-4da2-b475-4dd307e7bc68"/>
+        <card number="1" name="Loading Zone" setShortName="EOE" collectorNumber="196" uuid="0d2c95bd-79af-4a23-b265-62cc0b164e3e"/>
+        <card number="1" name="Empowered Autogenerator" setShortName="EOC" collectorNumber="135" uuid="1b6abe5b-9bd3-43a0-b1bb-e6ebb64b443c"/>
     </zone>
     <zone name="side">
         <card number="1" name="Pir, Imaginative Rascal"/>

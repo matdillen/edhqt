@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 20:30:50 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 00:56:52 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -63,7 +63,6 @@
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="War Room"/>
-        <card number="1" name="Thousand-Year Elixir"/>
         <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Fable of the Mirror-Breaker"/>
         <card number="1" name="Pyrogoyf"/>
@@ -85,5 +84,6 @@
         <card number="1" name="Clive, Ifrit's Dominant" setShortName="FIN" collectorNumber="458" uuid="cdf7fb4a-acb5-4fae-a44c-c437e5b82ec4"/>
         <card number="1" name="Anticausal Vestige" setShortName="EOE" collectorNumber="1" uuid="35372b69-6086-44e0-9f7c-681e362e5142"/>
         <card number="1" name="Dauntless Scrapbot" setShortName="EOE" collectorNumber="237" uuid="0efe5342-42b7-4f49-b4b4-d77055508c4d"/>
+        <card number="1" name="Tannuk, Steadfast Second" setShortName="EOE" collectorNumber="162" uuid="44607ed3-9523-40ac-9f61-0edd011cf762"/>
     </zone>
 </cockatrice_deck>

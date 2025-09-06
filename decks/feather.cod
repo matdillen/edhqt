@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 16:16:30 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 01:00:23 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Feather, the Redeemed</bannerCard>
     <comments></comments>
@@ -52,7 +52,6 @@
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Fists of Flame"/>
-        <card number="1" name="Sheltering Light"/>
         <card number="1" name="Chandra's Ignition"/>
         <card number="1" name="Runaway Steam-Kin"/>
         <card number="1" name="Smoldering Egg"/>
@@ -90,13 +89,14 @@
         <card number="1" name="Waltz of Rage"/>
         <card number="1" name="Leyline of Resonance"/>
         <card number="1" name="Ephemeral Shields"/>
-        <card number="1" name="Firespitter Whelp"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Frontline Heroism"/>
         <card number="1" name="Giggling Skitterspike"/>
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Nibelheim Aflame" setShortName="FIN" collectorNumber="146" uuid="3d3e926a-74af-4996-849f-d31e0fdedeae"/>
+        <card number="1" name="Reroute Systems" setShortName="EOE" collectorNumber="31" uuid="3bbdba38-2b99-4226-98e3-6d2580345d6d"/>
+        <card number="1" name="Honor" setShortName="EOE" collectorNumber="21" uuid="d0b4e925-1d59-41a1-bc06-9982695d778f"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feather, the Redeemed"/>

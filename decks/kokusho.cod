@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 20:39:37 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Sep 6 00:58:19 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
     <comments></comments>
@@ -54,7 +54,6 @@
         <card number="1" name="Nirkana Revenant" setShortName="VOC" collectorNumber="134" uuid="96da0a4c-2865-4383-875a-9f5d6503baee"/>
         <card number="23" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Cabal Coffers" setShortName="LTC" collectorNumber="360" uuid="a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f"/>
-        <card number="1" name="Cabal Stronghold" setShortName="DOM" collectorNumber="238" uuid="0bda51ef-ee3e-48d4-92e2-c9083bbe0f80"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
         <card number="1" name="War Room" setShortName="CLB" collectorNumber="929" uuid="ed5cebc0-6a58-468d-a75e-46087ea2eb46"/>
         <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Colossus of Akros" setShortName="THS" collectorNumber="214" uuid="3e394ffe-7460-4c59-a403-e9404b0d10c1"/>
         <card number="1" name="Witch-king of Angmar" setShortName="LTR" collectorNumber="114" uuid="a55e6508-0b59-4573-bc4e-67b27279cfed"/>
         <card number="1" name="Zodiark, Umbral God" setShortName="FIN" collectorNumber="128" uuid="9ba292d5-5139-42ea-950d-0a638445277f"/>
+        <card number="1" name="Susur Secundi, Void Altar" setShortName="EOE" collectorNumber="259" uuid="aefb8c0d-2bc6-4bec-851e-0137b4abfb22"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kokusho, the Evening Star" setShortName="SLD" collectorNumber="1528" uuid="154c2d54-6dc2-4350-8cc1-f099c7d13ccc"/>
