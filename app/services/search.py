@@ -1,13 +1,13 @@
 import csv
 from pathlib import Path
-from typing import Dict, Any, List, Tuple
+from typing import Dict, Any, List, Tuple, Optional
 
 class CardCache:
     def __init__(self, path: Path):
         self.path = path
         self.cache: Dict[str, Dict[str, Any]] = {}
         # Remember original encoding if we successfully detect it on load
-        self._detected_encoding: str | None = None
+        self._detected_encoding: Optional[str] | None = None
         
     def _try_open(self, mode: str, enc: str):
         return self.path.open(mode, encoding=enc, newline="")
@@ -31,6 +31,11 @@ class CardCache:
                             "subtypes": row.get("subtypes", ""),
                             "manaValue": row.get("manaValue", ""),
                             "colorIdentity": row.get("colorIdentity", ""),
+                            "type": row.get("type", ""),
+                            "text": row.get("text", ""),
+                            "setCode": row.get("setCode", ""),
+                            "power": row.get("power", ""),
+                            "toughness": row.get("toughness", ""),
                         }
                 self._detected_encoding = enc
                 return
@@ -50,6 +55,11 @@ class CardCache:
                     "subtypes": row.get("subtypes", ""),
                     "manaValue": row.get("manaValue", ""),
                     "colorIdentity": row.get("colorIdentity", ""),
+                    "type": row.get("type", ""),
+                    "text": row.get("text", ""),
+                    "setCode": row.get("setCode", ""),
+                    "power": row.get("power", ""),
+                    "toughness": row.get("toughness", ""),
                 }
             self._detected_encoding = "utf-8"
         except Exception as e:
@@ -58,7 +68,7 @@ class CardCache:
 
     def save(self):
         with self.path.open("w", encoding="utf-8", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=["name", "subtypes", "manaValue", "colorIdentity"])
+            w = csv.DictWriter(f, fieldnames=["name","subtypes","manaValue","colorIdentity","type","text","setCode","power","toughness"])
             w.writeheader()
             for name, data in self.cache.items():
                 w.writerow({
@@ -66,6 +76,11 @@ class CardCache:
                 "subtypes": data.get("subtypes", ""),
                 "manaValue": data.get("manaValue", ""),
                 "colorIdentity": data.get("colorIdentity", ""),
+                "type": data.get("type", ""),
+                "text": data.get("text", ""),
+                "setCode": data.get("setCode", ""),
+                "power": data.get("power", ""),
+                "toughness": data.get("toughness", ""),
             })
 
 

@@ -152,6 +152,35 @@ class MainWindow(QMainWindow):
     def _color_hex(self, c: str) -> str:
         return {"W":"#FFFFFF","U":"#0000FF","B":"#000000","R":"#FF0000","G":"#008000"}.get(c, "#202124")
 
+    def _fetch_card_from_db(self, card_name: str) -> dict:
+    # Query by name, fallback faceName; fetch all fields we display or search on
+        SELECT = (
+            "subtypes, manaValue, colorIdentity, type, text, "
+            "setCode, power, toughness"
+        )
+        res = self.db.query_one(SELECT, "cards", "name = ?", (card_name,))
+        if not res:
+            res = self.db.query_one(SELECT, "cards", "faceName = ?", (card_name,))
+        if not res:
+            return {"subtypes": "", "manaValue": None, "type": "", "colorIdentity": "", "text": "", "setCode": "", "power": "", "toughness": ""}
+        keys = [
+            "subtypes", "manaValue", "colorIdentity", "type", "text",
+            "setCode", "power", "toughness",
+        ]
+        return dict(zip(keys, res))
+    
+    def _get_card(self, card_name: str) -> dict:
+        key = (card_name or "").lower()
+        if not key:
+            return {}
+        def fetch():
+            data = self._fetch_card_from_db(card_name) or {}
+            return data
+        data = self.cache.ensure_card(key, fetch) or {}
+        # Persist new cache entries ASAP so subsequent screens are instant
+        self.cache.save()
+        return data
+    
     def _init_decklist_items(self, decks):
         self.deck_list.clear()
         order = ["W","U","B","R","G"]
@@ -188,18 +217,7 @@ class MainWindow(QMainWindow):
 
         # fill cache for missing cards (subtypes, manaValue)
         for cname, _ in deck_cards:
-            key = cname.lower()
-            if key not in self.cache.cache:
-                # try DB by name/faceName
-                def fetch():
-                    r = self.db.query_one("subtypes, manaValue", "cards", "name = ?", (cname,))
-                    if not r:
-                        r = self.db.query_one("subtypes, manaValue", "cards", "faceName = ?", (cname,))
-                    if r:
-                        return {"subtypes": r[0] or "", "manaValue": r[1] or ""}
-                    return None
-                self.cache.ensure_card(key, fetch)
-        self.cache.save()
+            self._get_card(cname)
 
         self._display_deck(deck_cards)
 
@@ -212,30 +230,10 @@ class MainWindow(QMainWindow):
             squares.append(f'<span style="color:{col}; font-size:14px;">&#9632;</span>')
         return " ".join(squares)
 
-    def _get_card_meta(self, card_name: str):
-        # Query DB for richer metadata, fallback name -> faceName
-        res = self.db.query_one(
-            "manaValue, type, colorIdentity, text, setCode, power, toughness",
-            "cards",
-            "name = ?",
-            (card_name,)
-        )
-        if not res:
-            res = self.db.query_one(
-                "manaValue, type, colorIdentity, text, setCode, power, toughness",
-                "cards",
-                "faceName = ?",
-                (card_name,)
-            )
-        if not res:
-            return {"manaValue": None, "type": "", "colorIdentity": "", "text": "", "setCode": "", "power": "", "toughness": ""}
-        keys = ["manaValue", "type", "colorIdentity", "text", "setCode", "power", "toughness"]
-        return dict(zip(keys, res))
-
     def _display_deck(self, deck_cards):
         self.deck_display.clear()
         for name, qty in deck_cards:
-            meta = self._get_card_meta(name)
+            meta = self._get_card(name)
             mv = meta.get("manaValue")
             ci = meta.get("colorIdentity") or ""
             row = CardRowWidget(name=name, qty=qty, color_identity=ci, mana_value=mv)
@@ -303,7 +301,7 @@ class MainWindow(QMainWindow):
             self.card_image_label.clear(); self.card_image_label.setText("Image not available")
 
         # Metadata
-        meta = self._get_card_meta(card_name)
+        meta = self._get_card(card_name)
         mv = meta.get("manaValue")
         mv_txt = str(int(float(mv))) if (mv not in (None, "")) else "—"
         type_line = meta.get("type") or ""

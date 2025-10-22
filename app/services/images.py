@@ -1,12 +1,120 @@
 from pathlib import Path
-from typing import Dict
+from typing import Dict, Optional
 import os
+import time
+import json
+import mimetypes
+import requests
 
-def build_image_lookup(image_folder: Path) -> Dict[str, str]:
+SCRYFALL_NAMED_URL = "https://api.scryfall.com/cards/named"
+APP_IMG_CACHE = Path("app/data/img")
+
+def ensure_app_cache_dir(path: Optional[Path] = None) -> Path:
+    """Ensure the app's own image cache directory exists and return it."""
+    cache_dir = Path(path) if path else APP_IMG_CACHE
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    return cache_dir
+
+def _safe_stem(name: str) -> str:
+    # Lowercase, strip slashes and problematic chars for filesystem
+    stem = (name or "").strip().lower()
+    for ch in ['/', '\\', ':', '*', '?', '"', '<', '>', '|']:
+        stem = stem.replace(ch, " ")
+    stem = " ".join(stem.split())
+    return stem or "card"
+
+def fetch_image_from_scryfall(card_name: str, size: str = "normal", session: Optional[requests.Session] = None) -> Optional[bytes]:
+    """Fetch a card image from Scryfall by exact name. Returns image bytes or None.
+    Respects simple backoff on HTTP 429/503.
+    """
+    if not requests:
+        return None
+    sess = session or requests.Session()
+    params = {"exact": card_name, "format": "json"}
+    backoff = [0.0, 0.5, 1.0, 2.0]
+    for delay in backoff:
+        try:
+            r = sess.get(SCRYFALL_NAMED_URL, params=params, timeout=20)
+            if r.status_code in (429, 503):
+                time.sleep(delay)
+                continue
+            r.raise_for_status()
+            data = r.json()
+            # Single-faced vs MDFC
+            url = None
+            if "image_uris" in data and data["image_uris"]:
+                url = data["image_uris"].get(size) or data["image_uris"].get("large")
+            elif "card_faces" in data and data["card_faces"]:
+                face = data["card_faces"][0]
+                if "image_uris" in face:
+                    url = face["image_uris"].get(size) or face["image_uris"].get("large")
+            if not url:
+                return None
+            ir = sess.get(url, timeout=30)
+            if ir.status_code in (429, 503):
+                time.sleep(delay)
+                continue
+            ir.raise_for_status()
+            return ir.content
+        except Exception:
+            time.sleep(delay)
+        continue
+    return None
+
+def cache_image_for_card(card_name: str, cache_dir: Optional[Path] = None, size: str = "normal") -> Optional[Path]:
+    """Ensure an image for card_name exists in the app cache; download if missing.
+    Returns the cached image path or None on failure.
+    """
+    cache_dir = ensure_app_cache_dir(cache_dir)
+    stem = _safe_stem(card_name)
+    # If any existing extension is present, reuse it
+    for p in cache_dir.glob(stem + ".*"):
+        if p.is_file():
+            return p
+
+
+    img_bytes = fetch_image_from_scryfall(card_name, size=size)
+    if not img_bytes:
+        return None
+
+
+    # Probe content type with a lightweight temp request if needed; default .jpg
+    ext = ".jpg"
+
+    out_path = cache_dir / f"{stem}{ext}"
+    try:
+        out_path.write_bytes(img_bytes)
+        return out_path
+    except Exception:
+        return None
+
+def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = None) -> Dict[str, str]:
+    """Walk both the user-provided image folder and the app's own cache.
+    Returns a map: lowercased card name stem → absolute file path.
+    """
     lookup: Dict[str, str] = {}
-    for root, _, files in os.walk(image_folder):
-        for f in files:
-            if f.lower().endswith(".jpg"):
-                name = os.path.splitext(f)[0]
-                lookup[name.lower()] = str(Path(root) / f)
+
+
+    def _scan(folder: Optional[Path]):
+        if not folder:
+            return
+        folder = Path(folder)
+        if not folder.exists():
+            return
+        for root, _, files in os.walk(folder):
+            for f in files:
+                lf = f.lower()
+                if lf.endswith((".jpg", ".jpeg", ".png")):
+                    name = os.path.splitext(f)[0].lower()
+                    lookup[name] = str(Path(root) / f)
+
+
+    # 1) User-provided folder from config
+    _scan(primary_dir)
+
+
+    # 2) App's own cache
+    _scan(ensure_app_cache_dir(app_cache_dir))
+
+
     return lookup
