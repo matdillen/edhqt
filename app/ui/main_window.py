@@ -13,6 +13,8 @@ from app.services.search import CardCache, search_in_deck
 from app.services.analytics import mana_curve
 
 from typing import Optional
+from string import Template
+from pathlib import Path
 
 
 class CardRowWidget(QWidget):
@@ -305,27 +307,31 @@ class MainWindow(QMainWindow):
         mv = meta.get("manaValue")
         mv_txt = str(int(float(mv))) if (mv not in (None, "")) else "—"
         type_line = meta.get("type") or ""
-        oracle = meta.get("text") or ""
+        oracle = (meta.get("text") or "").replace("\\n","<br>")
         set_code = meta.get("setCode") or ""
         power = meta.get("power") or ""
         toughness = meta.get("toughness") or ""
         ci = meta.get("colorIdentity") or ""
+        
+        power_html = f"<div class='stat'>Power: {power}</div>" if power else ""
+        toughness_html = f"<div class='stat'>Toughness: {toughness}</div>" if toughness else ""
+        
+        template_path = Path(__file__).parent.parent / "views" / "card_details.html"
+        template_text = template_path.read_text(encoding="utf-8")
+        
+        style_path = template_path.parent / "style.css"
+        style_text = style_path.read_text(encoding="utf-8")
 
-        html = f"""
-        <div style='font-size:14px;'>
-          <div style='font-size:16px; font-weight:700; margin-bottom:4px;'>{card_name}</div>
-          <div>{self._pip_squares(ci)}
-               <span style='margin-left:8px; padding:2px 8px; border-radius:10px; background:#2a2a2a; color:#eee;'>MV {mv_txt}</span>
-               <span style='margin-left:8px; color:#999;'>[{set_code}</span>
-          </div>
-          <div style='margin-top:6px; color:#ccc;'><i>{type_line}</i></div>
-            <div style='margin-top:8px; color:#ddd; white-space:normal; word-wrap:break-word; overflow-wrap:break-word;'>
-               {oracle}
-            </div>
-          {f"<div style='margin-top:6px; color:#ccc;'><i>Power: {power}</i></div>" if power else ""}
-          {f"<div style='margin-top:4px; color:#ccc;'><i>Toughness: {toughness}</i></div>" if toughness else ""}
-        </div>
-        """
+        html = f"<style>{style_text}</style>\n" + Template(template_text).safe_substitute(
+            card_name=card_name,
+            pips_html=self._pip_squares(ci),
+            mv_txt=mv_txt,
+            set_code=set_code,
+            type_line=type_line,
+            oracle_html=oracle,
+            power_html=power_html,
+            toughness_html=toughness_html,
+        )
         self.card_text_display.setText(html)
 
     def _show_image_popup(self, _evt):
