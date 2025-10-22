@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import (
     QMainWindow, QWidget, QHBoxLayout, QVBoxLayout, QListWidget, QListWidgetItem,
-    QComboBox, QLineEdit, QPushButton, QLabel, QMessageBox
+    QComboBox, QLineEdit, QPushButton, QLabel, QMessageBox, QSizePolicy
 )
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
@@ -90,14 +90,13 @@ class MainWindow(QMainWindow):
         # UI layout
         main_layout = QHBoxLayout()
 
-        # Left panel: deck list
+        # Left panel: deck list + filters
+        left_layout = QVBoxLayout()
+
         self.deck_list = QListWidget()
-        main_layout.addWidget(self.deck_list)
+        left_layout.addWidget(self.deck_list)
         self._init_decklist_items(self.deck_files)
         self.deck_list.itemClicked.connect(self._load_deck_clicked)
-
-        # Middle panel: search / filters
-        mid_layout = QVBoxLayout()
 
         s_layout = QHBoxLayout()
         self.search_dropdown = QComboBox(); self.search_dropdown.addItems(["Cards", "Subtypes"])
@@ -107,7 +106,7 @@ class MainWindow(QMainWindow):
         s_layout.addWidget(self.search_input)
         btn = QPushButton("Search Decks"); btn.clicked.connect(self._search_decks)
         s_layout.addWidget(btn)
-        mid_layout.addLayout(s_layout)
+        left_layout.addLayout(s_layout)
 
         f_layout = QHBoxLayout()
         self.filter_dropdown = QComboBox(); self.filter_dropdown.addItems(["Color Identity"])  # extensible
@@ -119,27 +118,32 @@ class MainWindow(QMainWindow):
         f_layout.addWidget(f_btn)
         r_btn = QPushButton("Reset Filter"); r_btn.clicked.connect(self._reset_deck_list)
         f_layout.addWidget(r_btn)
-        mid_layout.addLayout(f_layout)
+        left_layout.addLayout(f_layout)
 
-        main_layout.addLayout(mid_layout)
+        main_layout.addLayout(left_layout,stretch=1)
 
-        # Right panel: deck contents + card details
-        right_layout = QVBoxLayout()
+        # Mid panel: deck contents
+        mid_layout = QVBoxLayout()
         self.deck_display = QListWidget(); self.deck_display.itemClicked.connect(self._show_card_details)
-        right_layout.addWidget(self.deck_display)
+        mid_layout.addWidget(self.deck_display)
 
-        bottom = QVBoxLayout()
+        main_layout.addLayout(mid_layout,stretch=2)
+
+        # Right panel: card details
+        right_layout = QVBoxLayout()
         self.card_image_label = QLabel("Card Image"); self.card_image_label.setAlignment(Qt.AlignCenter)
         self.card_image_label.setStyleSheet("border: 1px solid black;")
         self.card_image_label.mousePressEvent = self._show_image_popup
-        bottom.addWidget(self.card_image_label, 2)
+        right_layout.addWidget(self.card_image_label, 1)
 
         self.card_text_display = QLabel("Card Details"); self.card_text_display.setAlignment(Qt.AlignTop | Qt.AlignLeft)
         self.card_text_display.setStyleSheet("border: 1px solid black;")
-        bottom.addWidget(self.card_text_display, 1)
+        self.card_text_display.setWordWrap(True)
+        self.card_text_display.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Expanding)
+        right_layout.addWidget(self.card_text_display, 1)
 
-        right_layout.addLayout(bottom)
-        main_layout.addLayout(right_layout)
+        #right_layout.addLayout(bottom)
+        main_layout.addLayout(right_layout,stretch=2)
 
         # Central widget
         cw = QWidget(); cw.setLayout(main_layout)
@@ -344,5 +348,5 @@ class MainWindow(QMainWindow):
             return
         popup = QMessageBox(); popup.setWindowTitle("Card Image")
         pix = QPixmap(self.current_card_image_path)
-        popup.setIconPixmap(pix.scaled(400, 600, Qt.KeepAspectRatio))
+        popup.setIconPixmap(pix.scaledToHeight(680))
         popup.exec()
