@@ -1,0 +1,215 @@
+Sol Ring
+Arcane Signet
+Mana Vault
+Wayfarer's Bauble
+Attrition
+Reins of Power
+Arena of Glory
+Badlands
+Taiga
+Tropical Island
+Bayou
+Underground Sea
+Savannah
+Plateau
+Tundra
+Volcanic Island
+Scrubland
+Flooded Strand
+Verdant Catacombs
+Windswept Heath
+Wooded Foothills
+Polluted Delta
+Scalding Tarn
+Arid Mesa
+Prismatic Vista
+Misty Rainforest
+Marsh Flats
+Bloodstained Mire
+Island
+Mountain
+Forest
+Plains
+Swamp
+Exotic Orchard
+Command Tower
+Snow-Covered Island
+Snow-Covered Mountain
+Snow-Covered Forest
+Snow-Covered Plains
+Snow-Covered Swamp
+Hallowed Fountain
+Godless Shrine
+Sacred Foundry
+Temple Garden
+Watery Grave
+Steam Vents
+Breeding Pool
+Blood Crypt
+Stomping Ground
+Overgrown Tomb
+Forcefield
+Mithril Coat
+The Great Henge
+Thran Dynamo
+Bane of Progress
+Overlord of the Hauntwoods
+Roaming Throne
+Asceticism
+Frontier Siege
+Guardian Project
+Mana Reflection
+Arachnogenesis
+Beast Within
+Deflecting Swat
+Heroic Intervention
+Klauth's Will
+Legolas's Quick Reflexes
+Return of the Wildspeaker
+Kessig Wolf Run
+Reliquary Tower
+Rogue's Passage
+Yavimaya, Cradle of Growth
+Rockfall Vale
+Blasphemous Act
+Fade from History
+Shatterskull Smashing
+Skyshroud Claim
+Fellwar Stone
+Misleading Signpost
+Thought Vessel
+Midnight Clock
+Hydroelectric Specimen
+Pinnacle Monk
+Brazen Borrower
+Chaos Warp
+Delayed Blast Fireball
+Ancient Tomb
+Otawara, Soaring City
+Stormcarved Coast
+Sulfur Falls
+All Is Dust
+Insurrection
+Jeska's Will
+Lòrien Revealed
+Mana Geyser
+Sea Gate Restoration
+Conjurer's Closet
+Strionic Resonator
+Throne of Eldraine
+Recruiter of the Guard
+Witch Enchanter
+Darksteel Mutation
+Clever Concealment
+Flare of Fortitude
+Cosmic Intervention
+Teferi's Protection
+Eiganjo, Seat of the Empire
+Minas Tirith
+Myriad Landscape
+Nykthos, Shrine to Nyx
+Three Tree City
+War Room
+Ascend from Avernus
+Emeria's Call
+Shadowspear
+Burnished Hart
+Sakashima the Impostor
+Cyber Conversion
+Slip Out the Back
+Nesting Grounds
+Temple of the False God
+Curse of the Swine
+Ixidron
+Aven Interrupter
+Avenger of Zendikar
+Cataclysmic Gearhulk
+Eternal Witness
+Hornet Queen
+Seedborn Muse
+Selfless Squire
+Aura Shards
+Mirari's Wake
+Touch the Spirit Realm
+Teleportation Circle
+Akroma's Will
+Overgrown Farmland
+Sunpetal Grove
+Talon Gates of Madara
+Austere Command
+Farewell
+Starfall Invocation
+Chromatic Lantern
+Coalition Relic
+Decanter of Endless Water
+Goldspan Dragon
+Galadriel's Dismissal
+Generous Gift
+Sejiri Shelter
+Unexplained Absence
+Clifftop Retreat
+Plaza of Heroes
+Reflecting Pool
+Sokenzan, Crucible of Defiance
+Sundown Pass
+Sword of the Animist
+Cavern-Hoard Dragon
+Ghostly Prison
+Propaganda
+Collective Restraint
+An Offer You Can't Refuse
+Arcane Denial
+Cyclonic Rift
+Fierce Guardianship
+Mana Drain
+Cavern of Souls
+Will of the Temur
+Spark Double
+Final Showdown
+Jwari Disruption
+Deserted Beach
+Glacial Fortress
+Kor Haven
+Urza's Ruinous Blast
+Lightning Greaves
+Swiftfoot Boots
+Fable of the Mirror-Breaker
+Dawn's Truce
+Deadly Rollick
+Flawless Maneuver
+Great Train Heist
+Dragonskull Summit
+Isolated Chapel
+Taunt from the Rampart
+Amphibian Downpour
+Abstergo Entertainment
+Asinine Antics
+Bridgeworks Battle
+Helm of Possession
+Craterhoof Behemoth
+Enduring Vitality
+Smothering Tithe
+Entrapment Maneuver
+Perch Protection
+Will of the Mardu
+Boseiju, Who Endures
+Evendo, Waking Haven
+Gaea's Cradle
+Everything Comes to Dust
+Season of the Burrow
+Season of Gathering
+Song of the Dryads
+March of Swirling Mist
+Despark
+Urborg, Tomb of Yawgmoth
+Caged Sun
+The Soul Stone
+Solemn Simulacrum
+Animate Dead
+Kaya's Ghostform
+Malakir Rebirth
+Undying Evil
+Not Dead After All
+Breach the Multiverse
+Will of the Abzan
+Volrath's Stronghold

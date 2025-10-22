@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+<div id="curve" style="width:100%;height:100%"></div>
+<script>
+// When you load this file in QWebEngineView, inject data via query params or setHtml()
+const data = JSON.parse(decodeURIComponent((location.search.split('data=')[1]||'[]')));
+const x = Object.keys(data).map(k=>+k).sort((a,b)=>a-b);
+const y = x.map(k=>data[k]);
+Plotly.newPlot('curve', [{type:'bar', x, y}], {title:'Mana Curve', xaxis:{title:'CMC'}, yaxis:{title:'Cards'}});
+</script>

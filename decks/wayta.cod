@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 20:31:47 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 10 22:49:24 2025</lastLoadedTimestamp>
     <deckname>wayta</deckname>
     <bannerCard providerId="">Wayta, Trainer Prodigy</bannerCard>
     <comments></comments>
@@ -23,12 +23,9 @@
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Taiga"/>
         <card number="1" name="Rootbound Crag"/>
-        <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Gideon's Sacrifice"/>
         <card number="1" name="Shadowspear"/>
-        <card number="1" name="Ulvenwald Tracker"/>
         <card number="1" name="Marauding Raptor"/>
-        <card number="1" name="Boxing Ring"/>
         <card number="1" name="Rolling Earthquake"/>
         <card number="1" name="Stormwild Capridor"/>
         <card number="1" name="Subterranean Tremors"/>
@@ -44,7 +41,6 @@
         <card number="1" name="Starstorm"/>
         <card number="1" name="Fiery Confluence"/>
         <card number="1" name="Needletooth Raptor"/>
-        <card number="1" name="Pariah's Shield"/>
         <card number="1" name="Trapjaw Tyrant"/>
         <card number="1" name="Stuffy Doll"/>
         <card number="1" name="Brash Taunter"/>
@@ -57,7 +53,6 @@
         <card number="1" name="Prizefight"/>
         <card number="1" name="Bushwhack"/>
         <card number="1" name="Ill-Tempered Loner"/>
-        <card number="1" name="Blazing Sunsteel"/>
         <card number="1" name="Pariah"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Exotic Orchard"/>
@@ -70,7 +65,6 @@
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Spiteful Banditry"/>
         <card number="1" name="Klauth's Will"/>
-        <card number="1" name="Seedborn Muse"/>
         <card number="1" name="Dawn's Truce"/>
         <card number="1" name="Pyrohemia"/>
         <card number="1" name="Flawless Maneuver"/>
@@ -80,10 +74,8 @@
         <card number="1" name="Screaming Nemesis"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Kessig Wolf Run"/>
-        <card number="1" name="Setessan Tactics"/>
         <card number="1" name="Cacophodon"/>
         <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Genesis"/>
         <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Unexplained Absence"/>
         <card number="1" name="Chaos Warp"/>
@@ -100,8 +92,16 @@
         <card number="1" name="Spiteful Sliver"/>
         <card number="1" name="Saber Ants"/>
         <card number="1" name="Neyith of the Dire Hunt"/>
-        <card number="1" name="Druid's Call"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Pain for All" setShortName="EOE" collectorNumber="151" uuid="d2948913-817b-4715-92d5-ed3cde347be7"/>
+        <card number="1" name="Boros Charm" setShortName="FDN" collectorNumber="721" uuid="e0d8c9f6-cbbd-4694-b100-01cfb81036cc"/>
+        <card number="1" name="Arid Mesa" setShortName="MH2" collectorNumber="244" uuid="25ac5405-df7b-4097-914a-022cb18e20d4"/>
+        <card number="1" name="The Jolly Balloon Man" setShortName="DSK" collectorNumber="219" uuid="a3c4e2e0-1c0e-475d-a0f4-1be4216c2bad"/>
+        <card number="1" name="Patriar's Seal" setShortName="CLB" collectorNumber="332" uuid="37f920f0-4dfc-477b-af7e-a17dfc9ba455"/>
+        <card number="1" name="Asceticism" setShortName="LTC" collectorNumber="233" uuid="bde335c5-0e87-43c9-bef6-423e4d1caf35"/>
+        <card number="1" name="Professor Hojo" setShortName="FIC" collectorNumber="69" uuid="107ffe2e-47eb-43de-bc9e-c68013b62912"/>
+        <card number="1" name="Siegehorn Ceratops" setShortName="PRIX" collectorNumber="171p" uuid="284eccf9-957a-40a7-8f0a-7f71422055e1"/>
+        <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
+        <card number="1" name="Rite of Passage" setShortName="SLD" collectorNumber="1739" uuid="498508dd-fefb-463e-ad13-4cbf9e006b34"/>
     </zone>
 </cockatrice_deck>

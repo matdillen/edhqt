@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Sep 6 00:48:22 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Oct 11 16:43:32 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
@@ -11,11 +11,9 @@
     </zone>
     <zone name="main">
         <card number="1" name="Titanic Brawl"/>
-        <card number="1" name="Cauldron Haze"/>
         <card number="1" name="Lion Sash"/>
         <card number="1" name="Winding Constrictor"/>
         <card number="1" name="Cursed Wombat"/>
-        <card number="1" name="Synchronized Charge"/>
         <card number="1" name="Together Forever"/>
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
@@ -29,7 +27,6 @@
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Branching Evolution"/>
         <card number="1" name="Silkguard"/>
-        <card number="1" name="Sarulf, Realm Eater"/>
         <card number="1" name="Captured by Lagacs"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Selfless Squire"/>
@@ -44,7 +41,6 @@
         <card number="1" name="Damning Verdict"/>
         <card number="1" name="Uncivil Unrest"/>
         <card number="1" name="Forest"/>
-        <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Sacred Foundry"/>
@@ -53,7 +49,6 @@
         <card number="1" name="Badlands"/>
         <card number="1" name="Woodland Cemetery"/>
         <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Fortified Village"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Savannah"/>
@@ -62,7 +57,6 @@
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Savai Triome"/>
         <card number="1" name="Sandsteppe Citadel"/>
-        <card number="1" name="Murmuring Bosk"/>
         <card number="1" name="Ziatora's Proving Ground"/>
         <card number="1" name="Indatha Triome"/>
         <card number="1" name="Nesting Grounds"/>
@@ -71,7 +65,6 @@
         <card number="1" name="Karn's Bastion"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
         <card number="1" name="Revitalizing Repast"/>
-        <card number="1" name="Stocking the Pantry"/>
         <card number="1" name="The Ozolith"/>
         <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Innkeeper's Talent"/>
@@ -84,17 +77,14 @@
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Felisa, Fang of Silverquill"/>
-        <card number="1" name="Atomize"/>
         <card number="1" name="Halana and Alena, Partners"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="All Will Be One"/>
         <card number="1" name="Kalonian Hydra"/>
-        <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
         <card number="1" name="Jenova, Ancient Calamity" setShortName="FIN" collectorNumber="228" uuid="534f98ee-7bc2-44d6-b49f-f57c051807d5"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Exotic Orchard" setShortName="40K" collectorNumber="278" uuid="ec9c7011-694b-4705-b85c-bf4edf26e437"/>
         <card number="1" name="The Earth Crystal" setShortName="FIN" collectorNumber="184" uuid="d585e218-3dc8-4fbd-8ad2-795fbc9b2155"/>
-        <card number="1" name="Sphere Grid" setShortName="FIC" collectorNumber="70" uuid="51188b1d-cb45-40f7-a3c2-5652b0679e02"/>
         <card number="1" name="Season of Gathering" setShortName="BLB" collectorNumber="192" uuid="71dd3c27-e0d5-434e-a0f3-4a95245e21c2"/>
         <card number="1" name="Maester Seymour" setShortName="FIC" collectorNumber="68" uuid="f6a4267b-aa76-4dec-bc72-252236c44968"/>
         <card number="1" name="Herd Heirloom" setShortName="PTDM" collectorNumber="144p" uuid="5579a3ac-7fdb-4204-b44e-fe0174f78cfa"/>
@@ -109,5 +99,15 @@
         <card number="1" name="Agonasaur Rex" setShortName="DFT" collectorNumber="151" uuid="5b11ec26-9e07-45e1-bcaa-5d44d1231586"/>
         <card number="1" name="Bulwark Ox" setShortName="DFT" collectorNumber="7" uuid="106944b2-f3ae-4350-be33-61b9f92fc92f"/>
         <card number="1" name="Loading Zone" setShortName="EOE" collectorNumber="196" uuid="0d2c95bd-79af-4a23-b265-62cc0b164e3e"/>
+        <card number="1" name="Stump Stomp" setShortName="MH3" collectorNumber="259" uuid="49974246-0a3b-4ec9-b5ea-2a89df9bb0b5"/>
+        <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
+        <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
+        <card number="1" name="Boros Charm" setShortName="FDN" collectorNumber="721" uuid="e0d8c9f6-cbbd-4694-b100-01cfb81036cc"/>
+        <card number="1" name="Agatha's Soul Cauldron" setShortName="PWOE" collectorNumber="242p" uuid="cb1bbd0b-a05a-4a6e-83d3-4bd067b7ef3a"/>
+        <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
+        <card number="1" name="Coalition Relic" setShortName="DMC" collectorNumber="180" uuid="ef44324a-32bd-47e9-8fd9-258ba668de53"/>
+        <card number="1" name="Farewell" setShortName="FIC" collectorNumber="242" uuid="4d8b6418-da30-4c68-b87c-3936eb77620c"/>
+        <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
+        <card number="1" name="Ride Down" setShortName="OTP" collectorNumber="52" uuid="f1ec2b59-fbc5-464c-916c-b1accf29867d"/>
     </zone>
 </cockatrice_deck>

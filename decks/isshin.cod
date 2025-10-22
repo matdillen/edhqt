@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Sep 6 01:08:51 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Oct 11 16:07:12 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Isshin, Two Heavens as One</bannerCard>
     <comments></comments>
@@ -49,8 +49,6 @@
         <card number="1" name="Badlands"/>
         <card number="1" name="Savai Triome"/>
         <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Vindicate"/>
-        <card number="1" name="Legions to Ashes"/>
         <card number="1" name="Ankle Shanker"/>
         <card number="1" name="Den of the Bugbear"/>
         <card number="1" name="Skyknight Vanguard"/>
@@ -59,7 +57,6 @@
         <card number="1" name="Mardu Ascendancy"/>
         <card number="1" name="Brutal Hordechief"/>
         <card number="1" name="Skyhunter Strike Force"/>
-        <card number="1" name="Acolyte Hybrid"/>
         <card number="1" name="Glimmer Lens"/>
         <card number="1" name="Firemane Commando"/>
         <card number="1" name="Vault of the Archangel"/>
@@ -90,13 +87,11 @@
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Alesha, Who Laughs at Fate"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Temple of the False God"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Ascend from Avernus"/>
         <card number="1" name="Taunt from the Rampart"/>
         <card number="1" name="Bone-Cairn Butcher"/>
         <card number="1" name="Zurgo, Thunder's Decree"/>
-        <card number="1" name="Mardu Siegebreaker"/>
         <card number="1" name="Avenger of the Fallen"/>
         <card number="1" name="Windcrag Siege"/>
         <card number="1" name="Zurgo Stormrender"/>
@@ -105,6 +100,11 @@
         <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
         <card number="1" name="Chorale of the Void" setShortName="EOE" collectorNumber="91" uuid="7389fe88-f6ff-4497-a037-9ca283fb89e3"/>
+        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
+        <card number="1" name="Battle Angels of Tyr" setShortName="CLB" collectorNumber="9" uuid="4c91dbf4-94fa-45d0-b8ed-a778b11d789b"/>
+        <card number="1" name="Great Train Heist" setShortName="OTJ" collectorNumber="125" uuid="357dd9b2-5d2d-49f6-86f0-f5c4d63474dd"/>
+        <card number="1" name="Deadly Rollick" setShortName="CMM" collectorNumber="147" uuid="0e13f735-54fa-42b6-aea4-ced33811d7d4"/>
+        <card number="1" name="Arabella, Abandoned Doll" setShortName="DSK" collectorNumber="208" uuid="f683d5a1-b8bf-446f-9fe3-88a4398bf3cf"/>
     </zone>
     <zone name="side">
         <card number="1" name="Isshin, Two Heavens as One" setShortName="FCA" collectorNumber="54" uuid="a3baaf97-171a-40c0-a1dc-74ae05db0e25"/>

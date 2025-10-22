@@ -1,5 +1,5 @@
 {
-  "decks_folder": "C:/Users/mdill/AppData/Local/Cockatrice/Cockatrice/decks/edh",
+  "decks_folder": "../decks",
   "db_path": "../../../edhgraph/edhgraph/db/allprintings.sqlite",
   "image_folder": "C:/Users/mdill/AppData/Local/Cockatrice/Cockatrice/pics/downloadedPics",
   "cache_file": "../card_cache.csv"

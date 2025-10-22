@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 14:28:14 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 17 00:24:02 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
@@ -32,7 +32,6 @@
         <card number="1" name="Ketria Triome"/>
         <card number="1" name="Cavern of Souls"/>
         <card number="1" name="Grove of the Burnwillows"/>
-        <card number="1" name="Fire-Lit Thicket"/>
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Taiga"/>
         <card number="1" name="Wooded Foothills"/>
@@ -88,20 +87,21 @@
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Silumgar's Scorn"/>
         <card number="1" name="Dispelling Exhale"/>
         <card number="1" name="Encroaching Dragonstorm"/>
         <card number="1" name="Herd Heirloom"/>
-        <card number="1" name="Deceptive Frostkite"/>
         <card number="1" name="Spark Double"/>
         <card number="1" name="Thundermane Dragon"/>
         <card number="1" name="Frontier Siege"/>
         <card number="1" name="Hammerhead Tyrant"/>
         <card number="1" name="Ureni of the Unwritten"/>
         <card number="1" name="Ureni, the Song Unending"/>
-        <card number="1" name="Transcendent Dragon"/>
         <card number="1" name="Will of the Temur"/>
         <card number="1" name="Bolt Bend" setShortName="WAR" collectorNumber="115" uuid="39b35408-3728-4e1b-9f58-b0775df914d6"/>
+        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
+        <card number="1" name="Mana Drain" setShortName="2X2" collectorNumber="57" uuid="3c429c40-2389-41e5-8681-4bb274e25eba"/>
+        <card number="1" name="Slip Out the Back" setShortName="CLU" collectorNumber="99" uuid="d9d9fbbb-ed6c-45f7-a1d8-f9d29ae7930f"/>
+        <card number="1" name="Selvala's Stampede" setShortName="TDC" collectorNumber="269" uuid="b84e46c2-f3ea-49ff-8f8b-58aa6a1175a4"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Sep 6 00:56:52 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 10 23:05:50 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -9,7 +9,7 @@
         <card number="1" name="Orthion, Hero of Lavabrink"/>
     </zone>
     <zone name="main">
-        <card number="24" name="Mountain"/>
+        <card number="23" name="Mountain"/>
         <card number="1" name="Meteor Golem"/>
         <card number="1" name="Caged Sun"/>
         <card number="1" name="Ancient Copper Dragon"/>
@@ -41,7 +41,6 @@
         <card number="1" name="Voldaren Thrillseeker"/>
         <card number="1" name="Dire Fleet Daredevil"/>
         <card number="1" name="Sundial of the Infinite"/>
-        <card number="1" name="Goblin Cratermaker"/>
         <card number="1" name="Stingscourger"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Humble Defector"/>
@@ -63,7 +62,6 @@
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="War Room"/>
-        <card number="1" name="Patriar's Seal"/>
         <card number="1" name="Fable of the Mirror-Breaker"/>
         <card number="1" name="Pyrogoyf"/>
         <card number="1" name="Lightning Greaves"/>
@@ -75,7 +73,6 @@
         <card number="1" name="Fountainport"/>
         <card number="1" name="Molten Primordial"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Ghired's Belligerence"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Buried Ruin"/>
@@ -85,5 +82,9 @@
         <card number="1" name="Anticausal Vestige" setShortName="EOE" collectorNumber="1" uuid="35372b69-6086-44e0-9f7c-681e362e5142"/>
         <card number="1" name="Dauntless Scrapbot" setShortName="EOE" collectorNumber="237" uuid="0efe5342-42b7-4f49-b4b4-d77055508c4d"/>
         <card number="1" name="Tannuk, Steadfast Second" setShortName="EOE" collectorNumber="162" uuid="44607ed3-9523-40ac-9f61-0edd011cf762"/>
+        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
+        <card number="1" name="Imperial Recruiter" setShortName="MH2" collectorNumber="281" uuid="05bd329b-5707-42fc-af1c-084cc604e805"/>
+        <card number="1" name="Industrial Advancement" setShortName="NCC" collectorNumber="47" uuid="81f1416c-48bd-4168-aacd-a9b0a3afb8bc"/>
+        <card number="1" name="Siege-Gang Commander" setShortName="BLC" collectorNumber="202" uuid="0befe0f5-ff7c-441a-9bb2-cbe919be10ad"/>
     </zone>
 </cockatrice_deck>

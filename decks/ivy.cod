@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Sep 1 11:53:26 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 19 20:04:55 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="d94c15b7-6c8f-45a6-8734-975e3e3b790c">Ivy, Gleeful Spellthief</bannerCard>
     <comments></comments>
@@ -10,26 +10,20 @@
     </zone>
     <zone name="main">
         <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
-        <card number="1" name="Viridescent Wisps" setShortName="SHM" collectorNumber="132" uuid="6c33871f-0e6a-4616-b484-e79b1945255f"/>
         <card number="1" name="Slip Out the Back" setShortName="CLU" collectorNumber="99" uuid="d9d9fbbb-ed6c-45f7-a1d8-f9d29ae7930f"/>
         <card number="1" name="Cerulean Wisps" setShortName="PLST" collectorNumber="SHM-31" uuid="2087a109-8f5f-4493-b5a4-1f1396ddd2d9"/>
-        <card number="1" name="Slip Through Space" setShortName="PLST" collectorNumber="OGW-47" uuid="0fc0a593-580c-405c-803e-2f13aa74ab5e"/>
-        <card number="1" name="Fleeting Distraction" setShortName="FDN" collectorNumber="155" uuid="c0b86a7b-4912-43a7-ab89-c3432385baa1"/>
         <card number="1" name="Twisted Image" setShortName="PLST" collectorNumber="SOM-50" uuid="7705b895-1b73-4cd1-bbf8-bf359edc67b0"/>
-        <card number="1" name="Spider Umbra" setShortName="UMA" collectorNumber="184" uuid="762b8d61-53c9-41e1-aaa7-098b91d9b938"/>
         <card number="1" name="Berserk" setShortName="30A" collectorNumber="181" uuid="b5474dc6-d81e-4d10-81b9-84135ae8dd21"/>
         <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
         <card number="1" name="Invigorate" setShortName="GN3" collectorNumber="99" uuid="07554910-a145-4c6a-b686-d1b5ce46f126"/>
         <card number="1" name="Keen Sense" setShortName="PLST" collectorNumber="PLC-152" uuid="83767c02-8553-4a9d-8818-ff3e5d068451"/>
         <card number="1" name="Curiosity" setShortName="PLST" collectorNumber="8ED-72" uuid="566ac9ab-f62f-4bc9-bb5b-8f8c7e397e0a"/>
         <card number="1" name="Rancor" setShortName="2X2" collectorNumber="156" uuid="86d6b411-4a31-4bfc-8dd6-e19f553bb29b"/>
-        <card number="1" name="River Boa" setShortName="PLST" collectorNumber="ZEN-180" uuid="2f252a5f-e7da-4238-b51a-026c73e5a77b"/>
         <card number="1" name="Fumble" setShortName="PLST" collectorNumber="BBD-34" uuid="c4b93377-414a-4198-b017-27fb2a173330"/>
         <card number="1" name="Lofty Denial" setShortName="M21" collectorNumber="56" uuid="64832674-beb1-446e-b2f7-8a5e271139a5"/>
         <card number="1" name="Sanctum Weaver" setShortName="CMM" collectorNumber="910" uuid="3c9ac089-6962-48fd-bf67-f041ece27fa9"/>
         <card number="1" name="Dreampod Druid" setShortName="PLST" collectorNumber="PC2-64" uuid="6ef36eb5-b9a9-4c8d-92d4-847a8ed8933f"/>
         <card number="1" name="Spellwild Ouphe" setShortName="FUT" collectorNumber="151" uuid="231eb017-2945-4915-8032-c09894e88d49"/>
-        <card number="1" name="Simic Charm" setShortName="EA3" collectorNumber="10" uuid="0fc5df7c-6620-4a37-8869-e5d6bc42374d"/>
         <card number="1" name="Repulsive Mutation" setShortName="MKM" collectorNumber="227" uuid="71701c28-f113-4d38-8fd3-a19cd9749661"/>
         <card number="1" name="Parcelbeast" setShortName="PLST" collectorNumber="IKO-304" uuid="780c0087-f745-4ffa-924c-139d5fde4282"/>
         <card number="1" name="Sea-Dasher Octopus" setShortName="HBG" collectorNumber="912" uuid="5e248d88-21ef-4225-a6fb-06853bab04a7"/>
@@ -40,39 +34,31 @@
         <card number="1" name="Amphibian Downpour" setShortName="MH3" collectorNumber="51" uuid="2d8aeca5-622a-45be-8168-07e7c00e3092"/>
         <card number="1" name="Entity Tracker" setShortName="DSK" collectorNumber="53" uuid="ae54d697-6d06-4af1-a617-8a47a6ab9c01"/>
         <card number="1" name="Setessan Champion" setShortName="CMM" collectorNumber="912" uuid="7680a8e1-cd59-43c5-8f06-426b918692c8"/>
-        <card number="1" name="Tanglespan Lookout" setShortName="WOE" collectorNumber="188" uuid="3bc5c32d-be0a-4a5f-a8c7-9767a895bc76"/>
         <card number="1" name="Kodama of the West Tree" setShortName="J25" collectorNumber="78" uuid="a4f53a56-eb8e-44cd-ab13-8ac068052c68"/>
         <card number="1" name="Wavecrash Triton" setShortName="THS" collectorNumber="74" uuid="7336ca1e-13ef-4e49-a526-3f285bc339bb"/>
-        <card number="1" name="Cold-Eyed Selkie" setShortName="AFC" collectorNumber="183" uuid="b85d0834-065b-45e1-b739-08d5a5a4db2a"/>
-        <card number="1" name="Tower Above" setShortName="PLST" collectorNumber="SHM-131" uuid="a6f58afe-21a1-4a9a-89ed-907d323e9780"/>
-        <card number="1" name="Repudiate // Replicate" setShortName="RVR" collectorNumber="249" uuid="595332bf-6d3d-4240-974c-f87832954068"/>
         <card number="1" name="Migratory Greathorn" setShortName="IKO" collectorNumber="165" uuid="6a2a287b-b83f-444f-84f7-e388beb616c2"/>
         <card number="1" name="Gemrazer" setShortName="PIP" collectorNumber="351" uuid="8c89a613-2a48-4953-8e45-9afaebdf84bc"/>
         <card number="1" name="Shielding Plax" setShortName="AFC" collectorNumber="192" uuid="81e632d8-ee9c-4635-9654-4d6405cb0bf2"/>
         <card number="1" name="Curator's Ward" setShortName="DOM" collectorNumber="49" uuid="10cc417f-0ea7-47a8-b7d0-aa8d20168faf"/>
-        <card number="1" name="Ophidian Eye" setShortName="PLST" collectorNumber="TSP-70" uuid="d3c58997-5555-423a-822e-749fac90e392"/>
         <card number="1" name="Snake Umbra" setShortName="NEC" collectorNumber="130" uuid="106d17d6-5ef2-4634-8dd6-790b12574042"/>
         <card number="1" name="Ancestral Mask" setShortName="PLST" collectorNumber="EMA-157" uuid="1e89f357-c508-4cde-8584-79d49e471f6c"/>
         <card number="1" name="Eidolon of Blossoms" setShortName="CMM" collectorNumber="892" uuid="f882aa63-d43c-4359-9de6-77231500a08e"/>
         <card number="1" name="Nyxborn Behemoth" setShortName="CMM" collectorNumber="742" uuid="b9f1dbdc-e590-48a4-bc52-e9e4e907fb82"/>
         <card number="1" name="Adrix and Nev, Twincasters" setShortName="MKC" collectorNumber="198" uuid="b9c11061-bb34-4904-b9f1-ea106b517bbe"/>
-        <card number="1" name="Iridescent Drake" setShortName="UMA" collectorNumber="59" uuid="5c99c962-aa33-4e19-96b2-7a05b97d06d4"/>
         <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Sakashima of a Thousand Faces" setShortName="CMR" collectorNumber="89" uuid="714c3a1f-7b30-4ed8-8f38-6176758741fb"/>
-        <card number="1" name="Stonewood Invocation" setShortName="TSP" collectorNumber="223" uuid="1b300e67-04d2-4c69-b516-c5cc0a6ff2e7"/>
         <card number="1" name="Dreamtail Heron" setShortName="PLST" collectorNumber="IKO-47" uuid="39be4040-d32a-42ef-91cf-8d86ecbb4979"/>
         <card number="1" name="Pouncing Shoreshark" setShortName="HBG" collectorNumber="908" uuid="930bc76c-f760-4bf5-b269-9344cbecc6fa"/>
         <card number="1" name="Sawtusk Demolisher" setShortName="HA4" collectorNumber="16" uuid="a34a1550-183a-4f7d-ba28-f3249e13a9d6"/>
         <card number="1" name="Nyxborn Hydra" setShortName="MH3" collectorNumber="164" uuid="902a969e-9f22-4e92-93eb-9d4536ca82e5"/>
         <card number="1" name="Bear Umbra" setShortName="NEC" collectorNumber="113" uuid="5a195fb1-f2e9-4e05-8a04-c335e1afbef6"/>
         <card number="1" name="Flight of Fancy" setShortName="PLST" collectorNumber="RAV-49" uuid="2e948c4e-99c9-49a1-880b-1385f2ca1c3f"/>
-        <card number="1" name="Willbreaker" setShortName="ORI" collectorNumber="84" uuid="2465eafc-453c-4e4f-b369-0951b8a4b7bf"/>
         <card number="1" name="Hraesvelgr of the First Brood" setShortName="FIC" collectorNumber="37" uuid="abcfefe3-c66d-4512-bcc3-c9a39cfbb983"/>
         <card number="1" name="Hunter's Prowess" setShortName="PIO" collectorNumber="381" uuid="eaed6237-cd12-4fea-854b-0b001a82d570"/>
         <card number="1" name="Boon Satyr" setShortName="PIO" collectorNumber="167" uuid="a380d201-e5cd-49b2-8bcd-fdeeb912d023"/>
         <card number="1" name="Verdant Embrace" setShortName="AFC" collectorNumber="173" uuid="57233676-f03f-4739-a1fb-8fed7e6c649f"/>
         <card number="1" name="Auspicious Starrix" setShortName="IKO" collectorNumber="144" uuid="a39ae1e4-d4dd-4691-af5a-5fa25ace4ebe"/>
-        <card number="12" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="11" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="1" name="Tropical Island" setShortName="30A" collectorNumber="279" uuid="2d9d4f2e-5a41-410d-b1c3-47e4aca07177"/>
         <card number="13" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
@@ -86,5 +72,19 @@
         <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
         <card number="1" name="Springheart Nantuko" setShortName="MH3" collectorNumber="171" uuid="54a3ea87-005e-4985-b2a5-21711d0b71c0"/>
         <card number="1" name="Gargos, Vicious Watcher" setShortName="SLD" collectorNumber="1329" uuid="574057d5-d4a3-4d51-9f53-830d533426b2"/>
+        <card number="1" name="Archipelagore" setShortName="HBG" collectorNumber="902" uuid="e9271e06-dc75-43de-a288-38137fdb3c75"/>
+        <card number="1" name="Glowstone Recluse" setShortName="IKO" collectorNumber="156" uuid="06a9698d-400c-4c31-82cd-28d0897fe28c"/>
+        <card number="1" name="Toski, Bearer of Secrets" setShortName="BLC" collectorNumber="244" uuid="0b261989-b34e-4bba-90f8-2adfda58c89b"/>
+        <card number="1" name="Triton Wavebreaker" setShortName="MH3" collectorNumber="74" uuid="41e68700-c71c-46db-b6a4-beae924cf97a"/>
+        <card number="1" name="Season of Growth" setShortName="PLST" collectorNumber="M20-191" uuid="5da608ff-6164-44f0-bb43-c5d26a9a6696"/>
+        <card number="1" name="Gnarlback Rhino" setShortName="2X2" collectorNumber="148" uuid="c3009640-23b1-49ce-a51b-982a48602c1d"/>
+        <card number="1" name="Errant, Street Artist" setShortName="PSNC" collectorNumber="41p" uuid="8e3d171f-80a8-4968-a9cd-42fca12cb506"/>
+        <card number="1" name="Stormchaser Drake" setShortName="DBL" collectorNumber="349" uuid="39f5226b-6343-40e0-a162-ca19818d8096"/>
+        <card number="1" name="Charge Through" setShortName="PLST" collectorNumber="STX-124" uuid="4e083cc9-e3df-4226-a842-1d6303d0faa6"/>
+        <card number="1" name="Bridgeworks Battle" setShortName="MH3" collectorNumber="249" uuid="ebef3db0-2b58-4581-a79c-fbca9a059e63"/>
+        <card number="1" name="Simic Charm" setShortName="EA3" collectorNumber="10" uuid="0fc5df7c-6620-4a37-8869-e5d6bc42374d"/>
+        <card number="1" name="Become Immense" setShortName="PLST" collectorNumber="KTK-130" uuid="96e32a8c-6f5b-40e3-ab24-8296275df295"/>
+        <card number="1" name="Asinine Antics" setShortName="PWOE" collectorNumber="42p" uuid="33b4062c-c6ba-4bb7-a56a-bf35c2ea64b7"/>
+        <card number="1" name="Artisan of Forms" setShortName="PIO" collectorNumber="46" uuid="3c86775d-2d5d-4dfc-aebc-d865aca0d2a5"/>
     </zone>
 </cockatrice_deck>

@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 20:48:03 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Tue Oct 21 01:41:37 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
-        <card number="1" name="Shambling Ghast"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Transmogrant's Crown"/>
         <card number="1" name="Undead Augur"/>
-        <card number="1" name="Orzhov Enforcer"/>
         <card number="1" name="Abyssal Gatekeeper"/>
         <card number="1" name="Spawning Pit"/>
         <card number="1" name="Zulaport Cutthroat"/>
@@ -20,25 +17,21 @@
         <card number="1" name="Hallowed Spiritkeeper"/>
         <card number="1" name="Attrition"/>
         <card number="1" name="Vindicate"/>
-        <card number="1" name="Anguished Unmaking"/>
         <card number="1" name="Corpse Augur"/>
         <card number="1" name="Falkenrath Noble"/>
-        <card number="1" name="Mondrak, Glory Dominus"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Grave Pact"/>
-        <card number="1" name="Anointed Procession"/>
         <card number="1" name="Archon of Justice"/>
         <card number="1" name="Ao, the Dawn Sky"/>
         <card number="1" name="Kaya the Inexorable"/>
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Ogre Slumlord"/>
         <card number="1" name="Dictate of Erebos"/>
-        <card number="1" name="Yosei, the Morning Star"/>
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Massacre Wurm"/>
         <card number="1" name="Harvester of Souls"/>
         <card number="6" name="Plains"/>
-        <card number="5" name="Swamp"/>
+        <card number="4" name="Swamp"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Silent Clearing"/>
@@ -61,7 +54,6 @@
         <card number="1" name="Cruel Celebrant"/>
         <card number="1" name="Ministrant of Obligation"/>
         <card number="1" name="Liliana, Dreadhorde General"/>
-        <card number="1" name="Divine Visitation"/>
         <card number="1" name="The Meathook Massacre"/>
         <card number="1" name="Black Market"/>
         <card number="1" name="Body Launderer"/>
@@ -81,7 +73,6 @@
         <card number="1" name="Ashen Rider"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Woe Strider"/>
-        <card number="1" name="Morbid Opportunist"/>
         <card number="1" name="Illustrious Wanderglyph"/>
         <card number="1" name="Agadeem's Awakening"/>
         <card number="1" name="Warren Soultrader"/>
@@ -96,6 +87,16 @@
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Land Tax"/>
         <card number="1" name="Sothera, the Supervoid" setShortName="EOE" collectorNumber="115" uuid="e99d6fc0-dcf2-4b25-81c2-02c230a36246"/>
+        <card number="1" name="Wurmcoil Engine" setShortName="BRR" collectorNumber="63" uuid="219f1f03-e882-40ca-8854-1e466e37b8cd"/>
+        <card number="1" name="Elas il-Kor, Sadistic Pilgrim" setShortName="DMU" collectorNumber="198" uuid="1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019"/>
+        <card number="1" name="Lurrus of the Dream-Den" setShortName="MUL" collectorNumber="51" uuid="4b32771b-d89f-46b1-8c70-95a4f058ef05"/>
+        <card number="1" name="Abstruse Appropriation" setShortName="MH3" collectorNumber="177" uuid="d7149359-bb3f-413c-b21d-e4cd88618e56"/>
+        <card number="1" name="Scholarship Sponsor" setShortName="C21" collectorNumber="22" uuid="ed238d90-72b5-44c4-bea7-20f71788088f"/>
+        <card number="1" name="Martyr's Bond" setShortName="PLST" collectorNumber="CMD-19" uuid="269855ee-f3bb-467f-8861-7ea4d5210a8c"/>
+        <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
+        <card number="1" name="Morbid Opportunist" setShortName="BLC" collectorNumber="183" uuid="318370d0-1c12-4228-b2c9-2a766e234091"/>
+        <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
+        <card number="1" name="Hall of Heliod's Generosity" setShortName="DSC" collectorNumber="283" uuid="f08dfd99-59fa-4a6c-bd69-c647f639de4d"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

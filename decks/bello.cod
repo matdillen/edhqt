@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Sep 6 10:12:56 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 12 18:45:33 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="31e4b7a1-b377-49d2-a92e-4bcb0db35f16">Bello, Bard of the Brambles</bannerCard>
     <comments></comments>
@@ -38,7 +38,6 @@
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Arasta of the Endless Web" setShortName="BLC" collectorNumber="205" uuid="6dda8d6b-fd31-4908-a953-20c180a33e56"/>
         <card number="1" name="Fade from History" setShortName="BRO" collectorNumber="177" uuid="71f13f67-e852-4a6a-8f32-b16195e53ec3"/>
-        <card number="1" name="RMS Titanic" setShortName="WHO" collectorNumber="93" uuid="3f5bcf60-f956-4e0d-beb7-a7f5c1c83692"/>
         <card number="1" name="Purphoros, God of the Forge" setShortName="CMM" collectorNumber="246" uuid="4736a2c4-c89c-48db-a104-6303e7e2eee8"/>
         <card number="1" name="Blood Mist" setShortName="INR" collectorNumber="143" uuid="2c01ef93-f41a-406f-91fc-f015b6014575"/>
         <card number="1" name="Thran Dynamo" setShortName="BLC" collectorNumber="290" uuid="6455b185-aa5e-45e1-951e-f6eef517daf2"/>
@@ -55,16 +54,12 @@
         <card number="1" name="Kazuul, Tyrant of the Cliffs" setShortName="CLB" collectorNumber="800" uuid="4ce569cd-964e-44d6-a155-5a853ccc1478"/>
         <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
         <card number="1" name="Alhammarret's Archive" setShortName="PLST" collectorNumber="ORI-221" uuid="810c91b8-6b2f-469f-8fd1-568885178c9b"/>
-        <card number="1" name="Mind's Eye" setShortName="BRR" collectorNumber="33" uuid="1a563a5d-2619-445c-b72e-d588e82e0900"/>
         <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
         <card number="1" name="Subterranean Tremors" setShortName="PZ2" collectorNumber="30" uuid="0a61707a-9952-4304-ad72-521194e410d8"/>
         <card number="1" name="Wildsear, Scouring Maw" setShortName="BLC" collectorNumber="8" uuid="48494ef9-5eb3-4b55-ad1d-b32bbed89ca5"/>
         <card number="1" name="Glorious Sunrise" setShortName="DBL" collectorNumber="467" uuid="3b1f7506-fe59-4901-98a2-131e0d3a54cd"/>
         <card number="1" name="Incite Rebellion" setShortName="CM2" collectorNumber="108" uuid="3633c759-f86a-436d-b54d-0d6c9ef14b63"/>
-        <card number="1" name="Haphazard Bombardment" setShortName="DOM" collectorNumber="131" uuid="e558a5bd-e8f9-477f-a514-1bf0708f4e9e"/>
         <card number="1" name="Full Throttle" setShortName="DFT" collectorNumber="127" uuid="d91f7cad-89e8-45cb-a78e-b35b0ee64783"/>
-        <card number="1" name="Warstorm Surge" setShortName="40K" collectorNumber="209" uuid="1706ca09-1fdb-47d5-b31b-b4637a0ef5da"/>
-        <card number="1" name="Rage Reflection" setShortName="PLST" collectorNumber="SHM-104" uuid="84ef99c0-1a33-473a-80ff-bfe5544e7784"/>
         <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
         <card number="1" name="Bane of Progress" setShortName="FIC" collectorNumber="299" uuid="5fc6876d-7441-42ac-b9a1-c10a0f6a387a"/>
         <card number="1" name="Sight of the Scalelords" setShortName="DTK" collectorNumber="207" uuid="b5921758-4e21-4d34-8cf7-b0205d4b0912"/>
@@ -88,6 +83,11 @@
         <card number="1" name="Unnatural Growth" setShortName="BLC" collectorNumber="245" uuid="5a9d47cc-157b-4070-ae00-da1c5d7b94de"/>
         <card number="1" name="The Regalia" setShortName="FIN" collectorNumber="267" uuid="dc420e79-c483-474f-97cd-e9c6a636c306"/>
         <card number="1" name="Pyreswipe Hawk" setShortName="BLC" collectorNumber="26" uuid="0cf88f89-9490-4477-b632-85c513e8c749"/>
+        <card number="1" name="Snake Pit" setShortName="PLST" collectorNumber="MMQ-271" uuid="baddb39b-c31f-48e4-8d43-1cc46a713416"/>
+        <card number="1" name="Deathleaper, Terror Weapon" setShortName="40K" collectorNumber="115" uuid="9819d50f-aae8-4e92-8dab-01eebace3c1e"/>
+        <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
+        <card number="1" name="Esika's Chariot" setShortName="BLC" collectorNumber="215" uuid="1f2514c2-c0c7-44f3-ab9d-48b227f039db"/>
+        <card number="1" name="Predatory Advantage" setShortName="ARB" collectorNumber="58" uuid="595ae3af-cc28-407a-a045-a6d71cd6be60"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bello, Bard of the Brambles" setShortName="BLC" collectorNumber="1" uuid="31e4b7a1-b377-49d2-a92e-4bcb0db35f16"/>

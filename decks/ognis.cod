@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Jun 25 00:50:10 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 12 15:16:44 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Ognis, the Dragon's Lash</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
         <card number="1" name="Tarrian's Journal"/>
-        <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Dolmen Gate"/>
-        <card number="1" name="Nature's Lore"/>
         <card number="1" name="Stormclaw Rager"/>
         <card number="1" name="Mayhem Devil"/>
         <card number="1" name="Braids, Arisen Nightmare"/>
@@ -22,14 +20,12 @@
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Falkenrath Aristocrat"/>
         <card number="1" name="Whip of Erebos"/>
-        <card number="1" name="Guardian Project"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Hate Mirage"/>
         <card number="1" name="Minsc &amp; Boo, Timeless Heroes"/>
         <card number="1" name="Macabre Mockery"/>
         <card number="1" name="Vengevine"/>
         <card number="1" name="Goblin Heelcutter"/>
-        <card number="1" name="Flameshadow Conjuring"/>
         <card number="1" name="The Gitrog, Ravenous Ride"/>
         <card number="1" name="Mass Mutiny"/>
         <card number="1" name="Clackbridge Troll"/>
@@ -74,7 +70,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Rockfall Vale"/>
-        <card number="1" name="Beast Within"/>
         <card number="1" name="Xorn"/>
         <card number="1" name="Samut, Vizier of Naktamun"/>
         <card number="1" name="Kellogg, Dangerous Mind"/>
@@ -97,6 +92,11 @@
         <card number="1" name="Realm-Scorcher Hellkite"/>
         <card number="1" name="Exotic Orchard" setShortName="40K" collectorNumber="278" uuid="ec9c7011-694b-4705-b85c-bf4edf26e437"/>
         <card number="1" name="Open the Way" setShortName="MAT" collectorNumber="23" uuid="e72a911e-8291-48ca-bfc6-8907e3b57011"/>
+        <card number="1" name="Devastating Onslaught" setShortName="EOE" collectorNumber="132" uuid="fc779971-24e2-46a8-86be-16f0b244a3d2"/>
+        <card number="1" name="Coiling Rebirth" setShortName="BLB" collectorNumber="86" uuid="96d5de3e-0440-4dd1-899c-ab40c0752343"/>
+        <card number="1" name="Detective's Phoenix" setShortName="MH3" collectorNumber="116" uuid="e2a01edd-dbc0-4ed4-b827-9b608290e9a1"/>
+        <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
+        <card number="1" name="Jolene, the Plunder Queen" setShortName="NCC" collectorNumber="73" uuid="61c217d9-21d5-45ef-938a-138192a901f4"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ognis, the Dragon's Lash"/>

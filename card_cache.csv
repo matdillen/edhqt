@@ -1,1356 +1,1696 @@
-name,subtypes,manaValue
-island,Island,0.0
-mystic sanctuary,Island,0.0
-maze of ith,,0.0
-riptide laboratory,,0.0
-"nykthos, shrine to nyx",,0.0
-nesting grounds,,0.0
-lórien revealed,,5.0
-an offer you can't refuse,,1.0
-pongify,,1.0
-suspend,,1.0
-piracy charm,,1.0
-aquitect's will,Merfolk,1.0
-snapcaster mage,"Human, Wizard",2.0
-pollywog prodigy,"Frog, Wizard",2.0
-sea gate stormcaller,"Human, Wizard",2.0
-reality shift,,2.0
-thunderclap drake,Drake,2.0
-arcane signet,,2.0
-counterspell,,2.0
-cyber conversion,,2.0
-teferi's time twist,,2.0
-snap,,2.0
-gilded drake,Drake,2.0
-capsize,,3.0
-archmage's charm,,3.0
-tempest djinn,Djinn,3.0
-wavebreak hippocamp,"Horse, Fish",3.0
-geyser drake,Drake,3.0
-back to basics,,3.0
-loxodon warhammer,Equipment,3.0
-chrome host seedshark,"Phyrexian, Shark",3.0
-vedalken shackles,,3.0
-burnished hart,Elk,3.0
-commander's sphere,,3.0
-seasinger,Merfolk,3.0
-case of the ransacked lab,Case,3.0
-forbid,,3.0
-frantic search,,3.0
-unwind,,3.0
-blue sun's twilight,,2.0
-entrancing melody,,2.0
-illithid harvester // plant tadpoles,Horror,5.0
-curse of the swine,,2.0
-displacement wave,,2.0
-pull from tomorrow,,2.0
-mindsplice apparatus,,4.0
-sakashima the impostor,"Human, Rogue",4.0
-displacer kitten,"Cat, Beast",4.0
-inscription of insight,,4.0
-aetherize,,4.0
-reins of power,,4.0
-leyline of singularity,,4.0
-cryptic command,,4.0
-rewind,,4.0
-floodgate,Wall,4.0
-blatant thievery,,7.0
-invoke the winds,,5.0
-desertion,,5.0
-force of will,,5.0
-flood of tears,,6.0
-metallurgic summonings,,5.0
-the mirari conjecture,Saga,5.0
-mass manipulation,,4.0
-flow of ideas,,6.0
-flow of knowledge,,5.0
-consecrated sphinx,Sphinx,6.0
-scourge of fleets,Kraken,7.0
-"deekah, fractal theorist","Human, Wizard",5.0
-rise from the tides,,6.0
-"charix, the raging isle","Leviathan, Crab",4.0
-finale of revelation,,2.0
-the flood of mars,"Alien, Zombie, Horror",4.0
-twilight shepherd,Angel,6.0
-sunblast angel,Angel,6.0
-austere command,,6.0
-great desert prospector,"Human, Artificer",5.0
-sun titan,Giant,6.0
-cataclysmic gearhulk,Construct,5.0
-damning verdict,,5.0
-woodfall primus,"Treefolk, Shaman",8.0
-hero of goma fada,"Human, Knight, Ally",5.0
-deadwood treefolk,Treefolk,6.0
-titan of industry,Elemental,7.0
-thragtusk,Beast,5.0
-acidic slime,Ooze,5.0
-palace jailer,"Human, Soldier",4.0
-selfless squire,"Human, Soldier",4.0
-glorious protector,"Angel, Cleric",4.0
-teleportation circle,,4.0
-restoration angel,Angel,4.0
-stonehorn dignitary,"Rhino, Soldier",4.0
-solemn simulacrum,Golem,4.0
-druid of purification,"Human, Druid",4.0
-undermountain adventurer,"Giant, Warrior",4.0
-kozilek's predator,"Eldrazi, Drone",4.0
-"yasharn, implacable earth","Elemental, Boar",4.0
-white plume adventurer,"Orc, Cleric",3.0
-mangara of corondor,"Human, Wizard",3.0
-flickerwisp,Elemental,3.0
-skyclave apparition,"Kor, Spirit",3.0
-eternal witness,"Human, Shaman",3.0
-wood elves,"Elf, Scout",3.0
-aura shards,,3.0
-beast within,,3.0
-"selvala, heart of the wilds","Elf, Scout",3.0
-llanowar visionary,"Elf, Druid",3.0
-knight of autumn,"Dryad, Knight",3.0
-charming prince,"Human, Noble",2.0
-ephemerate,,1.0
-samwise the stouthearted,"Halfling, Peasant",2.0
-cloudshift,,1.0
-wall of roots,"Plant, Wall",2.0
-sunpetal grove,,0.0
-rogue's passage,,0.0
-horizon canopy,,0.0
-endless sands,Desert,0.0
-karn's bastion,,0.0
-forest,Forest,0.0
-plains,Plains,0.0
-temple garden,"Forest, Plains",0.0
-savannah,"Forest, Plains",0.0
-overgrown farmland,,0.0
-panharmonicon,,4.0
-farewell,,6.0
-the great henge,,9.0
-kodama of the east tree,Spirit,6.0
-guardian project,,4.0
-salvation swan,"Bird, Cleric",4.0
-clifftop lookout,"Frog, Scout",3.0
-lae'zel's acrobatics,,4.0
-guardian of faith,"Spirit, Knight",3.0
-"preston, the vanisher","Rabbit, Wizard",4.0
-conjurer's closet,,5.0
-"beza, the bounding spring","Elemental, Elk",4.0
-cavalier of dawn,"Elemental, Knight",5.0
-solitude,"Elemental, Incarnation",5.0
-unidentified hovership,Vehicle,3.0
-eerie interlude,,3.0
-seedborn muse,Spirit,5.0
-aven interrupter,"Bird, Rogue",3.0
-hornet queen,Insect,7.0
-avenger of zendikar,Elemental,7.0
-blessed sanctuary,,5.0
-akroma's will,,4.0
-god-eternal rhonas,"Zombie, God",5.0
-overlord of the hauntwoods,"Avatar, Horror",5.0
-saltcrusted steppe,,0.0
-windswept heath,,0.0
-swamp,Swamp,0.0
-bojuka bog,,0.0
-shambling vent,,0.0
-seraph sanctuary,,0.0
-arcane lighthouse,,0.0
-silent clearing,,0.0
-radiant fountain,,0.0
-scoured barrens,,0.0
-buried ruin,,0.0
-caves of koilos,,0.0
-godless shrine,"Plains, Swamp",0.0
-basilisk collar,Equipment,1.0
-leonin elder,"Cat, Cleric",1.0
-cleric class,Class,1.0
-soul warden,"Human, Cleric",1.0
-soul's attendant,"Human, Cleric",1.0
-swords to plowshares,,1.0
-sun droplet,,2.0
-tablet of the guilds,,2.0
-orzhov signet,,2.0
-damn,,2.0
-despark,,2.0
-vanishing verse,,2.0
-felidar umbra,Aura,2.0
-auriok champion,"Human, Cleric",2.0
-dawn of hope,,2.0
-suture priest,"Phyrexian, Cleric",2.0
-"daxos, blessed by the sun",Demigod,2.0
-blood artist,Vampire,2.0
-pristine talisman,,3.0
-vindicate,,3.0
-"kambal, consul of allocation","Human, Advisor",3.0
-lurrus of the dream-den,"Cat, Nightmare",3.0
-"heliod, sun-crowned",God,3.0
-stroke of midnight,,3.0
-celestial unicorn,Unicorn,3.0
-"delney, streetwise lookout","Human, Scout",3.0
-blessing of leeches,Aura,3.0
-toxic deluge,,3.0
-phyrexian arena,,3.0
-utter end,,4.0
-ajani's pridemate,"Cat, Soldier",2.0
-sangromancer,"Vampire, Shaman",4.0
-astarion's thirst,,4.0
-"sheoldred, the apocalypse","Phyrexian, Praetor",4.0
-greed,,4.0
-aetherflux reservoir,,4.0
-well of lost dreams,,4.0
-paradise plume,,4.0
-archangel of thune,Angel,5.0
-shattered angel,"Phyrexian, Angel",5.0
-sunscorch regent,Dragon,5.0
-righteous cause,,5.0
-return to the ranks,,2.0
-patron of the kitsune,Spirit,6.0
-"urborg, tomb of yawgmoth",,0.0
-exemplar of light,Angel,4.0
-raise the past,,4.0
-"sorin, vengeful bloodlord",Sorin,4.0
-"ajani, strength of the pride",Ajani,4.0
-crypt ghast,Spirit,4.0
-witch of the moors,"Human, Warlock",5.0
-polluted bonds,,5.0
-exquisite blood,,5.0
-bloodthirsty conqueror,"Vampire, Knight",5.0
-elenda's hierophant,"Vampire, Cleric",3.0
-black market connections,,3.0
-flawless maneuver,,3.0
-enduring innocence,"Sheep, Glimmer",3.0
-spectrum sentinel,Soldier,1.0
-authority of the consuls,,1.0
-guide of souls,"Human, Cleric",1.0
-case of the uneaten feast,Case,1.0
-blind obedience,,2.0
-amalia benavides aguirre,"Vampire, Scout",2.0
-voice of the blessed,"Spirit, Cleric",2.0
-essence channeler,"Bat, Cleric",2.0
-witch's clinic,,0.0
-castle locthwain,,0.0
-vault of the archangel,,0.0
-"ugin, the ineffable",Ugin,6.0
-"ugin, the spirit dragon",Ugin,8.0
-karn liberated,Karn,7.0
-"chandra, awakened inferno",Chandra,6.0
-shark typhoon,,6.0
-karn's temporal sundering,,6.0
-sarkhan the masterless,Sarkhan,5.0
-oath of gideon,,3.0
-oath of teferi,,5.0
-urza's ruinous blast,,5.0
-"jace, the mind sculptor",Jace,4.0
-"chandra, torch of defiance",Chandra,4.0
-ajani vengeant,Ajani,4.0
-the wandering emperor,,4.0
-"elspeth, knight-errant",Elspeth,4.0
-arena rector,"Human, Cleric",4.0
-thran temporal gateway,,4.0
-nevinyrral's disk,,4.0
-wrath of god,,4.0
-supreme verdict,,4.0
-dack fayden,Dack,3.0
-"narset, parter of veils",Narset,3.0
-"teferi, time raveler",Teferi,3.0
-"lae'zel, vlaakith's champion","Gith, Warrior",3.0
-flux channeler,"Human, Wizard",3.0
-propaganda,,3.0
-ghostly prison,,3.0
-rings of brighthearth,,3.0
-honor-worn shaku,,3.0
-chaos warp,,3.0
-arena of the ancients,,3.0
-dovin's veto,,2.0
-experimental augury,,2.0
-izzet signet,,2.0
-boros signet,,2.0
-azorius signet,,2.0
-meekstone,,1.0
-tundra,"Plains, Island",0.0
-hallowed fountain,"Plains, Island",0.0
-flooded strand,,0.0
-glacial fortress,,0.0
-volcanic island,"Island, Mountain",0.0
-steam vents,"Island, Mountain",0.0
-sulfur falls,,0.0
-shivan reef,,0.0
-scalding tarn,,0.0
-forge of heroes,,0.0
-kher keep,,0.0
-raugrin triome,"Island, Mountain, Plains",0.0
-command tower,,0.0
-battlefield forge,,0.0
-plateau,"Mountain, Plains",0.0
-arid mesa,,0.0
-mountain,Mountain,0.0
-mirrex,Sphere,0.0
-interplanar beacon,,0.0
-deepglow skate,Fish,5.0
-jaya's phoenix,Phoenix,5.0
-"chandra, legacy of fire",Chandra,5.0
-"elspeth, sun's champion",Elspeth,6.0
-narset of the ancient way,Narset,4.0
-"vronos, masked inquisitor",Vronos,5.0
-all will be one,,5.0
-contagion engine,,6.0
-"teferi, master of time",Teferi,4.0
-savor the moment,,3.0
-the eternal wanderer,,6.0
-"teferi, temporal archmage",Teferi,6.0
-teferi's protection,,3.0
-mana leak,,2.0
-plaza of heroes,,0.0
-kor haven,,0.0
-karmic justice,,3.0
-spark double,Illusion,4.0
-ripples of potential,,2.0
-gatewatch beacon,,3.0
-comeuppance,,4.0
-clifftop retreat,,0.0
-stormcarved coast,,0.0
-sacred foundry,"Mountain, Plains",0.0
-deserted beach,,0.0
-final showdown,,1.0
-resourceful defense,,3.0
-sol ring,,1.0
-island sanctuary,,2.0
-not dead after all,,1.0
-tortured existence,,1.0
-walking ballista,Construct,0.0
-stonecoil serpent,Snake,0.0
-leech gauntlet,"Equipment, Leech",2.0
-myr retriever,Myr,2.0
-liquimetal torque,,2.0
-leaden myr,Myr,2.0
-cranial plating,Equipment,2.0
-network terminal,,3.0
-foundry inspector,Construct,3.0
-palladium myr,Myr,3.0
-attrition,,3.0
-circuit mender,Insect,3.0
-skeleton shard,,3.0
-workshop assistant,Construct,3.0
-scrap trawler,Construct,3.0
-scarecrone,Scarecrow,3.0
-junk diver,Bird,3.0
-corpse dance,,3.0
-haunted crossroads,,3.0
-rug of smothering,Construct,3.0
-etched champion,Soldier,3.0
-phyrexian fleshgorger,"Phyrexian, Wurm",7.0
-moriok replica,Warrior,3.0
-dross golem,Golem,5.0
-phyrexian scriptures,Saga,4.0
-the abyss,,4.0
-mystic forge,,4.0
-krark-clan ironworks,,4.0
-trading post,,4.0
-barbed servitor,Construct,4.0
-masticore,Masticore,4.0
-jhoira's familiar,Bird,4.0
-silent arbiter,Construct,4.0
-"traxos, scourge of kroog",Construct,4.0
-canoptek scarab swarm,Insect,4.0
-terror ballista,Construct,7.0
-golem artisan,Golem,5.0
-manor gargoyle,Gargoyle,5.0
-beacon of unrest,,5.0
-forsaken monument,,5.0
-mirrorworks,,5.0
-mortuary mire,,0.0
-inkmoth nexus,,0.0
-mishra's factory,,0.0
-phyrexia's core,,0.0
-inventors' fair,,0.0
-blinkmoth nexus,,0.0
-razorlash transmogrant,Zombie,2.0
-wurmcoil engine,"Phyrexian, Wurm",6.0
-psychomancer,"Necron, Wizard",2.0
-cyberman patrol,Cyberman,2.0
-chronomancer,"Necron, Wizard",2.0
-"szarekh, the silent king",Necron,4.0
-throne of eldraine,,5.0
-"armix, filigree thrasher",Golem,3.0
-canoptek wraith,Wraith,3.0
-skorpekh lord,"Necron, Noble",3.0
-noxious gearhulk,Construct,6.0
-cybermen squadron,Cyberman,7.0
-canoptek spyder,Spider,5.0
-cryptek,"Necron, Wizard",4.0
-lokhust heavy destroyer,Necron,4.0
-necron deathmark,Necron,5.0
-cryptothrall,Construct,4.0
-their name is death,,6.0
-volrath's stronghold,,0.0
-abstergo entertainment,,0.0
-high market,,0.0
-myriad landscape,,0.0
-fomori vault,,0.0
-war room,,0.0
-phyrexian tower,,0.0
-helm of possession,,4.0
-smothering tithe,,4.0
-anointed procession,,4.0
-humility,,4.0
-parallel lives,,4.0
-slate of ancestry,,4.0
-make a stand,,3.0
-rootborn defenses,,3.0
-the battle of bywater,,3.0
-mirror entity,Shapeshifter,3.0
-beastmaster ascension,,3.0
-champion of lambholt,"Human, Warrior",3.0
-scute swarm,Insect,3.0
-arachnogenesis,,3.0
-tribute to the world tree,,3.0
-mentor of the meek,"Human, Soldier",3.0
-harvest season,,3.0
-horn of valhalla // ysgard's call,Equipment,2.0
-cryptolith rite,,2.0
-throne of the god-pharaoh,,2.0
-staff of the storyteller,,2.0
-earthcraft,,2.0
-hall of tagsin,,0.0
-hall of heliod's generosity,,0.0
-"vitu-ghazi, the city-tree",,0.0
-blighted steppe,,0.0
-scattered groves,"Forest, Plains",0.0
-restless prairie,,0.0
-sungrass prairie,,0.0
-gaea's cradle,,0.0
-"boseiju, who endures",,0.0
-expel the interlopers,,5.0
-cathars' crusade,,5.0
-craterhoof behemoth,Beast,8.0
-tendershoot dryad,Dryad,5.0
-decree of justice,,4.0
-white sun's zenith,,3.0
-grand crescendo,,2.0
-march of the multitudes,,3.0
-increasing devotion,,5.0
-awaken the woods,,2.0
-martial coup,,2.0
-nissa's expedition,,5.0
-shamanic revelation,,5.0
-camaraderie,,6.0
-primal vigor,,5.0
-secure the wastes,,1.0
-hour of reckoning,,7.0
-farmer cotton,"Halfling, Peasant",2.0
-white sun's twilight,,2.0
-conqueror's pledge,,5.0
-tireless tracker,"Human, Scout",3.0
-three tree city,,0.0
-moonshaker cavalry,"Spirit, Knight",8.0
-illustrious wanderglyph,Golem,5.0
-second harvest,,4.0
-"mondrak, glory dominus","Phyrexian, Horror",4.0
-circle of dreams druid,"Elf, Druid",3.0
-doubling season,,5.0
-gavony township,,0.0
-perch protection,,6.0
-enduring vitality,"Elk, Glimmer",3.0
-"tyvar, the pummeler","Elf, Warrior",3.0
-caretaker's talent,Class,3.0
-fountainport,,0.0
-"zopandrel, hunger dominus","Phyrexian, Horror",7.0
-preposterous proportions,,7.0
-"oran-rief, the vastwood",,0.0
-crisis of conscience,,6.0
-season of the burrow,,5.0
-obscuring aether,,1.0
-dulcet sirens,Siren,3.0
-nervous gardener,Dryad,2.0
-grim haruspex,"Human, Wizard",3.0
-fathom seer,Illusion,2.0
-planar incision,,2.0
-hunted bonebrute,"Skeleton, Beast",3.0
-ainok survivalist,"Dog, Shaman",2.0
-willbender,"Human, Wizard",2.0
-stratus dancer,"Djinn, Monk",2.0
-secret plans,,2.0
-dream chisel,,2.0
-overgrown zealot,"Elf, Druid",2.0
-exit specialist,"Human, Detective",2.0
-den protector,"Human, Warrior",2.0
-vesuvan shapeshifter,Shapeshifter,5.0
-kadena's silencer,"Snake, Wizard",2.0
-hauntwoods shrieker,"Beast, Mutant",3.0
-abhorrent oculus,Eye,3.0
-mischievous quanar,Beast,5.0
-glitch interpreter,"Human, Wizard",3.0
-skittering cicada,Insect,3.0
-"etrata, deadly fugitive","Vampire, Assassin",3.0
-cryptic coat,Equipment,3.0
-cloudform,,3.0
-icefeather aven,"Bird, Shaman",2.0
-"vivien, champion of the wilds",Vivien,3.0
-scroll of fate,,3.0
-pernicious deed,,3.0
-song of the dryads,Aura,3.0
-aphetto runecaster,"Human, Wizard",4.0
-become anonymous,,4.0
-"roshan, hidden magister","Human, Assassin",4.0
-"zimone, mystery unraveler","Human, Wizard",4.0
-bane of the living,Insect,4.0
-printlifter ooze,Ooze,2.0
-threats around every corner,,4.0
-high fae trickster,"Faerie, Wizard",4.0
-"vannifar, evolved enigma","Elf, Ooze, Wizard",4.0
-panoptic projektor,,4.0
-ugin's mastery,,4.0
-leyline of anticipation,,4.0
-hide in plain sight,,4.0
-vedalken orrery,,4.0
-ixidron,Illusion,5.0
-they came from the pipes,,5.0
-experiment twelve,"Elf, Lizard, Warrior",4.0
-deathmist raptor,"Dinosaur, Beast",3.0
-"ixidor, reality sculptor","Human, Wizard",5.0
-skinthinner,Zombie,2.0
-hooded hydra,"Snake, Hydra",2.0
-whisperwood elemental,Elemental,5.0
-primordial mist,,5.0
-chromeshell crab,"Crab, Beast",5.0
-spreading plague,,5.0
-temur war shaman,"Human, Shaman",6.0
-curator beastie,Beast,6.0
-kheru spellsnatcher,"Snake, Wizard",4.0
-gift of doom,Aura,5.0
-zoetic cavern,,0.0
-branch of vitu-ghazi,,0.0
-exotic orchard,,0.0
-opulent palace,,0.0
-zagoth triome,"Swamp, Forest, Island",0.0
-tomb of the spirit dragon,,0.0
-nurturing peatland,,0.0
-verdant catacombs,,0.0
-woodland cemetery,,0.0
-overgrown tomb,"Swamp, Forest",0.0
-polluted delta,,0.0
-watery grave,"Island, Swamp",0.0
-fetid pools,"Island, Swamp",0.0
-choked estuary,,0.0
-misty rainforest,,0.0
-breeding pool,"Forest, Island",0.0
-tropical island,"Forest, Island",0.0
-dreamroot cascade,,0.0
-hinterland harbor,,0.0
-thought vessel,,2.0
-crab umbra,Aura,1.0
-mother of runes,"Human, Cleric",1.0
-giver of runes,"Kor, Cleric",1.0
-dimir signet,,2.0
-talisman of hierarchy,,2.0
-swiftfoot boots,Equipment,2.0
-lightning greaves,Equipment,2.0
-crashing drawbridge,Wall,2.0
-magewright's stone,,2.0
-aphetto alchemist,"Human, Wizard",2.0
-blessed alliance,,2.0
-torpor orb,,2.0
-waterfront bouncer,"Merfolk, Spellshaper",2.0
-royal assassin,"Human, Assassin",3.0
-serendib sorcerer,"Human, Wizard",3.0
-intrepid hero,"Human, Soldier",3.0
-ioreth of the healing house,"Human, Cleric",3.0
-thousand-year elixir,,3.0
-intruder alarm,,3.0
-freed from the real,Aura,3.0
-robaran mercenaries,"Human, Mercenary",4.0
-fatestitcher,"Zombie, Wizard",4.0
-"azami, lady of scrolls","Human, Wizard",5.0
-arcanis the omnipotent,Wizard,6.0
-avatar of woe,Avatar,8.0
-endbringer,Eldrazi,6.0
-visara the dreadful,Gorgon,6.0
-aura of dominion,Aura,2.0
-shadowspear,Equipment,1.0
-haunted cloak,Equipment,3.0
-adarkar valkyrie,Angel,6.0
-ghoulcaller gisa,"Human, Wizard",5.0
-cavern of souls,,0.0
-pemmin's aura,Aura,3.0
-unbender tine,,4.0
-lost in the maze,,2.0
-dramatic reversal,,2.0
-patriar's seal,,3.0
-nightmare shepherd,Demon,4.0
-vizier of tumbling sands,"Human, Cleric",3.0
-drumbellower,Spirit,3.0
-drowned catacomb,,0.0
-arcane sanctum,,0.0
-"sting, the glinting dagger",Equipment,2.0
-norritt,Imp,4.0
-detection tower,,0.0
-lavaspur boots,Equipment,1.0
-talisman of dominance,,2.0
-archivist,"Human, Wizard",4.0
-"minamo, school at water's edge",,0.0
-raffine's tower,"Plains, Island, Swamp",0.0
-underground sea,"Island, Swamp",0.0
-shipwreck marsh,,0.0
-scrubland,"Plains, Swamp",0.0
-shattered sanctum,,0.0
-coffin queen,"Zombie, Wizard",3.0
-fierce guardianship,,3.0
-"marvin, murderous mimic",Toy,2.0
-split up,,3.0
-callous oppressor,Octopus,3.0
-dawn's truce,,2.0
-heliod's intervention,,2.0
-"sokrates, athenian teacher","Human, Advisor",3.0
-abyssal harvester,"Demon, Warlock",3.0
-hour of revelation,,6.0
-isolated chapel,,0.0
-reflecting pool,,0.0
-boundless realms,,7.0
-brass's bounty,,7.0
-armed // dangerous,,6.0
-feed the pack,,6.0
-"thrun, the last troll","Troll, Shaman",4.0
-"thrun, breaker of silence","Troll, Shaman",5.0
-mana geyser,,5.0
-soul's majesty,,5.0
-soul's might,,5.0
-overwhelming stampede,,5.0
-hunter's prowess,,5.0
-mishra's command,,1.0
-"garruk, primal hunter",Garruk,5.0
-savage beating,,5.0
-"xenagos, god of revels",God,5.0
-mizzix's mastery,,4.0
-fungal sprouting,,4.0
-terramorph,,4.0
-"minsc & boo, timeless heroes",Minsc,4.0
-momentous fall,,4.0
-erratic cyclops,"Cyclops, Shaman",4.0
-viridian joiner,"Elf, Druid",3.0
-hunter's insight,,3.0
-invigorate,,3.0
-rush of blood,,3.0
-spikeshot goblin,"Goblin, Shaman",3.0
-spikeshot elder,"Goblin, Shaman",1.0
-manaplasm,Ooze,3.0
-embercleave,Equipment,6.0
-fling,,2.0
-temur battle rage,,2.0
-unleash fury,,2.0
-dreadhorde arcanist,"Zombie, Wizard",2.0
-silhana ledgewalker,"Elf, Rogue",2.0
-berserk,,1.0
-ricochet trap,Trap,4.0
-blossoming defense,,1.0
-become immense,,6.0
-stomping ground,"Mountain, Forest",0.0
-rootbound crag,,0.0
-sheltered thicket,"Mountain, Forest",0.0
-"skarrg, the rage pits",,0.0
-grove of the burnwillows,,0.0
-lair of the hydra,,0.0
-"marwyn, the nurturer","Elf, Druid",3.0
-traverse the outlands,,5.0
-volcanic salvo,,12.0
-tyvar's stand,,1.0
-return of the wildspeaker,,5.0
-bedrock tortoise,Turtle,4.0
-kessig wolf run,,0.0
-pest infestation,,1.0
-fade from history,,4.0
-entish restoration,,3.0
-restless ridgeline,,0.0
-commercial district,"Mountain, Forest",0.0
-fanatic of rhonas,"Snake, Druid",2.0
-arena of glory,,0.0
-mossfire valley,,0.0
-game trail,,0.0
-cinder glade,"Mountain, Forest",0.0
-reliquary tower,,0.0
-mosswort bridge,,0.0
-taiga,"Mountain, Forest",0.0
-rockfall vale,,0.0
-harmonic prodigy,"Human, Wizard",2.0
-chandra's ignition,,5.0
-rishkar's expertise,,6.0
-bane of progress,Elemental,6.0
-"ghalta, primal hunger","Elder, Dinosaur",12.0
-season of gathering,,6.0
-deflecting swat,,3.0
-"halana and alena, partners","Human, Ranger",4.0
-tanuki transplanter,"Equipment, Dog",4.0
-seize the day,,4.0
-bulk up,,2.0
-ashroot animist,"Lizard, Druid",4.0
-forgotten ancient,Elemental,4.0
-klauth's will,,3.0
-yavimaya hollow,,0.0
-tyrite sanctum,,0.0
-"yavimaya, cradle of growth",,0.0
-temple of the false god,,0.0
-demolition field,,0.0
-"okina, temple to the grandfathers",,0.0
-winding canyons,,0.0
-blast zone,,0.0
-"oviya pashiri, sage lifecrafter","Human, Artificer",1.0
-the filigree sylex,,2.0
-blackblade reforged,Equipment,2.0
-"bessie, the doctor's roadster",Vehicle,2.0
-"jolrael, mwonvuli recluse","Human, Druid",2.0
-"shigeki, jukai visionary","Snake, Druid",2.0
-mithril coat,Equipment,3.0
-"azusa, lost but seeking","Human, Monk",3.0
-rhonas's monument,,3.0
-"gwenna, eyes of gaea","Elf, Druid, Scout",3.0
-"omnath, locus of mana",Elemental,3.0
-dosan the falling leaf,"Human, Monk",3.0
-"hua tuo, honored physician",Human,3.0
-palantír of orthanc,,3.0
-"goreclaw, terror of qal sisma",Bear,4.0
-lithoform engine,,4.0
-"yeva, nature's herald","Elf, Shaman",4.0
-questing beast,Beast,4.0
-"halana, kessig ranger","Human, Archer, Ranger",4.0
-garruk wildspeaker,Garruk,4.0
-wrenn and seven,Wrenn,5.0
-vivien reid,Vivien,5.0
-"multani, yavimaya's avatar","Elemental, Avatar",6.0
-"silvos, rogue elemental",Elemental,6.0
-old gnawbone,Dragon,7.0
-the tarrasque,Dinosaur,9.0
-kamahl's druidic vow,,2.0
-"excalibur, sword of eden",Equipment,12.0
-archdruid's charm,,3.0
-leyline immersion,Aura,4.0
-ezuri's predation,,8.0
-the great aurora,,9.0
-all is dust,Eldrazi,7.0
-praetor's counsel,,8.0
-heroic intervention,,2.0
-champion's helm,Equipment,3.0
-heroes' podium,,5.0
-"kogla, the titan ape",Ape,6.0
-sceptre of eternal glory,,4.0
-"nylea, keen-eyed",God,4.0
-the ring goes south,,4.0
-"kona, rescue beastie","Beast, Survivor",4.0
-"sutina, speaker of the tajuru","Elf, Scout",3.0
-"bitterthorn, nissa's animus",Equipment,3.0
-"eladamri, korvecdal","Elf, Warrior",3.0
-gerrard's hourglass pendant,,1.0
-sword of the animist,Equipment,2.0
-mox amber,,0.0
-bayou,"Swamp, Forest",0.0
-llanowar wastes,,0.0
-mutavault,,0.0
-swarmyard,,0.0
-arena,,0.0
-penumbra spider,Spider,4.0
-obelisk spider,Spider,3.0
-broodspinner,Spider,2.0
-drider,"Elf, Spider",5.0
-watcher in the web,Spider,5.0
-nyx weaver,Spider,3.0
-"ishkanah, grafwidow",Spider,5.0
-chainweb aracnir,Spider,1.0
-mirkwood spider,Spider,1.0
-masked vandal,Shapeshifter,2.0
-twitching doll,"Spider, Toy",2.0
-deadly recluse,Spider,2.0
-llanowar greenwidow,Spider,3.0
-realmwalker,Shapeshifter,3.0
-spinner of souls,"Spider, Spirit",3.0
-moonglove changeling,Shapeshifter,3.0
-venomous changeling,Shapeshifter,3.0
-chameleon colossus,Shapeshifter,4.0
-skyfisher spider,Spider,4.0
-roaming throne,Golem,4.0
-arasta of the endless web,Spider,4.0
-"shelob, dread weaver","Spider, Demon",4.0
-treetop snarespinner,Spider,4.0
-stingerfling spider,Spider,5.0
-"lolth, spider queen",Lolth,5.0
-cairn wanderer,Shapeshifter,5.0
-silklash spider,Spider,5.0
-doom weaver,"Spider, Horror",6.0
-hard-hitting question,,1.0
-unnatural endurance,,1.0
-supernatural stamina,,1.0
-viridian longbow,Equipment,1.0
-three visits,,2.0
-deadly allure,,1.0
-legolas's quick reflexes,,1.0
-assassin's trophy,,2.0
-ram through,,2.0
-master's rebuke,,2.0
-peregrin took,"Halfling, Citizen",3.0
-"vraska, the silencer","Gorgon, Assassin",3.0
-skyshroud claim,,4.0
-the swarmweaver,Scarecrow,4.0
-swarmyard massacre,,5.0
-predatory rampage,,5.0
-you look upon the tarrasque,,5.0
-vanquisher's banner,,5.0
-coiling rebirth,,5.0
-patriarch's bidding,,5.0
-back for more,,6.0
-tribal unity,,3.0
-spinning wheel kick,,2.0
-rotwidow pack,Spider,4.0
-twin-silk spider,Spider,3.0
-curse of clinging webs,"Aura, Curse",3.0
-kessig recluse,Spider,4.0
-blood crypt,"Swamp, Mountain",0.0
-mines of moria,,0.0
-castle embereth,,0.0
-badlands,"Swamp, Mountain",0.0
-molten slagheap,,0.0
-command beacon,,0.0
-experimental synthesizer,,1.0
-dragon's rage channeler,"Human, Shaman",1.0
-delayed blast fireball,,3.0
-reckless impulse,,2.0
-bonecrusher giant // stomp,Giant,3.0
-you find some prisoners,,2.0
-dream devourer,"Demon, Cleric",2.0
-rakdos signet,,2.0
-fellwar stone,,2.0
-poison the cup,,3.0
-march of reckless joy,,1.0
-jeska's will,,3.0
-galvanic relay,,3.0
-tavern brawler,Background,3.0
-valakut exploration,,3.0
-"laelia, the blade reforged","Spirit, Warrior",3.0
-wand of wonder,,4.0
-outpost siege,,4.0
-wildfire devils,Devil,4.0
-"atsushi, the blazing sky","Dragon, Spirit",4.0
-amethyst dragon // explosive crystal,Dragon,6.0
-bituminous blast,,5.0
-mezzio mugger,"Lizard, Rogue",5.0
-inspired tinkering,,5.0
-kami of celebration,Spirit,5.0
-knowledge pool,,6.0
-oblivion sower,Eldrazi,6.0
-aurora phoenix,Phoenix,6.0
-hedonist's trove,,7.0
-trumpeting carnosaur,Dinosaur,6.0
-"etali, primal storm","Elder, Dinosaur",6.0
-dire fleet daredevil,"Human, Pirate",2.0
-"gonti, lord of luxury","Aetherborn, Rogue",4.0
-call forth the tempest,,8.0
-decadent dragon // expensive taste,Dragon,4.0
-hidden volcano,Cave,0.0
-ignite the future,,4.0
-stolen strategy,,5.0
-junktown,,0.0
-heartless conscription,,8.0
-rain of riches,,5.0
-hurl through hell,,4.0
-wild-magic sorcerer,"Orc, Shaman",4.0
-elemental eruption,,6.0
-xorn,Elemental,3.0
-crime novelist,"Goblin, Bard",3.0
-mirkwood bats,Bat,4.0
-"rakdos, the muscle","Demon, Mercenary",5.0
-foreboding ruins,,0.0
-zoyowa's justice,,2.0
-impending flux,,3.0
-haunted ridge,,0.0
-bonehoard dracosaur,"Dinosaur, Dragon",5.0
-goldspan dragon,Dragon,5.0
-season of the bold,,5.0
-nalfeshnee,"Beast, Demon",6.0
-flaming tyrannosaurus,Dinosaur,7.0
-professional face-breaker,"Human, Warrior",3.0
-passionate archaeologist,Background,2.0
-alchemist's talent,Class,4.0
-grim hireling,"Tiefling, Rogue",4.0
-tibalt's trickery,,2.0
-"valgavoth, terror eater","Elder, Demon",9.0
-charred foyer // warped space,Room,10.0
-"evereth, viceroy of plunder","Vampire, Soldier",3.0
-dragonskull summit,,0.0
-"otawara, soaring city",,0.0
-"takenuma, abandoned mire",,0.0
-diluvian primordial,Avatar,7.0
-sepulchral primordial,Avatar,7.0
-inkwell leviathan,Leviathan,9.0
-"sheoldred, whispering one","Phyrexian, Praetor",7.0
-darksteel colossus,Golem,11.0
-silent-blade oni,"Demon, Ninja",7.0
-steel hellkite,Dragon,6.0
-dread,"Elemental, Incarnation",6.0
-"wrexial, the risen deep",Kraken,6.0
-duplicant,Shapeshifter,6.0
-mulldrifter,Elemental,5.0
-shriekmaw,Elemental,5.0
-consuming aberration,Horror,5.0
-"ink-eyes, servant of oni","Rat, Ninja",6.0
-"higure, the still wind","Human, Ninja",5.0
-fallen shinobi,"Zombie, Ninja",5.0
-glen elendra archmage,"Faerie, Wizard",4.0
-ertai resurrected,"Phyrexian, Human, Wizard",4.0
-"nashi, moon sage's scion","Rat, Ninja",3.0
-throat slitter,"Rat, Ninja",5.0
-"thassa, god of the sea",God,3.0
-thief of sanity,Specter,3.0
-"thada adel, acquisitor","Merfolk, Rogue",3.0
-dauthi voidwalker,"Dauthi, Rogue",2.0
-order of midnight // alter fate,"Human, Knight",2.0
-dimir infiltrator,Spirit,2.0
-smuggler's copter,Vehicle,2.0
-invisible stalker,"Human, Rogue",2.0
-sakashima's student,"Human, Ninja",4.0
-baleful strix,Bird,2.0
-cloud of faeries,Faerie,2.0
-changeling outcast,Shapeshifter,1.0
-gingerbrute,"Food, Golem",1.0
-slither blade,"Snake, Rogue",1.0
-ornithopter,Thopter,0.0
-whispersilk cloak,Equipment,3.0
-admiral's order,,3.0
-underground river,,0.0
-"shizo, death's storehouse",,0.0
-gudul lurker,Salamander,1.0
-you come to a river,,2.0
-ingenious infiltrator,"Vedalken, Ninja",4.0
-siren stormtamer,"Siren, Pirate, Wizard",1.0
-"zareth san, the trickster","Merfolk, Rogue",5.0
-ravenous chupacabra,"Beast, Horror",4.0
-primaris eliminator,"Astartes, Warrior",5.0
-port of karfell,,0.0
-negate,,2.0
-"gríma, saruman's footman","Human, Advisor",4.0
-"yuriko, the tiger's shadow","Human, Ninja",3.0
-the black gate,Gate,0.0
-access tunnel,,0.0
-ingenious prodigy,"Human, Wizard",1.0
-rivendell,,0.0
-massacre wurm,"Phyrexian, Wurm",6.0
-puppeteer clique,"Faerie, Wizard",5.0
-mudflat village,,0.0
-gossip's talent,Class,2.0
-silent hallcreeper,Horror,2.0
-"kaito, bane of nightmares",Kaito,4.0
-metamorphosis fanatic,"Human, Cleric",6.0
-enduring curiosity,"Cat, Glimmer",4.0
-ancient silver dragon,"Elder, Dragon",8.0
-escape tunnel,,0.0
-"minas morgul, dark fortress",,0.0
-hurkyl's final meditation,,7.0
-stormtide leviathan,Leviathan,8.0
-spelljack,,6.0
-gather specimens,,6.0
-discontinuity,,6.0
-get out,,2.0
-haughty djinn,Djinn,3.0
-quicksilver fountain,,3.0
-reenact the crime,,4.0
-mission briefing,,2.0
-castle vantress,,0.0
-meteor golem,Golem,7.0
-caged sun,,6.0
-ancient copper dragon,"Elder, Dragon",6.0
-indomitable creativity,,3.0
-spitebellows,Elemental,6.0
-bogardan hellkite,Dragon,8.0
-spawn of thraxes,Dragon,7.0
-mindclaw shaman,"Lizard, Shaman",5.0
-gauntlet of power,,5.0
-fury,"Elemental, Incarnation",5.0
-minion reflector,,5.0
-rapacious dragon,Dragon,5.0
-coercive recruiter,"Orc, Pirate",5.0
-zealous conscripts,"Human, Warrior",5.0
-"kiki-jiki, mirror breaker","Goblin, Shaman",5.0
-fireflux squad,"Human, Soldier",4.0
-flameshadow conjuring,,4.0
-flametongue kavu,Kavu,4.0
-wild ricochet,,4.0
-"jaxis, the troublemaker","Human, Warrior",4.0
-dualcaster mage,"Human, Wizard",3.0
-cursed mirror,,3.0
-imperial recruiter,"Human, Advisor",3.0
-feldon of the third path,"Human, Artificer",3.0
-voldaren thrillseeker,"Vampire, Warrior",3.0
-sundial of the infinite,,2.0
-goblin cratermaker,"Goblin, Warrior",2.0
-stingscourger,"Goblin, Warrior",2.0
-humble defector,"Human, Rogue",2.0
-tempt with mayhem,,3.0
-"calamity, galloping inferno","Horse, Mount",6.0
-inferno titan,Giant,6.0
-"valakut, the molten pinnacle",,0.0
-patron of the arts,"Dragon, Noble",3.0
-scampering surveyor,Gnome,4.0
-plundering barbarian,"Dwarf, Barbarian",3.0
-firbolg flutist,"Giant, Bard",6.0
-display of power,,3.0
-charming scoundrel,"Human, Rogue",2.0
-battlemage's bracers,Equipment,3.0
-pyrogoyf,Lhurgoyf,4.0
-determined iteration,,2.0
-"herigast, erupting nullkite","Eldrazi, Dragon",9.0
-sunspine lynx,"Elemental, Cat",4.0
-terror of the peaks,Dragon,5.0
-molten primordial,Avatar,7.0
-echoing assault,,5.0
-ghired's belligerence,,2.0
-wooded bastion,,0.0
-brushland,,0.0
-wooded foothills,,0.0
-gideon's sacrifice,,1.0
-ulvenwald tracker,"Human, Shaman",1.0
-marauding raptor,Dinosaur,2.0
-boxing ring,,2.0
-mawloc,Tyranid,2.0
-rolling earthquake,,1.0
-stormwild capridor,"Bird, Goat",3.0
-subterranean tremors,,1.0
-hornet nest,Insect,3.0
-hungering hydra,Hydra,1.0
-"domri, anarch of bolas",Domri,3.0
-boros reckoner,"Minotaur, Wizard",3.0
-martyrdom,,3.0
-donna noble,Human,4.0
-lightmine field,,4.0
-starstorm,,2.0
-fiery confluence,,4.0
-needletooth raptor,Dinosaur,4.0
-pariah's shield,Equipment,5.0
-trapjaw tyrant,Dinosaur,5.0
-stuffy doll,Construct,5.0
-brash taunter,Goblin,5.0
-incite rebellion,,6.0
-polyraptor,Dinosaur,8.0
-blasphemous act,,9.0
-ripjaw raptor,Dinosaur,4.0
-ranging raptors,Dinosaur,3.0
-"vrondiss, rage of ancients","Dragon, Barbarian",5.0
-flumph,Jellyfish,2.0
-powerstone minefield,,4.0
-prizefight,,2.0
-bushwhack,,1.0
-blazing sunsteel,Equipment,2.0
-pariah,Aura,3.0
-spitemare,Elemental,4.0
-caltrops,,3.0
-jetmir's garden,"Mountain, Forest, Plains",0.0
-sundown pass,,0.0
-spiteful banditry,,2.0
-pyrohemia,,4.0
-mirari's wake,,5.0
-desert,Desert,0.0
-screaming nemesis,Spirit,3.0
-vigor,"Elemental, Incarnation",6.0
-setessan tactics,,2.0
-cacophodon,Dinosaur,4.0
-apex altisaur,Dinosaur,9.0
-genesis,Incarnation,5.0
-tragic arrogance,,5.0
-unexplained absence,,4.0
-twinflame tyrant,Dragon,5.0
-balduvian trading post,,0.0
-shielded by faith,Aura,3.0
-generous gift,,3.0
-dockside chef,"Human, Citizen",1.0
-gilded goose,Bird,1.0
-cauldron familiar,Cat,1.0
-sakura-tribe elder,"Snake, Shaman",2.0
-reassembling skeleton,"Skeleton, Warrior",2.0
-reckless imp,Imp,3.0
-academy manufactor,Assembly-Worker,3.0
-"jaheira, friend of the forest","Human, Elf, Druid",3.0
-tireless provisioner,"Elf, Scout",3.0
-wicked wolf,Wolf,4.0
-fangren marauder,Beast,6.0
-"kokusho, the evening star","Dragon, Spirit",6.0
-thrashing wumpus,Beast,5.0
-"mazirek, kraul death priest","Insect, Shaman",5.0
-living death,,5.0
-victory chimes,,3.0
-victimize,,3.0
-witch's oven,,1.0
-windgrace's judgment,,5.0
-casualties of war,,6.0
-gingerbread cabin,Forest,0.0
-crypt of agadeem,,0.0
-breach the multiverse,,7.0
-feasting troll king,"Troll, Noble",6.0
-blossoming bogbeast,Beast,5.0
-silversmote ghoul,"Zombie, Vampire",3.0
-savvy hunter,"Human, Warrior",3.0
-trail of crumbs,,2.0
-decree of pain,,8.0
-the shire,,0.0
-elanor gardner,"Halfling, Scout",4.0
-nadier's nightblade,"Elf, Warrior",3.0
-restless cottage,,0.0
-malevolent witchkite,"Dragon, Warlock",6.0
-"greta, sweettooth scourge","Human, Warrior",3.0
-lich-knights' conquest,,5.0
-displaced dinosaurs,Dinosaur,7.0
-"braids, arisen nightmare",Nightmare,3.0
-night of the sweets' revenge,,4.0
-arch of orazca,,0.0
-tough cookie,"Food, Golem",2.0
-nuka-cola vending machine,,3.0
-boneyard parley,,7.0
-topiary stomper,"Plant, Dinosaur",3.0
-shifting woodland,,0.0
-deathcap glade,,0.0
-"ygra, eater of all","Elemental, Cat",5.0
-heaped harvest,Food,3.0
-hazel's brewmaster,"Squirrel, Warlock",4.0
-insatiable frugivore,"Rat, Berserker",4.0
-osteomancer adept,"Squirrel, Warlock",2.0
-moonstone eulogist,"Bat, Warlock",5.0
-old flitterfang,"Rat, Faerie",5.0
-assemble the entmoot,,4.0
-path of ancestry,,0.0
-fiery islet,,0.0
-forbidden orchard,,0.0
-taunting kobold,Kobold,1.0
-strix serenade,,1.0
-"grenzo, havoc raiser","Goblin, Rogue",2.0
-popular entertainer,Background,2.0
-"magda, the hoardmaster","Dwarf, Berserker",2.0
-reckless barbarian,"Dragon, Barbarian",2.0
-arcane denial,,2.0
-lofty denial,,2.0
-talisman of creativity,,2.0
-cyclonic rift,,2.0
-mocking doppelganger,Shapeshifter,4.0
-vengeful ancestor,"Spirit, Dragon",4.0
-domineering will,,4.0
-besmirch,,3.0
-agitator ant,Insect,3.0
-coronation of chaos,,3.0
-taurean mauler,Shapeshifter,3.0
-"baeloth barrityl, entertainer","Elf, Shaman",5.0
-thundermaw hellkite,Dragon,5.0
-"ganax, astral hunter",Dragon,5.0
-stormbreath dragon,Dragon,5.0
-illusory ambusher,"Cat, Illusion",5.0
-"niv-mizzet, parun","Dragon, Wizard",6.0
-mana drain,,2.0
-bedlam,,4.0
-bident of thassa,,4.0
-renegade silent,"Alien, Horror",4.0
-illusionist's gambit,,4.0
-disrupt decorum,,4.0
-dragon's hoard,,3.0
-territorial hellkite,Dragon,4.0
-chaos dragon,Dragon,3.0
-the akroan war,Saga,4.0
-sly instigator,"Human, Wizard",4.0
-shiny impetus,Aura,3.0
-psychic impetus,Aura,3.0
-bloodthirsty blade,Equipment,2.0
-flamewake phoenix,Phoenix,3.0
-"alexios, deimos of kosmos","Human, Berserker",4.0
-public enemy,Aura,3.0
-coalition relic,,3.0
-fealty to the realm,Aura,5.0
-curse of opulence,"Aura, Curse",1.0
-the sound of drums,Aura,3.0
-bothersome quasit,Demon,3.0
-komainu battle armor,"Equipment, Dog",3.0
-war's toll,,4.0
-cavern-hoard dragon,Dragon,9.0
-coveted peacock,Bird,5.0
-vow of flight,Aura,3.0
-bone shards,,1.0
-village rites,,1.0
-corrupted conviction,,1.0
-undying evil,,1.0
-brainstorm,,1.0
-vicious offering,,2.0
-plumb the forbidden,,2.0
-drown in the loch,,2.0
-phyrexian metamorph,"Phyrexian, Shapeshifter",4.0
-decanter of endless water,,3.0
-disallow,,3.0
-archaeomancer,"Human, Wizard",4.0
-archmage emeritus,"Human, Wizard",4.0
-flare of malice,,4.0
-precognition field,,4.0
-wizards of thay,"Human, Wizard",4.0
-introduction to annihilation,Lesson,5.0
-devastation tide,,5.0
-aether gale,,5.0
-necromantic selection,,7.0
-fated return,,7.0
-temporal trespass,,11.0
-time stretch,,10.0
-spelltwine,,6.0
-sublime epiphany,,6.0
-expropriate,,9.0
-"kairi, the swirling sky","Dragon, Spirit",6.0
-sphinx of jwar isle,Sphinx,6.0
-stolen identity,,6.0
-sunken hollow,"Island, Swamp",0.0
-phantasmal image,Illusion,2.0
-woe strider,Horror,3.0
-temporal manipulation,,5.0
-time warp,,5.0
-flesh duplicate,"Shapeshifter, Rebel",2.0
-nasty end,,2.0
-fated infatuation,,3.0
-see double,,4.0
-saw in half,,3.0
-deadly dispute,,2.0
-flare of denial,,3.0
-phantom steed,"Horse, Illusion",4.0
-season of weaving,,6.0
-rise of the eldrazi,,12.0
-rise of the dark realms,,9.0
-mnemonic deluge,,9.0
-clone legion,,9.0
-alchemist's refuge,,0.0
-mage-ring network,,0.0
-hickory woodlot,,0.0
-botanical sanctum,,0.0
-yavimaya coast,,0.0
-opal palace,,0.0
-hardened scales,,1.0
-the ozolith,,1.0
-power conduit,,2.0
-smell fear,,2.0
-gyre sage,"Elf, Druid",2.0
-nature's lore,,2.0
-thrummingbird,"Phyrexian, Bird, Horror",2.0
-scavenging ooze,Ooze,2.0
-hangarback walker,Construct,0.0
-inspiring call,,3.0
-"nissa, voice of zendikar",Nissa,3.0
-tezzeret's gambit,,4.0
-evolution sage,"Elf, Druid",3.0
-"rishkar, peema renegade","Elf, Druid",3.0
-master biomancer,"Elf, Wizard",4.0
-spike weaver,Spike,4.0
-kalonian hydra,Hydra,5.0
-inexorable tide,,5.0
-triskelion,Construct,6.0
-everflowing chalice,,0.0
-simic manipulator,"Mutant, Wizard",3.0
-incubation druid,"Elf, Druid",2.0
-steelbane hydra,"Turtle, Hydra",2.0
-kodama of the west tree,Spirit,3.0
-transmogrifying wand,,3.0
-saprazzan skerry,,0.0
-crawling barrens,,0.0
-plaxcaster frogling,"Frog, Mutant",3.0
-tyrant guard,Tyranid,3.0
-flooded grove,,0.0
-unnatural restoration,,2.0
-serum snare,,2.0
-"ozolith, the shattered spire",,2.0
-managorger hydra,Hydra,3.0
-kami of whispered hopes,Spirit,3.0
-benevolent hydra,Hydra,2.0
-biophagus,"Human, Tyranid, Wizard",2.0
-branching evolution,,3.0
-"vorinclex, monstrous raider","Phyrexian, Praetor",6.0
-wave goodbye,,4.0
-oversimplify,,5.0
-drannith ruins,,0.0
-agatha's soul cauldron,,2.0
-repulsive mutation,,2.0
-fight rigging,,3.0
-ornery tumblewagg,"Brushwagg, Mount",3.0
-dreamtide whale,Whale,3.0
-innkeeper's talent,Class,2.0
-goldvein hydra,Hydra,1.0
-railway brawler,"Rhino, Warrior",5.0
-"bristly bill, spine sower","Plant, Druid",2.0
-hedge maze,"Forest, Island",0.0
-fangs of kalonia,,2.0
-thundering mightmare,"Horse, Spirit",5.0
-"zimone, paradox sculptor","Human, Wizard",4.0
-shambling ghast,Zombie,1.0
-transmogrant's crown,Equipment,2.0
-undead augur,"Zombie, Wizard",2.0
-orzhov enforcer,"Human, Rogue",2.0
-abyssal gatekeeper,Horror,2.0
-spawning pit,,2.0
-zulaport cutthroat,"Human, Rogue, Ally",2.0
-hallowed spiritkeeper,Avatar,3.0
-anguished unmaking,,3.0
-corpse augur,"Zombie, Wizard",4.0
-falkenrath noble,"Vampire, Noble",4.0
-grave pact,,4.0
-archon of justice,Archon,5.0
-"ao, the dawn sky","Dragon, Spirit",5.0
-kaya the inexorable,Kaya,5.0
-"junji, the midnight sky","Dragon, Spirit",5.0
-ogre slumlord,"Ogre, Rogue",5.0
-dictate of erebos,,5.0
-"yosei, the morning star","Dragon, Spirit",6.0
-harvester of souls,Demon,6.0
-concealed courtyard,,0.0
-barad-dûr,,0.0
-castle ardenvale,,0.0
-unholy grotto,,0.0
-pitiless plunderer,"Human, Pirate",4.0
-skullclamp,Equipment,1.0
-cruel celebrant,Vampire,2.0
-ministrant of obligation,"Human, Cleric",3.0
-"liliana, dreadhorde general",Liliana,6.0
-divine visitation,,5.0
-the meathook massacre,,2.0
-black market,,5.0
-body launderer,"Ogre, Rogue",4.0
-luminous broodmoth,Insect,4.0
-"athreos, god of passage",God,3.0
-"elenda, the dusk rose","Vampire, Knight",4.0
-"drivnod, carnage dominus","Phyrexian, Horror",5.0
-bastion of remembrance,,3.0
-ashnod's altar,,3.0
-phyrexian altar,,3.0
-altar of dementia,,2.0
-fanatical devotion,,3.0
-inkshield,,5.0
-ashen rider,Archon,8.0
-butcher of malakir,"Vampire, Warrior",7.0
-morbid opportunist,"Human, Rogue",3.0
-marionette apprentice,"Human, Artificer",2.0
-warren soultrader,"Zombie, Goblin, Wizard",3.0
-funeral room // awakening hall,Room,11.0
-"yawgmoth, thran physician","Human, Cleric",4.0
-high-society hunter,"Vampire, Noble",5.0
-valkyrie's call,,5.0
-land tax,,1.0
-schema thief,"Vedalken, Rogue, Artificer",4.0
-steely resolve,,2.0
-dragon tempest,,2.0
-urza's incubator,,3.0
-garruk's uprising,,3.0
-stubborn denial,,1.0
-dragonspeaker shaman,"Human, Barbarian, Shaman",3.0
-hellkite tyrant,Dragon,6.0
-dragon broodmother,Dragon,6.0
-haven of the spirit dragon,,0.0
-ketria triome,"Forest, Island, Mountain",0.0
-fire-lit thicket,,0.0
-wrathful red dragon,Dragon,5.0
-"lozhan, dragons' legacy","Dragon, Shaman",5.0
-"keiga, the tide star","Dragon, Spirit",6.0
-carnelian orb of dragonkind,,3.0
-"kiora, behemoth beckoner",Kiora,3.0
-spit flame,,3.0
-monster manual // zoological study,,4.0
-sapphire dragon // psionic pulse,Dragon,7.0
-earthquake dragon,"Elemental, Dragon",15.0
-temur ascendancy,,3.0
-scourge of valkas,Dragon,5.0
-"kura, the boundless sky","Dragon, Spirit",5.0
-bonders' enclave,,0.0
-titan of littjara,Illusion,6.0
-kindred discovery,,5.0
-progenitor's icon,,3.0
-raise the palisade,,5.0
-mythos of illuna,,4.0
-smuggler's surprise,,1.0
-molten echoes,,4.0
-silumgar's scorn,,2.0
-frontier siege,,4.0
+name,subtypes,manaValue,colorIdentity
+island,Island,0.0,
+mystic sanctuary,Island,0.0,
+maze of ith,,0.0,
+riptide laboratory,,0.0,
+"nykthos, shrine to nyx",,0.0,
+nesting grounds,,0.0,
+lÃ³rien revealed,,5.0,
+an offer you can't refuse,,1.0,
+pongify,,1.0,
+suspend,,1.0,
+piracy charm,,1.0,
+aquitect's will,Merfolk,1.0,
+snapcaster mage,"Human, Wizard",2.0,
+pollywog prodigy,"Frog, Wizard",2.0,
+sea gate stormcaller,"Human, Wizard",2.0,
+reality shift,,2.0,
+thunderclap drake,Drake,2.0,
+arcane signet,,2.0,
+counterspell,,2.0,
+cyber conversion,,2.0,
+teferi's time twist,,2.0,
+snap,,2.0,
+gilded drake,Drake,2.0,
+capsize,,3.0,
+archmage's charm,,3.0,
+tempest djinn,Djinn,3.0,
+wavebreak hippocamp,"Horse, Fish",3.0,
+geyser drake,Drake,3.0,
+back to basics,,3.0,
+loxodon warhammer,Equipment,3.0,
+chrome host seedshark,"Phyrexian, Shark",3.0,
+vedalken shackles,,3.0,
+burnished hart,Elk,3.0,
+commander's sphere,,3.0,
+seasinger,Merfolk,3.0,
+case of the ransacked lab,Case,3.0,
+forbid,,3.0,
+frantic search,,3.0,
+unwind,,3.0,
+blue sun's twilight,,2.0,
+entrancing melody,,2.0,
+illithid harvester // plant tadpoles,Horror,5.0,
+curse of the swine,,2.0,
+displacement wave,,2.0,
+pull from tomorrow,,2.0,
+mindsplice apparatus,,4.0,
+sakashima the impostor,"Human, Rogue",4.0,
+displacer kitten,"Cat, Beast",4.0,
+inscription of insight,,4.0,
+aetherize,,4.0,
+reins of power,,4.0,
+leyline of singularity,,4.0,
+cryptic command,,4.0,
+rewind,,4.0,
+floodgate,Wall,4.0,
+blatant thievery,,7.0,
+invoke the winds,,5.0,
+desertion,,5.0,
+force of will,,5.0,
+flood of tears,,6.0,
+metallurgic summonings,,5.0,
+the mirari conjecture,Saga,5.0,
+mass manipulation,,4.0,
+flow of ideas,,6.0,
+flow of knowledge,,5.0,
+consecrated sphinx,Sphinx,6.0,
+scourge of fleets,Kraken,7.0,
+"deekah, fractal theorist","Human, Wizard",5.0,
+rise from the tides,,6.0,
+"charix, the raging isle","Leviathan, Crab",4.0,
+finale of revelation,,2.0,
+the flood of mars,"Alien, Zombie, Horror",4.0,
+twilight shepherd,Angel,6.0,
+sunblast angel,Angel,6.0,
+austere command,,6.0,
+great desert prospector,"Human, Artificer",5.0,
+sun titan,Giant,6.0,
+cataclysmic gearhulk,Construct,5.0,
+damning verdict,,5.0,
+woodfall primus,"Treefolk, Shaman",8.0,
+hero of goma fada,"Human, Knight, Ally",5.0,
+deadwood treefolk,Treefolk,6.0,
+titan of industry,Elemental,7.0,
+thragtusk,Beast,5.0,
+acidic slime,Ooze,5.0,
+palace jailer,"Human, Soldier",4.0,
+selfless squire,"Human, Soldier",4.0,
+glorious protector,"Angel, Cleric",4.0,
+teleportation circle,,4.0,
+restoration angel,Angel,4.0,
+stonehorn dignitary,"Rhino, Soldier",4.0,
+solemn simulacrum,Golem,4.0,
+druid of purification,"Human, Druid",4.0,
+undermountain adventurer,"Giant, Warrior",4.0,
+kozilek's predator,"Eldrazi, Drone",4.0,
+"yasharn, implacable earth","Elemental, Boar",4.0,
+white plume adventurer,"Orc, Cleric",3.0,
+mangara of corondor,"Human, Wizard",3.0,
+flickerwisp,Elemental,3.0,
+skyclave apparition,"Kor, Spirit",3.0,
+eternal witness,"Human, Shaman",3.0,
+wood elves,"Elf, Scout",3.0,
+aura shards,,3.0,
+beast within,,3.0,
+"selvala, heart of the wilds","Elf, Scout",3.0,
+llanowar visionary,"Elf, Druid",3.0,
+knight of autumn,"Dryad, Knight",3.0,
+charming prince,"Human, Noble",2.0,
+ephemerate,,1.0,
+samwise the stouthearted,"Halfling, Peasant",2.0,
+cloudshift,,1.0,
+wall of roots,"Plant, Wall",2.0,
+sunpetal grove,,0.0,
+rogue's passage,,0.0,
+horizon canopy,,0.0,
+endless sands,Desert,0.0,
+karn's bastion,,0.0,
+forest,Forest,0.0,
+plains,Plains,0.0,
+temple garden,"Forest, Plains",0.0,
+savannah,"Forest, Plains",0.0,
+overgrown farmland,,0.0,
+panharmonicon,,4.0,
+farewell,,6.0,
+the great henge,,9.0,
+kodama of the east tree,Spirit,6.0,
+guardian project,,4.0,
+salvation swan,"Bird, Cleric",4.0,
+clifftop lookout,"Frog, Scout",3.0,
+lae'zel's acrobatics,,4.0,
+guardian of faith,"Spirit, Knight",3.0,
+"preston, the vanisher","Rabbit, Wizard",4.0,
+conjurer's closet,,5.0,
+"beza, the bounding spring","Elemental, Elk",4.0,
+cavalier of dawn,"Elemental, Knight",5.0,
+solitude,"Elemental, Incarnation",5.0,
+unidentified hovership,Vehicle,3.0,
+eerie interlude,,3.0,
+seedborn muse,Spirit,5.0,
+aven interrupter,"Bird, Rogue",3.0,
+hornet queen,Insect,7.0,
+avenger of zendikar,Elemental,7.0,
+blessed sanctuary,,5.0,
+akroma's will,,4.0,
+god-eternal rhonas,"Zombie, God",5.0,
+overlord of the hauntwoods,"Avatar, Horror",5.0,
+saltcrusted steppe,,0.0,
+windswept heath,,0.0,
+swamp,Swamp,0.0,
+bojuka bog,,0.0,
+shambling vent,,0.0,
+seraph sanctuary,,0.0,
+arcane lighthouse,,0.0,
+silent clearing,,0.0,
+radiant fountain,,0.0,
+scoured barrens,,0.0,
+buried ruin,,0.0,
+caves of koilos,,0.0,
+godless shrine,"Plains, Swamp",0.0,
+basilisk collar,Equipment,1.0,
+leonin elder,"Cat, Cleric",1.0,
+cleric class,Class,1.0,
+soul warden,"Human, Cleric",1.0,
+soul's attendant,"Human, Cleric",1.0,
+swords to plowshares,,1.0,
+sun droplet,,2.0,
+tablet of the guilds,,2.0,
+orzhov signet,,2.0,
+damn,,2.0,
+despark,,2.0,
+vanishing verse,,2.0,
+felidar umbra,Aura,2.0,
+auriok champion,"Human, Cleric",2.0,
+dawn of hope,,2.0,
+suture priest,"Phyrexian, Cleric",2.0,
+"daxos, blessed by the sun",Demigod,2.0,
+blood artist,Vampire,2.0,
+pristine talisman,,3.0,
+vindicate,,3.0,
+"kambal, consul of allocation","Human, Advisor",3.0,
+lurrus of the dream-den,"Cat, Nightmare",3.0,
+"heliod, sun-crowned",God,3.0,
+stroke of midnight,,3.0,
+celestial unicorn,Unicorn,3.0,
+"delney, streetwise lookout","Human, Scout",3.0,
+blessing of leeches,Aura,3.0,
+toxic deluge,,3.0,
+phyrexian arena,,3.0,
+utter end,,4.0,
+ajani's pridemate,"Cat, Soldier",2.0,
+sangromancer,"Vampire, Shaman",4.0,
+astarion's thirst,,4.0,
+"sheoldred, the apocalypse","Phyrexian, Praetor",4.0,
+greed,,4.0,
+aetherflux reservoir,,4.0,
+well of lost dreams,,4.0,
+paradise plume,,4.0,
+archangel of thune,Angel,5.0,
+shattered angel,"Phyrexian, Angel",5.0,
+sunscorch regent,Dragon,5.0,
+righteous cause,,5.0,
+return to the ranks,,2.0,
+patron of the kitsune,Spirit,6.0,
+"urborg, tomb of yawgmoth",,0.0,
+exemplar of light,Angel,4.0,
+raise the past,,4.0,
+"sorin, vengeful bloodlord",Sorin,4.0,
+"ajani, strength of the pride",Ajani,4.0,
+crypt ghast,Spirit,4.0,
+witch of the moors,"Human, Warlock",5.0,
+polluted bonds,,5.0,
+exquisite blood,,5.0,
+bloodthirsty conqueror,"Vampire, Knight",5.0,
+elenda's hierophant,"Vampire, Cleric",3.0,
+black market connections,,3.0,
+flawless maneuver,,3.0,
+enduring innocence,"Sheep, Glimmer",3.0,
+spectrum sentinel,Soldier,1.0,
+authority of the consuls,,1.0,
+guide of souls,"Human, Cleric",1.0,
+case of the uneaten feast,Case,1.0,
+blind obedience,,2.0,
+amalia benavides aguirre,"Vampire, Scout",2.0,
+voice of the blessed,"Spirit, Cleric",2.0,
+essence channeler,"Bat, Cleric",2.0,
+witch's clinic,,0.0,
+castle locthwain,,0.0,
+vault of the archangel,,0.0,
+"ugin, the ineffable",Ugin,6.0,
+"ugin, the spirit dragon",Ugin,8.0,
+karn liberated,Karn,7.0,
+"chandra, awakened inferno",Chandra,6.0,
+shark typhoon,,6.0,
+karn's temporal sundering,,6.0,
+sarkhan the masterless,Sarkhan,5.0,
+oath of gideon,,3.0,
+oath of teferi,,5.0,
+urza's ruinous blast,,5.0,
+"jace, the mind sculptor",Jace,4.0,
+"chandra, torch of defiance",Chandra,4.0,
+ajani vengeant,Ajani,4.0,
+the wandering emperor,,4.0,
+"elspeth, knight-errant",Elspeth,4.0,
+arena rector,"Human, Cleric",4.0,
+thran temporal gateway,,4.0,
+nevinyrral's disk,,4.0,
+wrath of god,,4.0,
+supreme verdict,,4.0,
+dack fayden,Dack,3.0,
+"narset, parter of veils",Narset,3.0,
+"teferi, time raveler",Teferi,3.0,
+"lae'zel, vlaakith's champion","Gith, Warrior",3.0,
+flux channeler,"Human, Wizard",3.0,
+propaganda,,3.0,
+ghostly prison,,3.0,
+rings of brighthearth,,3.0,
+honor-worn shaku,,3.0,
+chaos warp,,3.0,
+arena of the ancients,,3.0,
+dovin's veto,,2.0,
+experimental augury,,2.0,
+izzet signet,,2.0,
+boros signet,,2.0,
+azorius signet,,2.0,
+meekstone,,1.0,
+tundra,"Plains, Island",0.0,
+hallowed fountain,"Plains, Island",0.0,
+flooded strand,,0.0,
+glacial fortress,,0.0,
+volcanic island,"Island, Mountain",0.0,
+steam vents,"Island, Mountain",0.0,
+sulfur falls,,0.0,
+shivan reef,,0.0,
+scalding tarn,,0.0,
+forge of heroes,,0.0,
+kher keep,,0.0,
+raugrin triome,"Island, Mountain, Plains",0.0,
+command tower,,0.0,
+battlefield forge,,0.0,
+plateau,"Mountain, Plains",0.0,
+arid mesa,,0.0,
+mountain,Mountain,0.0,
+mirrex,Sphere,0.0,
+interplanar beacon,,0.0,
+deepglow skate,Fish,5.0,
+jaya's phoenix,Phoenix,5.0,
+"chandra, legacy of fire",Chandra,5.0,
+"elspeth, sun's champion",Elspeth,6.0,
+narset of the ancient way,Narset,4.0,
+"vronos, masked inquisitor",Vronos,5.0,
+all will be one,,5.0,
+contagion engine,,6.0,
+"teferi, master of time",Teferi,4.0,
+savor the moment,,3.0,
+the eternal wanderer,,6.0,
+"teferi, temporal archmage",Teferi,6.0,
+teferi's protection,,3.0,
+mana leak,,2.0,
+plaza of heroes,,0.0,
+kor haven,,0.0,
+karmic justice,,3.0,
+spark double,Illusion,4.0,
+ripples of potential,,2.0,
+gatewatch beacon,,3.0,
+comeuppance,,4.0,
+clifftop retreat,,0.0,
+stormcarved coast,,0.0,
+sacred foundry,"Mountain, Plains",0.0,
+deserted beach,,0.0,
+final showdown,,1.0,
+resourceful defense,,3.0,
+sol ring,,1.0,
+island sanctuary,,2.0,
+not dead after all,,1.0,
+tortured existence,,1.0,
+walking ballista,Construct,0.0,
+stonecoil serpent,Snake,0.0,
+leech gauntlet,"Equipment, Leech",2.0,
+myr retriever,Myr,2.0,
+liquimetal torque,,2.0,
+leaden myr,Myr,2.0,
+cranial plating,Equipment,2.0,
+network terminal,,3.0,
+foundry inspector,Construct,3.0,
+palladium myr,Myr,3.0,
+attrition,,3.0,
+circuit mender,Insect,3.0,
+skeleton shard,,3.0,
+workshop assistant,Construct,3.0,
+scrap trawler,Construct,3.0,
+scarecrone,Scarecrow,3.0,
+junk diver,Bird,3.0,
+corpse dance,,3.0,
+haunted crossroads,,3.0,
+rug of smothering,Construct,3.0,
+etched champion,Soldier,3.0,
+phyrexian fleshgorger,"Phyrexian, Wurm",7.0,
+moriok replica,Warrior,3.0,
+dross golem,Golem,5.0,
+phyrexian scriptures,Saga,4.0,
+the abyss,,4.0,
+mystic forge,,4.0,
+krark-clan ironworks,,4.0,
+trading post,,4.0,
+barbed servitor,Construct,4.0,
+masticore,Masticore,4.0,
+jhoira's familiar,Bird,4.0,
+silent arbiter,Construct,4.0,
+"traxos, scourge of kroog",Construct,4.0,
+canoptek scarab swarm,Insect,4.0,
+terror ballista,Construct,7.0,
+golem artisan,Golem,5.0,
+manor gargoyle,Gargoyle,5.0,
+beacon of unrest,,5.0,
+forsaken monument,,5.0,
+mirrorworks,,5.0,
+mortuary mire,,0.0,
+inkmoth nexus,,0.0,
+mishra's factory,,0.0,
+phyrexia's core,,0.0,
+inventors' fair,,0.0,
+blinkmoth nexus,,0.0,
+razorlash transmogrant,Zombie,2.0,
+wurmcoil engine,"Phyrexian, Wurm",6.0,
+psychomancer,"Necron, Wizard",2.0,
+cyberman patrol,Cyberman,2.0,
+chronomancer,"Necron, Wizard",2.0,
+"szarekh, the silent king",Necron,4.0,
+throne of eldraine,,5.0,
+"armix, filigree thrasher",Golem,3.0,
+canoptek wraith,Wraith,3.0,
+skorpekh lord,"Necron, Noble",3.0,
+noxious gearhulk,Construct,6.0,
+cybermen squadron,Cyberman,7.0,
+canoptek spyder,Spider,5.0,
+cryptek,"Necron, Wizard",4.0,
+lokhust heavy destroyer,Necron,4.0,
+necron deathmark,Necron,5.0,
+cryptothrall,Construct,4.0,
+their name is death,,6.0,
+volrath's stronghold,,0.0,
+abstergo entertainment,,0.0,
+high market,,0.0,
+myriad landscape,,0.0,
+fomori vault,,0.0,
+war room,,0.0,
+phyrexian tower,,0.0,
+helm of possession,,4.0,
+smothering tithe,,4.0,
+anointed procession,,4.0,
+humility,,4.0,
+parallel lives,,4.0,
+slate of ancestry,,4.0,
+make a stand,,3.0,
+rootborn defenses,,3.0,
+the battle of bywater,,3.0,
+mirror entity,Shapeshifter,3.0,
+beastmaster ascension,,3.0,
+champion of lambholt,"Human, Warrior",3.0,
+scute swarm,Insect,3.0,
+arachnogenesis,,3.0,
+tribute to the world tree,,3.0,
+mentor of the meek,"Human, Soldier",3.0,
+harvest season,,3.0,
+horn of valhalla // ysgard's call,Equipment,2.0,
+cryptolith rite,,2.0,
+throne of the god-pharaoh,,2.0,
+staff of the storyteller,,2.0,
+earthcraft,,2.0,
+hall of tagsin,,0.0,
+hall of heliod's generosity,,0.0,
+"vitu-ghazi, the city-tree",,0.0,
+blighted steppe,,0.0,
+scattered groves,"Forest, Plains",0.0,
+restless prairie,,0.0,
+sungrass prairie,,0.0,
+gaea's cradle,,0.0,
+"boseiju, who endures",,0.0,
+expel the interlopers,,5.0,
+cathars' crusade,,5.0,
+craterhoof behemoth,Beast,8.0,
+tendershoot dryad,Dryad,5.0,
+decree of justice,,4.0,
+white sun's zenith,,3.0,
+grand crescendo,,2.0,
+march of the multitudes,,3.0,
+increasing devotion,,5.0,
+awaken the woods,,2.0,
+martial coup,,2.0,
+nissa's expedition,,5.0,
+shamanic revelation,,5.0,
+camaraderie,,6.0,
+primal vigor,,5.0,
+secure the wastes,,1.0,
+hour of reckoning,,7.0,
+farmer cotton,"Halfling, Peasant",2.0,
+white sun's twilight,,2.0,
+conqueror's pledge,,5.0,
+tireless tracker,"Human, Scout",3.0,
+three tree city,,0.0,
+moonshaker cavalry,"Spirit, Knight",8.0,
+illustrious wanderglyph,Golem,5.0,
+second harvest,,4.0,
+"mondrak, glory dominus","Phyrexian, Horror",4.0,
+circle of dreams druid,"Elf, Druid",3.0,
+doubling season,,5.0,
+gavony township,,0.0,
+perch protection,,6.0,
+enduring vitality,"Elk, Glimmer",3.0,
+"tyvar, the pummeler","Elf, Warrior",3.0,
+caretaker's talent,Class,3.0,
+fountainport,,0.0,
+"zopandrel, hunger dominus","Phyrexian, Horror",7.0,
+preposterous proportions,,7.0,
+"oran-rief, the vastwood",,0.0,
+crisis of conscience,,6.0,
+season of the burrow,,5.0,
+obscuring aether,,1.0,
+dulcet sirens,Siren,3.0,
+nervous gardener,Dryad,2.0,
+grim haruspex,"Human, Wizard",3.0,
+fathom seer,Illusion,2.0,
+planar incision,,2.0,
+hunted bonebrute,"Skeleton, Beast",3.0,
+ainok survivalist,"Dog, Shaman",2.0,
+willbender,"Human, Wizard",2.0,
+stratus dancer,"Djinn, Monk",2.0,
+secret plans,,2.0,
+dream chisel,,2.0,
+overgrown zealot,"Elf, Druid",2.0,
+exit specialist,"Human, Detective",2.0,
+den protector,"Human, Warrior",2.0,
+vesuvan shapeshifter,Shapeshifter,5.0,
+kadena's silencer,"Snake, Wizard",2.0,
+hauntwoods shrieker,"Beast, Mutant",3.0,
+abhorrent oculus,Eye,3.0,
+mischievous quanar,Beast,5.0,
+glitch interpreter,"Human, Wizard",3.0,
+skittering cicada,Insect,3.0,
+"etrata, deadly fugitive","Vampire, Assassin",3.0,
+cryptic coat,Equipment,3.0,
+cloudform,,3.0,
+icefeather aven,"Bird, Shaman",2.0,
+"vivien, champion of the wilds",Vivien,3.0,
+scroll of fate,,3.0,
+pernicious deed,,3.0,
+song of the dryads,Aura,3.0,
+aphetto runecaster,"Human, Wizard",4.0,
+become anonymous,,4.0,
+"roshan, hidden magister","Human, Assassin",4.0,
+"zimone, mystery unraveler","Human, Wizard",4.0,
+bane of the living,Insect,4.0,
+printlifter ooze,Ooze,2.0,
+threats around every corner,,4.0,
+high fae trickster,"Faerie, Wizard",4.0,
+"vannifar, evolved enigma","Elf, Ooze, Wizard",4.0,
+panoptic projektor,,4.0,
+ugin's mastery,,4.0,
+leyline of anticipation,,4.0,
+hide in plain sight,,4.0,
+vedalken orrery,,4.0,
+ixidron,Illusion,5.0,
+they came from the pipes,,5.0,
+experiment twelve,"Elf, Lizard, Warrior",4.0,
+deathmist raptor,"Dinosaur, Beast",3.0,
+"ixidor, reality sculptor","Human, Wizard",5.0,
+skinthinner,Zombie,2.0,
+hooded hydra,"Snake, Hydra",2.0,
+whisperwood elemental,Elemental,5.0,
+primordial mist,,5.0,
+chromeshell crab,"Crab, Beast",5.0,
+spreading plague,,5.0,
+temur war shaman,"Human, Shaman",6.0,
+curator beastie,Beast,6.0,
+kheru spellsnatcher,"Snake, Wizard",4.0,
+gift of doom,Aura,5.0,
+zoetic cavern,,0.0,
+branch of vitu-ghazi,,0.0,
+exotic orchard,,0.0,
+opulent palace,,0.0,
+zagoth triome,"Swamp, Forest, Island",0.0,
+tomb of the spirit dragon,,0.0,
+nurturing peatland,,0.0,
+verdant catacombs,,0.0,
+woodland cemetery,,0.0,
+overgrown tomb,"Swamp, Forest",0.0,
+polluted delta,,0.0,
+watery grave,"Island, Swamp",0.0,
+fetid pools,"Island, Swamp",0.0,
+choked estuary,,0.0,
+misty rainforest,,0.0,
+breeding pool,"Forest, Island",0.0,
+tropical island,"Forest, Island",0.0,
+dreamroot cascade,,0.0,
+hinterland harbor,,0.0,
+thought vessel,,2.0,
+crab umbra,Aura,1.0,
+mother of runes,"Human, Cleric",1.0,
+giver of runes,"Kor, Cleric",1.0,
+dimir signet,,2.0,
+talisman of hierarchy,,2.0,
+swiftfoot boots,Equipment,2.0,
+lightning greaves,Equipment,2.0,
+crashing drawbridge,Wall,2.0,
+magewright's stone,,2.0,
+aphetto alchemist,"Human, Wizard",2.0,
+blessed alliance,,2.0,
+torpor orb,,2.0,
+waterfront bouncer,"Merfolk, Spellshaper",2.0,
+royal assassin,"Human, Assassin",3.0,
+serendib sorcerer,"Human, Wizard",3.0,
+intrepid hero,"Human, Soldier",3.0,
+ioreth of the healing house,"Human, Cleric",3.0,
+thousand-year elixir,,3.0,
+intruder alarm,,3.0,
+freed from the real,Aura,3.0,
+robaran mercenaries,"Human, Mercenary",4.0,
+fatestitcher,"Zombie, Wizard",4.0,
+"azami, lady of scrolls","Human, Wizard",5.0,
+arcanis the omnipotent,Wizard,6.0,
+avatar of woe,Avatar,8.0,
+endbringer,Eldrazi,6.0,
+visara the dreadful,Gorgon,6.0,
+aura of dominion,Aura,2.0,
+shadowspear,Equipment,1.0,
+haunted cloak,Equipment,3.0,
+adarkar valkyrie,Angel,6.0,
+ghoulcaller gisa,"Human, Wizard",5.0,
+cavern of souls,,0.0,
+pemmin's aura,Aura,3.0,
+unbender tine,,4.0,
+lost in the maze,,2.0,
+dramatic reversal,,2.0,
+patriar's seal,,3.0,
+nightmare shepherd,Demon,4.0,
+vizier of tumbling sands,"Human, Cleric",3.0,
+drumbellower,Spirit,3.0,
+drowned catacomb,,0.0,
+arcane sanctum,,0.0,
+"sting, the glinting dagger",Equipment,2.0,
+norritt,Imp,4.0,
+detection tower,,0.0,
+lavaspur boots,Equipment,1.0,
+talisman of dominance,,2.0,
+archivist,"Human, Wizard",4.0,
+"minamo, school at water's edge",,0.0,
+raffine's tower,"Plains, Island, Swamp",0.0,
+underground sea,"Island, Swamp",0.0,
+shipwreck marsh,,0.0,
+scrubland,"Plains, Swamp",0.0,
+shattered sanctum,,0.0,
+coffin queen,"Zombie, Wizard",3.0,
+fierce guardianship,,3.0,
+"marvin, murderous mimic",Toy,2.0,
+split up,,3.0,
+callous oppressor,Octopus,3.0,
+dawn's truce,,2.0,
+heliod's intervention,,2.0,
+"sokrates, athenian teacher","Human, Advisor",3.0,
+abyssal harvester,"Demon, Warlock",3.0,
+hour of revelation,,6.0,
+isolated chapel,,0.0,
+reflecting pool,,0.0,
+boundless realms,,7.0,
+brass's bounty,,7.0,
+armed // dangerous,,6.0,
+feed the pack,,6.0,
+"thrun, the last troll","Troll, Shaman",4.0,
+"thrun, breaker of silence","Troll, Shaman",5.0,
+mana geyser,,5.0,
+soul's majesty,,5.0,
+soul's might,,5.0,
+overwhelming stampede,,5.0,
+hunter's prowess,,5.0,
+mishra's command,,1.0,
+"garruk, primal hunter",Garruk,5.0,
+savage beating,,5.0,
+"xenagos, god of revels",God,5.0,
+mizzix's mastery,,4.0,
+fungal sprouting,,4.0,
+terramorph,,4.0,
+"minsc & boo, timeless heroes",Minsc,4.0,
+momentous fall,,4.0,
+erratic cyclops,"Cyclops, Shaman",4.0,
+viridian joiner,"Elf, Druid",3.0,
+hunter's insight,,3.0,
+invigorate,,3.0,
+rush of blood,,3.0,
+spikeshot goblin,"Goblin, Shaman",3.0,
+spikeshot elder,"Goblin, Shaman",1.0,
+manaplasm,Ooze,3.0,
+embercleave,Equipment,6.0,
+fling,,2.0,
+temur battle rage,,2.0,
+unleash fury,,2.0,
+dreadhorde arcanist,"Zombie, Wizard",2.0,
+silhana ledgewalker,"Elf, Rogue",2.0,
+berserk,,1.0,
+ricochet trap,Trap,4.0,
+blossoming defense,,1.0,
+become immense,,6.0,
+stomping ground,"Mountain, Forest",0.0,
+rootbound crag,,0.0,
+sheltered thicket,"Mountain, Forest",0.0,
+"skarrg, the rage pits",,0.0,
+grove of the burnwillows,,0.0,
+lair of the hydra,,0.0,
+"marwyn, the nurturer","Elf, Druid",3.0,
+traverse the outlands,,5.0,
+volcanic salvo,,12.0,
+tyvar's stand,,1.0,
+return of the wildspeaker,,5.0,
+bedrock tortoise,Turtle,4.0,
+kessig wolf run,,0.0,
+pest infestation,,1.0,
+fade from history,,4.0,
+entish restoration,,3.0,
+restless ridgeline,,0.0,
+commercial district,"Mountain, Forest",0.0,
+fanatic of rhonas,"Snake, Druid",2.0,
+arena of glory,,0.0,
+mossfire valley,,0.0,
+game trail,,0.0,
+cinder glade,"Mountain, Forest",0.0,
+reliquary tower,,0.0,
+mosswort bridge,,0.0,
+taiga,"Mountain, Forest",0.0,
+rockfall vale,,0.0,
+harmonic prodigy,"Human, Wizard",2.0,
+chandra's ignition,,5.0,
+rishkar's expertise,,6.0,
+bane of progress,Elemental,6.0,
+"ghalta, primal hunger","Elder, Dinosaur",12.0,
+season of gathering,,6.0,
+deflecting swat,,3.0,
+"halana and alena, partners","Human, Ranger",4.0,
+tanuki transplanter,"Equipment, Dog",4.0,
+seize the day,,4.0,
+bulk up,,2.0,
+ashroot animist,"Lizard, Druid",4.0,
+forgotten ancient,Elemental,4.0,
+klauth's will,,3.0,
+yavimaya hollow,,0.0,
+tyrite sanctum,,0.0,
+"yavimaya, cradle of growth",,0.0,
+temple of the false god,,0.0,
+demolition field,,0.0,
+"okina, temple to the grandfathers",,0.0,
+winding canyons,,0.0,
+blast zone,,0.0,
+"oviya pashiri, sage lifecrafter","Human, Artificer",1.0,
+the filigree sylex,,2.0,
+blackblade reforged,Equipment,2.0,
+"bessie, the doctor's roadster",Vehicle,2.0,
+"jolrael, mwonvuli recluse","Human, Druid",2.0,
+"shigeki, jukai visionary","Snake, Druid",2.0,
+mithril coat,Equipment,3.0,
+"azusa, lost but seeking","Human, Monk",3.0,
+rhonas's monument,,3.0,
+"gwenna, eyes of gaea","Elf, Druid, Scout",3.0,
+"omnath, locus of mana",Elemental,3.0,
+dosan the falling leaf,"Human, Monk",3.0,
+"hua tuo, honored physician",Human,3.0,
+palantÃ­r of orthanc,,3.0,
+"goreclaw, terror of qal sisma",Bear,4.0,
+lithoform engine,,4.0,
+"yeva, nature's herald","Elf, Shaman",4.0,
+questing beast,Beast,4.0,
+"halana, kessig ranger","Human, Archer, Ranger",4.0,
+garruk wildspeaker,Garruk,4.0,
+wrenn and seven,Wrenn,5.0,
+vivien reid,Vivien,5.0,
+"multani, yavimaya's avatar","Elemental, Avatar",6.0,
+"silvos, rogue elemental",Elemental,6.0,
+old gnawbone,Dragon,7.0,
+the tarrasque,Dinosaur,9.0,
+kamahl's druidic vow,,2.0,
+"excalibur, sword of eden",Equipment,12.0,
+archdruid's charm,,3.0,
+leyline immersion,Aura,4.0,
+ezuri's predation,,8.0,
+the great aurora,,9.0,
+all is dust,Eldrazi,7.0,
+praetor's counsel,,8.0,
+heroic intervention,,2.0,
+champion's helm,Equipment,3.0,
+heroes' podium,,5.0,
+"kogla, the titan ape",Ape,6.0,
+sceptre of eternal glory,,4.0,
+"nylea, keen-eyed",God,4.0,
+the ring goes south,,4.0,
+"kona, rescue beastie","Beast, Survivor",4.0,
+"sutina, speaker of the tajuru","Elf, Scout",3.0,
+"bitterthorn, nissa's animus",Equipment,3.0,
+"eladamri, korvecdal","Elf, Warrior",3.0,
+gerrard's hourglass pendant,,1.0,
+sword of the animist,Equipment,2.0,
+mox amber,,0.0,
+bayou,"Swamp, Forest",0.0,
+llanowar wastes,,0.0,
+mutavault,,0.0,
+swarmyard,,0.0,
+arena,,0.0,
+penumbra spider,Spider,4.0,
+obelisk spider,Spider,3.0,
+broodspinner,Spider,2.0,
+drider,"Elf, Spider",5.0,
+watcher in the web,Spider,5.0,
+nyx weaver,Spider,3.0,
+"ishkanah, grafwidow",Spider,5.0,
+chainweb aracnir,Spider,1.0,
+mirkwood spider,Spider,1.0,
+masked vandal,Shapeshifter,2.0,
+twitching doll,"Spider, Toy",2.0,
+deadly recluse,Spider,2.0,
+llanowar greenwidow,Spider,3.0,
+realmwalker,Shapeshifter,3.0,
+spinner of souls,"Spider, Spirit",3.0,
+moonglove changeling,Shapeshifter,3.0,
+venomous changeling,Shapeshifter,3.0,
+chameleon colossus,Shapeshifter,4.0,
+skyfisher spider,Spider,4.0,
+roaming throne,Golem,4.0,
+arasta of the endless web,Spider,4.0,
+"shelob, dread weaver","Spider, Demon",4.0,
+treetop snarespinner,Spider,4.0,
+stingerfling spider,Spider,5.0,
+"lolth, spider queen",Lolth,5.0,
+cairn wanderer,Shapeshifter,5.0,
+silklash spider,Spider,5.0,
+doom weaver,"Spider, Horror",6.0,
+hard-hitting question,,1.0,
+unnatural endurance,,1.0,
+supernatural stamina,,1.0,
+viridian longbow,Equipment,1.0,
+three visits,,2.0,
+deadly allure,,1.0,
+legolas's quick reflexes,,1.0,
+assassin's trophy,,2.0,
+ram through,,2.0,
+master's rebuke,,2.0,
+peregrin took,"Halfling, Citizen",3.0,
+"vraska, the silencer","Gorgon, Assassin",3.0,
+skyshroud claim,,4.0,
+the swarmweaver,Scarecrow,4.0,
+swarmyard massacre,,5.0,
+predatory rampage,,5.0,
+you look upon the tarrasque,,5.0,
+vanquisher's banner,,5.0,
+coiling rebirth,,5.0,
+patriarch's bidding,,5.0,
+back for more,,6.0,
+tribal unity,,3.0,
+spinning wheel kick,,2.0,
+rotwidow pack,Spider,4.0,
+twin-silk spider,Spider,3.0,
+curse of clinging webs,"Aura, Curse",3.0,
+kessig recluse,Spider,4.0,
+blood crypt,"Swamp, Mountain",0.0,
+mines of moria,,0.0,
+castle embereth,,0.0,
+badlands,"Swamp, Mountain",0.0,
+molten slagheap,,0.0,
+command beacon,,0.0,
+experimental synthesizer,,1.0,
+dragon's rage channeler,"Human, Shaman",1.0,
+delayed blast fireball,,3.0,
+reckless impulse,,2.0,
+bonecrusher giant // stomp,Giant,3.0,
+you find some prisoners,,2.0,
+dream devourer,"Demon, Cleric",2.0,
+rakdos signet,,2.0,
+fellwar stone,,2.0,
+poison the cup,,3.0,
+march of reckless joy,,1.0,
+jeska's will,,3.0,
+galvanic relay,,3.0,
+tavern brawler,Background,3.0,
+valakut exploration,,3.0,
+"laelia, the blade reforged","Spirit, Warrior",3.0,
+wand of wonder,,4.0,
+outpost siege,,4.0,
+wildfire devils,Devil,4.0,
+"atsushi, the blazing sky","Dragon, Spirit",4.0,
+amethyst dragon // explosive crystal,Dragon,6.0,
+bituminous blast,,5.0,
+mezzio mugger,"Lizard, Rogue",5.0,
+inspired tinkering,,5.0,
+kami of celebration,Spirit,5.0,
+knowledge pool,,6.0,
+oblivion sower,Eldrazi,6.0,
+aurora phoenix,Phoenix,6.0,
+hedonist's trove,,7.0,
+trumpeting carnosaur,Dinosaur,6.0,
+"etali, primal storm","Elder, Dinosaur",6.0,
+dire fleet daredevil,"Human, Pirate",2.0,
+"gonti, lord of luxury","Aetherborn, Rogue",4.0,
+call forth the tempest,,8.0,
+decadent dragon // expensive taste,Dragon,4.0,
+hidden volcano,Cave,0.0,
+ignite the future,,4.0,
+stolen strategy,,5.0,
+junktown,,0.0,
+heartless conscription,,8.0,
+rain of riches,,5.0,
+hurl through hell,,4.0,
+wild-magic sorcerer,"Orc, Shaman",4.0,
+elemental eruption,,6.0,
+xorn,Elemental,3.0,
+crime novelist,"Goblin, Bard",3.0,
+mirkwood bats,Bat,4.0,
+"rakdos, the muscle","Demon, Mercenary",5.0,
+foreboding ruins,,0.0,
+zoyowa's justice,,2.0,
+impending flux,,3.0,
+haunted ridge,,0.0,
+bonehoard dracosaur,"Dinosaur, Dragon",5.0,
+goldspan dragon,Dragon,5.0,
+season of the bold,,5.0,
+nalfeshnee,"Beast, Demon",6.0,
+flaming tyrannosaurus,Dinosaur,7.0,
+professional face-breaker,"Human, Warrior",3.0,
+passionate archaeologist,Background,2.0,
+alchemist's talent,Class,4.0,
+grim hireling,"Tiefling, Rogue",4.0,
+tibalt's trickery,,2.0,
+"valgavoth, terror eater","Elder, Demon",9.0,
+charred foyer // warped space,Room,10.0,
+"evereth, viceroy of plunder","Vampire, Soldier",3.0,
+dragonskull summit,,0.0,
+"otawara, soaring city",,0.0,
+"takenuma, abandoned mire",,0.0,
+diluvian primordial,Avatar,7.0,
+sepulchral primordial,Avatar,7.0,
+inkwell leviathan,Leviathan,9.0,
+"sheoldred, whispering one","Phyrexian, Praetor",7.0,
+darksteel colossus,Golem,11.0,
+silent-blade oni,"Demon, Ninja",7.0,
+steel hellkite,Dragon,6.0,
+dread,"Elemental, Incarnation",6.0,
+"wrexial, the risen deep",Kraken,6.0,
+duplicant,Shapeshifter,6.0,
+mulldrifter,Elemental,5.0,
+shriekmaw,Elemental,5.0,
+consuming aberration,Horror,5.0,
+"ink-eyes, servant of oni","Rat, Ninja",6.0,
+"higure, the still wind","Human, Ninja",5.0,
+fallen shinobi,"Zombie, Ninja",5.0,
+glen elendra archmage,"Faerie, Wizard",4.0,
+ertai resurrected,"Phyrexian, Human, Wizard",4.0,
+"nashi, moon sage's scion","Rat, Ninja",3.0,
+throat slitter,"Rat, Ninja",5.0,
+"thassa, god of the sea",God,3.0,
+thief of sanity,Specter,3.0,
+"thada adel, acquisitor","Merfolk, Rogue",3.0,
+dauthi voidwalker,"Dauthi, Rogue",2.0,
+order of midnight // alter fate,"Human, Knight",2.0,
+dimir infiltrator,Spirit,2.0,
+smuggler's copter,Vehicle,2.0,
+invisible stalker,"Human, Rogue",2.0,
+sakashima's student,"Human, Ninja",4.0,
+baleful strix,Bird,2.0,
+cloud of faeries,Faerie,2.0,
+changeling outcast,Shapeshifter,1.0,
+gingerbrute,"Food, Golem",1.0,
+slither blade,"Snake, Rogue",1.0,
+ornithopter,Thopter,0.0,
+whispersilk cloak,Equipment,3.0,
+admiral's order,,3.0,
+underground river,,0.0,
+"shizo, death's storehouse",,0.0,
+gudul lurker,Salamander,1.0,
+you come to a river,,2.0,
+ingenious infiltrator,"Vedalken, Ninja",4.0,
+siren stormtamer,"Siren, Pirate, Wizard",1.0,
+"zareth san, the trickster","Merfolk, Rogue",5.0,
+ravenous chupacabra,"Beast, Horror",4.0,
+primaris eliminator,"Astartes, Warrior",5.0,
+port of karfell,,0.0,
+negate,,2.0,
+"grÃ­ma, saruman's footman","Human, Advisor",4.0,
+"yuriko, the tiger's shadow","Human, Ninja",3.0,
+the black gate,Gate,0.0,
+access tunnel,,0.0,
+ingenious prodigy,"Human, Wizard",1.0,
+rivendell,,0.0,
+massacre wurm,"Phyrexian, Wurm",6.0,
+puppeteer clique,"Faerie, Wizard",5.0,
+mudflat village,,0.0,
+gossip's talent,Class,2.0,
+silent hallcreeper,Horror,2.0,
+"kaito, bane of nightmares",Kaito,4.0,
+metamorphosis fanatic,"Human, Cleric",6.0,
+enduring curiosity,"Cat, Glimmer",4.0,
+ancient silver dragon,"Elder, Dragon",8.0,
+escape tunnel,,0.0,
+"minas morgul, dark fortress",,0.0,
+hurkyl's final meditation,,7.0,
+stormtide leviathan,Leviathan,8.0,
+spelljack,,6.0,
+gather specimens,,6.0,
+discontinuity,,6.0,
+get out,,2.0,
+haughty djinn,Djinn,3.0,
+quicksilver fountain,,3.0,
+reenact the crime,,4.0,
+mission briefing,,2.0,
+castle vantress,,0.0,
+meteor golem,Golem,7.0,
+caged sun,,6.0,
+ancient copper dragon,"Elder, Dragon",6.0,
+indomitable creativity,,3.0,
+spitebellows,Elemental,6.0,
+bogardan hellkite,Dragon,8.0,
+spawn of thraxes,Dragon,7.0,
+mindclaw shaman,"Lizard, Shaman",5.0,
+gauntlet of power,,5.0,
+fury,"Elemental, Incarnation",5.0,
+minion reflector,,5.0,
+rapacious dragon,Dragon,5.0,
+coercive recruiter,"Orc, Pirate",5.0,
+zealous conscripts,"Human, Warrior",5.0,
+"kiki-jiki, mirror breaker","Goblin, Shaman",5.0,
+fireflux squad,"Human, Soldier",4.0,
+flameshadow conjuring,,4.0,
+flametongue kavu,Kavu,4.0,
+wild ricochet,,4.0,
+"jaxis, the troublemaker","Human, Warrior",4.0,
+dualcaster mage,"Human, Wizard",3.0,
+cursed mirror,,3.0,
+imperial recruiter,"Human, Advisor",3.0,
+feldon of the third path,"Human, Artificer",3.0,
+voldaren thrillseeker,"Vampire, Warrior",3.0,
+sundial of the infinite,,2.0,
+goblin cratermaker,"Goblin, Warrior",2.0,
+stingscourger,"Goblin, Warrior",2.0,
+humble defector,"Human, Rogue",2.0,
+tempt with mayhem,,3.0,
+"calamity, galloping inferno","Horse, Mount",6.0,
+inferno titan,Giant,6.0,
+"valakut, the molten pinnacle",,0.0,
+patron of the arts,"Dragon, Noble",3.0,
+scampering surveyor,Gnome,4.0,
+plundering barbarian,"Dwarf, Barbarian",3.0,
+firbolg flutist,"Giant, Bard",6.0,
+display of power,,3.0,
+charming scoundrel,"Human, Rogue",2.0,
+battlemage's bracers,Equipment,3.0,
+pyrogoyf,Lhurgoyf,4.0,
+determined iteration,,2.0,
+"herigast, erupting nullkite","Eldrazi, Dragon",9.0,
+sunspine lynx,"Elemental, Cat",4.0,
+terror of the peaks,Dragon,5.0,
+molten primordial,Avatar,7.0,
+echoing assault,,5.0,
+ghired's belligerence,,2.0,
+wooded bastion,,0.0,
+brushland,,0.0,
+wooded foothills,,0.0,
+gideon's sacrifice,,1.0,
+ulvenwald tracker,"Human, Shaman",1.0,
+marauding raptor,Dinosaur,2.0,
+boxing ring,,2.0,
+mawloc,Tyranid,2.0,
+rolling earthquake,,1.0,
+stormwild capridor,"Bird, Goat",3.0,
+subterranean tremors,,1.0,
+hornet nest,Insect,3.0,
+hungering hydra,Hydra,1.0,
+"domri, anarch of bolas",Domri,3.0,
+boros reckoner,"Minotaur, Wizard",3.0,
+martyrdom,,3.0,
+donna noble,Human,4.0,
+lightmine field,,4.0,
+starstorm,,2.0,
+fiery confluence,,4.0,
+needletooth raptor,Dinosaur,4.0,
+pariah's shield,Equipment,5.0,
+trapjaw tyrant,Dinosaur,5.0,
+stuffy doll,Construct,5.0,
+brash taunter,Goblin,5.0,
+incite rebellion,,6.0,
+polyraptor,Dinosaur,8.0,
+blasphemous act,,9.0,
+ripjaw raptor,Dinosaur,4.0,
+ranging raptors,Dinosaur,3.0,
+"vrondiss, rage of ancients","Dragon, Barbarian",5.0,
+flumph,Jellyfish,2.0,
+powerstone minefield,,4.0,
+prizefight,,2.0,
+bushwhack,,1.0,
+blazing sunsteel,Equipment,2.0,
+pariah,Aura,3.0,
+spitemare,Elemental,4.0,
+caltrops,,3.0,
+jetmir's garden,"Mountain, Forest, Plains",0.0,
+sundown pass,,0.0,
+spiteful banditry,,2.0,
+pyrohemia,,4.0,
+mirari's wake,,5.0,
+desert,Desert,0.0,
+screaming nemesis,Spirit,3.0,
+vigor,"Elemental, Incarnation",6.0,
+setessan tactics,,2.0,
+cacophodon,Dinosaur,4.0,
+apex altisaur,Dinosaur,9.0,
+genesis,Incarnation,5.0,
+tragic arrogance,,5.0,
+unexplained absence,,4.0,
+twinflame tyrant,Dragon,5.0,
+balduvian trading post,,0.0,
+shielded by faith,Aura,3.0,
+generous gift,,3.0,
+dockside chef,"Human, Citizen",1.0,
+gilded goose,Bird,1.0,
+cauldron familiar,Cat,1.0,
+sakura-tribe elder,"Snake, Shaman",2.0,
+reassembling skeleton,"Skeleton, Warrior",2.0,
+reckless imp,Imp,3.0,
+academy manufactor,Assembly-Worker,3.0,
+"jaheira, friend of the forest","Human, Elf, Druid",3.0,
+tireless provisioner,"Elf, Scout",3.0,
+wicked wolf,Wolf,4.0,
+fangren marauder,Beast,6.0,
+"kokusho, the evening star","Dragon, Spirit",6.0,
+thrashing wumpus,Beast,5.0,
+"mazirek, kraul death priest","Insect, Shaman",5.0,
+living death,,5.0,
+victory chimes,,3.0,
+victimize,,3.0,
+witch's oven,,1.0,
+windgrace's judgment,,5.0,
+casualties of war,,6.0,
+gingerbread cabin,Forest,0.0,
+crypt of agadeem,,0.0,
+breach the multiverse,,7.0,
+feasting troll king,"Troll, Noble",6.0,
+blossoming bogbeast,Beast,5.0,
+silversmote ghoul,"Zombie, Vampire",3.0,
+savvy hunter,"Human, Warrior",3.0,
+trail of crumbs,,2.0,
+decree of pain,,8.0,
+the shire,,0.0,
+elanor gardner,"Halfling, Scout",4.0,
+nadier's nightblade,"Elf, Warrior",3.0,
+restless cottage,,0.0,
+malevolent witchkite,"Dragon, Warlock",6.0,
+"greta, sweettooth scourge","Human, Warrior",3.0,
+lich-knights' conquest,,5.0,
+displaced dinosaurs,Dinosaur,7.0,
+"braids, arisen nightmare",Nightmare,3.0,
+night of the sweets' revenge,,4.0,
+arch of orazca,,0.0,
+tough cookie,"Food, Golem",2.0,
+nuka-cola vending machine,,3.0,
+boneyard parley,,7.0,
+topiary stomper,"Plant, Dinosaur",3.0,
+shifting woodland,,0.0,
+deathcap glade,,0.0,
+"ygra, eater of all","Elemental, Cat",5.0,
+heaped harvest,Food,3.0,
+hazel's brewmaster,"Squirrel, Warlock",4.0,
+insatiable frugivore,"Rat, Berserker",4.0,
+osteomancer adept,"Squirrel, Warlock",2.0,
+moonstone eulogist,"Bat, Warlock",5.0,
+old flitterfang,"Rat, Faerie",5.0,
+assemble the entmoot,,4.0,
+path of ancestry,,0.0,
+fiery islet,,0.0,
+forbidden orchard,,0.0,
+taunting kobold,Kobold,1.0,
+strix serenade,,1.0,
+"grenzo, havoc raiser","Goblin, Rogue",2.0,
+popular entertainer,Background,2.0,
+"magda, the hoardmaster","Dwarf, Berserker",2.0,
+reckless barbarian,"Dragon, Barbarian",2.0,
+arcane denial,,2.0,
+lofty denial,,2.0,
+talisman of creativity,,2.0,
+cyclonic rift,,2.0,
+mocking doppelganger,Shapeshifter,4.0,
+vengeful ancestor,"Spirit, Dragon",4.0,
+domineering will,,4.0,
+besmirch,,3.0,
+agitator ant,Insect,3.0,
+coronation of chaos,,3.0,
+taurean mauler,Shapeshifter,3.0,
+"baeloth barrityl, entertainer","Elf, Shaman",5.0,
+thundermaw hellkite,Dragon,5.0,
+"ganax, astral hunter",Dragon,5.0,
+stormbreath dragon,Dragon,5.0,
+illusory ambusher,"Cat, Illusion",5.0,
+"niv-mizzet, parun","Dragon, Wizard",6.0,
+mana drain,,2.0,
+bedlam,,4.0,
+bident of thassa,,4.0,
+renegade silent,"Alien, Horror",4.0,
+illusionist's gambit,,4.0,
+disrupt decorum,,4.0,
+dragon's hoard,,3.0,
+territorial hellkite,Dragon,4.0,
+chaos dragon,Dragon,3.0,
+the akroan war,Saga,4.0,
+sly instigator,"Human, Wizard",4.0,
+shiny impetus,Aura,3.0,
+psychic impetus,Aura,3.0,
+bloodthirsty blade,Equipment,2.0,
+flamewake phoenix,Phoenix,3.0,
+"alexios, deimos of kosmos","Human, Berserker",4.0,
+public enemy,Aura,3.0,
+coalition relic,,3.0,
+fealty to the realm,Aura,5.0,
+curse of opulence,"Aura, Curse",1.0,
+the sound of drums,Aura,3.0,
+bothersome quasit,Demon,3.0,
+komainu battle armor,"Equipment, Dog",3.0,
+war's toll,,4.0,
+cavern-hoard dragon,Dragon,9.0,
+coveted peacock,Bird,5.0,
+vow of flight,Aura,3.0,
+bone shards,,1.0,
+village rites,,1.0,
+corrupted conviction,,1.0,
+undying evil,,1.0,
+brainstorm,,1.0,
+vicious offering,,2.0,
+plumb the forbidden,,2.0,
+drown in the loch,,2.0,
+phyrexian metamorph,"Phyrexian, Shapeshifter",4.0,
+decanter of endless water,,3.0,
+disallow,,3.0,
+archaeomancer,"Human, Wizard",4.0,
+archmage emeritus,"Human, Wizard",4.0,
+flare of malice,,4.0,
+precognition field,,4.0,
+wizards of thay,"Human, Wizard",4.0,
+introduction to annihilation,Lesson,5.0,
+devastation tide,,5.0,
+aether gale,,5.0,
+necromantic selection,,7.0,
+fated return,,7.0,
+temporal trespass,,11.0,
+time stretch,,10.0,
+spelltwine,,6.0,
+sublime epiphany,,6.0,
+expropriate,,9.0,
+"kairi, the swirling sky","Dragon, Spirit",6.0,
+sphinx of jwar isle,Sphinx,6.0,
+stolen identity,,6.0,
+sunken hollow,"Island, Swamp",0.0,
+phantasmal image,Illusion,2.0,
+woe strider,Horror,3.0,
+temporal manipulation,,5.0,
+time warp,,5.0,
+flesh duplicate,"Shapeshifter, Rebel",2.0,
+nasty end,,2.0,
+fated infatuation,,3.0,
+see double,,4.0,
+saw in half,,3.0,
+deadly dispute,,2.0,
+flare of denial,,3.0,
+phantom steed,"Horse, Illusion",4.0,
+season of weaving,,6.0,
+rise of the eldrazi,,12.0,
+rise of the dark realms,,9.0,
+mnemonic deluge,,9.0,
+clone legion,,9.0,
+alchemist's refuge,,0.0,
+mage-ring network,,0.0,
+hickory woodlot,,0.0,
+botanical sanctum,,0.0,
+yavimaya coast,,0.0,
+opal palace,,0.0,
+hardened scales,,1.0,
+the ozolith,,1.0,
+power conduit,,2.0,
+smell fear,,2.0,
+gyre sage,"Elf, Druid",2.0,
+nature's lore,,2.0,
+thrummingbird,"Phyrexian, Bird, Horror",2.0,
+scavenging ooze,Ooze,2.0,
+hangarback walker,Construct,0.0,
+inspiring call,,3.0,
+"nissa, voice of zendikar",Nissa,3.0,
+tezzeret's gambit,,4.0,
+evolution sage,"Elf, Druid",3.0,
+"rishkar, peema renegade","Elf, Druid",3.0,
+master biomancer,"Elf, Wizard",4.0,
+spike weaver,Spike,4.0,
+kalonian hydra,Hydra,5.0,
+inexorable tide,,5.0,
+triskelion,Construct,6.0,
+everflowing chalice,,0.0,
+simic manipulator,"Mutant, Wizard",3.0,
+incubation druid,"Elf, Druid",2.0,
+steelbane hydra,"Turtle, Hydra",2.0,
+kodama of the west tree,Spirit,3.0,
+transmogrifying wand,,3.0,
+saprazzan skerry,,0.0,
+crawling barrens,,0.0,
+plaxcaster frogling,"Frog, Mutant",3.0,
+tyrant guard,Tyranid,3.0,
+flooded grove,,0.0,
+unnatural restoration,,2.0,
+serum snare,,2.0,
+"ozolith, the shattered spire",,2.0,
+managorger hydra,Hydra,3.0,
+kami of whispered hopes,Spirit,3.0,
+benevolent hydra,Hydra,2.0,
+biophagus,"Human, Tyranid, Wizard",2.0,
+branching evolution,,3.0,
+"vorinclex, monstrous raider","Phyrexian, Praetor",6.0,
+wave goodbye,,4.0,
+oversimplify,,5.0,
+drannith ruins,,0.0,
+agatha's soul cauldron,,2.0,
+repulsive mutation,,2.0,
+fight rigging,,3.0,
+ornery tumblewagg,"Brushwagg, Mount",3.0,
+dreamtide whale,Whale,3.0,
+innkeeper's talent,Class,2.0,
+goldvein hydra,Hydra,1.0,
+railway brawler,"Rhino, Warrior",5.0,
+"bristly bill, spine sower","Plant, Druid",2.0,
+hedge maze,"Forest, Island",0.0,
+fangs of kalonia,,2.0,
+thundering mightmare,"Horse, Spirit",5.0,
+"zimone, paradox sculptor","Human, Wizard",4.0,
+shambling ghast,Zombie,1.0,
+transmogrant's crown,Equipment,2.0,
+undead augur,"Zombie, Wizard",2.0,
+orzhov enforcer,"Human, Rogue",2.0,
+abyssal gatekeeper,Horror,2.0,
+spawning pit,,2.0,
+zulaport cutthroat,"Human, Rogue, Ally",2.0,
+hallowed spiritkeeper,Avatar,3.0,
+anguished unmaking,,3.0,
+corpse augur,"Zombie, Wizard",4.0,
+falkenrath noble,"Vampire, Noble",4.0,
+grave pact,,4.0,
+archon of justice,Archon,5.0,
+"ao, the dawn sky","Dragon, Spirit",5.0,
+kaya the inexorable,Kaya,5.0,
+"junji, the midnight sky","Dragon, Spirit",5.0,
+ogre slumlord,"Ogre, Rogue",5.0,
+dictate of erebos,,5.0,
+"yosei, the morning star","Dragon, Spirit",6.0,
+harvester of souls,Demon,6.0,
+concealed courtyard,,0.0,
+barad-dÃ»r,,0.0,
+castle ardenvale,,0.0,
+unholy grotto,,0.0,
+pitiless plunderer,"Human, Pirate",4.0,
+skullclamp,Equipment,1.0,
+cruel celebrant,Vampire,2.0,
+ministrant of obligation,"Human, Cleric",3.0,
+"liliana, dreadhorde general",Liliana,6.0,
+divine visitation,,5.0,
+the meathook massacre,,2.0,
+black market,,5.0,
+body launderer,"Ogre, Rogue",4.0,
+luminous broodmoth,Insect,4.0,
+"athreos, god of passage",God,3.0,
+"elenda, the dusk rose","Vampire, Knight",4.0,
+"drivnod, carnage dominus","Phyrexian, Horror",5.0,
+bastion of remembrance,,3.0,
+ashnod's altar,,3.0,
+phyrexian altar,,3.0,
+altar of dementia,,2.0,
+fanatical devotion,,3.0,
+inkshield,,5.0,
+ashen rider,Archon,8.0,
+butcher of malakir,"Vampire, Warrior",7.0,
+morbid opportunist,"Human, Rogue",3.0,
+marionette apprentice,"Human, Artificer",2.0,
+warren soultrader,"Zombie, Goblin, Wizard",3.0,
+funeral room // awakening hall,Room,11.0,
+"yawgmoth, thran physician","Human, Cleric",4.0,
+high-society hunter,"Vampire, Noble",5.0,
+valkyrie's call,,5.0,
+land tax,,1.0,
+schema thief,"Vedalken, Rogue, Artificer",4.0,
+steely resolve,,2.0,
+dragon tempest,,2.0,
+urza's incubator,,3.0,
+garruk's uprising,,3.0,
+stubborn denial,,1.0,
+dragonspeaker shaman,"Human, Barbarian, Shaman",3.0,
+hellkite tyrant,Dragon,6.0,
+dragon broodmother,Dragon,6.0,
+haven of the spirit dragon,,0.0,
+ketria triome,"Forest, Island, Mountain",0.0,
+fire-lit thicket,,0.0,
+wrathful red dragon,Dragon,5.0,
+"lozhan, dragons' legacy","Dragon, Shaman",5.0,
+"keiga, the tide star","Dragon, Spirit",6.0,
+carnelian orb of dragonkind,,3.0,
+"kiora, behemoth beckoner",Kiora,3.0,
+spit flame,,3.0,
+monster manual // zoological study,,4.0,
+sapphire dragon // psionic pulse,Dragon,7.0,
+earthquake dragon,"Elemental, Dragon",15.0,
+temur ascendancy,,3.0,
+scourge of valkas,Dragon,5.0,
+"kura, the boundless sky","Dragon, Spirit",5.0,
+bonders' enclave,,0.0,
+titan of littjara,Illusion,6.0,
+kindred discovery,,5.0,
+progenitor's icon,,3.0,
+raise the palisade,,5.0,
+mythos of illuna,,4.0,
+smuggler's surprise,,1.0,
+molten echoes,,4.0,
+silumgar's scorn,,2.0,
+frontier siege,,4.0,
+thran turbine,,1.0,
+braid of fire,,2.0,
+brazen borrower // petty theft,"Faerie, Rogue",3.0,
+return the favor,,2.0,
+supreme will,,3.0,
+grab the reins,,4.0,
+unexpected windfall,,4.0,
+thran dynamo,,4.0,
+chain reaction,,4.0,
+tidal barracuda,Fish,4.0,
+lost in the mist,,5.0,
+word of seizing,,5.0,
+hypersonic dragon,Dragon,5.0,
+treachery,Aura,5.0,
+"thryx, the sudden storm","Elemental, Giant",5.0,
+smirking spelljacker,"Djinn, Wizard, Rogue",5.0,
+rite of the dragoncaller,,6.0,
+magma opus,,8.0,
+scholar of the lost trove,Sphinx,7.0,
+overwhelming intellect,,6.0,
+portal to phyrexia,,9.0,
+cosmos charger,"Horse, Spirit",4.0,
+"ovika, enigma goliath","Phyrexian, Nightmare",7.0,
+the twelfth doctor,"Time Lord, Doctor",5.0,
+gale's redirection,,5.0,
+"mizzix, replica rider","Goblin, Wizard",5.0,
+"eris, roar of the storm","Elemental, Warlock",10.0,
+megaton's fate,,6.0,
+see the truth,,2.0,
+phial of galadriel,,3.0,
+midnight clock,,3.0,
+misleading signpost,,3.0,
+insurrection,,8.0,
+coastal breach,,7.0,
+ancient tomb,,0.0,
+"emeria, the sky ruin",,0.0,
+"eiganjo, seat of the empire",,0.0,
+esper sentinel,"Human, Soldier",1.0,
+ocelot pride,Cat,1.0,
+darksteel mutation,Aura,2.0,
+luminarch aspirant,"Human, Cleric",2.0,
+lion sash,"Equipment, Cat",2.0,
+"anafenza, kin-tree spirit","Spirit, Soldier",2.0,
+strionic resonator,,2.0,
+pearl medallion,,2.0,
+ghostway,,3.0,
+wispmare,Elemental,3.0,
+fiend hunter,"Human, Cleric",3.0,
+sevinne's reclamation,,3.0,
+bygone bishop,"Spirit, Cleric",3.0,
+oketra's monument,,3.0,
+boreas charger,Pegasus,3.0,
+custodi soulcaller,"Human, Cleric",3.0,
+citywide bust,,3.0,
+werefox bodyguard,"Elf, Fox, Knight",3.0,
+loran of the third path,"Human, Artificer",3.0,
+unbreakable formation,,3.0,
+siege veteran,"Human, Soldier",3.0,
+rhox veteran,"Rhino, Soldier",4.0,
+dusk // dawn,,9.0,
+kor cartographer,"Kor, Scout",4.0,
+cosmic intervention,,4.0,
+worship,,4.0,
+"michiko konda, truth seeker","Human, Advisor",4.0,
+clever concealment,,4.0,
+nyx lotus,,4.0,
+"teshar, ancestor's apostle","Bird, Cleric",4.0,
+"mangara, the diplomat","Human, Cleric",4.0,
+fell the mighty,,5.0,
+karmic guide,"Angel, Spirit",5.0,
+reveillark,Elemental,5.0,
+soul of migration,Elemental,7.0,
+urbis protector,"Human, Cleric",6.0,
+evangel of heliod,"Human, Cleric",6.0,
+reverent hoplite,"Human, Soldier",5.0,
+"fortune, loyal steed","Beast, Mount",3.0,
+minas tirith,,0.0,
+eiganjo castle,,0.0,
+ascend from avernus,,3.0,
+flare of fortitude,,4.0,
+inspiring overseer,"Angel, Cleric",3.0,
+knight of the white orchid,"Human, Knight",2.0,
+welcoming vampire,Vampire,3.0,
+commander sofia daguerre,"Human, Pilot",4.0,
+monumental henge,,0.0,
+recruiter of the guard,"Human, Soldier",3.0,
+"phelia, exuberant shepherd",Dog,2.0,
+"ojer pakpatiq, deepest epoch",God,4.0,
+sea gate restoration,,7.0,
+in too deep,Aura,2.0,
+aethersnatch,,6.0,
+crush of tentacles,,6.0,
+spectral deluge,,6.0,
+sudden substitution,,4.0,
+"boseiju, who shelters all",,,
+slip out the back,,1.0,
+tamiyo's safekeeping,,1.0,
+cerulean wisps,,1.0,
+twisted image,,1.0,
+keen sense,Aura,1.0,
+curiosity,Aura,1.0,
+rancor,Aura,1.0,
+fumble,,2.0,
+sanctum weaver,Dryad,2.0,
+dreampod druid,"Human, Druid",2.0,
+spellwild ouphe,Ouphe,2.0,
+parcelbeast,"Elemental, Beast",4.0,
+sea-dasher octopus,Octopus,3.0,
+eel umbra,Aura,2.0,
+cartouche of knowledge,"Aura, Cartouche",2.0,
+cartouche of strength,"Aura, Cartouche",3.0,
+amphibian downpour,Aura,3.0,
+entity tracker,"Human, Scout",3.0,
+setessan champion,"Human, Warrior",3.0,
+wavecrash triton,"Merfolk, Wizard",3.0,
+migratory greathorn,Beast,4.0,
+gemrazer,Beast,4.0,
+shielding plax,Aura,3.0,
+curator's ward,Aura,3.0,
+snake umbra,Aura,3.0,
+ancestral mask,Aura,3.0,
+eidolon of blossoms,Spirit,4.0,
+nyxborn behemoth,Beast,12.0,
+"adrix and nev, twincasters","Merfolk, Wizard",4.0,
+sakashima of a thousand faces,"Human, Rogue",4.0,
+dreamtail heron,"Elemental, Bird",5.0,
+pouncing shoreshark,"Shark, Beast",5.0,
+sawtusk demolisher,Beast,6.0,
+nyxborn hydra,Hydra,1.0,
+bear umbra,Aura,4.0,
+flight of fancy,Aura,4.0,
+boon satyr,Satyr,3.0,
+verdant embrace,Aura,5.0,
+auspicious starrix,"Elk, Beast",5.0,
+twinning staff,,3.0,
+springheart nantuko,"Insect, Monk",2.0,
+"gargos, vicious watcher",Hydra,6.0,
+archipelagore,Leviathan,7.0,
+glowstone recluse,Spider,3.0,
+"toski, bearer of secrets",Squirrel,4.0,
+triton wavebreaker,"Merfolk, Wizard",1.0,
+season of growth,,2.0,
+gnarlback rhino,Rhino,4.0,
+"errant, street artist","Human, Rogue",1.0,
+stormchaser drake,Drake,2.0,
+charge through,,1.0,
+bridgeworks battle,,3.0,
+simic charm,,2.0,
+asinine antics,,4.0,
+artisan of forms,"Human, Wizard",2.0,
+shatterskull smashing,,2.0,
+the mightstone and weakstone,Powerstone,5.0,
+primal amulet,,4.0,
+pinnacle monk,"Djinn, Monk",5.0,
+hydroelectric specimen,Weird,3.0,
+emeria's call,,7.0,
+witch enchanter,"Human, Warlock",4.0,
+kindred dominance,,7.0,
+kindred summons,,7.0,
+allosaurus shepherd,"Elf, Shaman",1.0,
+haunting voyage,,6.0,
+banner of kinship,,5.0,
+elvish dreadlord,"Zombie, Elf",5.0,
+ruthless winnower,"Elf, Rogue",5.0,
+cauldron of souls,,5.0,
+"nissa, vital force",Nissa,5.0,
+beast whisperer,"Elf, Druid",4.0,
+"dionus, elvish archdruid","Elf, Druid",4.0,
+sylvan offering,,1.0,
+wirewood channeler,"Elf, Druid",4.0,
+crippling fear,,4.0,
+elven chorus,,4.0,
+door of destinies,,4.0,
+karametra's acolyte,"Human, Druid",4.0,
+elvish guidance,Aura,3.0,
+reclamation sage,"Elf, Shaman",3.0,
+"ezuri, renegade leader","Elf, Warrior",3.0,
+llanowar tribe,"Elf, Druid",3.0,
+"tyvar, jubilant brawler",Tyvar,3.0,
+mirage mirror,,3.0,
+wrenn and realmbreaker,Wrenn,3.0,
+elvish archdruid,"Elf, Druid",3.0,
+shaman of forgotten ways,"Human, Shaman",3.0,
+elvish champion,Elf,3.0,
+priest of titania,"Elf, Druid",2.0,
+skemfar avenger,"Elf, Berserker",2.0,
+"miara, thorn of the glade","Elf, Scout",2.0,
+quest for renewal,,2.0,
+devoted druid,"Elf, Druid",2.0,
+driven // despair,,4.0,
+wildborn preserver,"Elf, Archer",2.0,
+leaf-crowned visionary,"Elf, Druid",2.0,
+dolmen gate,,2.0,
+joraga treespeaker,"Elf, Druid",1.0,
+fyndhorn elves,"Elf, Druid",1.0,
+elves of deep shadow,"Elf, Druid",1.0,
+wirewood symbiote,Insect,1.0,
+deathrite shaman,"Elf, Shaman",1.0,
+heritage druid,"Elf, Druid",1.0,
+elvish mystic,"Elf, Druid",1.0,
+llanowar elves,"Elf, Druid",1.0,
+boggart trawler,Goblin,3.0,
+"svogthos, the restless tomb",,,
+skemfar elderhall,,,
+treetop village,,,
+revitalizing repast,,1.0,
+disciple of freyalise,"Elf, Druid",6.0,
+wirewood lodge,,,
+golgari rot farm,,,
+tyvar kell,Tyvar,4.0,
+evolution witness,"Elf, Shaman, Mutant",3.0,
+lunarch veteran,"Human, Cleric",1.0,
+kabira crossroads,,,
+"kambal, profiteering mayor","Human, Advisor",3.0,
+fiendish panda,"Bear, Demon",4.0,
+revenge of ravens,,4.0,
+rodolf duskbringer,"Vampire, Angel",6.0,
+prismatic vista,,,
+marsh flats,,,
+surveyor's scope,,2.0,
+"jace, vryn's prodigy","Human, Wizard",2.0,
+cut of the profits,,2.0,
+academy ruins,,,
+flawless forgery,,5.0,
+mundungu,"Human, Wizard",3.0,
+snow-covered swamp,Swamp,,
+forensic gadgeteer,"Vedalken, Artificer, Detective",3.0,
+executioner's capsule,,1.0,
+wayfarer's bauble,,1.0,
+retrofitter foundry,,1.0,
+mnemonic sphere,,2.0,
+unstable obelisk,,3.0,
+neurok replica,Wizard,3.0,
+relic of sauron,,4.0,
+hedron archive,,4.0,
+metalwork colossus,Construct,11.0,
+auton soldier,"Alien, Soldier",6.0,
+mass mutiny,,5.0,
+scrap mastery,,5.0,
+scroll of isildur,Saga,3.0,
+march of progress,,3.0,
+wizard replica,Wizard,3.0,
+mind stone,,2.0,
+oni-cult anvil,,2.0,
+goblin bombardment,,2.0,
+culling dais,,2.0,
+aether spellbomb,,1.0,
+"slobad, goblin tinkerer","Goblin, Artificer",2.0,
+mayhem devil,Devil,3.0,
+dreamscape artist,"Human, Spellshaper",2.0,
+imskir iron-eater,Demon,8.0,
+"emry, lurker of the loch","Merfolk, Wizard",3.0,
+scrap welder,"Goblin, Artificer",3.0,
+"kurkesh, onakke ancient","Ogre, Spirit",4.0,
+treasure vault,,,
+malakir rebirth,,1.0,
+canyon slough,"Swamp, Mountain",,
+bloodstained mire,,,
+crumbling necropolis,,,
+xander's lounge,"Island, Swamp, Mountain",,
+snow-covered mountain,Mountain,,
+goblin engineer,"Goblin, Artificer",2.0,
+goblin welder,"Goblin, Artificer",1.0,
+chaos defiler,"Demon, Construct",5.0,
+vexing bauble,,1.0,
+mindslaver,,6.0,
+snow-covered island,Island,,
+mana vault,,1.0,
+phyrexian dragon engine,"Phyrexian, Dragon",3.0,
+"sokenzan, crucible of defiance",,,
+rustvale bridge,,,
+labyrinth champion,"Human, Warrior",4.0,
+storm-kiln artist,"Dwarf, Shaman",4.0,
+"birgi, god of storytelling",God,3.0,
+"mavinda, students' advocate","Bird, Advisor",3.0,
+guttersnipe,"Goblin, Shaman",3.0,
+monastery mentor,"Human, Monk",3.0,
+onward // victory,,6.0,
+soul's fire,,3.0,
+arcbond,,3.0,
+chromatic lantern,,3.0,
+shelter,,2.0,
+livewire lash,Equipment,2.0,
+reckless charge,,1.0,
+loran's escape,,1.0,
+blacksmith's skill,,1.0,
+bandage,,1.0,
+niveous wisps,,1.0,
+faith's shield,,1.0,
+gods willing,,1.0,
+defiant strike,,1.0,
+expedite,,1.0,
+explosive entry,,2.0,
+fists of flame,,2.0,
+runaway steam-kin,Elemental,2.0,
+smoldering egg,"Dragon, Egg",2.0,
+talisman of conviction,,2.0,
+reckless rage,,1.0,
+fall of the hammer,,2.0,
+heal,,1.0,
+urabrask,"Phyrexian, Praetor",4.0,
+hall of oracles,,,
+fiery inscription,,3.0,
+sejiri shelter,,2.0,
+dreadmaw's ire,,1.0,
+twisted fealty,,3.0,
+galadriel's dismissal,,1.0,
+showstopping surprise,,5.0,
+elegant parlor,"Mountain, Plains",,
+furycalm snarl,,,
+legion leadership,,2.0,
+slickshot show-off,"Bird, Wizard",2.0,
+crimson wisps,,1.0,
+rabid gnaw,,2.0,
+might of the meek,,1.0,
+sazacap's brew,,2.0,
+leyline of resonance,,4.0,
+ephemeral shields,,2.0,
+frontline heroism,,3.0,
+giggling skitterspike,Toy,4.0,
+sunforger,Equipment,3.0,
+hushbringer,Faerie,2.0,
+angelfire ignition,,3.0,
+"brigone, soldier of meletis","Human, Soldier",2.0,
+balefire liege,"Spirit, Horror",5.0,
+mirrorwing dragon,Dragon,5.0,
+"zada, hedron grinder","Goblin, Ally",4.0,
+kazuul's fury,,3.0,
+consuming tide,,4.0,
+acquired mutation,Aura,3.0,
+"red death, shipwrecker","Crab, Mutant",2.0,
+call for aid,,5.0,
+spectacular showdown,,2.0,
+fell beast's shriek,,2.0,
+"maeve, insidious singer",Siren,4.0,
+laser screwdriver,,3.0,
+khÃ¢rn the betrayer,"Astartes, Berserker",4.0,
+collective restraint,,4.0,
+vandalblast,,1.0,
+cactus preserve,Desert,,

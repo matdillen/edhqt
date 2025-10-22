@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Sep 1 12:08:00 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 12 23:34:06 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
     <comments></comments>
@@ -40,7 +40,6 @@
         <card number="1" name="Ezuri, Renegade Leader" setShortName="PLST" collectorNumber="C14-195" uuid="ad74bb11-9e62-49e3-8cd0-5e312dc0bcaa"/>
         <card number="1" name="Gwenna, Eyes of Gaea" setShortName="BRO" collectorNumber="185" uuid="7ee387b7-18e4-41b7-aefe-f2b5954e3051"/>
         <card number="1" name="Llanowar Tribe" setShortName="GN3" collectorNumber="102" uuid="c53d8be8-8a16-4d2d-b0cf-dae5c8e7af89"/>
-        <card number="1" name="Elvish Branchbender" setShortName="DDU" collectorNumber="6" uuid="f3731491-097c-4915-acab-1da2d5176b37"/>
         <card number="1" name="Llanowar Visionary" setShortName="J25" collectorNumber="684" uuid="c2635b0c-c990-4cce-9ac4-97602a757cf0"/>
         <card number="1" name="Tyvar, Jubilant Brawler" setShortName="ONE" collectorNumber="218" uuid="66605fe1-9a20-4c95-b53e-1249cedb978b"/>
         <card number="1" name="Mirage Mirror" setShortName="CMM" collectorNumber="962" uuid="cb1252c2-b951-4125-93a2-9282b607b6a4"/>
@@ -71,12 +70,11 @@
         <card number="1" name="Elves of Deep Shadow" setShortName="PLST" collectorNumber="GK1-56" uuid="8c41769e-5ebb-42b2-ac55-fa471cd7201e"/>
         <card number="1" name="Wirewood Symbiote" setShortName="MH3" collectorNumber="288" uuid="d237f5cc-2b9b-4929-9697-72078bac4c77"/>
         <card number="1" name="Deathrite Shaman" setShortName="EA3" collectorNumber="15" uuid="2071ed5f-7a50-4b02-b6a4-f5c781ef9212"/>
-        <card number="1" name="Paradise Mantle" setShortName="PLST" collectorNumber="MMA-211" uuid="a3bb5de4-7838-465a-8ed9-0b217593703c"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
         <card number="1" name="Heritage Druid" setShortName="SLC" collectorNumber="2008" uuid="b2a6bfbc-24e9-4309-8490-0f0dbe74aae6"/>
         <card number="1" name="Elvish Mystic" setShortName="CMM" collectorNumber="284" uuid="75918859-c93f-41b4-9ad0-a4a96c389f0d"/>
         <card number="1" name="Llanowar Elves" setShortName="30A" collectorNumber="206" uuid="07c3165a-39a9-4928-803c-22b60552346c"/>
-        <card number="5" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="4" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="6" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="1" name="Boggart Trawler" setShortName="MH3" collectorNumber="243" uuid="d0d484a6-5610-4f1d-95ec-eda273c255e4"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
@@ -99,5 +97,8 @@
         <card number="1" name="Overgrown Tomb" setShortName="CLU" collectorNumber="278" uuid="2c92e23a-329e-41f9-b5ca-577050be0b7e"/>
         <card number="1" name="Llanowar Wastes" setShortName="BLC" collectorNumber="315" uuid="f01e0e0e-f8c1-416d-bf4b-2b7661924e9b"/>
         <card number="1" name="Bayou" setShortName="30A" collectorNumber="274" uuid="538dfd90-5215-4aa0-8e10-1e6fd9f717c8"/>
+        <card number="1" name="Tyvar Kell" setShortName="J25" collectorNumber="734" uuid="3c772bcf-2468-42d0-a671-f57814ba8cbb"/>
+        <card number="1" name="Evolution Witness" setShortName="MH3" collectorNumber="151" uuid="4d89283e-9783-4006-9294-4ae0473d2ce6"/>
+        <card number="1" name="Selvala, Heart of the Wilds" setShortName="CMM" collectorNumber="320" uuid="7d711cb2-4f34-4792-90d7-2be5d329a347"/>
     </zone>
 </cockatrice_deck>

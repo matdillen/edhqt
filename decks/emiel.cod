@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Aug 29 15:06:00 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 19 20:04:52 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Emiel the Blessed</bannerCard>
     <comments></comments>
@@ -12,7 +12,6 @@
         <card number="1" name="Twilight Shepherd"/>
         <card number="1" name="Sunblast Angel"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Great Desert Prospector"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Cataclysmic Gearhulk"/>
         <card number="1" name="Woodfall Primus"/>
@@ -41,7 +40,6 @@
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Selvala, Heart of the Wilds"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Knight of Autumn"/>
         <card number="1" name="Charming Prince"/>
@@ -54,8 +52,8 @@
         <card number="1" name="Horizon Canopy"/>
         <card number="1" name="Endless Sands"/>
         <card number="1" name="Karn's Bastion"/>
-        <card number="9" name="Forest"/>
-        <card number="8" name="Plains"/>
+        <card number="8" name="Forest"/>
+        <card number="7" name="Plains"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Savannah"/>
         <card number="1" name="Overgrown Farmland"/>
@@ -93,5 +91,9 @@
         <card number="1" name="Arcane Lighthouse" setShortName="CMM" collectorNumber="985" uuid="7c247fd6-09f3-40cd-b3fb-53b6526e1dcf"/>
         <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>
         <card number="1" name="Mirari's Wake" setShortName="CMM" collectorNumber="928" uuid="ef4fa4e8-39e8-47a6-b975-ff5d46e59edd"/>
+        <card number="1" name="Talon Gates of Madara" setShortName="M3C" collectorNumber="82" uuid="de92facf-762b-4a23-8d5e-bb673b0500c0"/>
+        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
+        <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
+        <card number="1" name="Touch the Spirit Realm" setShortName="GDY" collectorNumber="4" uuid="5d02afc8-0192-4e7d-9d10-60a4434ed8db"/>
     </zone>
 </cockatrice_deck>

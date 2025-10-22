@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 11 16:12:55 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Oct 15 14:35:14 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Atla Palani, Nest Tender</bannerCard>
     <comments></comments>
@@ -72,7 +72,6 @@
         <card number="1" name="Shatterskull Smashing"/>
         <card number="1" name="Woodfall Primus"/>
         <card number="1" name="Flamekin Village"/>
-        <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Plateau"/>
         <card number="1" name="Spinerock Knoll"/>
         <card number="1" name="Etali, Primal Conqueror"/>
@@ -101,6 +100,7 @@
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Gisela, Blade of Goldnight" setShortName="CMM" collectorNumber="338" uuid="c40ba800-4423-4fd9-94c7-a9019c857af6"/>
+        <card number="1" name="Ajani, Nacatl Pariah" setShortName="MH3" collectorNumber="237" uuid="0d16e8e0-31b2-4389-afd6-783c501f6fa0"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atla Palani, Nest Tender"/>

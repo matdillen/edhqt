@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Sep 6 01:00:23 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Oct 11 21:34:53 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Feather, the Redeemed</bannerCard>
     <comments></comments>
@@ -8,7 +8,6 @@
     <zone name="main">
         <card number="5" name="Mountain"/>
         <card number="5" name="Plains"/>
-        <card number="1" name="Needle Spires"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Rustvale Bridge"/>
@@ -33,9 +32,7 @@
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Shelter"/>
         <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="Psychotic Fury"/>
         <card number="1" name="Dreadhorde Arcanist"/>
-        <card number="1" name="Illuminator Virtuoso"/>
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Livewire Lash"/>
@@ -58,7 +55,6 @@
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Reckless Rage"/>
         <card number="1" name="Fall of the Hammer"/>
-        <card number="1" name="Akroan Conscriptor"/>
         <card number="1" name="Heal"/>
         <card number="1" name="Urabrask"/>
         <card number="1" name="Reliquary Tower"/>
@@ -68,11 +64,9 @@
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Dreadmaw's Ire"/>
         <card number="1" name="Twisted Fealty"/>
-        <card number="1" name="Hour of Revelation"/>
         <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Galadriel's Dismissal"/>
         <card number="1" name="Showstopping Surprise"/>
-        <card number="1" name="Electrostatic Field"/>
         <card number="1" name="Elegant Parlor"/>
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Decanter of Endless Water"/>
@@ -80,13 +74,11 @@
         <card number="1" name="Unexplained Absence"/>
         <card number="1" name="Sundown Pass"/>
         <card number="1" name="Slickshot Show-Off"/>
-        <card number="1" name="Coruscation Mage"/>
         <card number="1" name="Clever Concealment"/>
         <card number="1" name="Crimson Wisps"/>
         <card number="1" name="Rabid Gnaw"/>
         <card number="1" name="Might of the Meek"/>
         <card number="1" name="Sazacap's Brew"/>
-        <card number="1" name="Waltz of Rage"/>
         <card number="1" name="Leyline of Resonance"/>
         <card number="1" name="Ephemeral Shields"/>
         <card number="1" name="Arena of Glory"/>
@@ -97,6 +89,14 @@
         <card number="1" name="Nibelheim Aflame" setShortName="FIN" collectorNumber="146" uuid="3d3e926a-74af-4996-849f-d31e0fdedeae"/>
         <card number="1" name="Reroute Systems" setShortName="EOE" collectorNumber="31" uuid="3bbdba38-2b99-4226-98e3-6d2580345d6d"/>
         <card number="1" name="Honor" setShortName="EOE" collectorNumber="21" uuid="d0b4e925-1d59-41a1-bc06-9982695d778f"/>
+        <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
+        <card number="1" name="Sunforger" setShortName="CMR" collectorNumber="473" uuid="dd3e42ee-ab13-460b-90fd-86e677abce4f"/>
+        <card number="1" name="Hushbringer" setShortName="PLST" collectorNumber="ELD-18" uuid="31a76579-b5c9-49ca-a75c-be0f4b1ff69f"/>
+        <card number="1" name="Angelfire Ignition" setShortName="DBL" collectorNumber="209" uuid="ced8f1b7-3d77-402c-828e-bd2dfe7581e0"/>
+        <card number="1" name="Brigone, Soldier of Meletis" setShortName="J25" collectorNumber="30" uuid="20ecadef-8aa3-4bca-8744-adbc809083c3"/>
+        <card number="1" name="Balefire Liege" setShortName="2X2" collectorNumber="180" uuid="3ed13445-c9a0-4f17-aa69-af353679e6a7"/>
+        <card number="1" name="Mirrorwing Dragon" setShortName="INR" collectorNumber="165" uuid="409aa60d-ce4f-4019-b5b9-702ab94ed429"/>
+        <card number="1" name="Zada, Hedron Grinder" setShortName="CMM" collectorNumber="268" uuid="4520cdcc-a10f-4b39-9c6f-ba86f6aa2c87"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feather, the Redeemed"/>

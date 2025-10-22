@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Oct 20 00:58:13 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Jedit Ojanen, Mercenary" setShortName="DMC" collectorNumber="34" uuid="914a4923-18a6-4aa5-8510-b02e9dc7bb41"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="March of Swirling Mist" setShortName="NEO" collectorNumber="61" uuid="100171d8-7436-44c8-b4cb-0101ffa05c25"/>
+        <card number="1" name="Delighted Halfling" setShortName="LTR" collectorNumber="158" uuid="71384418-173a-4f77-adab-56e52fa23692"/>
+        <card number="1" name="Louisoix's Sacrifice" setShortName="FIN" collectorNumber="59" uuid="4a6976f2-0bd5-449a-8fcf-f5a732ce22c1"/>
+        <card number="1" name="Hope of Ghirapur" setShortName="PLST" collectorNumber="AER-154" uuid="17c6b8d3-2634-4e55-a9c4-22a4844a01c6"/>
+        <card number="1" name="Yoshimaru, Ever Faithful" setShortName="NEC" collectorNumber="32" uuid="aa409269-3698-42a2-8c51-75557b27a6f6"/>
+        <card number="1" name="Ephemerate" setShortName="H1R" collectorNumber="1" uuid="f48ab69d-8a01-4dcb-af70-31e2c62278df"/>
+        <card number="1" name="Skrelv, Defector Mite" setShortName="ONE" collectorNumber="33" uuid="60b565da-a49b-479c-b0c4-8ff3dd20cc0b"/>
+        <card number="1" name="Jolrael, Mwonvuli Recluse" setShortName="BLC" collectorNumber="225" uuid="258bfd1a-ec8d-453d-a957-814110e2dcaf"/>
+        <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
+        <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
+        <card number="1" name="Fblthp, the Lost" setShortName="PLST" collectorNumber="WAR-50" uuid="69c00ed3-cd79-4921-a6cd-a6b7f89eb53c"/>
+        <card number="1" name="And They Shall Know No Fear" setShortName="40K" collectorNumber="9" uuid="84d1bcef-907c-4c3a-8b52-6e633fa19667"/>
+        <card number="1" name="Staff of the Storyteller" setShortName="ONC" collectorNumber="10" uuid="ab1d1461-1625-4163-aacd-a939f4871fad"/>
+        <card number="1" name="Kataki, War's Wage" setShortName="MB2" collectorNumber="148" uuid="2fe21296-7e04-410d-b441-aed64451682f"/>
+        <card number="1" name="Samwise the Stouthearted" setShortName="LTR" collectorNumber="28" uuid="214c270e-29ca-4d69-bea6-9252ae7707ad"/>
+        <card number="1" name="Evolutionary Leap" setShortName="NCC" collectorNumber="288" uuid="4d007d3c-3356-4394-9bcd-2b2c1031c20b"/>
+        <card number="1" name="Niambi, Esteemed Speaker" setShortName="M21" collectorNumber="222" uuid="e21827eb-fa49-4784-a86b-aef164a5018e"/>
+        <card number="1" name="Gaddock Teeg" setShortName="PLST" collectorNumber="UMA-199" uuid="4ed8c8ba-7618-4cb2-9856-173fc54176f2"/>
+        <card number="1" name="Thalia, Guardian of Thraben" setShortName="DBL" collectorNumber="305" uuid="1e779d22-d3d1-4db7-80d7-5cf35ba34625"/>
+        <card number="1" name="Thalia, Heretic Cathar" setShortName="INR" collectorNumber="44" uuid="c062937f-d519-4206-99b0-cbea01b85a0d"/>
+        <card number="1" name="Druid's Deliverance" setShortName="C19" collectorNumber="162" uuid="eabb6ba4-4256-401c-96eb-6e2a14c50602"/>
+        <card number="1" name="Vedalken Plotter" setShortName="CMD" collectorNumber="66" uuid="85bba39e-73bd-48e5-97ce-4b4661bab71b"/>
+        <card number="1" name="Selvala, Explorer Returned" setShortName="BLC" collectorNumber="259" uuid="69195842-c7ce-477b-a04f-06412aff382a"/>
+        <card number="1" name="Song of the Dryads" setShortName="CMM" collectorNumber="324" uuid="161e66e3-0339-495c-bd06-0a799a254906"/>
+        <card number="1" name="Edric, Spymaster of Trest" setShortName="OTC" collectorNumber="221" uuid="22d6a4c9-4bdd-4e70-8481-95260e6aa7ab"/>
+        <card number="1" name="King Darien XLVIII" setShortName="DMU" collectorNumber="204" uuid="10eca3b1-f35a-4984-bfc0-818e619b1ece"/>
+        <card number="1" name="Brokers Ascendancy" setShortName="PSNC" collectorNumber="170p" uuid="012abe1c-a5ff-4785-a555-76e4662b0a95"/>
+        <card number="1" name="Lagrella, the Magpie" setShortName="SNC" collectorNumber="196" uuid="dd20f271-26c8-429f-a422-e7d95f3bda74"/>
+        <card number="1" name="Beastmaster Ascension" setShortName="BLC" collectorNumber="118" uuid="1bccf8a9-d135-431e-bcc0-15ab29f8f8cb"/>
+        <card number="1" name="Rootborn Defenses" setShortName="CLU" collectorNumber="71" uuid="eb3ef4da-27c0-4364-a198-f70bea869d9b"/>
+        <card number="1" name="Arwen, Weaver of Hope" setShortName="LTC" collectorNumber="35" uuid="4d4f4d41-232d-4377-be69-de590b880edb"/>
+        <card number="1" name="Sword of Hearth and Home" setShortName="LTC" collectorNumber="354" uuid="9e30230a-4b75-4fc6-9c98-b12791beea2d"/>
+        <card number="1" name="Loran of the Third Path" setShortName="BLC" collectorNumber="143" uuid="647e6b32-c755-4700-b151-6a174dbb2bd0"/>
+        <card number="1" name="Kutzil, Malamet Exemplar" setShortName="LCI" collectorNumber="232" uuid="c9f88a40-a6ed-4c1f-a309-011aca1acddd"/>
+        <card number="1" name="Brago, King Eternal" setShortName="PLST" collectorNumber="EMA-198" uuid="0a20a8d0-209b-44da-9c1e-e3e7853e7060"/>
+        <card number="1" name="Ephara, God of the Polis" setShortName="PIO" collectorNumber="305" uuid="7d752e42-6d56-4de0-879a-2b6b9e2b2cde"/>
+        <card number="1" name="Oji, the Exquisite Blade" setShortName="CLB" collectorNumber="290" uuid="13129e63-558d-415d-87eb-616868205341"/>
+        <card number="1" name="Raff Capashen, Ship's Mage" setShortName="CMM" collectorNumber="351" uuid="c681e33b-3d60-4aaa-8186-51866d8b79d1"/>
+        <card number="1" name="Teshar, Ancestor's Apostle" setShortName="BRC" collectorNumber="77" uuid="31b96ec5-065e-41a8-9383-2b86888f4405"/>
+        <card number="1" name="Gandalf, White Rider" setShortName="LTR" collectorNumber="290" uuid="b422ce26-06fb-4748-9c01-32c4be914a77"/>
+        <card number="1" name="Jazal Goldmane" setShortName="BLC" collectorNumber="142" uuid="eb9666d0-2100-40e0-a065-165ccc5c0d28"/>
+        <card number="1" name="Felidar Retreat" setShortName="CMM" collectorNumber="821" uuid="c91c11ef-e036-4c54-98b7-83b7b25e7c1b"/>
+        <card number="1" name="Sovereign Okinec Ahau" setShortName="LCI" collectorNumber="240" uuid="70c75aa7-e2f9-4a69-8086-c982019ca714"/>
+        <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
+        <card number="1" name="Shalai, Voice of Plenty" setShortName="PLST" collectorNumber="DOM-35" uuid="14a74ac1-d827-48d5-9d7d-5eb0122b0069"/>
+        <card number="1" name="Yasharn, Implacable Earth" setShortName="ZNR" collectorNumber="240" uuid="12878fbd-dbe5-44bc-9f34-38fd374ec10a"/>
+        <card number="1" name="Ishai, Ojutai Dragonspeaker" setShortName="BLC" collectorNumber="89" uuid="8acdce6e-ca27-4b4a-b4d9-a4ceed3bf0e3"/>
+        <card number="1" name="Tolsimir, Midnight's Light" setShortName="MKM" collectorNumber="236" uuid="08d22402-c41d-43d7-be1f-42be1e300726"/>
+        <card number="1" name="Tolsimir, Friend to Wolves" setShortName="PLST" collectorNumber="WAR-224" uuid="3a7d7b3e-3e5c-42df-814e-24c6c2ecd6f7"/>
+        <card number="1" name="Tolsimir Wolfblood" setShortName="RVR" collectorNumber="234" uuid="d027f4be-e24f-4960-97bd-554e147df7a5"/>
+        <card number="1" name="Yorion, Sky Nomad" setShortName="MB2" collectorNumber="94" uuid="a245bb3b-9126-4361-824b-2b27fbba9696"/>
+        <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
+        <card number="1" name="Drizzt Do'Urden" setShortName="AFR" collectorNumber="220" uuid="46e3259e-93c2-48c0-8b96-835cdb883383"/>
+        <card number="1" name="Nissa's Expedition" setShortName="SCD" collectorNumber="199" uuid="b0c175f4-7a4e-4530-b129-62d4b5899695"/>
+        <card number="1" name="Cathars' Crusade" setShortName="INR" collectorNumber="17" uuid="5296e353-2efc-4d72-a877-7957eff630b9"/>
+        <card number="1" name="Urza's Ruinous Blast" setShortName="BRC" collectorNumber="79" uuid="3baeeb19-c4f4-4e4f-97e0-52b2e512b26b"/>
+        <card number="1" name="Regal Caracal" setShortName="FDN" collectorNumber="579" uuid="b6310a82-73db-40cb-ae64-6f07f869024c"/>
+        <card number="1" name="Kamahl's Druidic Vow" setShortName="DOM" collectorNumber="166" uuid="bf95ef60-e67b-466d-a6cb-d487ffa88b72"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite" setShortName="HA5" collectorNumber="2" uuid="a4f74725-44d4-4ad1-8365-b21bc67e952e"/>
+        <card number="1" name="Thunderous Debut" setShortName="PWOE" collectorNumber="190p" uuid="4d274a25-1346-4f9f-9dd7-a32ef67e5e19"/>
+        <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
+        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
+        <card number="6" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="3" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="3" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
+        <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
+        <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
+        <card number="1" name="Krosan Verge" setShortName="CMM" collectorNumber="1008" uuid="7b5ca583-38f2-4692-a29c-326510be5bb8"/>
+        <card number="1" name="Horizon Canopy" setShortName="LTC" collectorNumber="366" uuid="a439ed1c-b599-4469-82d9-df812f6c5bbd"/>
+        <card number="1" name="Spara's Headquarters" setShortName="PSNC" collectorNumber="257p" uuid="2bc770c4-4dd8-4129-8428-b730acc7bc68"/>
+        <card number="1" name="Seaside Citadel" setShortName="AFC" collectorNumber="258" uuid="4f35d808-51c7-42b1-bbd5-1cd452432cd6"/>
+        <card number="1" name="Exotic Orchard" setShortName="40K" collectorNumber="278" uuid="ec9c7011-694b-4705-b85c-bf4edf26e437"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Witch Enchanter" setShortName="MH3" collectorNumber="239" uuid="62061e7c-cf19-4f03-b8fa-2bdba62d6b0b"/>
+        <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>
+        <card number="1" name="Yavimaya, Cradle of Growth" setShortName="LTC" collectorNumber="377" uuid="f442758d-4fee-43fa-a2cb-d09c326da149"/>
+        <card number="1" name="Khalni Ambush" setShortName="PIO" collectorNumber="181" uuid="ecc4939e-2541-49db-b84f-f902fe9e2524"/>
+        <card number="1" name="Bridgeworks Battle" setShortName="MH3" collectorNumber="249" uuid="ebef3db0-2b58-4581-a79c-fbca9a059e63"/>
+        <card number="1" name="Seachrome Coast" setShortName="BLC" collectorNumber="328" uuid="88ec4d3b-f1f1-489c-b41e-0206e5e59fbd"/>
+        <card number="1" name="Flooded Strand" setShortName="MH3" collectorNumber="220" uuid="8f85e12c-196b-4459-b81f-0c9c854e9f57"/>
+        <card number="1" name="Glacial Fortress" setShortName="BLC" collectorNumber="307" uuid="805ce12b-58eb-4584-a02e-d55ce3e527ce"/>
+        <card number="1" name="Tundra" setShortName="30A" collectorNumber="280" uuid="79fc39a1-6a9d-4893-a41b-e8d13fb0d108"/>
+        <card number="1" name="Hallowed Fountain" setShortName="CLU" collectorNumber="277" uuid="1316daf8-f9ac-4918-998e-d3780f7dd49f"/>
+        <card number="1" name="Lórien Revealed" setShortName="LTR" collectorNumber="60" uuid="0ce44270-a684-4489-9077-521456e6dfaa"/>
+        <card number="1" name="Breeding Pool" setShortName="CLU" collectorNumber="275" uuid="5656d6f2-ca19-452d-870c-d5e7a3dc9432"/>
+        <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
+        <card number="1" name="Mondrak, Glory Dominus" setShortName="ONE" collectorNumber="23" uuid="8296a455-21d5-498e-9029-2bdf0da855a8"/>
+        <card number="1" name="Sutina, Speaker of the Tajuru" setShortName="J25" collectorNumber="56" uuid="1b794170-4ffd-4628-ba5a-b9293bb364dc"/>
+        <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
+        <card number="1" name="Delney, Streetwise Lookout" setShortName="MKM" collectorNumber="12" uuid="be219928-3d0e-4d00-b124-152ce8a8c13b"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Oct 19 18:06:37 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId="e5d1c814-4c22-4917-95ae-dffaf491db32">Omo, Queen of Vesuva</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Omo, Queen of Vesuva" setShortName="M3C" collectorNumber="2" uuid="e5d1c814-4c22-4917-95ae-dffaf491db32"/>
+    </zone>
+    <zone name="main">
+        <card number="7" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="7" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="1" name="Swarmyard" setShortName="BLC" collectorNumber="133" uuid="5dd51c2a-99ad-4866-9e0c-162746cb04d3"/>
+        <card number="1" name="Nesting Grounds" setShortName="EOS" collectorNumber="31" uuid="352b132b-7f97-46e3-8efd-238cb7f87b29"/>
+        <card number="1" name="Animal Sanctuary" setShortName="PLST" collectorNumber="M21-242" uuid="902f2a7a-566e-4388-a280-4f68e5f6c1d5"/>
+        <card number="1" name="Mishra's Factory" setShortName="AFC" collectorNumber="248" uuid="7c05c946-66c3-4785-90f9-ca0c606e036b"/>
+        <card number="1" name="Glimmerpost" setShortName="M3C" collectorNumber="346" uuid="3ba372ea-b4a0-4db3-baec-9cbf5d3384b1"/>
+        <card number="1" name="Urza's Tower" setShortName="BCHR" collectorNumber="116a" uuid="b6a4d336-8138-4119-afdb-7f4be68c3079"/>
+        <card number="1" name="Urza's Cave" setShortName="MH3" collectorNumber="234" uuid="926916ed-2f22-4ba9-9427-194886ad6c1e"/>
+        <card number="1" name="Thespian's Stage" setShortName="EA3" collectorNumber="25" uuid="cc67fd50-e74b-4277-8266-740170154dcd"/>
+        <card number="1" name="Cloudpost" setShortName="M3C" collectorNumber="330" uuid="5355eecf-c03e-406c-9e7d-70e73dcd7510"/>
+        <card number="1" name="Mutavault" setShortName="CLB" collectorNumber="903" uuid="52cc2f10-142d-4e6a-984e-b25f566cc960"/>
+        <card number="1" name="Deserted Temple" setShortName="EOS" collectorNumber="11" uuid="463d8132-fe98-4b71-b6a8-0feb4d40a391"/>
+        <card number="1" name="Oakhollow Village" setShortName="BLB" collectorNumber="258" uuid="0d49b016-b02b-459f-85e9-c04f6bdcb94e"/>
+        <card number="1" name="Lilypad Village" setShortName="BLB" collectorNumber="255" uuid="7e95a7cc-ed77-4ca4-80db-61c0fc68bf50"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="MB2" collectorNumber="110" uuid="967a6608-6e5d-40b3-b0c6-2e79b97f10ba"/>
+        <card number="1" name="Lórien Revealed" setShortName="LTR" collectorNumber="60" uuid="0ce44270-a684-4489-9077-521456e6dfaa"/>
+        <card number="1" name="Sliver Hive" setShortName="PF25" collectorNumber="7" uuid="1445b61c-a105-4d4c-be42-5cbf7cd43f89"/>
+        <card number="1" name="Heap Gate" setShortName="CLB" collectorNumber="354" uuid="68489d65-1978-48b1-a903-2ef38c583239"/>
+        <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
+        <card number="1" name="Opal Palace" setShortName="40K" collectorNumber="286" uuid="eb4e0145-c339-4c60-aacf-67d8e785df49"/>
+        <card number="1" name="Curse of the Swine" setShortName="CLB" collectorNumber="716" uuid="a0ef264e-f987-422e-aac1-ae4963c797f5"/>
+        <card number="1" name="Sylvan Scrying" setShortName="EA3" collectorNumber="4" uuid="37be0614-1433-429c-a3de-27b415470c5b"/>
+        <card number="1" name="March of Swirling Mist" setShortName="NEO" collectorNumber="61" uuid="100171d8-7436-44c8-b4cb-0101ffa05c25"/>
+        <card number="1" name="Aven Courier" setShortName="NCC" collectorNumber="22" uuid="7bb0e478-c359-4523-a1e1-ba711a8cb8e0"/>
+        <card number="1" name="Essence Flux" setShortName="INR" collectorNumber="64" uuid="c94b37df-aaa5-4981-be3b-c934a7971123"/>
+        <card number="1" name="Gleeful Sabotage" setShortName="PLST" collectorNumber="SHM-116" uuid="fa34a49c-4b7c-4427-b5af-5c3b98e4a424"/>
+        <card number="1" name="Unnatural Selection" setShortName="MB2" collectorNumber="38" uuid="d7cf44d9-e79f-49d2-aba9-72342520cecd"/>
+        <card number="1" name="Amoeboid Changeling" setShortName="J22" collectorNumber="269" uuid="559a14ce-de7a-4ce4-8c46-99818372187f"/>
+        <card number="1" name="Wirewood Symbiote" setShortName="MH3" collectorNumber="288" uuid="d237f5cc-2b9b-4929-9697-72078bac4c77"/>
+        <card number="1" name="Harabaz Druid" setShortName="PLST" collectorNumber="WWK-105" uuid="c99037f6-6c3d-4070-85af-07098ef0153d"/>
+        <card number="1" name="Manaweft Sliver" setShortName="CMM" collectorNumber="900" uuid="e51629ac-51d5-47cb-a7fc-315b34dd82ce"/>
+        <card number="1" name="Gemhide Sliver" setShortName="CMM" collectorNumber="896" uuid="224af68a-41a6-4e4e-94d0-130be341b788"/>
+        <card number="1" name="Galerider Sliver" setShortName="CMM" collectorNumber="849" uuid="566dc671-b666-4003-a3a6-ff5b081bca54"/>
+        <card number="1" name="Spellstutter Sprite" setShortName="J22" collectorNumber="65" uuid="a0e262a3-0e69-4d61-8143-b9d137c31496"/>
+        <card number="1" name="Lord of the Unreal" setShortName="J25" collectorNumber="322" uuid="2e726977-ad9f-47c0-b48c-6618eaf6c1ed"/>
+        <card number="1" name="Full Moon's Rise" setShortName="ISD" collectorNumber="180" uuid="02a35eac-b962-466e-a4da-a4010c68ef16"/>
+        <card number="1" name="Moonmist" setShortName="PLST" collectorNumber="ISD-195" uuid="1c5232ae-e2f9-41df-872f-e048fb7e4d08"/>
+        <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
+        <card number="1" name="Mistwalker" setShortName="J22" collectorNumber="323" uuid="a397551c-5609-4353-aa43-504af1b27f5a"/>
+        <card number="1" name="Arcane Adaptation" setShortName="PLST" collectorNumber="XLN-46" uuid="b0384a47-b189-4e10-b847-1819d3ca5f8e"/>
+        <card number="1" name="Isao, Enlightened Bushi" setShortName="BOK" collectorNumber="129" uuid="90334b59-73d8-4459-af59-d7a0539e2cc5"/>
+        <card number="1" name="Cemetery Prowler" setShortName="DBL" collectorNumber="458" uuid="ecbc55f2-1269-4306-821b-7694288d0639"/>
+        <card number="1" name="Elvish Archdruid" setShortName="FDN" collectorNumber="219" uuid="341da856-7414-403b-b2e3-4bebd58a5aa4"/>
+        <card number="1" name="Feline Sovereign" setShortName="PLST" collectorNumber="M21-180" uuid="c4aabecd-f042-46c1-a621-3286fa4e0715"/>
+        <card number="1" name="Kaseto, Orochi Archmage" setShortName="PL25" collectorNumber="5" uuid="47a334c3-87e0-42db-b7ed-8e0644efb928"/>
+        <card number="1" name="Scion of Oona" setShortName="WOC" collectorNumber="109" uuid="937c75ac-b7cf-4af5-a7b7-9e90f43fa1a5"/>
+        <card number="1" name="Minn, Wily Illusionist" setShortName="AFC" collectorNumber="16" uuid="4eec1d87-1007-44a1-a45d-0623816de681"/>
+        <card number="1" name="Dragonologist" setShortName="PTDM" collectorNumber="42p" uuid="2599b3fe-24ff-4abc-9a9f-7872ee588cc1"/>
+        <card number="1" name="Howling Moon" setShortName="DBL" collectorNumber="471" uuid="37cad74a-df5c-467f-b8f6-7e8497d37d83"/>
+        <card number="1" name="The Bears of Littjara" setShortName="PLST" collectorNumber="KHM-205" uuid="aec45213-dcec-4c23-8348-265977a3e394"/>
+        <card number="1" name="Elvish Guidance" setShortName="ONS" collectorNumber="255" uuid="8698c46b-2628-4482-88f9-e37a01ade274"/>
+        <card number="1" name="Unwind" setShortName="DOM" collectorNumber="72" uuid="97da6607-9131-4f8b-8af3-63439a59b78b"/>
+        <card number="1" name="Distant Melody" setShortName="CMM" collectorNumber="846" uuid="c73c83b5-3a91-4495-b6fb-20cdc6edd07b"/>
+        <card number="1" name="Whelming Wave" setShortName="PLST" collectorNumber="DDO-44" uuid="bc38e0d5-f1fe-46a8-a74a-4b667d1a2c28"/>
+        <card number="1" name="The Phasing of Zhalfir" setShortName="DMU" collectorNumber="59" uuid="0770eb6a-4f01-4677-a401-14c1b30692c9"/>
+        <card number="1" name="Rally the Galadhrim" setShortName="LTC" collectorNumber="499" uuid="009a2276-0014-45c2-90b7-064594009780"/>
+        <card number="1" name="Chameleon Colossus" setShortName="AFC" collectorNumber="153" uuid="15401ca4-f6cd-400e-8e5e-ea47493b56a4"/>
+        <card number="1" name="Leyline of Transformation" setShortName="DSK" collectorNumber="63" uuid="4bd941ca-f3d2-44c1-8df3-851362f6b848"/>
+        <card number="1" name="Wren's Run Packmaster" setShortName="CMA" collectorNumber="171" uuid="a44a2d69-df93-475b-8233-f73d8402594a"/>
+        <card number="1" name="Sachi, Daughter of Seshiro" setShortName="CHK" collectorNumber="238" uuid="4c45b36f-b879-417c-b284-0176990fb9f9"/>
+        <card number="1" name="Howlpack Piper" setShortName="DBL" collectorNumber="472" uuid="de7b7d93-fe69-4b18-b398-cf1a61eed175"/>
+        <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
+        <card number="1" name="Shifting Sliver" setShortName="CMM" collectorNumber="855" uuid="c1d3b30b-d4c4-4f60-a7b3-e8854bd203d5"/>
+        <card number="1" name="Nightpack Ambusher" setShortName="J22" collectorNumber="696" uuid="4cd67241-6ff1-41bc-9bda-4a87fd4f6bdd"/>
+        <card number="1" name="Naru Meha, Master Wizard" setShortName="C21" collectorNumber="124" uuid="cf44910a-4e24-4e36-a58e-ae7f463db368"/>
+        <card number="1" name="Knowledge Exploitation" setShortName="MOR" collectorNumber="38" uuid="3d283c49-2e81-4b2e-956a-69152cc4704e"/>
+        <card number="1" name="Wolfkin Outcast" setShortName="DBL" collectorNumber="496" uuid="ad198283-db1a-4312-a95c-f2f889072e32"/>
+        <card number="1" name="Hakbal of the Surging Soul" setShortName="LCC" collectorNumber="3" uuid="e738e675-4fd1-4bc3-97f5-71d0e2fc3f2e"/>
+        <card number="1" name="Giant's Grasp" setShortName="KHM" collectorNumber="384" uuid="74c92d48-504a-4320-b9f4-c1d2d06fa223"/>
+        <card number="1" name="Reflex Sliver" setShortName="TSR" collectorNumber="226" uuid="2e14da2f-0e35-4586-8435-de0859aad060"/>
+        <card number="1" name="Overwhelming Stampede" setShortName="DSC" collectorNumber="192" uuid="cbb081ca-75ab-40e4-b071-50ed387c90e4"/>
+        <card number="1" name="Conjurer's Closet" setShortName="DRC" collectorNumber="126" uuid="7e520d49-f3d5-46b3-a941-c57936648a47"/>
+        <card number="1" name="Changeling Titan" setShortName="PLST" collectorNumber="LRW-200" uuid="3253774e-fc89-4273-b2bf-9d1f712299ce"/>
+        <card number="1" name="Moritte of the Frost" setShortName="PLST" collectorNumber="KHM-223" uuid="9c83dfd6-bf06-4291-89a3-924c3e9ab3f9"/>
+        <card number="1" name="Docent of Perfection" setShortName="INR" collectorNumber="62" uuid="96658239-3169-42ef-9983-cd4da24e0f4c"/>
+        <card number="1" name="Deranged Hermit" setShortName="VMA" collectorNumber="202" uuid="c25df202-0dd4-448d-8cb3-11fd7df0d505"/>
+        <card number="1" name="Deep Forest Hermit" setShortName="BLC" collectorNumber="213" uuid="f712e233-1de8-45e4-9225-790d608ac90b"/>
+        <card number="1" name="Might Sliver" setShortName="CMM" collectorNumber="903" uuid="c783dfd2-a935-41e0-bd8e-97ac81f771b2"/>
+        <card number="1" name="Apex Devastator" setShortName="M3C" collectorNumber="220" uuid="ca9783bc-0e1b-42da-b0f3-89dd0db83743"/>
+        <card number="1" name="Megantic Sliver" setShortName="CMM" collectorNumber="901" uuid="49c1afd5-d1d3-42b7-8417-bb05c91ef822"/>
+        <card number="1" name="Hollowhenge Overlord" setShortName="VOC" collectorNumber="36" uuid="dac9c33c-bff1-491a-b369-ad92395283a5"/>
+        <card number="1" name="Seshiro the Anointed" setShortName="PLST" collectorNumber="CHK-241" uuid="797953e8-9d6a-4054-8a88-2d59e64f30c3"/>
+        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
+        <card number="1" name="Earthshaker Dreadmaw" setShortName="LCI" collectorNumber="183" uuid="cdcbba6f-aa54-44be-a3b0-f712fa8bd5ad"/>
+        <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
+        <card number="1" name="Arixmethes, Slumbering Isle" setShortName="DSC" collectorNumber="211" uuid="bf561379-4e5f-486a-bcdf-6e08e105316e"/>
+    </zone>
+</cockatrice_deck>
