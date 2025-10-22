@@ -8,7 +8,7 @@ from PyQt5.QtCore import Qt
 from app.services.config import AppConfig
 from app.services.db import CardDB
 from app.services.decks import index_decks_folder, read_mainboard
-from app.services.images import build_image_lookup
+from app.services.images import build_image_lookup, cache_image_for_card, safe_stem
 from app.services.search import CardCache, search_in_deck
 from app.services.analytics import mana_curve
 
@@ -294,6 +294,13 @@ class MainWindow(QMainWindow):
 
         # Image
         img = self.image_lookup.get(key)
+        if not img:
+            cached_path = cache_image_for_card(card_name)
+            if cached_path:
+                # Rebuild lookup so subsequent selections are instant
+                self.image_lookup[safe_stem(card_name)] = str(cached_path)
+                img = str(cached_path)
+
         if img:
             self.card_image_label.setPixmap(QPixmap(img).scaled(200, 300, Qt.KeepAspectRatio, transformMode=Qt.SmoothTransformation))
             self.current_card_image_path = img

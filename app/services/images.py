@@ -7,7 +7,7 @@ import mimetypes
 import requests
 
 SCRYFALL_NAMED_URL = "https://api.scryfall.com/cards/named"
-APP_IMG_CACHE = Path("app/data/img")
+APP_IMG_CACHE = Path("data/img")
 
 def ensure_app_cache_dir(path: Optional[Path] = None) -> Path:
     """Ensure the app's own image cache directory exists and return it."""
@@ -15,7 +15,7 @@ def ensure_app_cache_dir(path: Optional[Path] = None) -> Path:
     cache_dir.mkdir(parents=True, exist_ok=True)
     return cache_dir
 
-def _safe_stem(name: str) -> str:
+def safe_stem(name: str) -> str:
     # Lowercase, strip slashes and problematic chars for filesystem
     stem = (name or "").strip().lower()
     for ch in ['/', '\\', ':', '*', '?', '"', '<', '>', '|']:
@@ -66,7 +66,7 @@ def cache_image_for_card(card_name: str, cache_dir: Optional[Path] = None, size:
     Returns the cached image path or None on failure.
     """
     cache_dir = ensure_app_cache_dir(cache_dir)
-    stem = _safe_stem(card_name)
+    stem = safe_stem(card_name)
     # If any existing extension is present, reuse it
     for p in cache_dir.glob(stem + ".*"):
         if p.is_file():
@@ -88,7 +88,7 @@ def cache_image_for_card(card_name: str, cache_dir: Optional[Path] = None, size:
     except Exception:
         return None
 
-def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = None) -> Dict[str, str]:
+def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = APP_IMG_CACHE) -> Dict[str, str]:
     """Walk both the user-provided image folder and the app's own cache.
     Returns a map: lowercased card name stem → absolute file path.
     """
@@ -105,7 +105,7 @@ def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = None) 
             for f in files:
                 lf = f.lower()
                 if lf.endswith((".jpg", ".jpeg", ".png")):
-                    name = os.path.splitext(f)[0].lower()
+                    name = safe_stem(os.path.splitext(f)[0])
                     lookup[name] = str(Path(root) / f)
 
 
