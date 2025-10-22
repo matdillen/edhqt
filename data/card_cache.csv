@@ -105,7 +105,7 @@ supreme will,,3.0,U,Instant,Choose one —\n• Counter target spell unless its 
 grab the reins,,4.0,R,Instant,"Choose one —\n• Until end of turn, you gain control of target creature and it gains haste.\n• Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to any target.\nEntwine {2}{R} (Choose both if you pay the entwine cost.)",C16,,
 unexpected windfall,,4.0,R,Instant,"As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Treasure tokens. (They're artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color."")",AFR,,
 inscription of insight,,4.0,U,Sorcery,"Kicker {2}{U}{U}\nChoose one. If this spell was kicked, choose any number instead.\n• Return up to two target creatures to their owners' hands.\n• Scry 2, then draw two cards.\n• Target player creates an X/X blue Illusion creature token, where X is the number of cards in their hand.",PRM,,
-voracious bibliophile,,,,,,,,
+voracious bibliophile,Dragon,4.0,U,Creature — Dragon,"Flying, vigilance\nWhenever you cast a spell with one or more targets, draw that many cards.",TDC,3,3
 thran dynamo,,4.0,,Artifact,{T}: Add {C}{C}{C}.,ARC,,
 chain reaction,,4.0,R,Sorcery,"Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.",AFC,,
 tidal barracuda,Fish,4.0,U,Creature — Fish,Any player may cast spells as though they had flash.\nYour opponents can't cast spells during your turn.,C20,3,4
@@ -140,7 +140,7 @@ rewind,,4.0,U,Instant,Counter target spell. Untap up to four lands.,8ED,,
 primal amulet,,4.0,,Artifact,"Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it.",PXLN,,
 "mizzix, replica rider","Goblin, Wizard",5.0,"R, U",Legendary Creature — Goblin Wizard,"Flying\nWhenever you cast a spell from anywhere other than your hand, you may pay {1}{U/R}. If you do, copy that spell and you may choose new targets for the copy. If the copy is a permanent spell, it gains haste and ""At the beginning of your end step, sacrifice this permanent."" (A copy of a permanent spell becomes a token.)",J22,4,5
 mana geyser,,5.0,R,Sorcery,Add {R} for each tapped land your opponents control.,5DN,,
-ultimate magic: meteor,,,,,,,,
+ultimate magic: meteor,,6.0,R,Sorcery,"Ultimate Magic: Meteor deals 7 damage to each creature. If this spell was cast from exile, for each opponent, choose an artifact or land that player controls. Destroy the chosen permanents.\nForetell {5}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",FIC,,
 nalfeshnee,"Beast, Demon",6.0,R,Creature — Beast Demon,"Flying\nWhenever you cast a spell from exile, copy it. You may choose new targets for the copy. If it's a permanent spell, the copy gains haste and ""At the beginning of the end step, sacrifice this permanent."" (A copy of a permanent spell becomes a token.)",CLB,4,6
 "eris, roar of the storm","Elemental, Warlock",10.0,"R, U",Legendary Creature — Elemental Warlock,"This spell costs {2} less to cast for each different mana value among instant and sorcery cards in your graveyard.\nFlying, prowess\nWhenever you cast your second spell each turn, create a 4/4 red Dragon Elemental creature token with flying and prowess.",OTC,4,4
 pinnacle monk,"Djinn, Monk",5.0,R,Creature — Djinn Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Pinnacle Monk enters, return target instant or sorcery card from your graveyard to your hand.",MH3,2,2
@@ -150,11 +150,11 @@ see the truth,,2.0,U,Sorcery,"Look at the top three cards of your library. Put o
 phial of galadriel,,3.0,,Legendary Artifact,"If you would draw a card while you have no cards in hand, draw two cards instead.\nIf you would gain life while you have 5 or less life, you gain twice that much life instead.\n{T}: Add one mana of any color.",LTR,,
 midnight clock,,3.0,U,Artifact,"{T}: Add {U}.\n{2}{U}: Put an hour counter on Midnight Clock.\nAt the beginning of each upkeep, put an hour counter on Midnight Clock.\nWhen the twelfth hour counter is put on Midnight Clock, shuffle your hand and graveyard into your library, then draw seven cards. Exile Midnight Clock.",CLB,,
 misleading signpost,,3.0,U,Artifact,"Flash\nWhen Misleading Signpost enters during the declare attackers step, you may reselect which player or permanent target attacking creature is attacking. (It can't attack its controller or their permanents.)\n{T}: Add {U}.",WOC,,
-cori mountain monastery,,,,,,,,
-mistrise village,,,,,,,,
+cori mountain monastery,,0.0,R,Land,"This land enters tapped unless you control a Plains or an Island.\n{T}: Add {R}.\n{3}{R}, {T}: Exile the top card of your library. Until the end of your next turn, you may play that card.",PTDM,,
+mistrise village,,0.0,U,Land,"This land enters tapped unless you control a Mountain or a Forest.\n{T}: Add {U}.\n{U}, {T}: The next spell you cast this turn can't be countered.",PTDM,,
 jeska's will,,3.0,R,Sorcery,"Choose one. If you control a commander as you cast this spell, you may choose both instead.\n• Add {R} for each card in target opponent's hand.\n• Exile the top three cards of your library. You may play them this turn.",CLB,,
 insurrection,,8.0,R,Sorcery,Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.,CMD,,
-transcendent dragon,,,,,,,,
+transcendent dragon,Dragon,6.0,U,Creature — Dragon,"Flash\nFlying\nWhen this creature enters, if you cast it, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard, then you may cast it without paying its mana cost.",TDC,4,3
 coastal breach,,7.0,U,Sorcery,Undaunted (This spell costs {1} less to cast for each opponent.)\nReturn all nonland permanents to their owners' hands.,C16,,
 ancient tomb,,0.0,,Land,{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.,EXP,,
 plains,Plains,0.0,W,Basic Land — Plains,({T}: Add {W}.),10E,,

@@ -85,7 +85,7 @@ class CardCache:
 
 
     def ensure_card(self, name_lc: str, fetch_fn):
-        if name_lc in self.cache:
+        if name_lc in self.cache and self.cache[name_lc].get("manaValue") != "":
             return self.cache[name_lc]
         data = fetch_fn()
         if data:
