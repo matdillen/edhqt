@@ -11,6 +11,8 @@ from app.services.decks import index_decks_folder, read_mainboard
 from app.services.images import build_image_lookup, cache_image_for_card, safe_stem
 from app.services.search import CardCache, search_in_deck
 from app.services.analytics import mana_curve
+from app.services.visualize import manafy_html
+from app.ui.plane_view import DeckPlaneDialog
 
 from typing import Optional
 from string import Template
@@ -118,6 +120,8 @@ class MainWindow(QMainWindow):
         f_layout.addWidget(f_btn)
         r_btn = QPushButton("Reset Filter"); r_btn.clicked.connect(self._reset_deck_list)
         f_layout.addWidget(r_btn)
+        plane_btn = QPushButton("Deck Plane"); plane_btn.clicked.connect(self._show_deck_plane)
+        f_layout.addWidget(plane_btn)
         left_layout.addLayout(f_layout)
 
         main_layout.addLayout(left_layout,stretch=1)
@@ -151,6 +155,7 @@ class MainWindow(QMainWindow):
 
         # State
         self.current_card_image_path = None
+        self.current_deck_cards = []
 
     # ---------- UI helpers ----------
     def _color_hex(self, c: str) -> str:
@@ -217,13 +222,13 @@ class MainWindow(QMainWindow):
         file_path = self.deck_files.get(deck_name)
         if not file_path:
             return
-        deck_cards = read_mainboard(file_path)
+        self.current_deck_cards = read_mainboard(file_path)
 
         # fill cache for missing cards (subtypes, manaValue)
-        for cname, _ in deck_cards:
+        for cname, _ in self.current_deck_cards:
             self._get_card(cname)
 
-        self._display_deck(deck_cards)
+        self._display_deck(self.current_deck_cards)
 
     def _pip_squares(self, identity: str) -> str:
         order = ["W", "U", "B", "R", "G"]
@@ -317,6 +322,7 @@ class MainWindow(QMainWindow):
         mv_txt = str(int(float(mv))) if (mv not in (None, "")) else "—"
         type_line = meta.get("type") or ""
         oracle = (meta.get("text") or "").replace("\\n","<br>")
+        oracle = manafy_html(oracle)
         set_code = meta.get("setCode") or ""
         power = meta.get("power") or ""
         toughness = meta.get("toughness") or ""
@@ -350,3 +356,7 @@ class MainWindow(QMainWindow):
         pix = QPixmap(self.current_card_image_path)
         popup.setIconPixmap(pix.scaledToHeight(680))
         popup.exec()
+
+    def _show_deck_plane(self):
+        dialog = DeckPlaneDialog(self.current_deck_cards, self.image_lookup, self)
+        dialog.exec_()

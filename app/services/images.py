@@ -6,7 +6,9 @@ import json
 import mimetypes
 import requests
 
+# scryfall API endpoint for exact name lookup
 SCRYFALL_NAMED_URL = "https://api.scryfall.com/cards/named"
+# Default app image cache directory
 APP_IMG_CACHE = Path("data/img")
 
 def ensure_app_cache_dir(path: Optional[Path] = None) -> Path:
@@ -78,7 +80,7 @@ def cache_image_for_card(card_name: str, cache_dir: Optional[Path] = None, size:
         return None
 
 
-    # Probe content type with a lightweight temp request if needed; default .jpg
+    # default extension is .jpg
     ext = ".jpg"
 
     out_path = cache_dir / f"{stem}{ext}"
