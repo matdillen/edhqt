@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import (
     QMainWindow, QWidget, QHBoxLayout, QVBoxLayout, QListWidget, QListWidgetItem,
-    QComboBox, QLineEdit, QPushButton, QLabel, QMessageBox, QSizePolicy
+    QComboBox, QLineEdit, QPushButton, QLabel, QMessageBox, QSizePolicy, QProgressDialog
 )
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
@@ -18,6 +18,7 @@ from typing import Optional
 from string import Template
 from pathlib import Path
 
+import os
 
 class CardRowWidget(QWidget):
     """A richer row for deck cards with color pips, qty, name, and mana value."""
@@ -357,6 +358,47 @@ class MainWindow(QMainWindow):
         popup.setIconPixmap(pix.scaledToHeight(680))
         popup.exec()
 
+    def _ensure_deck_images(self, deck_cards):
+        missing = []
+        for name, _ in deck_cards:
+            key = safe_stem(name)
+            path = self.image_lookup.get(key)
+            if not path or not os.path.exists(path):
+                missing.append(name)
+        if not missing:
+            return
+
+        dlg = QProgressDialog("Fetching images…", "Cancel", 0, len(missing), self)
+        dlg.setWindowModality(Qt.ApplicationModal)
+        dlg.setMinimumDuration(300)
+
+        for i, cname in enumerate(missing):
+            if dlg.wasCanceled():
+                break
+            p = cache_image_for_card(cname)
+            if p:
+                self.image_lookup[safe_stem(cname)] = str(p)
+            dlg.setValue(i + 1)
+
+
     def _show_deck_plane(self):
-        dialog = DeckPlaneDialog(self.current_deck_cards, self.image_lookup, self)
-        dialog.exec_()
+    # Get deck cards however you store them
+        deck_name = self._selected_deck_name()
+        if not deck_name:
+            return
+        path = self.deck_files.get(deck_name)
+        if not path:
+            return
+        deck_cards = read_mainboard(path)
+
+        # 1) Pre-fetch all images
+        self._ensure_deck_images(deck_cards)
+
+        # 2) Open the plane view
+        dlg = DeckPlaneDialog(
+            deck_cards=deck_cards,
+            image_lookup=self.image_lookup,
+            get_card_meta=self._get_card,   # unified cache-backed getter you already have
+            parent=self
+        )
+        dlg.exec_()
