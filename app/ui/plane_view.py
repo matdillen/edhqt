@@ -2,11 +2,12 @@
 from collections import defaultdict
 from PyQt5.QtWidgets import (
     QDialog, QVBoxLayout, QHBoxLayout, QGraphicsView, QGraphicsScene,
-    QGraphicsPixmapItem, QLabel, QPushButton, QComboBox, QMessageBox
+    QGraphicsPixmapItem, QLabel, QPushButton, QComboBox, QMessageBox, QCheckBox
 )
 from PyQt5.QtGui import QPixmap, QPainter
 from PyQt5.QtCore import Qt, QPointF
 from app.services.images import safe_stem
+import re
 
 class DeckPlaneDialog(QDialog):
     def __init__(self, deck_cards, image_lookup, get_card_meta, parent=None):
@@ -26,6 +27,8 @@ class DeckPlaneDialog(QDialog):
         self.cluster_combo = QComboBox()
         self.cluster_combo.addItems(["None", "Color Identity", "Type", "Mana Value"])
         ctl.addWidget(self.cluster_combo)
+        self.check_supertype = QCheckBox("Include Supertype")
+        ctl.addWidget(self.check_supertype)
         apply_btn = QPushButton("Apply layout")
         apply_btn.clicked.connect(self.apply_layout)
         ctl.addWidget(apply_btn)
@@ -113,8 +116,10 @@ class DeckPlaneDialog(QDialog):
                 k = meta.get("colorIdentity", "") or ""
             elif mode == "Type":
                 # Use the supertype/type portion before em-dash
-                tl = (meta.get("typeLine") or "")
+                tl = (meta.get("type") or "")
                 k = tl.split("—", 1)[0].strip()
+                if not self.check_supertype.isChecked():
+                    k = re.sub("^(Basic|Legendary|Snow|World) ", "", k)
             elif mode == "Mana Value":
                 mv = meta.get("manaValue") or ""
                 try:
