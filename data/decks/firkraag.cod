@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 13:30:59 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 22:01:53 2025</lastLoadedTimestamp>
     <deckname>firkraag</deckname>
     <bannerCard providerId="">Firkraag, Cunning Instigator</bannerCard>
     <comments></comments>
@@ -9,7 +9,7 @@
         <card number="1" name="Firkraag, Cunning Instigator"/>
     </zone>
     <zone name="main">
-        <card number="7" name="Mountain"/>
+        <card number="6" name="Mountain"/>
         <card number="1" name="Kazuul's Fury"/>
         <card number="1" name="Shatterskull Smashing"/>
         <card number="6" name="Island"/>
@@ -97,5 +97,6 @@
         <card number="1" name="Niv-Mizzet, Parun" setShortName="CLB" collectorNumber="851" uuid="3035a97f-5104-4b56-84a4-5206e75607fc"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Cactus Preserve" setShortName="OTC" collectorNumber="40" uuid="ad9d426f-5870-42bb-a589-9218f7e35d62"/>
+        <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
     </zone>
 </cockatrice_deck>

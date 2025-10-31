@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Tue Oct 21 01:41:25 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 23:44:11 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Commodore Guff</bannerCard>
     <comments></comments>
@@ -65,7 +65,6 @@
         <card number="2" name="Island"/>
         <card number="2" name="Mountain"/>
         <card number="3" name="Plains"/>
-        <card number="1" name="Mirrex"/>
         <card number="1" name="Interplanar Beacon"/>
         <card number="1" name="Deepglow Skate"/>
         <card number="1" name="Jaya's Phoenix"/>
@@ -98,11 +97,12 @@
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Island Sanctuary"/>
         <card number="1" name="An Offer You Can't Refuse"/>
-        <card number="1" name="Teferi's Talent"/>
         <card number="1" name="Aetheric Amplifier"/>
         <card number="1" name="Ajani, Nacatl Pariah" setShortName="MH3" collectorNumber="237" uuid="0d16e8e0-31b2-4389-afd6-783c501f6fa0"/>
         <card number="1" name="Reins of Power" setShortName="CLB" collectorNumber="734" uuid="9b5730aa-c74a-4c74-bb1b-a133a3c353ec"/>
         <card number="1" name="Promise of Loyalty" setShortName="BLC" collectorNumber="148" uuid="bc537e6b-17bd-4908-a7b2-a4efa4f20c02"/>
         <card number="1" name="Humility" setShortName="TPR" collectorNumber="16" uuid="55ad6a45-a840-45ba-89ad-066e20e983f3"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
     </zone>
 </cockatrice_deck>

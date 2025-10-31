@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 15:51:58 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Tue Oct 28 00:27:00 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Volo, Guide to Monsters</bannerCard>
     <comments></comments>
@@ -16,7 +16,6 @@
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Druid's Deliverance"/>
         <card number="1" name="Familiar's Ruse"/>
-        <card number="1" name="Beast Within"/>
         <card number="1" name="Mimic Vat"/>
         <card number="1" name="City of Death"/>
         <card number="1" name="Burnished Hart"/>
@@ -100,5 +99,6 @@
         <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
         <card number="1" name="See Double" setShortName="MOM" collectorNumber="77" uuid="41634103-7b58-4feb-84b7-90a07a7b474f"/>
         <card number="1" name="Springheart Nantuko" setShortName="MH3" collectorNumber="171" uuid="54a3ea87-005e-4985-b2a5-21711d0b71c0"/>
+        <card number="1" name="Lithoform Engine" setShortName="BRC" collectorNumber="146" uuid="c579956f-900a-4574-a68b-3c1d92ea67b6"/>
     </zone>
 </cockatrice_deck>

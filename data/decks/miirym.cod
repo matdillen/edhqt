@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 17 00:24:02 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 20:58:06 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
@@ -14,7 +14,6 @@
         <card number="1" name="Garruk's Uprising"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Beast Within"/>
         <card number="1" name="Stubborn Denial"/>
         <card number="1" name="Dragonspeaker Shaman"/>
         <card number="1" name="Bogardan Hellkite"/>
@@ -102,6 +101,7 @@
         <card number="1" name="Mana Drain" setShortName="2X2" collectorNumber="57" uuid="3c429c40-2389-41e5-8681-4bb274e25eba"/>
         <card number="1" name="Slip Out the Back" setShortName="CLU" collectorNumber="99" uuid="d9d9fbbb-ed6c-45f7-a1d8-f9d29ae7930f"/>
         <card number="1" name="Selvala's Stampede" setShortName="TDC" collectorNumber="269" uuid="b84e46c2-f3ea-49ff-8f8b-58aa6a1175a4"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

@@ -1,4 +1,3 @@
-# in app/ui/deck_plane.py (new file) — import in main where needed
 from collections import defaultdict
 from PyQt5.QtWidgets import (
     QDialog, QVBoxLayout, QHBoxLayout, QGraphicsView, QGraphicsScene,
@@ -9,15 +8,24 @@ from PyQt5.QtCore import Qt, QPointF
 from app.services.images import safe_stem
 import re
 
+# DeckPlaneDialog: A dialog to visualize deck cards in a 2D plane with clustering options.
 class DeckPlaneDialog(QDialog):
     def __init__(self, deck_cards, image_lookup, get_card_meta, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Deck Visualizer")
         self.resize(1200, 900)
+        
+        # data of cards in the deck
         self.deck_cards = deck_cards
+
+        # dict of card name stem → image path
         self.image_lookup = image_lookup
+
+        # function to retrieve card metadata
         self.get_card_meta = get_card_meta
-        self._z = 10  # z-order counter for raise-on-select
+
+        # z-order counter for raise-on-select
+        self._z = 10  
 
         root = QVBoxLayout(self)
 
@@ -44,7 +52,7 @@ class DeckPlaneDialog(QDialog):
         self.view.setDragMode(QGraphicsView.ScrollHandDrag)
         root.addWidget(self.view)
 
-        # Build items
+        # Build the items
         self.card_items = []  # list[MovableCardItem]
         self._populate_scene()
 
@@ -52,10 +60,12 @@ class DeckPlaneDialog(QDialog):
         self.scene.selectionChanged.connect(self._bring_selected_to_front)
 
     def _next_z(self):
+        # increment and return next z-order value to raise selected item above all others
         self._z += 1
         return self._z
 
     def _populate_scene(self):
+        # load all cards as images into the scene
         spacing_x, spacing_y = 90, 130
         x, y = 0, 0
         max_row = 10
@@ -87,6 +97,7 @@ class DeckPlaneDialog(QDialog):
                     y += 1
 
     def show_image_popup_on_path(self, img_path: str, max_w: int = 600, max_h: int = 900):
+        # show higher res image in popup
         if not img_path:
             return
         pix = QPixmap(img_path)
@@ -104,6 +115,7 @@ class DeckPlaneDialog(QDialog):
             it.setZValue(self._next_z())
 
     def apply_layout(self):
+        # sort cards according to certain filter parameters
         mode = self.cluster_combo.currentText()
         if mode == "None":
             self._layout_grid(self.card_items)

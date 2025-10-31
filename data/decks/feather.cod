@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 21:34:53 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 23:35:57 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Feather, the Redeemed</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
-        <card number="5" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
         <card number="1" name="Exotic Orchard"/>
-        <card number="1" name="Rustvale Bridge"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Shatterskull Smashing"/>
@@ -67,7 +66,6 @@
         <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Galadriel's Dismissal"/>
         <card number="1" name="Showstopping Surprise"/>
-        <card number="1" name="Elegant Parlor"/>
         <card number="1" name="Furycalm Snarl"/>
         <card number="1" name="Decanter of Endless Water"/>
         <card number="1" name="Legion Leadership"/>
@@ -87,7 +85,6 @@
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Nibelheim Aflame" setShortName="FIN" collectorNumber="146" uuid="3d3e926a-74af-4996-849f-d31e0fdedeae"/>
-        <card number="1" name="Reroute Systems" setShortName="EOE" collectorNumber="31" uuid="3bbdba38-2b99-4226-98e3-6d2580345d6d"/>
         <card number="1" name="Honor" setShortName="EOE" collectorNumber="21" uuid="d0b4e925-1d59-41a1-bc06-9982695d778f"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Sunforger" setShortName="CMR" collectorNumber="473" uuid="dd3e42ee-ab13-460b-90fd-86e677abce4f"/>
@@ -97,6 +94,11 @@
         <card number="1" name="Balefire Liege" setShortName="2X2" collectorNumber="180" uuid="3ed13445-c9a0-4f17-aa69-af353679e6a7"/>
         <card number="1" name="Mirrorwing Dragon" setShortName="INR" collectorNumber="165" uuid="409aa60d-ce4f-4019-b5b9-702ab94ed429"/>
         <card number="1" name="Zada, Hedron Grinder" setShortName="CMM" collectorNumber="268" uuid="4520cdcc-a10f-4b39-9c6f-ba86f6aa2c87"/>
+        <card number="1" name="Protection Magic" setShortName="FIC" collectorNumber="24" uuid="917e9267-010d-450c-ab98-6f861250c437"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="LTC" collectorNumber="374" uuid="f6cd3fbc-908d-4653-a133-e35843a5ac65"/>
+        <card number="1" name="Lindblum, Industrial Regency // Mage Siege" setShortName="FIN" collectorNumber="312" uuid="b2ae92d9-7047-424e-a482-2311888a8c56"/>
+        <card number="1" name="Eiganjo Castle" setShortName="PLST" collectorNumber="CHK-275" uuid="cf4691a5-074d-42c2-af22-881d141b79e8"/>
+        <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feather, the Redeemed"/>

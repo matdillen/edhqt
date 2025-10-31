@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Oct 20 00:58:13 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 27 15:56:26 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
@@ -51,7 +51,6 @@
         <card number="1" name="Gandalf, White Rider" setShortName="LTR" collectorNumber="290" uuid="b422ce26-06fb-4748-9c01-32c4be914a77"/>
         <card number="1" name="Jazal Goldmane" setShortName="BLC" collectorNumber="142" uuid="eb9666d0-2100-40e0-a065-165ccc5c0d28"/>
         <card number="1" name="Felidar Retreat" setShortName="CMM" collectorNumber="821" uuid="c91c11ef-e036-4c54-98b7-83b7b25e7c1b"/>
-        <card number="1" name="Sovereign Okinec Ahau" setShortName="LCI" collectorNumber="240" uuid="70c75aa7-e2f9-4a69-8086-c982019ca714"/>
         <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
         <card number="1" name="Shalai, Voice of Plenty" setShortName="PLST" collectorNumber="DOM-35" uuid="14a74ac1-d827-48d5-9d7d-5eb0122b0069"/>
         <card number="1" name="Yasharn, Implacable Earth" setShortName="ZNR" collectorNumber="240" uuid="12878fbd-dbe5-44bc-9f34-38fd374ec10a"/>
@@ -70,9 +69,8 @@
         <card number="1" name="Elesh Norn, Grand Cenobite" setShortName="HA5" collectorNumber="2" uuid="a4f74725-44d4-4ad1-8365-b21bc67e952e"/>
         <card number="1" name="Thunderous Debut" setShortName="PWOE" collectorNumber="190p" uuid="4d274a25-1346-4f9f-9dd7-a32ef67e5e19"/>
         <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
-        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
-        <card number="6" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
-        <card number="3" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="2" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="3" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
         <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
         <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
@@ -87,7 +85,6 @@
         <card number="1" name="Yavimaya, Cradle of Growth" setShortName="LTC" collectorNumber="377" uuid="f442758d-4fee-43fa-a2cb-d09c326da149"/>
         <card number="1" name="Khalni Ambush" setShortName="PIO" collectorNumber="181" uuid="ecc4939e-2541-49db-b84f-f902fe9e2524"/>
         <card number="1" name="Bridgeworks Battle" setShortName="MH3" collectorNumber="249" uuid="ebef3db0-2b58-4581-a79c-fbca9a059e63"/>
-        <card number="1" name="Seachrome Coast" setShortName="BLC" collectorNumber="328" uuid="88ec4d3b-f1f1-489c-b41e-0206e5e59fbd"/>
         <card number="1" name="Flooded Strand" setShortName="MH3" collectorNumber="220" uuid="8f85e12c-196b-4459-b81f-0c9c854e9f57"/>
         <card number="1" name="Glacial Fortress" setShortName="BLC" collectorNumber="307" uuid="805ce12b-58eb-4584-a02e-d55ce3e527ce"/>
         <card number="1" name="Tundra" setShortName="30A" collectorNumber="280" uuid="79fc39a1-6a9d-4893-a41b-e8d13fb0d108"/>
@@ -99,5 +96,10 @@
         <card number="1" name="Sutina, Speaker of the Tajuru" setShortName="J25" collectorNumber="56" uuid="1b794170-4ffd-4628-ba5a-b9293bb364dc"/>
         <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
         <card number="1" name="Delney, Streetwise Lookout" setShortName="MKM" collectorNumber="12" uuid="be219928-3d0e-4d00-b124-152ce8a8c13b"/>
+        <card number="1" name="Sokrates, Athenian Teacher" setShortName="ACR" collectorNumber="67" uuid="f9266244-e8bc-47f8-a440-55d208b961df"/>
+        <card number="1" name="Reflecting Pool" setShortName="CLB" collectorNumber="358" uuid="18a1b3f5-473d-45ca-be0d-e67e77ba30ce"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="LTC" collectorNumber="369" uuid="798c0faf-0de2-4397-8f03-2120d2a35351"/>
+        <card number="1" name="Deserted Beach" setShortName="DBL" collectorNumber="260" uuid="cd4ae6af-22c3-4fa3-a7c1-5174382cda2f"/>
+        <card number="1" name="Patriar's Seal" setShortName="CLB" collectorNumber="332" uuid="37f920f0-4dfc-477b-af7e-a17dfc9ba455"/>
     </zone>
 </cockatrice_deck>

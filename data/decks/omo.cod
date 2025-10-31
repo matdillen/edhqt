@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 19 18:06:37 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 26 16:28:29 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="e5d1c814-4c22-4917-95ae-dffaf491db32">Omo, Queen of Vesuva</bannerCard>
     <comments></comments>
@@ -31,7 +31,6 @@
         <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
         <card number="1" name="Opal Palace" setShortName="40K" collectorNumber="286" uuid="eb4e0145-c339-4c60-aacf-67d8e785df49"/>
         <card number="1" name="Curse of the Swine" setShortName="CLB" collectorNumber="716" uuid="a0ef264e-f987-422e-aac1-ae4963c797f5"/>
-        <card number="1" name="Sylvan Scrying" setShortName="EA3" collectorNumber="4" uuid="37be0614-1433-429c-a3de-27b415470c5b"/>
         <card number="1" name="March of Swirling Mist" setShortName="NEO" collectorNumber="61" uuid="100171d8-7436-44c8-b4cb-0101ffa05c25"/>
         <card number="1" name="Aven Courier" setShortName="NCC" collectorNumber="22" uuid="7bb0e478-c359-4523-a1e1-ba711a8cb8e0"/>
         <card number="1" name="Essence Flux" setShortName="INR" collectorNumber="64" uuid="c94b37df-aaa5-4981-be3b-c934a7971123"/>
@@ -96,5 +95,6 @@
         <card number="1" name="Earthshaker Dreadmaw" setShortName="LCI" collectorNumber="183" uuid="cdcbba6f-aa54-44be-a3b0-f712fa8bd5ad"/>
         <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
         <card number="1" name="Arixmethes, Slumbering Isle" setShortName="DSC" collectorNumber="211" uuid="bf561379-4e5f-486a-bcdf-6e08e105316e"/>
+        <card number="1" name="Azami, Lady of Scrolls" setShortName="CMM" collectorNumber="74" uuid="fa727656-fb33-485b-9378-18b80cad42b9"/>
     </zone>
 </cockatrice_deck>

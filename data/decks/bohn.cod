@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 13:02:42 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 21:54:48 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="6e779a16-7528-49f4-8304-502bb603c15b">Bohn, Beguiling Balladeer</bannerCard>
     <comments></comments>
@@ -10,8 +10,8 @@
     </zone>
     <zone name="main">
         <card number="1" name="All Is Dust" setShortName="CMM" collectorNumber="800" uuid="4210c54e-89fd-4971-ab6a-ca8f4e7fe97a"/>
-        <card number="7" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
-        <card number="8" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="5" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="6" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Shatterskull Smashing" setShortName="ZNR" collectorNumber="161" uuid="bc7239ea-f8aa-4a6f-87bd-c35359635673"/>
         <card number="1" name="Mystic Sanctuary" setShortName="MB2" collectorNumber="110" uuid="967a6608-6e5d-40b3-b0c6-2e79b97f10ba"/>
         <card number="1" name="Shivan Reef" setShortName="BLC" collectorNumber="331" uuid="59d5e76c-4961-4dbf-be38-a18a2c16d33f"/>
@@ -32,7 +32,6 @@
         <card number="1" name="Unwind" setShortName="DOM" collectorNumber="72" uuid="97da6607-9131-4f8b-8af3-63439a59b78b"/>
         <card number="1" name="Supreme Will" setShortName="GN3" collectorNumber="40" uuid="fe64b0a3-ab59-44c5-84d0-0647a0572d5d"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
-        <card number="1" name="Grab the Reins" setShortName="PLST" collectorNumber="MRD-95" uuid="be4fff3d-4267-404f-a62f-744fa396af17"/>
         <card number="1" name="Unexpected Windfall" setShortName="AFR" collectorNumber="164" uuid="bae6a5fb-39f5-4cf8-85f7-661cb4570507"/>
         <card number="1" name="Inscription of Insight" setShortName="ZNR" collectorNumber="61" uuid="281cdb1c-21ae-4430-8e0f-c993f52ba891"/>
         <card number="1" name="Voracious Bibliophile" setShortName="TDC" collectorNumber="23" uuid="77d2c30b-3130-4d9d-bd3d-484fe6dc306d"/>
@@ -95,5 +94,10 @@
         <card number="1" name="Transcendent Dragon" setShortName="TDC" collectorNumber="22" uuid="3c9a4205-eda8-4858-9d46-2428058c94fc"/>
         <card number="1" name="Coastal Breach" setShortName="C16" collectorNumber="6" uuid="bf8b550a-c86f-4684-a4f6-14e75172324f"/>
         <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
+        <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
+        <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
+        <card number="1" name="Valakut Awakening" setShortName="PIO" collectorNumber="158" uuid="d30207c9-a067-43e1-af73-105369498e4c"/>
+        <card number="1" name="Boseiju, Who Shelters All" setShortName="LTC" collectorNumber="359" uuid="bafe3253-feed-4cb9-a13c-9a9105462a8b"/>
+        <card number="1" name="Spider-Verse" setShortName="OM1" collectorNumber="75" uuid="c3fd31e5-0faa-493f-aa50-08307a0c0139"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 19 20:04:52 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 21:47:13 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Emiel the Blessed</bannerCard>
     <comments></comments>
@@ -41,7 +41,6 @@
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Llanowar Visionary"/>
-        <card number="1" name="Knight of Autumn"/>
         <card number="1" name="Charming Prince"/>
         <card number="1" name="Ephemerate"/>
         <card number="1" name="Samwise the Stouthearted"/>
@@ -52,8 +51,8 @@
         <card number="1" name="Horizon Canopy"/>
         <card number="1" name="Endless Sands"/>
         <card number="1" name="Karn's Bastion"/>
-        <card number="8" name="Forest"/>
-        <card number="7" name="Plains"/>
+        <card number="6" name="Forest"/>
+        <card number="6" name="Plains"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Savannah"/>
         <card number="1" name="Overgrown Farmland"/>
@@ -95,5 +94,9 @@
         <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
         <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
         <card number="1" name="Touch the Spirit Realm" setShortName="GDY" collectorNumber="4" uuid="5d02afc8-0192-4e7d-9d10-60a4434ed8db"/>
+        <card number="1" name="Summon: Yojimbo" setShortName="FIC" collectorNumber="28" uuid="cdbc2d28-ea35-47c6-af7e-07924e9d5794"/>
+        <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
+        <card number="1" name="Castle Garenbrig" setShortName="PLST" collectorNumber="ELD-240" uuid="e33285ee-aaf8-4fe4-9991-9fb16dfdd531"/>
+        <card number="1" name="Turntimber Symbiosis" setShortName="ZNR" collectorNumber="215" uuid="61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6"/>
     </zone>
 </cockatrice_deck>

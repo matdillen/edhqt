@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Oct 13 13:24:09 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 20:45:28 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="be219928-3d0e-4d00-b124-152ce8a8c13b">Delney, Streetwise Lookout</bannerCard>
     <comments></comments>
@@ -13,7 +13,6 @@
         <card number="1" name="Emeria's Call" setShortName="ZNR" collectorNumber="12" uuid="c470539a-9cc7-4175-8f7c-c982b6072b6d"/>
         <card number="1" name="Emeria, the Sky Ruin" setShortName="PLST" collectorNumber="ZEN-213" uuid="3fc46e1d-e239-4f21-ba60-4da23338f247"/>
         <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>
-        <card number="1" name="Demolition Field" setShortName="BRO" collectorNumber="260" uuid="d9c88546-13c9-4d7e-a618-cb2ccd1dbc0f"/>
         <card number="1" name="Three Tree City" setShortName="BLB" collectorNumber="260" uuid="56f88a48-cced-4a9d-8c19-e4f105f0d8a2"/>
         <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
         <card number="1" name="Esper Sentinel" setShortName="H2R" collectorNumber="2" uuid="8b5a916f-a6f2-4e89-b38f-7e5bc0c2e032"/>
@@ -38,13 +37,11 @@
         <card number="1" name="Skyclave Apparition" setShortName="BLC" collectorNumber="154" uuid="a76c56a3-db5c-4884-8c6a-bf8105b62421"/>
         <card number="1" name="Bygone Bishop" setShortName="CLB" collectorNumber="689" uuid="cf879fc7-9f84-40a7-a7be-9cc98a720af5"/>
         <card number="1" name="Oketra's Monument" setShortName="DMC" collectorNumber="188" uuid="a7f1d5a6-bdf2-4b12-b11e-70f58b59dd80"/>
-        <card number="1" name="Boreas Charger" setShortName="VOC" collectorNumber="79" uuid="3cab81be-47d7-4f76-b031-072ac1a7fbc2"/>
         <card number="1" name="Custodi Soulcaller" setShortName="CN2" collectorNumber="15" uuid="e29212c9-04e3-4678-be73-f7405a85dadb"/>
         <card number="1" name="Citywide Bust" setShortName="SCD" collectorNumber="11" uuid="c249e9db-41a7-4da8-99b3-d7854c538713"/>
         <card number="1" name="Werefox Bodyguard" setShortName="PWOE" collectorNumber="39p" uuid="3c9fb10f-2be6-4412-876a-e62e673bf59b"/>
         <card number="1" name="Loran of the Third Path" setShortName="BLC" collectorNumber="143" uuid="647e6b32-c755-4700-b151-6a174dbb2bd0"/>
         <card number="1" name="Hallowed Spiritkeeper" setShortName="VOC" collectorNumber="88" uuid="dc8037d5-79fa-47e3-9d3b-eb29643ecae7"/>
-        <card number="1" name="Unbreakable Formation" setShortName="BRC" collectorNumber="78" uuid="d83a7b27-eb3e-4bd5-8463-9a901ed31710"/>
         <card number="1" name="Siege Veteran" setShortName="BRO" collectorNumber="25" uuid="f57e2a32-6e52-4f6e-96ec-55f5b7ba77e0"/>
         <card number="1" name="Rhox Veteran" setShortName="MH1" collectorNumber="24" uuid="6384e266-d0dc-4af1-b3ab-ecaf9be2553c"/>
         <card number="1" name="Dusk // Dawn" setShortName="BLC" collectorNumber="138" uuid="00bbcc83-7307-46cc-b164-e1ff502d18a3"/>
@@ -54,7 +51,6 @@
         <card number="1" name="Michiko Konda, Truth Seeker" setShortName="J22" collectorNumber="215" uuid="5a4124fc-c9c5-4752-9618-dfe722c38d0b"/>
         <card number="1" name="Clever Concealment" setShortName="ONC" collectorNumber="5" uuid="5d84cc58-0965-4c7f-a408-7630f23fb8f3"/>
         <card number="1" name="Nyx Lotus" setShortName="THB" collectorNumber="235" uuid="5bd6353f-d119-40e6-895c-030a11a7a2fe"/>
-        <card number="1" name="Teshar, Ancestor's Apostle" setShortName="BRC" collectorNumber="77" uuid="31b96ec5-065e-41a8-9383-2b86888f4405"/>
         <card number="1" name="Mangara, the Diplomat" setShortName="BLC" collectorNumber="145" uuid="26f0d639-9d7f-4a90-bbfd-f942bd59a89b"/>
         <card number="1" name="Panharmonicon" setShortName="2X2" collectorNumber="310" uuid="998d0cc8-ca2a-41c3-ab65-d05c26ab8278"/>
         <card number="1" name="Fell the Mighty" setShortName="40K" collectorNumber="186" uuid="7b28bdec-927a-4737-9b55-d5565c5c69f2"/>
@@ -89,5 +85,9 @@
         <card number="1" name="Monumental Henge" setShortName="MH3" collectorNumber="222" uuid="62907e7b-e531-4f51-9a69-7e60ae525775"/>
         <card number="1" name="Recruiter of the Guard" setShortName="MH3" collectorNumber="266" uuid="8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0"/>
         <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
+        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
+        <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Gatta and Luzzu" setShortName="FIC" collectorNumber="19" uuid="4742c222-1f29-4e1a-a545-798d175255ca"/>
     </zone>
 </cockatrice_deck>

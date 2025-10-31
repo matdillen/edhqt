@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 10 23:05:50 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 20:55:34 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -32,7 +32,6 @@
         <card number="1" name="Atsushi, the Blazing Sky"/>
         <card number="1" name="Flameshadow Conjuring"/>
         <card number="1" name="Flametongue Kavu"/>
-        <card number="1" name="Wild Ricochet"/>
         <card number="1" name="Jaxis, the Troublemaker"/>
         <card number="1" name="Dualcaster Mage"/>
         <card number="1" name="Burnished Hart"/>
@@ -86,5 +85,6 @@
         <card number="1" name="Imperial Recruiter" setShortName="MH2" collectorNumber="281" uuid="05bd329b-5707-42fc-af1c-084cc604e805"/>
         <card number="1" name="Industrial Advancement" setShortName="NCC" collectorNumber="47" uuid="81f1416c-48bd-4168-aacd-a9b0a3afb8bc"/>
         <card number="1" name="Siege-Gang Commander" setShortName="BLC" collectorNumber="202" uuid="0befe0f5-ff7c-441a-9bb2-cbe919be10ad"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
     </zone>
 </cockatrice_deck>

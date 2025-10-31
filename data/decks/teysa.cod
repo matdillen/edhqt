@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Tue Oct 21 01:41:37 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Oct 26 18:05:32 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -29,7 +29,6 @@
         <card number="1" name="Dictate of Erebos"/>
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Massacre Wurm"/>
-        <card number="1" name="Harvester of Souls"/>
         <card number="6" name="Plains"/>
         <card number="4" name="Swamp"/>
         <card number="1" name="Godless Shrine"/>
@@ -72,7 +71,6 @@
         <card number="1" name="Inkshield"/>
         <card number="1" name="Ashen Rider"/>
         <card number="1" name="Butcher of Malakir"/>
-        <card number="1" name="Woe Strider"/>
         <card number="1" name="Illustrious Wanderglyph"/>
         <card number="1" name="Agadeem's Awakening"/>
         <card number="1" name="Warren Soultrader"/>
@@ -97,6 +95,8 @@
         <card number="1" name="Morbid Opportunist" setShortName="BLC" collectorNumber="183" uuid="318370d0-1c12-4228-b2c9-2a766e234091"/>
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
         <card number="1" name="Hall of Heliod's Generosity" setShortName="DSC" collectorNumber="283" uuid="f08dfd99-59fa-4a6c-bd69-c647f639de4d"/>
+        <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
+        <card number="1" name="Coffin Queen" setShortName="PLST" collectorNumber="TPR-87" uuid="c5515d4d-1018-48df-afd6-9135d2826b88"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

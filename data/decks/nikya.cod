@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Oct 31 23:46:49 2025</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId="90ff41a6-6604-4953-a43d-816c4568b742">Nikya of the Old Ways</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Nikya of the Old Ways" setShortName="PRNA" collectorNumber="193s" uuid="90ff41a6-6604-4953-a43d-816c4568b742"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Duskwatch Recruiter" setShortName="INR" collectorNumber="193" uuid="4ef68479-ab2e-4a60-886c-ad007b64f185"/>
+        <card number="1" name="Goblin Anarchomancer" setShortName="MH2" collectorNumber="200" uuid="633a3423-501d-4b22-95a6-743233be521e"/>
+        <card number="1" name="Sakura-Tribe Elder" setShortName="BLC" collectorNumber="236" uuid="3696297a-b068-4e89-a62c-6cd5ad437618"/>
+        <card number="1" name="Eternal Witness" setShortName="2X2" collectorNumber="145" uuid="76d7fa2c-4dbc-4e9e-9448-5bf8bbee95d6"/>
+        <card number="1" name="Wood Elves" setShortName="DCI" collectorNumber="1" uuid="de62160b-3a29-48ed-9dfc-fd1464147f35"/>
+        <card number="1" name="Goblin Sharpshooter" setShortName="SLD" collectorNumber="18" uuid="ad66330e-166c-4613-b788-e5c2f052cd9d"/>
+        <card number="1" name="Clifftop Lookout" setShortName="BLB" collectorNumber="168" uuid="662d3bcc-65f3-4c69-8ea1-446870a1193d"/>
+        <card number="1" name="Summon: Fenrir" setShortName="FIN" collectorNumber="203" uuid="93feb9d5-d004-4598-a448-b3488c869c05"/>
+        <card number="1" name="Heartwood Storyteller" setShortName="PLST" collectorNumber="FUT-127" uuid="b05444b4-ef67-40a0-aaf8-3ed86b4af2cc"/>
+        <card number="1" name="Greater Tanuki" setShortName="CMM" collectorNumber="897" uuid="a51fb4b3-9926-4e06-b107-a7a39584fa7a"/>
+        <card number="1" name="Bloomvine Regent" setShortName="TDM" collectorNumber="381" uuid="081f2de5-251a-41c9-a62f-11487f54d355"/>
+        <card number="1" name="Yavimaya Dryad" setShortName="TSR" collectorNumber="247" uuid="9807f9a8-a994-4fb2-ad33-3d80d9702bfe"/>
+        <card number="1" name="Farhaven Elf" setShortName="LTC" collectorNumber="243" uuid="c187b12a-391b-41fb-9728-053909f69f66"/>
+        <card number="1" name="Topiary Stomper" setShortName="J25" collectorNumber="730" uuid="420a077c-1660-4921-9c0c-724ca8e33916"/>
+        <card number="1" name="Howlpack Piper" setShortName="DBL" collectorNumber="472" uuid="de7b7d93-fe69-4b18-b398-cf1a61eed175"/>
+        <card number="1" name="Bonecrusher Giant // Stomp" setShortName="CLB" collectorNumber="781" uuid="b5b71cd2-de35-451f-b16e-2e3936169407"/>
+        <card number="1" name="Jaya Ballard, Task Mage" setShortName="PLST" collectorNumber="TSP-166" uuid="09900d9a-3086-4608-8d5d-56339f7b5773"/>
+        <card number="1" name="Halana, Kessig Ranger" setShortName="CMR" collectorNumber="231" uuid="6bee6eb2-2708-4596-86ad-40eea88dbb6b"/>
+        <card number="1" name="Vizier of the Menagerie" setShortName="FDN" collectorNumber="649" uuid="3010ec33-c3f6-42ce-ad5a-e149e5c9a805"/>
+        <card number="1" name="Temur Sabertooth" setShortName="NCC" collectorNumber="315" uuid="c3a5a175-e963-42cc-a0ba-d8914bb93c00"/>
+        <card number="1" name="Undermountain Adventurer" setShortName="CLB" collectorNumber="260" uuid="541f53a3-521f-4463-a0b6-758a45d8f661"/>
+        <card number="1" name="Kessig Cagebreakers" setShortName="J22" collectorNumber="681" uuid="3d305e7c-81b2-460e-8f56-63cfbb018f15"/>
+        <card number="1" name="Wandering Archaic" setShortName="PSTX" collectorNumber="6s" uuid="a662a862-c592-4c5b-9728-279d04be22bf"/>
+        <card number="1" name="Ohran Frostfang" setShortName="CMM" collectorNumber="309" uuid="0d2fbeb1-6446-48ca-afe1-d1869a36e389"/>
+        <card number="1" name="Tendershoot Dryad" setShortName="BLC" collectorNumber="242" uuid="3a60bdb4-53b3-46f2-b7a1-7954117b42a1"/>
+        <card number="1" name="Silverback Elder" setShortName="DMU" collectorNumber="177" uuid="b987664f-0b74-4c0a-b306-14767a55559a"/>
+        <card number="1" name="Genesis" setShortName="SLC" collectorNumber="2002" uuid="f9052ad9-a8b3-4fa3-8cbe-223b306c8328"/>
+        <card number="1" name="Acidic Slime" setShortName="AFC" collectorNumber="151" uuid="2a6d791f-11c1-44ce-8084-591250b9f802"/>
+        <card number="1" name="Elder Gargaroth" setShortName="DRC" collectorNumber="111" uuid="e5729bd1-f480-4a9a-a36c-c36bf4b85a3f"/>
+        <card number="1" name="Ruric Thar, the Unbowed" setShortName="2X2" collectorNumber="271" uuid="aa828bdc-221e-4e81-9e71-6f288690ddcd"/>
+        <card number="1" name="Hellkite Charger" setShortName="CMM" collectorNumber="232" uuid="6836c646-83ff-4bf8-96dd-4cbdd6c7e861"/>
+        <card number="1" name="Kogla and Yidaro" setShortName="MOM" collectorNumber="244" uuid="b760ebdf-bea6-4c43-a187-4a02ebf95ebf"/>
+        <card number="1" name="Cityscape Leveler" setShortName="BRO" collectorNumber="233" uuid="67a87278-4c82-4056-8354-253d86b0ef3d"/>
+        <card number="1" name="Sire of Seven Deaths" setShortName="FDN" collectorNumber="1" uuid="8d8432a7-1c8a-4cfb-947c-ecf9791063eb"/>
+        <card number="1" name="Craterhoof Behemoth" setShortName="CMM" collectorNumber="280" uuid="e8f4435a-8604-45b5-a537-dfdfcb922e16"/>
+        <card number="1" name="Stonehoof Chieftain" setShortName="CMM" collectorNumber="325" uuid="3451dd0f-8cea-409f-8d56-f13e6aa424f6"/>
+        <card number="1" name="Apex Devastator" setShortName="M3C" collectorNumber="220" uuid="ca9783bc-0e1b-42da-b0f3-89dd0db83743"/>
+        <card number="1" name="Old Gnawbone" setShortName="AFR" collectorNumber="197" uuid="77ceba8b-de19-4db8-b5a7-f5df49bf241f"/>
+        <card number="1" name="Titan of Industry" setShortName="PSNC" collectorNumber="159p" uuid="72ff838c-c9c4-45bf-997e-527d246d3faa"/>
+        <card number="1" name="World Breaker" setShortName="EA2" collectorNumber="18" uuid="f6a1cc1b-6c49-44f4-a69d-f898ae4222b9"/>
+        <card number="1" name="Hideous Taskmaster" setShortName="M3C" collectorNumber="57" uuid="ba7191d0-d567-4814-8a92-52e96aa7660f"/>
+        <card number="1" name="Nullstone Gargoyle" setShortName="RAV" collectorNumber="266" uuid="1dc3aa88-2555-4862-a771-e9d5b9eab3ad"/>
+        <card number="1" name="Genesis Hydra" setShortName="MOC" collectorNumber="298" uuid="69467d04-6c7d-44d1-88c4-9721741d6034"/>
+        <card number="1" name="Genesis Wave" setShortName="FDN" collectorNumber="221" uuid="d46f7ddb-f986-4f1f-b096-ae1a02d0bdc8"/>
+        <card number="1" name="Multani, Yavimaya's Avatar" setShortName="DSC" collectorNumber="190" uuid="61337cf3-709d-4886-9c9b-0c346677f026"/>
+        <card number="1" name="Artisan of Kozilek" setShortName="CMM" collectorNumber="801" uuid="9312fada-fc31-46ac-b6a1-cfffd776856f"/>
+        <card number="1" name="Primal Surge" setShortName="AVR" collectorNumber="189" uuid="4278f7bd-afff-4a1d-a0bb-bf9ce3ad5a2e"/>
+        <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
+        <card number="1" name="Gruul Turf" setShortName="2X2" collectorNumber="325" uuid="294b7e06-4758-4590-b1f0-b7f97537218f"/>
+        <card number="1" name="Labyrinth of Skophos" setShortName="MKC" collectorNumber="272" uuid="388169df-4cce-452d-9215-e3f814ff4fdf"/>
+        <card number="1" name="Blast Zone" setShortName="BRO" collectorNumber="258" uuid="c5e911be-8166-4263-8c57-e86358b8ceb8"/>
+        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
+        <card number="1" name="Sea Gate Wreckage" setShortName="CMM" collectorNumber="1028" uuid="1c137634-7531-4573-9bfa-623d8edf839c"/>
+        <card number="1" name="Fungal Reaches" setShortName="TSR" collectorNumber="279" uuid="1a3580d6-345a-46ba-a327-0e924989d6b1"/>
+        <card number="1" name="Haunted Fengraf" setShortName="SIS" collectorNumber="76" uuid="dd4c9a60-6cb9-4487-897b-28a370cb9ed7"/>
+        <card number="1" name="Fire-Lit Thicket" setShortName="FIC" collectorNumber="392" uuid="bcab849e-336d-490f-8dd2-0936fba2afbe"/>
+        <card number="1" name="Gaea's Cradle" setShortName="OLGC" collectorNumber="2014" uuid="3faf2c71-8591-4005-a93f-08441e3bba49"/>
+        <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="4" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
+        <card number="1" name="High Market" setShortName="AFC" collectorNumber="246" uuid="9d56844f-ee3b-4161-85d2-18b872a9b465"/>
+        <card number="1" name="Soul of the Harvest" setShortName="JMP" collectorNumber="432" uuid="d7ce9104-0ad3-4d3d-bb2c-c456c25030f6"/>
+        <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
+        <card number="1" name="Mossfire Valley" setShortName="AFC" collectorNumber="250" uuid="6e25404c-52ed-4553-a09a-a28a3b17c37f"/>
+        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="EA2" collectorNumber="24" uuid="920bbc28-1a57-4dc3-86e9-6a491a4afa1e"/>
+        <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
+        <card number="1" name="Temple of the False God" setShortName="40K" collectorNumber="300" uuid="f824b459-7720-4277-8a70-b1f5f4c8324c"/>
+        <card number="1" name="Arena of Glory" setShortName="MH3" collectorNumber="215" uuid="dd148edc-9e43-41aa-bb50-f912115d3e72"/>
+        <card number="1" name="Skarrg, the Rage Pits" setShortName="PLST" collectorNumber="PCA-127" uuid="a753ddca-78e0-4e58-a8be-abec6c1183f9"/>
+        <card number="1" name="Bonders' Enclave" setShortName="CMM" collectorNumber="988" uuid="e5b6aca8-190e-49b0-9185-2c72bd3fda7d"/>
+        <card number="1" name="Castle Garenbrig" setShortName="PLST" collectorNumber="ELD-240" uuid="e33285ee-aaf8-4fe4-9991-9fb16dfdd531"/>
+        <card number="1" name="Rogue's Passage" setShortName="CLB" collectorNumber="913" uuid="e1f1dd27-be41-4bfa-b59d-3a002647f1ad"/>
+        <card number="1" name="Mosswort Bridge" setShortName="AFC" collectorNumber="251" uuid="cbc74505-4d75-4bae-bf43-ec08731dfdd9"/>
+        <card number="1" name="Kessig Wolf Run" setShortName="CLB" collectorNumber="898" uuid="814e1393-34e1-4a31-98c5-97a3290a105b"/>
+        <card number="1" name="Fanatic of Rhonas" setShortName="MH3" collectorNumber="152" uuid="1f9fb33a-3b39-4aff-93b8-aedafe0ea694"/>
+        <card number="1" name="Overlord of the Hauntwoods" setShortName="DSK" collectorNumber="194" uuid="05d08ff1-edcc-4c76-96e0-683b3da36ebb"/>
+        <card number="1" name="Lizard, Connors's Curse" setShortName="OM1" collectorNumber="108" uuid="6361ffac-ad30-4b6a-aea2-c804ad51c773"/>
+        <card number="1" name="Beast Whisperer" setShortName="CLU" collectorNumber="158" uuid="daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59"/>
+        <card number="1" name="Nylea, Keen-Eyed" setShortName="THB" collectorNumber="185" uuid="bdf894d4-1a06-4952-a481-22786ab87a73"/>
+        <card number="1" name="Yeva, Nature's Herald" setShortName="RVR" collectorNumber="162" uuid="67ff9ba3-cd2b-4970-b4da-22104b10a4a4"/>
+        <card number="1" name="Questing Beast" setShortName="PLST" collectorNumber="ELD-171" uuid="f22676dc-9c00-4fe6-aa39-1fd801ad7102"/>
+        <card number="1" name="Enduring Courage" setShortName="DSK" collectorNumber="133" uuid="f46ac55f-d68e-4d5d-af0a-3879f97f705e"/>
+        <card number="1" name="Hornet Queen" setShortName="CLB" collectorNumber="825" uuid="6ef7c1a5-eb4e-4f75-ad41-1b84741ecab1"/>
+        <card number="1" name="Bane of Progress" setShortName="FIC" collectorNumber="299" uuid="5fc6876d-7441-42ac-b9a1-c10a0f6a387a"/>
+        <card number="1" name="Kogla, the Titan Ape" setShortName="IKO" collectorNumber="162" uuid="3c35ca79-eb72-427a-a8ed-404b2214389a"/>
+        <card number="1" name="Gruul Ragebeast" setShortName="GTC" collectorNumber="170" uuid="080ef367-7904-4e5c-a8b4-1fb62f951f3e"/>
+        <card number="1" name="Zopandrel, Hunger Dominus" setShortName="ONE" collectorNumber="195" uuid="fb419d9d-e06f-48c8-a4f8-a57f9be39e50"/>
+        <card number="1" name="Ilharg, the Raze-Boar" setShortName="RVR" collectorNumber="113" uuid="3d397fc3-fd4e-45ad-ad40-0f8a585c15fd"/>
+        <card number="1" name="Ghalta, Stampede Tyrant" setShortName="LCI" collectorNumber="185" uuid="72e805e9-69be-45c1-aa04-f460641a0c1e"/>
+        <card number="1" name="Ojer Kaslem, Deepest Growth" setShortName="LCI" collectorNumber="204" uuid="0cbc43a3-8cba-4988-9de1-c89aedd79ada"/>
+        <card number="1" name="Xenagos, God of Revels" setShortName="EA3" collectorNumber="18" uuid="5d7f8ef3-212b-4671-8489-e24f1659450b"/>
+    </zone>
+</cockatrice_deck>

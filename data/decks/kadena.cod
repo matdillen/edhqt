@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 12 13:07:15 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 21:42:08 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Kadena, Slinking Sorcerer</bannerCard>
     <comments></comments>
@@ -35,7 +35,6 @@
         <card number="1" name="Scroll of Fate"/>
         <card number="1" name="Song of the Dryads"/>
         <card number="1" name="Become Anonymous"/>
-        <card number="1" name="Roshan, Hidden Magister"/>
         <card number="1" name="Zimone, Mystery Unraveler"/>
         <card number="1" name="Bane of the Living"/>
         <card number="1" name="Printlifter Ooze"/>
@@ -76,7 +75,6 @@
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Watery Grave"/>
-        <card number="1" name="Fetid Pools"/>
         <card number="1" name="Choked Estuary"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Breeding Pool"/>
@@ -104,5 +102,7 @@
         <card number="1" name="Skittering Cicada" setShortName="CMM" collectorNumber="717" uuid="d3a83be9-856d-4c30-95f5-da72a5ac8263"/>
         <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
         <card number="1" name="Silverback Elder" setShortName="DMU" collectorNumber="177" uuid="b987664f-0b74-4c0a-b306-14767a55559a"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
     </zone>
 </cockatrice_deck>

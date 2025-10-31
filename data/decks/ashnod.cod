@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 19 18:03:20 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 27 15:56:22 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31">Ashnod the Uncaring</bannerCard>
     <comments></comments>
@@ -9,10 +9,10 @@
         <card number="1" name="Ashnod the Uncaring" setShortName="BRC" collectorNumber="4" uuid="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31"/>
     </zone>
     <zone name="main">
-        <card number="3" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
-        <card number="1" name="Snow-Covered Swamp" setShortName="MB2" collectorNumber="118" uuid="632e2c82-0122-4f87-bb83-88064fbb91ab"/>
-        <card number="4" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
-        <card number="3" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="1" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="2" name="Snow-Covered Swamp" setShortName="MB2" collectorNumber="118" uuid="632e2c82-0122-4f87-bb83-88064fbb91ab"/>
+        <card number="2" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="2" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Forensic Gadgeteer" setShortName="MKM" collectorNumber="57" uuid="97d08a15-e61c-4421-a541-c68a4f87cb74"/>
         <card number="1" name="Executioner's Capsule" setShortName="BRC" collectorNumber="104" uuid="73a54823-a5fd-4055-a435-a6bdbd6bedff"/>
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
@@ -41,7 +41,6 @@
         <card number="1" name="Krark-Clan Ironworks" setShortName="MB2" collectorNumber="224" uuid="d43f43f4-5551-4fe8-bff9-c72ad76008fa"/>
         <card number="1" name="Attrition" setShortName="MP2" collectorNumber="19" uuid="948bcca4-6e7a-4884-82f8-21926db8bdd5"/>
         <card number="1" name="Phyrexian Altar" setShortName="2X2" collectorNumber="311" uuid="95d9f93c-50a8-41a9-be98-d1900bf1c12f"/>
-        <card number="1" name="Scroll of Isildur" setShortName="LTR" collectorNumber="69" uuid="195821f4-ba3d-4412-930f-f3656b319dfd"/>
         <card number="1" name="March of Progress" setShortName="BRC" collectorNumber="8" uuid="ac2da0e8-cdc5-4ffc-8a5e-893c34b7dd45"/>
         <card number="1" name="Scrap Trawler" setShortName="BRR" collectorNumber="49" uuid="38bc3e3d-f07b-4ee9-8bb6-060ac82f07eb"/>
         <card number="1" name="Corpse Dance" setShortName="TPR" collectorNumber="89" uuid="aaed9b00-f6a1-4023-b9b9-22d904fe5271"/>
@@ -80,7 +79,6 @@
         <card number="1" name="Volcanic Island" setShortName="30A" collectorNumber="282" uuid="12f74d08-d020-4c89-a1a2-0815b8b65755"/>
         <card number="1" name="Watery Grave" setShortName="CLU" collectorNumber="283" uuid="057dd01a-65f5-4cb1-995c-27d70b9ec8cf"/>
         <card number="1" name="Polluted Delta" setShortName="MH3" collectorNumber="224" uuid="6e288374-2b71-4ace-b1d2-a19fee6cb4af"/>
-        <card number="1" name="Sunken Hollow" setShortName="40K" collectorNumber="295" uuid="8b195fba-e0e0-4f89-b667-8d54286dd6fe"/>
         <card number="1" name="Canyon Slough" setShortName="DSC" collectorNumber="266" uuid="dee171ce-be99-4a1c-8cd6-3fa66ba6cecc"/>
         <card number="1" name="Badlands" setShortName="30A" collectorNumber="273" uuid="c5335e87-57e3-4da6-aba0-619628120f47"/>
         <card number="1" name="Bloodstained Mire" setShortName="MH3" collectorNumber="216" uuid="579743fe-f71e-4cb2-8629-d6b02ed1591d"/>
@@ -96,9 +94,15 @@
         <card number="1" name="Chaos Defiler" setShortName="40K" collectorNumber="110" uuid="1c0f2873-5849-4cab-855a-2fbbc41dbb6c"/>
         <card number="1" name="Vexing Bauble" setShortName="MH3" collectorNumber="212" uuid="29f11089-658f-42e6-aeb0-09b512ad2479"/>
         <card number="1" name="Mindslaver" setShortName="OTP" collectorNumber="63" uuid="65b007d5-d9da-4342-ba7e-4b5d8d79912b"/>
-        <card number="1" name="Lithoform Engine" setShortName="BRC" collectorNumber="146" uuid="c579956f-900a-4574-a68b-3c1d92ea67b6"/>
         <card number="2" name="Snow-Covered Island" setShortName="J22" collectorNumber="833" uuid="fe6b4706-5452-4c50-872d-2d04f96407a8"/>
         <card number="1" name="Mana Vault" setShortName="2X2" collectorNumber="308" uuid="c1a31d52-a407-4ded-bfca-cc812f11afa0"/>
         <card number="1" name="Phyrexian Dragon Engine" setShortName="BRO" collectorNumber="163a" uuid="e2b826be-4256-4fd6-ad4d-6c80933ee940"/>
+        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
+        <card number="1" name="An Offer You Can't Refuse" setShortName="BLC" collectorNumber="170" uuid="b9ee82ee-4899-496e-80a6-e3403f6b364f"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Underground Sea" setShortName="30A" collectorNumber="281" uuid="cbde3041-fb76-4dc8-9cdf-359ad955fd73"/>
+        <card number="1" name="Academy Ruins" setShortName="DRC" collectorNumber="58" uuid="128deed2-b9bc-4065-95c9-ccd7b08f1230"/>
+        <card number="1" name="Shipwreck Marsh" setShortName="DBL" collectorNumber="267" uuid="ee7b8c3b-3e8f-47dd-a189-1ba0c2f265b9"/>
+        <card number="1" name="Drowned Catacomb" setShortName="DRC" collectorNumber="152" uuid="6b4097eb-a1e5-4560-80d8-11bb5628dd0d"/>
     </zone>
 </cockatrice_deck>

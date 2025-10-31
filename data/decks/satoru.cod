@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 15:02:01 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 21:37:23 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Satoru Umezawa</bannerCard>
     <comments></comments>
@@ -101,6 +101,6 @@
         <card number="1" name="Feed the Swarm" setShortName="BRC" collectorNumber="106" uuid="7d95a0e0-d609-451b-b045-85990eede219"/>
         <card number="1" name="Gaius van Baelsar" setShortName="FIN" collectorNumber="102" uuid="a4ee8ba5-6a79-4652-b2a4-a3dae804bc28"/>
         <card number="1" name="Starwinder" setShortName="EOE" collectorNumber="79" uuid="27d1a010-5790-4b35-9fdc-0e366eed021d"/>
-        <card number="1" name="Toxrill, the Corrosive" setShortName="DBL" collectorNumber="399" uuid="3bf11c3b-53ff-4b22-97a4-45b5f00cc7a3"/>
+        <card number="1" name="Spider-Sense" setShortName="OM1" collectorNumber="28" uuid="5eee9160-4f14-4ffc-83e9-ee5931ff6a7f"/>
     </zone>
 </cockatrice_deck>

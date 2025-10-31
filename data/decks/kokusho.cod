@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Oct 15 14:34:53 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 23:26:15 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
     <comments></comments>
@@ -16,10 +16,8 @@
         <card number="1" name="Kaya's Ghostform" setShortName="PLST" collectorNumber="WAR-94" uuid="8cae3159-b321-4ce5-900d-5b2371e1fedb"/>
         <card number="1" name="Tarrian's Journal" setShortName="LCI" collectorNumber="126" uuid="99255a66-b868-45fc-a2a9-0c89bd851b69"/>
         <card number="1" name="Nasty End" setShortName="LTR" collectorNumber="99" uuid="c34f88d7-15a1-434f-88d7-3d4fcf406d54"/>
-        <card number="1" name="Deadly Dispute" setShortName="AFR" collectorNumber="94" uuid="7373fe95-ad1c-44b9-8c7f-464ce8cbffc6"/>
         <card number="1" name="Spawning Pit" setShortName="J22" collectorNumber="136" uuid="d1f1ece0-83be-4f46-8c17-3fb0af900b7a"/>
         <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
-        <card number="1" name="Consuming Corruption" setShortName="MH3" collectorNumber="84" uuid="9068b3a4-9130-42d8-a26b-52010b7daa8b"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
         <card number="1" name="Saw in Half" setShortName="BLC" collectorNumber="113" uuid="90f8de01-c1bd-4533-9e98-61e7d25dcf88"/>
         <card number="1" name="Attrition" setShortName="MP2" collectorNumber="19" uuid="948bcca4-6e7a-4884-82f8-21926db8bdd5"/>
@@ -52,7 +50,7 @@
         <card number="1" name="Black Sun's Zenith" setShortName="DCI" collectorNumber="68" uuid="dd88131a-2811-4a1f-bb9a-c82e12c1493b"/>
         <card number="1" name="Caged Sun" setShortName="40K" collectorNumber="231" uuid="e828d87a-f2c7-475b-8c8f-b36474c50cf9"/>
         <card number="1" name="Nirkana Revenant" setShortName="VOC" collectorNumber="134" uuid="96da0a4c-2865-4383-875a-9f5d6503baee"/>
-        <card number="23" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="22" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Cabal Coffers" setShortName="LTC" collectorNumber="360" uuid="a2e5e26d-f211-4c0f-8fe0-611e22e8cc8f"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
         <card number="1" name="War Room" setShortName="CLB" collectorNumber="929" uuid="ed5cebc0-6a58-468d-a75e-46087ea2eb46"/>
@@ -83,6 +81,9 @@
         <card number="1" name="Susur Secundi, Void Altar" setShortName="EOE" collectorNumber="259" uuid="aefb8c0d-2bc6-4bec-851e-0137b4abfb22"/>
         <card number="1" name="Chainer, Dementia Master" setShortName="CMM" collectorNumber="144" uuid="186c30e6-2b84-415d-83e4-ecddaeb11ca1"/>
         <card number="1" name="Tomb Fortress" setShortName="40K" collectorNumber="168" uuid="5ffd1a43-5613-4058-9e51-fd3cc1585651"/>
+        <card number="1" name="Volrath's Stronghold" setShortName="TPR" collectorNumber="248" uuid="f465ae5f-61f0-42c4-978f-841ba1226f56"/>
+        <card number="1" name="Espers to Magicite" setShortName="FIC" collectorNumber="43" uuid="6cb18871-dd23-4ce8-a535-16adefae63c0"/>
+        <card number="1" name="Rescue from the Underworld" setShortName="PIO" collectorNumber="105" uuid="cb064eec-e942-4b6f-a2cf-16c84f4b8643"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kokusho, the Evening Star" setShortName="SLD" collectorNumber="1528" uuid="154c2d54-6dc2-4350-8cc1-f099c7d13ccc"/>

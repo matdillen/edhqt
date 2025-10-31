@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 12 18:45:33 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 23:07:55 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="31e4b7a1-b377-49d2-a92e-4bcb0db35f16">Bello, Bard of the Brambles</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
-        <card number="10" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
-        <card number="9" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="6" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="6" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Stomping Ground" setShortName="CLU" collectorNumber="281" uuid="3c54b71a-f4cb-4418-b886-5253151ad36a"/>
         <card number="1" name="Rockfall Vale" setShortName="DBL" collectorNumber="266" uuid="a77ede1d-e9b0-4828-a161-04b787be0c81"/>
         <card number="1" name="Wooded Foothills" setShortName="MH3" collectorNumber="236" uuid="4e11ea8a-f895-438d-a3b7-f070238e4161"/>
         <card number="1" name="Karplusan Forest" setShortName="BLC" collectorNumber="314" uuid="bf999ad0-ec64-4bbc-b0c3-fc0946cf65de"/>
-        <card number="1" name="Game Trail" setShortName="40K" collectorNumber="282" uuid="f2777ccc-342d-4a1a-8566-94810decee11"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Rogue's Passage" setShortName="CLB" collectorNumber="913" uuid="e1f1dd27-be41-4bfa-b59d-3a002647f1ad"/>
         <card number="1" name="Buried Ruin" setShortName="BRC" collectorNumber="177" uuid="34e53bc3-f8af-4547-a694-d01c18bf56c1"/>
@@ -88,6 +87,14 @@
         <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Esika's Chariot" setShortName="BLC" collectorNumber="215" uuid="1f2514c2-c0c7-44f3-ab9d-48b227f039db"/>
         <card number="1" name="Predatory Advantage" setShortName="ARB" collectorNumber="58" uuid="595ae3af-cc28-407a-a045-a6d71cd6be60"/>
+        <card number="1" name="Shifting Woodland" setShortName="MH3" collectorNumber="228" uuid="059164e1-894d-4586-9800-e60d6fbd6eb6"/>
+        <card number="1" name="Temple of the False God" setShortName="40K" collectorNumber="300" uuid="f824b459-7720-4277-8a70-b1f5f4c8324c"/>
+        <card number="1" name="Mosswort Bridge" setShortName="AFC" collectorNumber="251" uuid="cbc74505-4d75-4bae-bf43-ec08731dfdd9"/>
+        <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
+        <card number="1" name="Rootbound Crag" setShortName="BLC" collectorNumber="326" uuid="822bb322-1513-4288-befa-a7f27dd14253"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
+        <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
+        <card number="1" name="Abstergo Entertainment" setShortName="ACR" collectorNumber="79" uuid="4d197866-7633-493c-80dd-ec3a09165934"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bello, Bard of the Brambles" setShortName="BLC" collectorNumber="1" uuid="31e4b7a1-b377-49d2-a92e-4bcb0db35f16"/>

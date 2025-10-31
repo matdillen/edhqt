@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 16:43:32 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 21:25:43 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
@@ -26,7 +26,6 @@
         <card number="1" name="Inspiring Call"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Branching Evolution"/>
-        <card number="1" name="Silkguard"/>
         <card number="1" name="Captured by Lagacs"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Selfless Squire"/>
@@ -34,7 +33,6 @@
         <card number="1" name="Crystalline Crawler"/>
         <card number="1" name="Etched Oracle"/>
         <card number="1" name="Mindless Automaton"/>
-        <card number="1" name="Barrensteppe Siege"/>
         <card number="1" name="One with the Kami"/>
         <card number="1" name="Deathbringer Thoctar"/>
         <card number="1" name="Cauldron of Souls"/>
@@ -95,8 +93,6 @@
         <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
         <card number="1" name="Patrolling Peacemaker" setShortName="EOC" collectorNumber="5" uuid="1e06d6be-c2a3-4c73-a916-89674c0ddfed"/>
         <card number="1" name="Terrasymbiosis" setShortName="EOE" collectorNumber="210" uuid="26008c7d-5dbe-4da2-b475-4dd307e7bc68"/>
-        <card number="1" name="Ouroboroid" setShortName="EOE" collectorNumber="201" uuid="209c591a-4ab2-4e89-9523-a7b766cf4e51"/>
-        <card number="1" name="Agonasaur Rex" setShortName="DFT" collectorNumber="151" uuid="5b11ec26-9e07-45e1-bcaa-5d44d1231586"/>
         <card number="1" name="Bulwark Ox" setShortName="DFT" collectorNumber="7" uuid="106944b2-f3ae-4350-be33-61b9f92fc92f"/>
         <card number="1" name="Loading Zone" setShortName="EOE" collectorNumber="196" uuid="0d2c95bd-79af-4a23-b265-62cc0b164e3e"/>
         <card number="1" name="Stump Stomp" setShortName="MH3" collectorNumber="259" uuid="49974246-0a3b-4ec9-b5ea-2a89df9bb0b5"/>
@@ -107,7 +103,11 @@
         <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
         <card number="1" name="Coalition Relic" setShortName="DMC" collectorNumber="180" uuid="ef44324a-32bd-47e9-8fd9-258ba668de53"/>
         <card number="1" name="Farewell" setShortName="FIC" collectorNumber="242" uuid="4d8b6418-da30-4c68-b87c-3936eb77620c"/>
-        <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
-        <card number="1" name="Ride Down" setShortName="OTP" collectorNumber="52" uuid="f1ec2b59-fbc5-464c-916c-b1accf29867d"/>
+        <card number="1" name="Tragic Arrogance" setShortName="FIC" collectorNumber="258" uuid="a479784c-3f94-4950-8928-6a1e57bb6627"/>
+        <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
+        <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
+        <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
+        <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Oct 11 13:55:37 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Oct 31 21:51:48 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Sydri, Galvanic Genius</bannerCard>
     <comments></comments>
@@ -18,7 +18,6 @@
         <card number="1" name="Parhelion II"/>
         <card number="1" name="Metalwork Colossus"/>
         <card number="1" name="Dance of the Manse"/>
-        <card number="1" name="Void Rend"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Shimmer Myr"/>
         <card number="1" name="Liberator, Urza's Battlethopter"/>
@@ -107,5 +106,6 @@
         <card number="1" name="Karmic Justice" setShortName="WOT" collectorNumber="7" uuid="45078d81-91ea-402c-ab3c-8464fc2ebb42"/>
         <card number="1" name="Inventors' Fair" setShortName="EOS" collectorNumber="21" uuid="06b24278-4d20-4d74-8be8-c8078e0a1873"/>
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
+        <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
     </zone>
 </cockatrice_deck>
