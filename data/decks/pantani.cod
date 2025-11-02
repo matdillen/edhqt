@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Oct 15 14:35:14 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Nov 2 14:02:02 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Atla Palani, Nest Tender</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
-        <card number="3" name="Forest"/>
+        <card number="2" name="Forest"/>
         <card number="2" name="Mountain"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="High Market"/>
         <card number="1" name="Miren, the Moaning Well"/>
         <card number="1" name="Mutavault"/>
-        <card number="1" name="Mossfire Valley"/>
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Temple Garden"/>
-        <card number="1" name="Brushland"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Skullclamp"/>
@@ -31,12 +29,10 @@
         <card number="1" name="Woodland Changeling"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Chaos Warp"/>
-        <card number="1" name="Beast Within"/>
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Roc Egg"/>
         <card number="1" name="Dragon Egg"/>
         <card number="1" name="Taurean Mauler"/>
-        <card number="1" name="Generous Gift"/>
         <card number="1" name="Phyrexian Altar"/>
         <card number="1" name="Martyr's Cause"/>
         <card number="1" name="Ashnod's Altar"/>
@@ -44,12 +40,10 @@
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Farewell"/>
         <card number="1" name="Austere Command"/>
-        <card number="1" name="Clan Defiance"/>
         <card number="1" name="Mass Mutiny"/>
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Dragon Broodmother"/>
         <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Terastodon"/>
         <card number="1" name="Angel of Serenity"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Molten Primordial"/>
@@ -68,7 +62,6 @@
         <card number="1" name="Gruul Ragebeast"/>
         <card number="1" name="Worldspine Wurm"/>
         <card number="1" name="Altar of Dementia"/>
-        <card number="1" name="Wild Ricochet"/>
         <card number="1" name="Shatterskull Smashing"/>
         <card number="1" name="Woodfall Primus"/>
         <card number="1" name="Flamekin Village"/>
@@ -81,7 +74,6 @@
         <card number="1" name="Luminate Primordial"/>
         <card number="1" name="Hornet Queen"/>
         <card number="1" name="Nesting Dragon"/>
-        <card number="1" name="Three Visits"/>
         <card number="1" name="Ghalta, Stampede Tyrant"/>
         <card number="1" name="Apex Altisaur"/>
         <card number="1" name="Dinosaur Egg"/>
@@ -101,6 +93,15 @@
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Gisela, Blade of Goldnight" setShortName="CMM" collectorNumber="338" uuid="c40ba800-4423-4fd9-94c7-a9019c857af6"/>
         <card number="1" name="Ajani, Nacatl Pariah" setShortName="MH3" collectorNumber="237" uuid="0d16e8e0-31b2-4389-afd6-783c501f6fa0"/>
+        <card number="1" name="Galadriel's Dismissal" setShortName="LTC" collectorNumber="500" uuid="2d1c66a7-a39e-4869-80c7-1cec89777e0d"/>
+        <card number="1" name="Teferi's Protection" setShortName="2X2" collectorNumber="32" uuid="483fa1cb-1e35-44f2-a143-98c0f107f5ca"/>
+        <card number="1" name="Mutable Explorer" setShortName="ECL" collectorNumber="186" uuid="8f35d95a-caea-4d5e-b98e-55da1ba7c92d"/>
+        <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
+        <card number="1" name="Rampant Rejuvenator" setShortName="FIC" collectorNumber="314" uuid="9ce2aa8e-b0c4-4e22-84eb-94b9e5ca6f76"/>
+        <card number="1" name="Lazotep Quarry" setShortName="M3C" collectorNumber="79" uuid="ff73b7f3-62f3-4a05-b439-bae2d0f63d2f"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
+        <card number="1" name="Shifting Woodland" setShortName="MH3" collectorNumber="228" uuid="059164e1-894d-4586-9800-e60d6fbd6eb6"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atla Palani, Nest Tender"/>

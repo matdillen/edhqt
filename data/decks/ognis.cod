@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 12 15:16:44 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Nov 2 13:57:29 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Ognis, the Dragon's Lash</bannerCard>
     <comments></comments>
@@ -54,7 +54,6 @@
         <card number="1" name="Blood Crypt"/>
         <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Captain Lannery Storm"/>
-        <card number="1" name="Ruby, Daring Tracker"/>
         <card number="1" name="Seize the Spotlight"/>
         <card number="1" name="Krenko, Baron of Tin Street"/>
         <card number="1" name="The Balrog, Durin's Bane"/>
@@ -96,7 +95,8 @@
         <card number="1" name="Coiling Rebirth" setShortName="BLB" collectorNumber="86" uuid="96d5de3e-0440-4dd1-899c-ab40c0752343"/>
         <card number="1" name="Detective's Phoenix" setShortName="MH3" collectorNumber="116" uuid="e2a01edd-dbc0-4ed4-b827-9b608290e9a1"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
-        <card number="1" name="Jolene, the Plunder Queen" setShortName="NCC" collectorNumber="73" uuid="61c217d9-21d5-45ef-938a-138192a901f4"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
+        <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ognis, the Dragon's Lash"/>
