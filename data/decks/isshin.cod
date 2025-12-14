@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 21:38:59 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 19:09:07 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Isshin, Two Heavens as One</bannerCard>
     <comments></comments>
@@ -39,7 +39,6 @@
         <card number="1" name="Dolmen Gate"/>
         <card number="1" name="Krenko, Tin Street Kingpin"/>
         <card number="1" name="Mythos of Snapdax"/>
-        <card number="1" name="Hoarding Ogre"/>
         <card number="1" name="Sulfurous Springs"/>
         <card number="1" name="Graven Cairns"/>
         <card number="1" name="Dragonskull Summit"/>
@@ -89,7 +88,6 @@
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Ascend from Avernus"/>
         <card number="1" name="Taunt from the Rampart"/>
-        <card number="1" name="Bone-Cairn Butcher"/>
         <card number="1" name="Zurgo, Thunder's Decree"/>
         <card number="1" name="Avenger of the Fallen"/>
         <card number="1" name="Windcrag Siege"/>
@@ -105,8 +103,10 @@
         <card number="1" name="Arabella, Abandoned Doll" setShortName="DSK" collectorNumber="208" uuid="f683d5a1-b8bf-446f-9fe3-88a4398bf3cf"/>
         <card number="1" name="Shattered Sanctum" setShortName="DBL" collectorNumber="531" uuid="3b946b07-78f3-4546-947d-4b20f9e1b3ba"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
+        <card number="1" name="Smellerbee, Rebel Fighter" setShortName="TLE" collectorNumber="125" uuid="5aef6ece-929b-4636-b32e-58f91741b869"/>
+        <card number="1" name="Firebender Ascension" setShortName="TLA" collectorNumber="137" uuid="2929b702-03c6-4cf0-a3f7-61b27f4803be"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Isshin, Two Heavens as One" setShortName="FCA" collectorNumber="54" uuid="a3baaf97-171a-40c0-a1dc-74ae05db0e25"/>
+        <card number="1" name="Isshin, Two Heavens as One" setShortName="NEO" collectorNumber="328" uuid="1bf8b008-3a7c-4b6d-8c18-263a576f0d64"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Nov 2 13:19:57 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 23:23:16 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
@@ -10,7 +10,6 @@
     </zone>
     <zone name="main">
         <card number="1" name="Louisoix's Sacrifice" setShortName="FIN" collectorNumber="59" uuid="4a6976f2-0bd5-449a-8fcf-f5a732ce22c1"/>
-        <card number="1" name="Hope of Ghirapur" setShortName="PLST" collectorNumber="AER-154" uuid="17c6b8d3-2634-4e55-a9c4-22a4844a01c6"/>
         <card number="1" name="Yoshimaru, Ever Faithful" setShortName="NEC" collectorNumber="32" uuid="aa409269-3698-42a2-8c51-75557b27a6f6"/>
         <card number="1" name="Ephemerate" setShortName="H1R" collectorNumber="1" uuid="f48ab69d-8a01-4dcb-af70-31e2c62278df"/>
         <card number="1" name="Skrelv, Defector Mite" setShortName="ONE" collectorNumber="33" uuid="60b565da-a49b-479c-b0c4-8ff3dd20cc0b"/>
@@ -26,7 +25,6 @@
         <card number="1" name="Song of the Dryads" setShortName="CMM" collectorNumber="324" uuid="161e66e3-0339-495c-bd06-0a799a254906"/>
         <card number="1" name="Brokers Ascendancy" setShortName="PSNC" collectorNumber="170p" uuid="012abe1c-a5ff-4785-a555-76e4662b0a95"/>
         <card number="1" name="Lagrella, the Magpie" setShortName="SNC" collectorNumber="196" uuid="dd20f271-26c8-429f-a422-e7d95f3bda74"/>
-        <card number="1" name="Beastmaster Ascension" setShortName="BLC" collectorNumber="118" uuid="1bccf8a9-d135-431e-bcc0-15ab29f8f8cb"/>
         <card number="1" name="Loran of the Third Path" setShortName="BLC" collectorNumber="143" uuid="647e6b32-c755-4700-b151-6a174dbb2bd0"/>
         <card number="1" name="Kutzil, Malamet Exemplar" setShortName="LCI" collectorNumber="232" uuid="c9f88a40-a6ed-4c1f-a309-011aca1acddd"/>
         <card number="1" name="Brago, King Eternal" setShortName="PLST" collectorNumber="EMA-198" uuid="0a20a8d0-209b-44da-9c1e-e3e7853e7060"/>
@@ -38,7 +36,6 @@
         <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
         <card number="1" name="Shalai, Voice of Plenty" setShortName="PLST" collectorNumber="DOM-35" uuid="14a74ac1-d827-48d5-9d7d-5eb0122b0069"/>
         <card number="1" name="Yasharn, Implacable Earth" setShortName="ZNR" collectorNumber="240" uuid="12878fbd-dbe5-44bc-9f34-38fd374ec10a"/>
-        <card number="1" name="Tolsimir Wolfblood" setShortName="RVR" collectorNumber="234" uuid="d027f4be-e24f-4960-97bd-554e147df7a5"/>
         <card number="1" name="Yorion, Sky Nomad" setShortName="MB2" collectorNumber="94" uuid="a245bb3b-9126-4361-824b-2b27fbba9696"/>
         <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
         <card number="1" name="Urza's Ruinous Blast" setShortName="BRC" collectorNumber="79" uuid="3baeeb19-c4f4-4e4f-97e0-52b2e512b26b"/>
@@ -108,5 +105,8 @@
         <card number="1" name="Feline Sovereign" setShortName="PLST" collectorNumber="M21-180" uuid="c4aabecd-f042-46c1-a621-3286fa4e0715"/>
         <card number="1" name="Reki, the History of Kamigawa" setShortName="PLST" collectorNumber="SOK-142" uuid="623ec8c3-9173-4dc8-bd93-0b22d852fa60"/>
         <card number="1" name="Rhys the Redeemed" setShortName="PLST" collectorNumber="SHM-237" uuid="41ce3414-01cd-4c98-999c-c691f8a5545d"/>
+        <card number="1" name="Aang, Swift Savior" setShortName="TLA" collectorNumber="204" uuid="82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4"/>
+        <card number="1" name="Katara, Water Tribe's Hope" setShortName="TLA" collectorNumber="231" uuid="9ec03308-59a2-417a-938f-bdda75080e43"/>
+        <card number="1" name="Desynchronization" setShortName="ACR" collectorNumber="16" uuid="3ddd3561-0143-40b7-81bc-640a978b8b15"/>
     </zone>
 </cockatrice_deck>

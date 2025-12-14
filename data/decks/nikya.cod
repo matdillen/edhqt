@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 23:46:49 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 23:10:33 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="90ff41a6-6604-4953-a43d-816c4568b742">Nikya of the Old Ways</bannerCard>
     <comments></comments>
@@ -66,7 +66,6 @@
         <card number="1" name="Fungal Reaches" setShortName="TSR" collectorNumber="279" uuid="1a3580d6-345a-46ba-a327-0e924989d6b1"/>
         <card number="1" name="Haunted Fengraf" setShortName="SIS" collectorNumber="76" uuid="dd4c9a60-6cb9-4487-897b-28a370cb9ed7"/>
         <card number="1" name="Fire-Lit Thicket" setShortName="FIC" collectorNumber="392" uuid="bcab849e-336d-490f-8dd2-0936fba2afbe"/>
-        <card number="1" name="Gaea's Cradle" setShortName="OLGC" collectorNumber="2014" uuid="3faf2c71-8591-4005-a93f-08441e3bba49"/>
         <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="4" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
@@ -101,5 +100,6 @@
         <card number="1" name="Ghalta, Stampede Tyrant" setShortName="LCI" collectorNumber="185" uuid="72e805e9-69be-45c1-aa04-f460641a0c1e"/>
         <card number="1" name="Ojer Kaslem, Deepest Growth" setShortName="LCI" collectorNumber="204" uuid="0cbc43a3-8cba-4988-9de1-c89aedd79ada"/>
         <card number="1" name="Xenagos, God of Revels" setShortName="EA3" collectorNumber="18" uuid="5d7f8ef3-212b-4671-8489-e24f1659450b"/>
+        <card number="1" name="Beanstalk Giant // Fertile Footsteps" setShortName="CLB" collectorNumber="819" uuid="47ceeea0-dd47-4c5c-a713-f100571107b9"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 23:31:46 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 19:36:21 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Livaan, Cultist of Tiamat</bannerCard>
     <comments></comments>
@@ -88,7 +88,6 @@
         <card number="1" name="Seize the Day"/>
         <card number="1" name="Bulk Up"/>
         <card number="1" name="Hanweir Battlements"/>
-        <card number="1" name="Beast Within"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Rainveil Rejuvenator"/>
@@ -100,5 +99,6 @@
         <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
         <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
         <card number="1" name="Wooded Foothills" setShortName="MH3" collectorNumber="236" uuid="4e11ea8a-f895-438d-a3b7-f070238e4161"/>
+        <card number="1" name="The Last Agni Kai" setShortName="TLA" collectorNumber="144" uuid="61eaebc6-7575-48ed-b212-ff8b0c7ae694"/>
     </zone>
 </cockatrice_deck>

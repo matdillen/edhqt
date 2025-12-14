@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Nov 2 14:03:24 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 16:37:31 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31">Ashnod the Uncaring</bannerCard>
     <comments></comments>
@@ -25,7 +25,6 @@
         <card number="1" name="Hedron Archive" setShortName="40K" collectorNumber="240" uuid="2feb16d2-7406-45ab-9595-e6c48fc47bf5"/>
         <card number="1" name="Metalwork Colossus" setShortName="BRC" collectorNumber="147" uuid="df3e046e-ff1b-4bee-8611-229d0088f5a1"/>
         <card number="1" name="Auton Soldier" setShortName="WHO" collectorNumber="36" uuid="4cc35b82-a233-4460-968e-d90980fb2074"/>
-        <card number="1" name="Phyrexian Fleshgorger" setShortName="BRO" collectorNumber="121" uuid="62d37423-3445-412a-9abd-0480da404637"/>
         <card number="1" name="Mass Mutiny" setShortName="OTC" collectorNumber="174" uuid="b817473f-599d-45bb-a3b0-a96986ec5102"/>
         <card number="1" name="Canoptek Spyder" setShortName="40K" collectorNumber="151" uuid="56ae1e4b-b620-480b-b6fc-66f2137d7d89"/>
         <card number="1" name="Scrap Mastery" setShortName="CM2" collectorNumber="116" uuid="bc6d966e-fa6b-4eb4-b854-7425f5553518"/>
@@ -54,7 +53,6 @@
         <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
         <card number="1" name="Aether Spellbomb" setShortName="J22" collectorNumber="752" uuid="ee539bda-62b4-40fb-95d3-c7d1fc0a7e09"/>
         <card number="1" name="Mayhem Devil" setShortName="DSC" collectorNumber="225" uuid="087ff277-902f-4285-93b6-dc18e6d4fe15"/>
-        <card number="1" name="Crime Novelist" setShortName="MKM" collectorNumber="121" uuid="14a5cd7c-b0b1-4ffa-a806-bb0e73baffad"/>
         <card number="1" name="Evereth, Viceroy of Plunder" setShortName="J25" collectorNumber="41" uuid="f9c9c0be-8c69-45e5-bdcb-e62ddb05e532"/>
         <card number="1" name="Dreamscape Artist" setShortName="PLST" collectorNumber="PLC-40" uuid="4fdb8b9d-9b4f-48c6-9651-7937aaf15282"/>
         <card number="1" name="Imskir Iron-Eater" setShortName="MH3" collectorNumber="189" uuid="541209fa-38b6-4d61-a72d-26bfb6ad5ead"/>
@@ -90,13 +88,11 @@
         <card number="1" name="Academy Ruins" setShortName="DRC" collectorNumber="58" uuid="128deed2-b9bc-4065-95c9-ccd7b08f1230"/>
         <card number="1" name="Shipwreck Marsh" setShortName="DBL" collectorNumber="267" uuid="ee7b8c3b-3e8f-47dd-a189-1ba0c2f265b9"/>
         <card number="1" name="Drowned Catacomb" setShortName="DRC" collectorNumber="152" uuid="6b4097eb-a1e5-4560-80d8-11bb5628dd0d"/>
-        <card number="1" name="Weapons Manufacturing" setShortName="EOE" collectorNumber="168" uuid="a058f1a6-318c-4bba-981e-ace079ada806"/>
         <card number="1" name="Burnished Hart" setShortName="AFC" collectorNumber="200" uuid="0f22bcce-4f9a-4e82-a684-63ab9cce90ed"/>
         <card number="1" name="Thought Monitor" setShortName="BRC" collectorNumber="98" uuid="01179c70-a87a-46aa-a95d-3269889e87ff"/>
         <card number="1" name="Ayara, Widow of the Realm" setShortName="MOM" collectorNumber="90" uuid="a21b1734-a773-4107-95c1-b44d5ccdfd82"/>
         <card number="1" name="Esoteric Duplicator" setShortName="BIG" collectorNumber="5" uuid="3dbb2755-97d9-492e-8697-5548160678c8"/>
         <card number="1" name="Worldwalker Helm" setShortName="BIG" collectorNumber="7" uuid="b74ad496-05bc-4c5a-9027-b14df9c387ab"/>
-        <card number="1" name="Storm the Vault" setShortName="PRIX" collectorNumber="173s" uuid="853c8df2-75b2-403e-87a4-5e5aa43a31b8"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
         <card number="1" name="Reflecting Pool" setShortName="CLB" collectorNumber="358" uuid="18a1b3f5-473d-45ca-be0d-e67e77ba30ce"/>
@@ -105,5 +101,9 @@
         <card number="1" name="Blood Crypt" setShortName="CLU" collectorNumber="274" uuid="a01e1e92-feb3-4880-bcf3-9e1ac90911b8"/>
         <card number="1" name="Scalding Tarn" setShortName="MH2" collectorNumber="254" uuid="71e491c5-8c07-449b-b2f1-ffa052e6d311"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Arcbound Ravager" setShortName="PL23" collectorNumber="6" uuid="73e50280-5202-43a8-9b80-14feaf0ea9fe"/>
+        <card number="1" name="Momo's Heist" setShortName="TLE" collectorNumber="72" uuid="bfc80abe-c36e-4a96-82d5-4d4c1a793ae4"/>
+        <card number="1" name="Dungeoneer's Pack" setShortName="CLB" collectorNumber="312" uuid="aa74e656-480a-4c1b-963d-1b207075c27f"/>
+        <card number="1" name="Urn of Godfire" setShortName="MOM" collectorNumber="266" uuid="ff5f302e-d884-4995-ba3c-8c22f9045318"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 23:11:36 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 17:24:40 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
     <comments></comments>
@@ -14,7 +14,6 @@
         <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
         <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
         <card number="1" name="Haunting Voyage" setShortName="KHM" collectorNumber="98" uuid="2ac5bca0-35fe-47be-a78c-d5eac68a3bfa"/>
-        <card number="1" name="Vanquisher's Banner" setShortName="CMM" collectorNumber="982" uuid="8162961c-bfe0-4e30-bad4-f473bf582f21"/>
         <card number="1" name="Shamanic Revelation" setShortName="AFC" collectorNumber="171" uuid="22d99567-8b8a-45cf-85f9-233e97256194"/>
         <card number="1" name="Patriarch's Bidding" setShortName="MH2" collectorNumber="275" uuid="317686d8-b762-4598-b74a-8b1fa6b899ba"/>
         <card number="1" name="Elvish Dreadlord" setShortName="CMR" collectorNumber="121" uuid="1f452927-4d04-4c1d-9d88-19901fd06937"/>
@@ -27,7 +26,6 @@
         <card number="1" name="Wirewood Channeler" setShortName="PLST" collectorNumber="LGN-144" uuid="bd9f8f0d-d274-44f2-8f6d-855b8d60f2ad"/>
         <card number="1" name="Crippling Fear" setShortName="CLB" collectorNumber="745" uuid="0c5bc7db-0627-410b-bc27-970e1fa6789e"/>
         <card number="1" name="Elven Chorus" setShortName="LTR" collectorNumber="160" uuid="616cfb94-3faf-44fe-bf04-e90643765e48"/>
-        <card number="1" name="Door of Destinies" setShortName="LTC" collectorNumber="277" uuid="ef038cae-d00b-42f4-81ae-09929b05d881"/>
         <card number="1" name="Karametra's Acolyte" setShortName="THS" collectorNumber="160" uuid="374a1b7c-ce11-4734-aff2-b0bd00857fad"/>
         <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Realmwalker" setShortName="CMM" collectorNumber="909" uuid="d0c65ef6-93b4-448b-bf1c-01fe263cc39d"/>
@@ -104,5 +102,7 @@
         <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
+        <card number="1" name="Tale of Katara and Toph" setShortName="TLE" collectorNumber="143" uuid="8fe2bd89-a7cc-4e8e-98b4-69f196bd1024"/>
+        <card number="1" name="Badgermole Cub" setShortName="TLA" collectorNumber="167" uuid="340c5799-4964-44dd-8c48-8f3f3aba5211"/>
     </zone>
 </cockatrice_deck>

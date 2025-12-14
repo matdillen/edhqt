@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 22:48:11 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 17:28:38 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="d94c15b7-6c8f-45a6-8734-975e3e3b790c">Ivy, Gleeful Spellthief</bannerCard>
     <comments></comments>
@@ -28,7 +28,6 @@
         <card number="1" name="Cartouche of Strength" setShortName="PLST" collectorNumber="AKH-158" uuid="89c1dfd7-fd05-475a-9dc8-6321b433e9fe"/>
         <card number="1" name="Decanter of Endless Water" setShortName="CLB" collectorNumber="309" uuid="518bbc36-58ea-44c4-a857-75a3aff058f5"/>
         <card number="1" name="Kodama of the West Tree" setShortName="J25" collectorNumber="78" uuid="a4f53a56-eb8e-44cd-ab13-8ac068052c68"/>
-        <card number="1" name="Wavecrash Triton" setShortName="THS" collectorNumber="74" uuid="7336ca1e-13ef-4e49-a526-3f285bc339bb"/>
         <card number="1" name="Migratory Greathorn" setShortName="IKO" collectorNumber="165" uuid="6a2a287b-b83f-444f-84f7-e388beb616c2"/>
         <card number="1" name="Gemrazer" setShortName="PIP" collectorNumber="351" uuid="8c89a613-2a48-4953-8e45-9afaebdf84bc"/>
         <card number="1" name="Shielding Plax" setShortName="AFC" collectorNumber="192" uuid="81e632d8-ee9c-4635-9654-4d6405cb0bf2"/>
@@ -36,7 +35,6 @@
         <card number="1" name="Snake Umbra" setShortName="NEC" collectorNumber="130" uuid="106d17d6-5ef2-4634-8dd6-790b12574042"/>
         <card number="1" name="Ancestral Mask" setShortName="PLST" collectorNumber="EMA-157" uuid="1e89f357-c508-4cde-8584-79d49e471f6c"/>
         <card number="1" name="Nyxborn Behemoth" setShortName="CMM" collectorNumber="742" uuid="b9f1dbdc-e590-48a4-bc52-e9e4e907fb82"/>
-        <card number="1" name="Adrix and Nev, Twincasters" setShortName="MKC" collectorNumber="198" uuid="b9c11061-bb34-4904-b9f1-ea106b517bbe"/>
         <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Sakashima of a Thousand Faces" setShortName="CMR" collectorNumber="89" uuid="714c3a1f-7b30-4ed8-8f38-6176758741fb"/>
         <card number="1" name="Dreamtail Heron" setShortName="PLST" collectorNumber="IKO-47" uuid="39be4040-d32a-42ef-91cf-8d86ecbb4979"/>
@@ -63,7 +61,6 @@
         <card number="1" name="Twinning Staff" setShortName="NCC" collectorNumber="383" uuid="5cdcc324-1427-453c-9940-c21f5d04c997"/>
         <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
         <card number="1" name="Springheart Nantuko" setShortName="MH3" collectorNumber="171" uuid="54a3ea87-005e-4985-b2a5-21711d0b71c0"/>
-        <card number="1" name="Gargos, Vicious Watcher" setShortName="SLD" collectorNumber="1329" uuid="574057d5-d4a3-4d51-9f53-830d533426b2"/>
         <card number="1" name="Archipelagore" setShortName="HBG" collectorNumber="902" uuid="e9271e06-dc75-43de-a288-38137fdb3c75"/>
         <card number="1" name="Toski, Bearer of Secrets" setShortName="BLC" collectorNumber="244" uuid="0b261989-b34e-4bba-90f8-2adfda58c89b"/>
         <card number="1" name="Triton Wavebreaker" setShortName="MH3" collectorNumber="74" uuid="41e68700-c71c-46db-b6a4-beae924cf97a"/>
@@ -85,7 +82,6 @@
         <card number="1" name="Nerd Rage" setShortName="PIP" collectorNumber="34" uuid="e9857669-5fad-458a-8eda-c1790298add7"/>
         <card number="1" name="Spark Double" setShortName="CMM" collectorNumber="856" uuid="cdbb32db-fb1d-4f47-a258-fa1a0a00bd76"/>
         <card number="1" name="Giggling Skitterspike" setShortName="DSC" collectorNumber="39" uuid="fba20e7e-9581-4a9b-bdda-5c85d3450d4c"/>
-        <card number="1" name="Orvar, the All-Form" setShortName="PLST" collectorNumber="KHM-305" uuid="5c999e35-b819-45b8-af05-8aaacc3c691c"/>
         <card number="1" name="Jwari Disruption" setShortName="PIO" collectorNumber="62" uuid="7dd4f363-c231-49e6-a9e3-e7d9e0e662da"/>
         <card number="1" name="Khalni Ambush" setShortName="PIO" collectorNumber="181" uuid="ecc4939e-2541-49db-b84f-f902fe9e2524"/>
         <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
@@ -98,5 +94,9 @@
         <card number="1" name="Dreamroot Cascade" setShortName="DBL" collectorNumber="529" uuid="1c5d7e9f-3d91-42b8-aadc-a780f13913ba"/>
         <card number="1" name="Hinterland Harbor" setShortName="BLC" collectorNumber="312" uuid="1fa8b7e9-e6c7-4b04-aab4-2a9edf5b4320"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Treachery" setShortName="UDS" collectorNumber="50" uuid="613694aa-b169-400d-8063-2b83d8303611"/>
+        <card number="1" name="Curiosity" setShortName="PLST" collectorNumber="8ED-72" uuid="566ac9ab-f62f-4bc9-bb5b-8f8c7e397e0a"/>
+        <card number="1" name="Keen Sense" setShortName="PLST" collectorNumber="PLC-152" uuid="83767c02-8553-4a9d-8818-ff3e5d068451"/>
+        <card number="1" name="Blossoming Defense" setShortName="PLST" collectorNumber="KLD-146" uuid="c8569898-4c9c-40ca-8d25-41e8933d8742"/>
     </zone>
 </cockatrice_deck>

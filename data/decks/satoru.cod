@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 21:37:23 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 19:11:55 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Satoru Umezawa</bannerCard>
     <comments></comments>
@@ -41,7 +41,6 @@
         <card number="1" name="Thief of Sanity"/>
         <card number="1" name="Thada Adel, Acquisitor"/>
         <card number="1" name="Dauthi Voidwalker"/>
-        <card number="1" name="Invisible Stalker"/>
         <card number="1" name="Sakashima's Student"/>
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Cloud of Faeries"/>
@@ -102,5 +101,6 @@
         <card number="1" name="Gaius van Baelsar" setShortName="FIN" collectorNumber="102" uuid="a4ee8ba5-6a79-4652-b2a4-a3dae804bc28"/>
         <card number="1" name="Starwinder" setShortName="EOE" collectorNumber="79" uuid="27d1a010-5790-4b35-9fdc-0e366eed021d"/>
         <card number="1" name="Spider-Sense" setShortName="OM1" collectorNumber="28" uuid="5eee9160-4f14-4ffc-83e9-ee5931ff6a7f"/>
+        <card number="1" name="Koh, the Face Stealer" setShortName="TLA" collectorNumber="107" uuid="28f6fa32-5058-4c29-9ba8-9d8f2057eb6d"/>
     </zone>
 </cockatrice_deck>

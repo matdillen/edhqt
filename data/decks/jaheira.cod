@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 21:19:39 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 18:55:08 2025</lastLoadedTimestamp>
     <deckname>jaheira</deckname>
     <bannerCard providerId="">Jaheira, Friend of the Forest</bannerCard>
     <comments></comments>
@@ -38,7 +38,6 @@
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Sungrass Prairie"/>
-        <card number="1" name="Gaea's Cradle"/>
         <card number="1" name="Boseiju, Who Endures"/>
         <card number="5" name="Plains"/>
         <card number="5" name="Forest"/>
@@ -96,10 +95,11 @@
         <card number="1" name="Kabira Takedown" setShortName="PIO" collectorNumber="19" uuid="deeb3dc0-49c4-4699-9125-00520235d370"/>
         <card number="1" name="Exalted Sunborn" setShortName="EOE" collectorNumber="15" uuid="7e1fe101-f634-41e5-9aa4-e8d7474535dc"/>
         <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
-        <card number="1" name="Smothering Tithe" setShortName="2X2" collectorNumber="31" uuid="f25a4bbe-2af0-4d4a-95d4-d52c5937c747"/>
         <card number="1" name="Strength of the Harvest" setShortName="MH3" collectorNumber="258" uuid="a7143aa7-b16d-4e63-910c-6ceec55483f3"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
         <card number="1" name="Teferi's Protection" setShortName="2X2" collectorNumber="32" uuid="483fa1cb-1e35-44f2-a143-98c0f107f5ca"/>
         <card number="1" name="Adagia, Windswept Bastion" setShortName="EOE" collectorNumber="250" uuid="c634273a-94b0-4104-9d10-ae522ece1fc7"/>
+        <card number="1" name="Abandoned Air Temple" setShortName="TLA" collectorNumber="263" uuid="9c0433f9-8f1e-4a19-a83f-a41925f1b1a9"/>
+        <card number="1" name="United Front" setShortName="TLA" collectorNumber="39" uuid="d347caf8-0c12-401f-9e33-9978cb347f89"/>
     </zone>
 </cockatrice_deck>

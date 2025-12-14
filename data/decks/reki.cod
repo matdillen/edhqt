@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 21:12:55 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 19:01:42 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Reki, the History of Kamigawa</bannerCard>
     <comments></comments>
@@ -71,7 +71,6 @@
         <card number="1" name="Sceptre of Eternal Glory"/>
         <card number="1" name="Kolvori, God of Kinship"/>
         <card number="1" name="Nylea, Keen-Eyed"/>
-        <card number="1" name="Doric, Nature's Warden"/>
         <card number="1" name="The Ring Goes South"/>
         <card number="1" name="Kona, Rescue Beastie"/>
         <card number="1" name="Tyvar, the Pummeler"/>
@@ -93,5 +92,6 @@
         <card number="1" name="Relic of Legends" setShortName="DMU" collectorNumber="236" uuid="64a2809e-c441-416c-90ff-6fb1e246dff3"/>
         <card number="1" name="Adventurers' Guildhouse" setShortName="LEG" collectorNumber="300" uuid="32865e68-5842-4f17-b2ea-4ffa743b511f"/>
         <card number="1" name="Lizard, Connors's Curse" setShortName="OM1" collectorNumber="108" uuid="6361ffac-ad30-4b6a-aea2-c804ad51c773"/>
+        <card number="1" name="Casal, Lurkwood Pathfinder" setShortName="SLX" collectorNumber="29" uuid="d571c367-c786-41f9-9cdb-cb02594fa413"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Oct 26 18:05:32 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Dec 14 19:14:55 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -87,7 +87,6 @@
         <card number="1" name="Sothera, the Supervoid" setShortName="EOE" collectorNumber="115" uuid="e99d6fc0-dcf2-4b25-81c2-02c230a36246"/>
         <card number="1" name="Wurmcoil Engine" setShortName="BRR" collectorNumber="63" uuid="219f1f03-e882-40ca-8854-1e466e37b8cd"/>
         <card number="1" name="Elas il-Kor, Sadistic Pilgrim" setShortName="DMU" collectorNumber="198" uuid="1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019"/>
-        <card number="1" name="Lurrus of the Dream-Den" setShortName="MUL" collectorNumber="51" uuid="4b32771b-d89f-46b1-8c70-95a4f058ef05"/>
         <card number="1" name="Abstruse Appropriation" setShortName="MH3" collectorNumber="177" uuid="d7149359-bb3f-413c-b21d-e4cd88618e56"/>
         <card number="1" name="Scholarship Sponsor" setShortName="C21" collectorNumber="22" uuid="ed238d90-72b5-44c4-bea7-20f71788088f"/>
         <card number="1" name="Martyr's Bond" setShortName="PLST" collectorNumber="CMD-19" uuid="269855ee-f3bb-467f-8861-7ea4d5210a8c"/>
@@ -97,6 +96,7 @@
         <card number="1" name="Hall of Heliod's Generosity" setShortName="DSC" collectorNumber="283" uuid="f08dfd99-59fa-4a6c-bd69-c647f639de4d"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
         <card number="1" name="Coffin Queen" setShortName="PLST" collectorNumber="TPR-87" uuid="c5515d4d-1018-48df-afd6-9135d2826b88"/>
+        <card number="1" name="Ascend from Avernus" setShortName="CLB" collectorNumber="5" uuid="6b26c05b-f166-40ab-9693-2129b4bf75e9"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>
