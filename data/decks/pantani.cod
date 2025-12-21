@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 23:13:47 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 17:06:47 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Atla Palani, Nest Tender</bannerCard>
     <comments></comments>
@@ -21,7 +21,6 @@
         <card number="1" name="Universal Automaton"/>
         <card number="1" name="Mysterious Egg"/>
         <card number="1" name="Shields of Velis Vel"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Greater Gargadon"/>
         <card number="1" name="Spawning Pit"/>
         <card number="1" name="Goblin Bombardment"/>
@@ -102,6 +101,7 @@
         <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
         <card number="1" name="Shifting Woodland" setShortName="MH3" collectorNumber="228" uuid="059164e1-894d-4586-9800-e60d6fbd6eb6"/>
         <card number="1" name="Terastodon" setShortName="M3C" collectorNumber="249" uuid="f25e0ef9-29e1-45fe-b9b1-b228594939ab"/>
+        <card number="1" name="Deathrender" setShortName="SLD" collectorNumber="1573" uuid="07de695f-aac5-4367-9fdc-3b11740c7f97"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atla Palani, Nest Tender"/>

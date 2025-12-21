@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 16:37:31 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 13:24:14 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31">Ashnod the Uncaring</bannerCard>
     <comments></comments>
@@ -81,7 +81,6 @@
         <card number="2" name="Snow-Covered Island" setShortName="J22" collectorNumber="833" uuid="fe6b4706-5452-4c50-872d-2d04f96407a8"/>
         <card number="1" name="Mana Vault" setShortName="2X2" collectorNumber="308" uuid="c1a31d52-a407-4ded-bfca-cc812f11afa0"/>
         <card number="1" name="Phyrexian Dragon Engine" setShortName="BRO" collectorNumber="163a" uuid="e2b826be-4256-4fd6-ad4d-6c80933ee940"/>
-        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="An Offer You Can't Refuse" setShortName="BLC" collectorNumber="170" uuid="b9ee82ee-4899-496e-80a6-e3403f6b364f"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Underground Sea" setShortName="30A" collectorNumber="281" uuid="cbde3041-fb76-4dc8-9cdf-359ad955fd73"/>
@@ -105,5 +104,6 @@
         <card number="1" name="Momo's Heist" setShortName="TLE" collectorNumber="72" uuid="bfc80abe-c36e-4a96-82d5-4d4c1a793ae4"/>
         <card number="1" name="Dungeoneer's Pack" setShortName="CLB" collectorNumber="312" uuid="aa74e656-480a-4c1b-963d-1b207075c27f"/>
         <card number="1" name="Urn of Godfire" setShortName="MOM" collectorNumber="266" uuid="ff5f302e-d884-4995-ba3c-8c22f9045318"/>
+        <card number="1" name="Storm the Vault" setShortName="PRIX" collectorNumber="173s" uuid="853c8df2-75b2-403e-87a4-5e5aa43a31b8"/>
     </zone>
 </cockatrice_deck>

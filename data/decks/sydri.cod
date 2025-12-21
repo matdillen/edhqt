@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 21:51:48 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 19:04:40 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Sydri, Galvanic Genius</bannerCard>
     <comments></comments>
@@ -79,7 +79,6 @@
         <card number="1" name="Final Showdown"/>
         <card number="1" name="Unidentified Hovership"/>
         <card number="1" name="Redress Fate"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Dawn's Truce"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Teferi's Protection"/>
@@ -107,5 +106,6 @@
         <card number="1" name="Inventors' Fair" setShortName="EOS" collectorNumber="21" uuid="06b24278-4d20-4d74-8be8-c8078e0a1873"/>
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
         <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
+        <card number="1" name="Ethersworn Sphinx" setShortName="MH2" collectorNumber="195" uuid="315ae21a-4d95-488e-812b-0d018219af6c"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Oct 20 00:58:17 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 15:24:50 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Pir, Imaginative Rascal</bannerCard>
     <comments></comments>
@@ -84,7 +84,6 @@
         <card number="1" name="Railway Brawler"/>
         <card number="1" name="Bristly Bill, Spine Sower"/>
         <card number="1" name="Hedge Maze"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Fangs of Kalonia"/>
         <card number="1" name="Thundering Mightmare"/>
         <card number="1" name="Traverse the Outlands"/>
@@ -99,6 +98,7 @@
         <card number="1" name="Terrasymbiosis" setShortName="EOE" collectorNumber="210" uuid="26008c7d-5dbe-4da2-b475-4dd307e7bc68"/>
         <card number="1" name="Loading Zone" setShortName="EOE" collectorNumber="196" uuid="0d2c95bd-79af-4a23-b265-62cc0b164e3e"/>
         <card number="1" name="Empowered Autogenerator" setShortName="EOC" collectorNumber="135" uuid="1b6abe5b-9bd3-43a0-b1bb-e6ebb64b443c"/>
+        <card number="1" name="Tezzeret's Gambit" setShortName="EOC" collectorNumber="47" uuid="29ad5bb3-927d-41d0-a000-3826ea117e52"/>
     </zone>
     <zone name="side">
         <card number="1" name="Pir, Imaginative Rascal"/>

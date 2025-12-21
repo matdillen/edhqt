@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 22:53:22 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 16:22:25 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="be219928-3d0e-4d00-b124-152ce8a8c13b">Delney, Streetwise Lookout</bannerCard>
     <comments></comments>
@@ -85,10 +85,10 @@
         <card number="1" name="Monumental Henge" setShortName="MH3" collectorNumber="222" uuid="62907e7b-e531-4f51-9a69-7e60ae525775"/>
         <card number="1" name="Recruiter of the Guard" setShortName="MH3" collectorNumber="266" uuid="8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0"/>
         <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
-        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Gatta and Luzzu" setShortName="FIC" collectorNumber="19" uuid="4742c222-1f29-4e1a-a545-798d175255ca"/>
         <card number="1" name="Abandoned Air Temple" setShortName="TLA" collectorNumber="263" uuid="9c0433f9-8f1e-4a19-a83f-a41925f1b1a9"/>
+        <card number="1" name="Skyscanner" setShortName="PLST" collectorNumber="M19-245" uuid="eb1b7a49-f89f-4c38-8c0f-9260f855d00c"/>
     </zone>
 </cockatrice_deck>

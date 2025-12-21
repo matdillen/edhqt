@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 23:16:37 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 17:16:31 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="e5d1c814-4c22-4917-95ae-dffaf491db32">Omo, Queen of Vesuva</bannerCard>
     <comments></comments>
@@ -89,7 +89,6 @@
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Baldur's Gate" setShortName="CLB" collectorNumber="345" uuid="2436aa14-9200-4295-8041-b682cf3c4216"/>
         <card number="1" name="Mutable Explorer" setShortName="ECL" collectorNumber="186" uuid="8f35d95a-caea-4d5e-b98e-55da1ba7c92d"/>
-        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="Cresting Mosasaurus" setShortName="REX" collectorNumber="2" uuid="b6011e4b-a8a7-4cad-a276-c1022b45edc3"/>
         <card number="1" name="Ezuri, Renegade Leader" setShortName="PLST" collectorNumber="C14-195" uuid="ad74bb11-9e62-49e3-8cd0-5e312dc0bcaa"/>
         <card number="1" name="Thrumming Hivepool" setShortName="EOE" collectorNumber="247" uuid="85caf659-7b43-462e-a342-34703d46eb57"/>
@@ -105,5 +104,6 @@
         <card number="1" name="Collective Restraint" setShortName="PLST" collectorNumber="INV-49" uuid="a7e60999-8d45-468d-ad6e-de8826afad1a"/>
         <card number="1" name="Synapse Sliver" setShortName="CMM" collectorNumber="857" uuid="7c458a0f-0e63-417f-b51e-8491822835b0"/>
         <card number="1" name="Peer Pressure" setShortName="ONS" collectorNumber="101" uuid="be0110ba-49e4-4729-8a84-4d408b20df53"/>
+        <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
     </zone>
 </cockatrice_deck>

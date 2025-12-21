@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 23:23:16 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 17:14:42 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
@@ -88,7 +88,6 @@
         <card number="1" name="The Ring Goes South" setShortName="LTR" collectorNumber="186" uuid="3c8a4c7d-527c-49ea-a115-a9e747c0fd03"/>
         <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
         <card number="1" name="Relic of Legends" setShortName="DMU" collectorNumber="236" uuid="64a2809e-c441-416c-90ff-6fb1e246dff3"/>
-        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="Elspeth, Storm Slayer" setShortName="PTDM" collectorNumber="11p" uuid="83f5909b-06eb-446a-8102-1421d4662ba4"/>
         <card number="1" name="Gandalf the White" setShortName="LTR" collectorNumber="19" uuid="e384c20b-d0c1-4781-9d11-e89e5a6bf3fc"/>
         <card number="1" name="Bennie Bracks, Zoologist" setShortName="MKC" collectorNumber="57" uuid="90645549-20f1-4fe9-8363-7f67c20fa3b6"/>
@@ -108,5 +107,6 @@
         <card number="1" name="Aang, Swift Savior" setShortName="TLA" collectorNumber="204" uuid="82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4"/>
         <card number="1" name="Katara, Water Tribe's Hope" setShortName="TLA" collectorNumber="231" uuid="9ec03308-59a2-417a-938f-bdda75080e43"/>
         <card number="1" name="Desynchronization" setShortName="ACR" collectorNumber="16" uuid="3ddd3561-0143-40b7-81bc-640a978b8b15"/>
+        <card number="1" name="Serah Farron" setShortName="FIN" collectorNumber="240" uuid="62fa74c0-43ae-445c-8039-ca9d00e9709a"/>
     </zone>
 </cockatrice_deck>

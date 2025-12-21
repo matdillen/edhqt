@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 21:10:07 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 15:08:13 2025</lastLoadedTimestamp>
     <deckname>wayta</deckname>
     <bannerCard providerId="">Wayta, Trainer Prodigy</bannerCard>
     <comments></comments>
@@ -72,7 +72,6 @@
         <card number="1" name="Mirari's Wake"/>
         <card number="1" name="Desert"/>
         <card number="1" name="Screaming Nemesis"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Cacophodon"/>
         <card number="1" name="Skyshroud Claim"/>
@@ -103,5 +102,6 @@
         <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Strength of Will" setShortName="OM1" collectorNumber="116" uuid="24b3e1b0-a6af-46da-820a-439a292f7de0"/>
+        <card number="1" name="Sakura-Tribe Elder" setShortName="BLC" collectorNumber="236" uuid="3696297a-b068-4e89-a62c-6cd5ad437618"/>
     </zone>
 </cockatrice_deck>

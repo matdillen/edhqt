@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Oct 31 23:26:15 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 15:17:07 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
         <card number="1" name="Not Dead After All" setShortName="WOE" collectorNumber="101" uuid="d01a2b68-efe6-4027-846d-db7b19d9eef6"/>
-        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="Village Rites" setShortName="GN3" collectorNumber="64" uuid="f990e5c1-7df4-4eaf-a01b-67f858064e5e"/>
         <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
         <card number="1" name="Corrupted Conviction" setShortName="MOM" collectorNumber="98" uuid="ce133ad5-8748-4a3d-ae8c-7b2a5938927d"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Volrath's Stronghold" setShortName="TPR" collectorNumber="248" uuid="f465ae5f-61f0-42c4-978f-841ba1226f56"/>
         <card number="1" name="Espers to Magicite" setShortName="FIC" collectorNumber="43" uuid="6cb18871-dd23-4ce8-a535-16adefae63c0"/>
         <card number="1" name="Rescue from the Underworld" setShortName="PIO" collectorNumber="105" uuid="cb064eec-e942-4b6f-a2cf-16c84f4b8643"/>
+        <card number="1" name="Necromantic Summons" setShortName="ORI" collectorNumber="110" uuid="3afe7891-09d5-470e-aa41-71d89249875b"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kokusho, the Evening Star" setShortName="SLD" collectorNumber="1528" uuid="154c2d54-6dc2-4350-8cc1-f099c7d13ccc"/>

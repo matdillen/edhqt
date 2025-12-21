@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 19:14:55 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 16:52:03 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -76,7 +76,6 @@
         <card number="1" name="Warren Soultrader"/>
         <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Funeral Room // Awakening Hall"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Yawgmoth, Thran Physician"/>
         <card number="1" name="High-Society Hunter"/>
         <card number="1" name="Arcane Signet"/>
@@ -97,6 +96,7 @@
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
         <card number="1" name="Coffin Queen" setShortName="PLST" collectorNumber="TPR-87" uuid="c5515d4d-1018-48df-afd6-9135d2826b88"/>
         <card number="1" name="Ascend from Avernus" setShortName="CLB" collectorNumber="5" uuid="6b26c05b-f166-40ab-9693-2129b4bf75e9"/>
+        <card number="1" name="Keeper of the Accord" setShortName="MKC" collectorNumber="70" uuid="08788504-17b9-47b1-b928-f395d0057eed"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

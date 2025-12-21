@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Aug 31 21:37:05 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 15:22:49 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Prosper, Tome-Bound</bannerCard>
     <comments></comments>
@@ -86,10 +86,10 @@
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Valgavoth, Terror Eater"/>
         <card number="1" name="Charred Foyer // Warped Space"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Evereth, Viceroy of Plunder"/>
         <card number="1" name="Dragonskull Summit"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Kefka, Dancing Mad" setShortName="FIC" collectorNumber="84" uuid="21cfc161-11b8-4253-a872-3b08a13b6991"/>
+        <card number="1" name="Spider-Verse" setShortName="OM1" collectorNumber="75" uuid="c3fd31e5-0faa-493f-aa50-08307a0c0139"/>
     </zone>
 </cockatrice_deck>

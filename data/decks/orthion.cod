@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 19:23:23 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 14:52:22 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -71,7 +71,6 @@
         <card number="1" name="Terror of the Peaks"/>
         <card number="1" name="Fountainport"/>
         <card number="1" name="Molten Primordial"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Buried Ruin"/>
@@ -87,5 +86,6 @@
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Secret Tunnel" setShortName="TLA" collectorNumber="278" uuid="2d39a0e1-6484-409c-ab05-5b276925a949"/>
         <card number="1" name="Blast-Furnace Hellkite" setShortName="BRC" collectorNumber="12" uuid="04c349f2-69b1-48dd-a547-f2b55f542700"/>
+        <card number="1" name="Industrial Advancement" setShortName="NCC" collectorNumber="47" uuid="81f1416c-48bd-4168-aacd-a9b0a3afb8bc"/>
     </zone>
 </cockatrice_deck>

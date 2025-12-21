@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 19:30:51 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Dec 17 15:00:22 2025</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
@@ -81,7 +81,6 @@
         <card number="1" name="Molten Echoes"/>
         <card number="1" name="Fanatic of Rhonas"/>
         <card number="1" name="Dreamroot Cascade"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Heroic Intervention"/>
@@ -102,6 +101,7 @@
         <card number="1" name="Selvala's Stampede" setShortName="TDC" collectorNumber="269" uuid="b84e46c2-f3ea-49ff-8f8b-58aa6a1175a4"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Twinflame Tyrant" setShortName="FDN" collectorNumber="97" uuid="1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb"/>
+        <card number="1" name="Three Visits" setShortName="CLB" collectorNumber="837" uuid="cad698c3-687e-4b73-88d2-fd0ac7d755c5"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>
