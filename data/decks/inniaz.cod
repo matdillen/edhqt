@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 14:39:18 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 12 23:41:01 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="b238485f-ef67-4295-892b-a10235368f74">Inniaz, the Gale Force</bannerCard>
     <comments></comments>
@@ -34,7 +34,6 @@
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Siren Stormtamer" setShortName="LCC" collectorNumber="171" uuid="073c301e-5bb6-49fa-bf61-2f662030540f"/>
         <card number="1" name="Momo, Friendly Flier" setShortName="TLA" collectorNumber="29" uuid="c472ef84-a632-4ad7-853c-60588a7a4b12"/>
-        <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="Sky Tether" setShortName="JMP" collectorNumber="133" uuid="ec7b4430-95c0-424b-a365-4ae467bb303d"/>
         <card number="1" name="Mausoleum Wanderer" setShortName="EA1" collectorNumber="4" uuid="a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b"/>
         <card number="1" name="Thousand-Faced Shadow" setShortName="NEO" collectorNumber="86" uuid="89a698a5-f4ac-4b04-96dc-32e1eeef6ac7"/>
@@ -47,11 +46,8 @@
         <card number="1" name="Watcher of the Spheres" setShortName="M21" collectorNumber="227" uuid="354b9ea4-3d55-48cc-b426-c46b1d1bb397"/>
         <card number="1" name="Air Nomad Legacy" setShortName="TLA" collectorNumber="206" uuid="10874416-fa4c-4aa3-b885-4351d011d208"/>
         <card number="1" name="Selfless Spirit" setShortName="BLC" collectorNumber="153" uuid="975a2d50-4230-4f13-b54e-5e0d27c7261a"/>
-        <card number="1" name="Azorius Charm" setShortName="PIO" collectorNumber="205" uuid="42e30c10-28ba-45c9-afce-57c20fe0d66c"/>
         <card number="1" name="Staff of the Storyteller" setShortName="AA3" collectorNumber="4" uuid="9fd3e003-20d4-407a-850f-453e5086a502"/>
         <card number="1" name="Faerie Mastermind" setShortName="MOM" collectorNumber="58" uuid="52d3005f-a1c7-4ef5-911f-ccc0752f4181"/>
-        <card number="1" name="Gust of Wind" setShortName="J25" collectorNumber="316" uuid="6fec4e62-f7fc-4ee6-9bea-996edc6bdc77"/>
-        <card number="1" name="Favorable Winds" setShortName="SCD" collectorNumber="52" uuid="cc11f0f5-ecdc-42a7-9f6a-ecdd44dbc0a2"/>
         <card number="1" name="Azorius Signet" setShortName="AA1" collectorNumber="1" uuid="1f880968-565b-41ad-a64b-3dd3ef100051"/>
         <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
         <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
@@ -98,5 +94,9 @@
         <card number="1" name="Faerie Slumber Party" setShortName="WOE" collectorNumber="311" uuid="f8e5de58-cc4c-40b2-94c8-4e4d7cebfaf8"/>
         <card number="1" name="Murmuration" setShortName="BLC" collectorNumber="10" uuid="561c9c4e-942e-40e8-b5f2-ac709a502f18"/>
         <card number="1" name="Exalted Sunborn" setShortName="EOE" collectorNumber="15" uuid="7e1fe101-f634-41e5-9aa4-e8d7474535dc"/>
+        <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
+        <card number="1" name="Glen Elendra's Answer" setShortName="ECL" collectorNumber="52" uuid="fa5bfbf9-dca2-42b7-a431-f9afedb54528"/>
+        <card number="1" name="Everything Comes to Dust" setShortName="WHO" collectorNumber="19" uuid="fb4b912c-07d4-42a1-8f3b-d5f34cca087f"/>
+        <card number="1" name="Comeuppance" setShortName="MAR" collectorNumber="1" uuid="ec191a2f-12b1-438b-b2fe-f88fb82d9b87"/>
     </zone>
 </cockatrice_deck>

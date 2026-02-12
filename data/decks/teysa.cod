@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 16:52:03 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 20:52:24 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -30,7 +30,7 @@
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Massacre Wurm"/>
         <card number="6" name="Plains"/>
-        <card number="4" name="Swamp"/>
+        <card number="3" name="Swamp"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Silent Clearing"/>
@@ -82,7 +82,6 @@
         <card number="1" name="Hostile Hostel"/>
         <card number="1" name="Valkyrie's Call"/>
         <card number="1" name="Witch Enchanter"/>
-        <card number="1" name="Land Tax"/>
         <card number="1" name="Sothera, the Supervoid" setShortName="EOE" collectorNumber="115" uuid="e99d6fc0-dcf2-4b25-81c2-02c230a36246"/>
         <card number="1" name="Wurmcoil Engine" setShortName="BRR" collectorNumber="63" uuid="219f1f03-e882-40ca-8854-1e466e37b8cd"/>
         <card number="1" name="Elas il-Kor, Sadistic Pilgrim" setShortName="DMU" collectorNumber="198" uuid="1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019"/>
@@ -97,6 +96,8 @@
         <card number="1" name="Coffin Queen" setShortName="PLST" collectorNumber="TPR-87" uuid="c5515d4d-1018-48df-afd6-9135d2826b88"/>
         <card number="1" name="Ascend from Avernus" setShortName="CLB" collectorNumber="5" uuid="6b26c05b-f166-40ab-9693-2129b4bf75e9"/>
         <card number="1" name="Keeper of the Accord" setShortName="MKC" collectorNumber="70" uuid="08788504-17b9-47b1-b928-f395d0057eed"/>
+        <card number="1" name="Oft-Nabbed Goat" setShortName="ECC" collectorNumber="11" uuid="4030bfab-867c-4724-904e-3e8b631f075e"/>
+        <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

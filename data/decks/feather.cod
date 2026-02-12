@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 19:39:33 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 21:46:59 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Feather, the Redeemed</bannerCard>
     <comments></comments>
@@ -52,7 +52,6 @@
         <card number="1" name="Smoldering Egg"/>
         <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Reckless Rage"/>
-        <card number="1" name="Fall of the Hammer"/>
         <card number="1" name="Heal"/>
         <card number="1" name="Urabrask"/>
         <card number="1" name="Reliquary Tower"/>
@@ -88,17 +87,18 @@
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Hushbringer" setShortName="PLST" collectorNumber="ELD-18" uuid="31a76579-b5c9-49ca-a75c-be0f4b1ff69f"/>
         <card number="1" name="Angelfire Ignition" setShortName="DBL" collectorNumber="209" uuid="ced8f1b7-3d77-402c-828e-bd2dfe7581e0"/>
-        <card number="1" name="Brigone, Soldier of Meletis" setShortName="J25" collectorNumber="30" uuid="20ecadef-8aa3-4bca-8744-adbc809083c3"/>
         <card number="1" name="Balefire Liege" setShortName="2X2" collectorNumber="180" uuid="3ed13445-c9a0-4f17-aa69-af353679e6a7"/>
         <card number="1" name="Mirrorwing Dragon" setShortName="INR" collectorNumber="165" uuid="409aa60d-ce4f-4019-b5b9-702ab94ed429"/>
         <card number="1" name="Zada, Hedron Grinder" setShortName="CMM" collectorNumber="268" uuid="4520cdcc-a10f-4b39-9c6f-ba86f6aa2c87"/>
-        <card number="1" name="Protection Magic" setShortName="FIC" collectorNumber="24" uuid="917e9267-010d-450c-ab98-6f861250c437"/>
         <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="LTC" collectorNumber="374" uuid="f6cd3fbc-908d-4653-a133-e35843a5ac65"/>
         <card number="1" name="Lindblum, Industrial Regency // Mage Siege" setShortName="FIN" collectorNumber="312" uuid="b2ae92d9-7047-424e-a482-2311888a8c56"/>
         <card number="1" name="Eiganjo Castle" setShortName="PLST" collectorNumber="CHK-275" uuid="cf4691a5-074d-42c2-af22-881d141b79e8"/>
         <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>
         <card number="1" name="The Last Agni Kai" setShortName="TLA" collectorNumber="144" uuid="61eaebc6-7575-48ed-b212-ff8b0c7ae694"/>
         <card number="1" name="Longshot, Rebel Bowman" setShortName="TLE" collectorNumber="120" uuid="b36efbe2-3798-43e5-8640-f003c77440a1"/>
+        <card number="1" name="Fated Clash" setShortName="FIC" collectorNumber="449" uuid="bd84f688-a2bb-4f1e-ae24-1a5cf8a05445"/>
+        <card number="1" name="Giantfall" setShortName="ECL" collectorNumber="141" uuid="1ac52728-adb3-4220-8392-73f7bd379ab4"/>
+        <card number="1" name="Impolite Entrance" setShortName="ECL" collectorNumber="146" uuid="45be88d8-0be1-47a2-a1c1-d6e693fc706f"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feather, the Redeemed"/>

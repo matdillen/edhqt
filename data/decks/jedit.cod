@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 17:14:42 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 20:37:04 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
@@ -31,7 +31,6 @@
         <card number="1" name="Ephara, God of the Polis" setShortName="PIO" collectorNumber="305" uuid="7d752e42-6d56-4de0-879a-2b6b9e2b2cde"/>
         <card number="1" name="Raff Capashen, Ship's Mage" setShortName="CMM" collectorNumber="351" uuid="c681e33b-3d60-4aaa-8186-51866d8b79d1"/>
         <card number="1" name="Teshar, Ancestor's Apostle" setShortName="BRC" collectorNumber="77" uuid="31b96ec5-065e-41a8-9383-2b86888f4405"/>
-        <card number="1" name="Gandalf, White Rider" setShortName="LTR" collectorNumber="290" uuid="b422ce26-06fb-4748-9c01-32c4be914a77"/>
         <card number="1" name="Jazal Goldmane" setShortName="BLC" collectorNumber="142" uuid="eb9666d0-2100-40e0-a065-165ccc5c0d28"/>
         <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
         <card number="1" name="Shalai, Voice of Plenty" setShortName="PLST" collectorNumber="DOM-35" uuid="14a74ac1-d827-48d5-9d7d-5eb0122b0069"/>
@@ -42,7 +41,6 @@
         <card number="1" name="Regal Caracal" setShortName="FDN" collectorNumber="579" uuid="b6310a82-73db-40cb-ae64-6f07f869024c"/>
         <card number="1" name="Kamahl's Druidic Vow" setShortName="DOM" collectorNumber="166" uuid="bf95ef60-e67b-466d-a6cb-d487ffa88b72"/>
         <card number="1" name="Elesh Norn, Grand Cenobite" setShortName="HA5" collectorNumber="2" uuid="a4f74725-44d4-4ad1-8365-b21bc67e952e"/>
-        <card number="1" name="Thunderous Debut" setShortName="PWOE" collectorNumber="190p" uuid="4d274a25-1346-4f9f-9dd7-a32ef67e5e19"/>
         <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
         <card number="1" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="1" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
@@ -65,7 +63,6 @@
         <card number="1" name="Breeding Pool" setShortName="CLU" collectorNumber="275" uuid="5656d6f2-ca19-452d-870c-d5e7a3dc9432"/>
         <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
         <card number="1" name="Mondrak, Glory Dominus" setShortName="ONE" collectorNumber="23" uuid="8296a455-21d5-498e-9029-2bdf0da855a8"/>
-        <card number="1" name="Sutina, Speaker of the Tajuru" setShortName="J25" collectorNumber="56" uuid="1b794170-4ffd-4628-ba5a-b9293bb364dc"/>
         <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
         <card number="1" name="Reflecting Pool" setShortName="CLB" collectorNumber="358" uuid="18a1b3f5-473d-45ca-be0d-e67e77ba30ce"/>
         <card number="1" name="Minamo, School at Water's Edge" setShortName="LTC" collectorNumber="369" uuid="798c0faf-0de2-4397-8f03-2120d2a35351"/>
@@ -98,7 +95,6 @@
         <card number="1" name="Kaheera, the Orphanguard" setShortName="MUL" collectorNumber="47" uuid="e9c296d0-ad8d-4139-97c4-e36c4af3d3c9"/>
         <card number="1" name="Toski, Bearer of Secrets" setShortName="BLC" collectorNumber="244" uuid="0b261989-b34e-4bba-90f8-2adfda58c89b"/>
         <card number="1" name="Adrix and Nev, Twincasters" setShortName="MKC" collectorNumber="198" uuid="b9c11061-bb34-4904-b9f1-ea106b517bbe"/>
-        <card number="1" name="Inga and Esika" setShortName="MOM" collectorNumber="229" uuid="0aa97506-b943-4443-96b1-1b49f57d80aa"/>
         <card number="1" name="Jaheira, Friend of the Forest" setShortName="CLB" collectorNumber="237" uuid="feb7ad1b-4466-48f7-b46d-cc83d4e22b51"/>
         <card number="1" name="Venat, Heart of Hydaelyn" setShortName="FIN" collectorNumber="39" uuid="2625c00d-0a51-4481-bf36-cf13a2546242"/>
         <card number="1" name="Feline Sovereign" setShortName="PLST" collectorNumber="M21-180" uuid="c4aabecd-f042-46c1-a621-3286fa4e0715"/>
@@ -108,5 +104,9 @@
         <card number="1" name="Katara, Water Tribe's Hope" setShortName="TLA" collectorNumber="231" uuid="9ec03308-59a2-417a-938f-bdda75080e43"/>
         <card number="1" name="Desynchronization" setShortName="ACR" collectorNumber="16" uuid="3ddd3561-0143-40b7-81bc-640a978b8b15"/>
         <card number="1" name="Serah Farron" setShortName="FIN" collectorNumber="240" uuid="62fa74c0-43ae-445c-8039-ca9d00e9709a"/>
+        <card number="1" name="Cultural Exchange" setShortName="SLD" collectorNumber="2071" uuid="18e1a8eb-5219-4e2c-9134-100367ba8b08"/>
+        <card number="1" name="Qasali Slingers" setShortName="PLST" collectorNumber="C17-33" uuid="aad24af7-119d-42fd-9246-e559336fb63d"/>
+        <card number="1" name="Mirari's Wake" setShortName="CMM" collectorNumber="928" uuid="ef4fa4e8-39e8-47a6-b975-ff5d46e59edd"/>
+        <card number="1" name="Peter Parker" setShortName="OM1" collectorNumber="21" uuid="2ec821c3-3e5c-4af8-a6ef-e2e77aa8668c"/>
     </zone>
 </cockatrice_deck>

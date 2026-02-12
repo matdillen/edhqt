@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 15:00:22 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 23:47:54 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
@@ -21,7 +21,6 @@
         <card number="1" name="Dragon Broodmother"/>
         <card number="1" name="Rapacious Dragon"/>
         <card number="1" name="Atsushi, the Blazing Sky"/>
-        <card number="1" name="Masked Vandal"/>
         <card number="2" name="Island"/>
         <card number="2" name="Forest"/>
         <card number="2" name="Mountain"/>
@@ -90,7 +89,6 @@
         <card number="1" name="Spark Double"/>
         <card number="1" name="Thundermane Dragon"/>
         <card number="1" name="Frontier Siege"/>
-        <card number="1" name="Hammerhead Tyrant"/>
         <card number="1" name="Ureni of the Unwritten"/>
         <card number="1" name="Ureni, the Song Unending"/>
         <card number="1" name="Will of the Temur"/>
@@ -102,6 +100,8 @@
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Twinflame Tyrant" setShortName="FDN" collectorNumber="97" uuid="1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb"/>
         <card number="1" name="Three Visits" setShortName="CLB" collectorNumber="837" uuid="cad698c3-687e-4b73-88d2-fd0ac7d755c5"/>
+        <card number="1" name="Klauth, Unrivaled Ancient" setShortName="AFC" collectorNumber="50" uuid="7f5cf828-17b2-4105-9a9a-ee0ab720c2ee"/>
+        <card number="1" name="Chomping Changeling" setShortName="ECL" collectorNumber="172" uuid="e187dcc6-19ad-4cf6-94b4-daf07f5144e5"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

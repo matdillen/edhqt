@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Feb 12 23:16:41 2026</lastLoadedTimestamp>
+    <deckname></deckname>
+    <bannerCard providerId="77e548c9-8bed-40c3-bcdd-9d97a82c885d">Fire Lord Ozai</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Fire Lord Ozai" setShortName="TLE" collectorNumber="104" uuid="77e548c9-8bed-40c3-bcdd-9d97a82c885d"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="The Mycosynth Gardens" setShortName="EOC" collectorNumber="168" uuid="0a6f0408-6758-495f-9d6c-7686a1542fbd"/>
+        <card number="1" name="Tower of the Magistrate" setShortName="MB2" collectorNumber="242" uuid="0743db09-bf73-4d56-8c0c-7834cb535055"/>
+        <card number="1" name="Havengul Laboratory" setShortName="SLX" collectorNumber="9" uuid="823b019e-10c0-4712-8167-d4f37a71e782"/>
+        <card number="1" name="Blackbloom Rogue" setShortName="PIO" collectorNumber="85" uuid="8f64a6ac-d9ce-45eb-8278-63e442ad6916"/>
+        <card number="1" name="Geier Reach Sanitarium" setShortName="AFC" collectorNumber="241" uuid="cdb751d3-580f-44dd-a1e2-0f1240f2b891"/>
+        <card number="1" name="Bloodstained Mire" setShortName="MH3" collectorNumber="216" uuid="579743fe-f71e-4cb2-8629-d6b02ed1591d"/>
+        <card number="1" name="Bloodsoaked Insight" setShortName="MH3" collectorNumber="252" uuid="0a08e0d2-1e60-47f5-9228-4c11a127089d"/>
+        <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
+        <card number="1" name="Supernatural Stamina" setShortName="2X2" collectorNumber="93" uuid="69a0278b-3198-4c8d-b20c-f42e8b1569f4"/>
+        <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
+        <card number="1" name="Reckless Charge" setShortName="PLST" collectorNumber="ODY-215" uuid="5bad216a-66d3-46a6-ba05-db7e082d0dc5"/>
+        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
+        <card number="1" name="Rakdos Signet" setShortName="AA1" collectorNumber="10" uuid="afaf490c-70f4-4e9f-9cf5-176403215c31"/>
+        <card number="1" name="Agent of the Shadow Thieves" setShortName="CLB" collectorNumber="108" uuid="f50448e9-afe4-4d4e-b027-bbb855f17aeb"/>
+        <card number="1" name="Braid of Fire" setShortName="PLST" collectorNumber="CSP-78" uuid="8a8e0464-3f05-4719-ad42-577954751da8"/>
+        <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
+        <card number="1" name="Transmogrant's Crown" setShortName="BRO" collectorNumber="125" uuid="dc913ed6-3032-4b45-a6c1-6a4208a7e00a"/>
+        <card number="1" name="Hunted Horror" setShortName="CLB" collectorNumber="758" uuid="02f74866-d0ea-42ce-bc44-500219fb73d4"/>
+        <card number="1" name="Bulk Up" setShortName="FDN" collectorNumber="80" uuid="977dcc50-da10-4281-b522-9240c1204f5d"/>
+        <card number="1" name="Blessing of Leeches" setShortName="PLST" collectorNumber="BOK-62" uuid="bb7ee03d-60e1-4b03-a298-363f6d8e5fa2"/>
+        <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
+        <card number="1" name="Battlemage's Bracers" setShortName="C21" collectorNumber="48" uuid="1a14aad2-47f0-4d21-9fcf-5ca171faffaf"/>
+        <card number="1" name="Plague Reaver" setShortName="CMR" collectorNumber="143" uuid="230b9bc8-29c8-49cb-b4f5-1aceeda8bf45"/>
+        <card number="1" name="Taurean Mauler" setShortName="AFC" collectorNumber="143" uuid="ed75b280-c7c5-404f-bbad-c19dff3e6975"/>
+        <card number="1" name="Phyrexian Soulgorger" setShortName="PLST" collectorNumber="CSP-141" uuid="1ed11cef-3904-4bc3-8383-14ecdb774066"/>
+        <card number="1" name="Two-Handed Axe // Sweeping Cleave" setShortName="CLB" collectorNumber="203" uuid="21e34888-f57c-4f5d-bb5c-b82be980d145"/>
+        <card number="1" name="Fatal Frenzy" setShortName="PLC" collectorNumber="98" uuid="4e2fe87d-e886-4e30-8ff2-3886199f0461"/>
+        <card number="1" name="Enormous Energy Blade" setShortName="NEO" collectorNumber="96" uuid="991370bd-a96a-4ed0-bdf9-f03b98191abf"/>
+        <card number="1" name="Mask of Griselbrand" setShortName="DBL" collectorNumber="111" uuid="fefa072d-3803-42cf-a853-b005b7270172"/>
+        <card number="1" name="Leyline Tyrant" setShortName="TDC" collectorNumber="221" uuid="0542d0d7-5b0f-4093-b74d-6a60f174aeb5"/>
+        <card number="1" name="Sneak Attack" setShortName="DMR" collectorNumber="139" uuid="a45b4ca9-4355-4690-84c3-a7d44c367dbf"/>
+        <card number="1" name="Daring Fiendbonder" setShortName="C20" collectorNumber="41" uuid="27dd910a-a3ca-46ac-9350-f2a22496f4e6"/>
+        <card number="1" name="Pyrogoyf" setShortName="AA2" collectorNumber="12" uuid="7802a658-1d55-4cb7-baa9-eb53e534f723"/>
+        <card number="1" name="Traxos, Scourge of Kroog" setShortName="BRC" collectorNumber="170" uuid="513fd010-db79-4aa4-8186-776fc3e27750"/>
+        <card number="1" name="Shadowheart, Dark Justiciar" setShortName="CLB" collectorNumber="146" uuid="13a0913d-776b-4ef8-adef-8861349df2b5"/>
+        <card number="1" name="Yargle, Glutton of Urborg" setShortName="CMM" collectorNumber="202" uuid="8febc0fe-c52d-4b6a-9d18-e1e4a43b6dc3"/>
+        <card number="1" name="Where Ancients Tread" setShortName="C13" collectorNumber="130" uuid="abf25a2a-961c-42ef-8d76-aa089720b12c"/>
+        <card number="1" name="Purphoros, Bronze-Blooded" setShortName="THB" collectorNumber="150" uuid="af3af5c4-0960-44a2-976e-abdf7803c436"/>
+        <card number="1" name="Horizon Stone" setShortName="CMR" collectorNumber="315" uuid="6affd9c6-f7ab-488e-85fa-2a3a48383414"/>
+        <card number="1" name="Alena, Kessig Trapper" setShortName="PLST" collectorNumber="CMR-160" uuid="312a2a8d-2d84-4c4b-b2c4-cbc4e8300312"/>
+        <card number="1" name="Warstorm Surge" setShortName="40K" collectorNumber="209" uuid="1706ca09-1fdb-47d5-b31b-b4637a0ef5da"/>
+        <card number="1" name="Hoard-Smelter Dragon" setShortName="AFC" collectorNumber="128" uuid="2f4c5867-73c4-4e10-bbf5-6a69df879547"/>
+        <card number="6" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="6" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
+        <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
+        <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="DMC" collectorNumber="233" uuid="099352e2-38c8-4fb4-a25f-6d928aa20f9e"/>
+        <card number="1" name="Fire Nation Palace" setShortName="PTLA" collectorNumber="268s" uuid="07c4bc76-9793-4ab0-921a-a7f5f66a19da"/>
+        <card number="1" name="Arena of Glory" setShortName="MH3" collectorNumber="215" uuid="dd148edc-9e43-41aa-bb50-f912115d3e72"/>
+        <card number="1" name="Blood Crypt" setShortName="CLU" collectorNumber="274" uuid="a01e1e92-feb3-4880-bcf3-9e1ac90911b8"/>
+        <card number="1" name="Dragonskull Summit" setShortName="DMC" collectorNumber="207" uuid="8c5a9cb7-6c97-47fd-acd0-bc6dd11b77b4"/>
+        <card number="1" name="Badlands" setShortName="30A" collectorNumber="273" uuid="c5335e87-57e3-4da6-aba0-619628120f47"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Haunted Ridge" setShortName="DBL" collectorNumber="263" uuid="e0652666-0b36-4e65-8c5b-8b7b25c6e6fd"/>
+        <card number="1" name="Feign Death" setShortName="AFR" collectorNumber="103" uuid="32af7061-fca6-4a06-be3c-01881e6b96f7"/>
+        <card number="1" name="Undying Malice" setShortName="DBL" collectorNumber="401" uuid="f94218a8-a509-4aa4-9ee3-3a76833e307c"/>
+        <card number="1" name="Not Dead After All" setShortName="WOE" collectorNumber="101" uuid="d01a2b68-efe6-4027-846d-db7b19d9eef6"/>
+        <card number="1" name="The Soul Stone" setShortName="OM1" collectorNumber="69" uuid="a54f47cd-d897-4da4-be67-aa8eb71bdac5"/>
+        <card number="1" name="Doubling Cube" setShortName="PLST" collectorNumber="10E-321" uuid="2b7002f2-6846-4a53-921e-663ca5f99363"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="AFC" collectorNumber="217" uuid="bc89db46-0df6-4ce1-b162-233f5fe1b554"/>
+        <card number="1" name="Unleash Fury" setShortName="J25" collectorNumber="608" uuid="e2957a81-f6f8-4515-804c-57a2957f0bc8"/>
+        <card number="1" name="Lupine Prototype" setShortName="INR" collectorNumber="267" uuid="ae02ff5c-c667-4cb6-8bf4-8532d82c4fbf"/>
+        <card number="1" name="Rot-Curse Rakshasa" setShortName="PTDM" collectorNumber="87p" uuid="e71ab9d7-7f39-4207-a9ec-620528a04d90"/>
+        <card number="1" name="The Last Agni Kai" setShortName="PTLA" collectorNumber="144s" uuid="62e81e36-8333-429a-a723-ea9461359b4c"/>
+        <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
+        <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
+        <card number="1" name="Fire Nation Turret" setShortName="TLE" collectorNumber="64" uuid="f25cc190-05e2-4aba-b214-46f687c07a10"/>
+        <card number="1" name="Rings of Brighthearth" setShortName="LTC" collectorNumber="352" uuid="730d64cf-e71b-46dd-8e26-d2dec2608fc0"/>
+        <card number="1" name="Relic Golem" setShortName="ZNR" collectorNumber="249" uuid="0b59c75b-d8f8-4f95-9030-ed73c67d988e"/>
+        <card number="1" name="Electro, Assaulting Battery" setShortName="OM1" collectorNumber="76" uuid="5b12f23c-54b2-4b28-8434-c3f509a204d7"/>
+        <card number="1" name="Hunted Bonebrute" setShortName="MKM" collectorNumber="87" uuid="a4ca0e10-8b7c-4ce2-888b-752fc909757a"/>
+        <card number="1" name="Cosmic Larva" setShortName="5DN" collectorNumber="63" uuid="deaa0b9b-258e-4daf-8fec-ce64864d6bbf"/>
+        <card number="1" name="Shakedown Heavy" setShortName="PSNC" collectorNumber="95p" uuid="9df9c956-1774-40f1-a7dc-5eb40100d76d"/>
+        <card number="1" name="Rotting Regisaur" setShortName="PLST" collectorNumber="M20-111" uuid="fa0d10c4-fdd8-4d16-aad8-768a56b79735"/>
+        <card number="1" name="Xu-Ifit, Osteoharmonist" setShortName="EOE" collectorNumber="127" uuid="c0838f25-2193-4305-b73a-bf0c0bb4981a"/>
+        <card number="1" name="Kalakscion, Hunger Tyrant" setShortName="DFT" collectorNumber="93" uuid="1214fc6d-ae47-418d-88cc-58633ec2ac7a"/>
+        <card number="1" name="Bygone Colossus" setShortName="EOE" collectorNumber="235" uuid="4bb8f2ef-4398-4a07-9130-5005356a3b4a"/>
+        <card number="1" name="The Beast, Deathless Prince" setShortName="WHO" collectorNumber="114" uuid="6218badd-d352-4e6d-9c84-f1e3f2f84695"/>
+        <card number="1" name="Anticausal Vestige" setShortName="EOE" collectorNumber="1" uuid="35372b69-6086-44e0-9f7c-681e362e5142"/>
+        <card number="1" name="Mana Geyser" setShortName="GN3" collectorNumber="84" uuid="fd805298-9dbf-4294-a0f9-b3532167c341"/>
+        <card number="1" name="Malignus" setShortName="PLST" collectorNumber="AVR-148" uuid="ca52fe78-8840-487b-93f6-14198423d55f"/>
+        <card number="1" name="Sozin's Comet" setShortName="PTLA" collectorNumber="154s" uuid="2eb88069-b763-45e2-ba49-0742bf24ac71"/>
+        <card number="1" name="Electrodominance" setShortName="OTP" collectorNumber="23" uuid="6d550bc9-2cb5-4947-a48d-2c92b5c72541"/>
+        <card number="1" name="Ozai, the Phoenix King" setShortName="PTLA" collectorNumber="235s" uuid="b3156dcd-2630-4a1b-8d16-89ed8ff85fb6"/>
+        <card number="1" name="Avatar Roku, Firebender" setShortName="TLE" collectorNumber="112" uuid="b1fced2b-eba2-4e70-8f1c-6d3c973b6a8d"/>
+        <card number="1" name="Hanweir Battlements" setShortName="INR" collectorNumber="279" uuid="8c0acb91-edfc-43a5-af77-6614327fce43"/>
+        <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
+        <card number="1" name="Bolt Bend" setShortName="FDN" collectorNumber="619" uuid="cf01af2c-68e5-4bb5-81de-f3a1b860fb2e"/>
+    </zone>
+</cockatrice_deck>

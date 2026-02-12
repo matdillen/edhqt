@@ -1353,3 +1353,8 @@ dust bowl,,0.0,,Land,"{T}: Add {C}.\n{3}, {T}, Sacrifice a land: Destroy target 
 haunted fengraf,,0.0,,Land,"{T}: Add {C}.\n{3}, {T}, Sacrifice this land: Return a creature card at random from your graveyard to your hand.",A25,,
 fire-lit thicket,,0.0,"G, R",Land,"{T}: Add {C}.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}.",2XM,,
 detection tower,,0.0,,Land,"{T}: Add {C}.\n{1}, {T}: Until end of turn, your opponents and creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.",M19,,
+fell the profane,,4.0,B,Instant,Destroy target creature or planeswalker.,MH3,,
+sink into stupor,,3.0,U,Instant,Return target spell or nonland permanent an opponent controls to its owner's hand.,MH3,,
+valakut awakening,,3.0,R,Instant,"Put any number of cards from your hand on the bottom of your library, then draw that many cards plus one.",PIO,,
+spider-verse,,5.0,R,Enchantment,"The ""legend rule"" doesn't apply to Spiders you control.\nWhenever you cast a spell from anywhere other than your hand, you may copy it. If you do, you may choose new targets for the copy. If the copy is a permanent spell, it gains haste. Do this only once each turn.",OM1,,
+"wan shi tong, librarian",,,,,,,,

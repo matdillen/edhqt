@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 18:55:08 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 21:56:19 2026</lastLoadedTimestamp>
     <deckname>jaheira</deckname>
     <bannerCard providerId="">Jaheira, Friend of the Forest</bannerCard>
     <comments></comments>
@@ -75,7 +75,6 @@
         <card number="1" name="Fountainport"/>
         <card number="1" name="Elesh Norn"/>
         <card number="1" name="Akroma's Will"/>
-        <card number="1" name="Zopandrel, Hunger Dominus"/>
         <card number="1" name="Preposterous Proportions"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
         <card number="1" name="Hornet Queen"/>
@@ -101,5 +100,6 @@
         <card number="1" name="Adagia, Windswept Bastion" setShortName="EOE" collectorNumber="250" uuid="c634273a-94b0-4104-9d10-ae522ece1fc7"/>
         <card number="1" name="Abandoned Air Temple" setShortName="TLA" collectorNumber="263" uuid="9c0433f9-8f1e-4a19-a83f-a41925f1b1a9"/>
         <card number="1" name="United Front" setShortName="TLA" collectorNumber="39" uuid="d347caf8-0c12-401f-9e33-9978cb347f89"/>
+        <card number="1" name="Springleaf Parade" setShortName="ECC" collectorNumber="19" uuid="44265489-645a-43b0-bc1f-726905b06876"/>
     </zone>
 </cockatrice_deck>

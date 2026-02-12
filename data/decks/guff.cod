@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 16:54:55 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 21:04:00 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Commodore Guff</bannerCard>
     <comments></comments>
@@ -13,7 +13,6 @@
         <card number="1" name="Ugin, the Spirit Dragon"/>
         <card number="1" name="Karn Liberated"/>
         <card number="1" name="Chandra, Awakened Inferno"/>
-        <card number="1" name="Shark Typhoon"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Sarkhan the Masterless"/>
         <card number="1" name="Oath of Gideon"/>
@@ -104,5 +103,6 @@
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
         <card number="1" name="Radstorm" setShortName="PIP" collectorNumber="37" uuid="d778cdec-8fc7-4174-bae1-4c8e8ccdfab3"/>
+        <card number="1" name="Overburden" setShortName="PCY" collectorNumber="39" uuid="7e6cf6b6-b4c1-4742-9be4-b3b15fbb0202"/>
     </zone>
 </cockatrice_deck>

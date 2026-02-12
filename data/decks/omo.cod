@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 17:16:31 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 20:19:50 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="e5d1c814-4c22-4917-95ae-dffaf491db32">Omo, Queen of Vesuva</bannerCard>
     <comments></comments>
@@ -35,10 +35,8 @@
         <card number="1" name="Lord of the Unreal" setShortName="J25" collectorNumber="322" uuid="2e726977-ad9f-47c0-b48c-6618eaf6c1ed"/>
         <card number="1" name="Moonmist" setShortName="PLST" collectorNumber="ISD-195" uuid="1c5232ae-e2f9-41df-872f-e048fb7e4d08"/>
         <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
-        <card number="1" name="Arcane Adaptation" setShortName="PLST" collectorNumber="XLN-46" uuid="b0384a47-b189-4e10-b847-1819d3ca5f8e"/>
         <card number="1" name="Elvish Archdruid" setShortName="FDN" collectorNumber="219" uuid="341da856-7414-403b-b2e3-4bebd58a5aa4"/>
         <card number="1" name="Feline Sovereign" setShortName="PLST" collectorNumber="M21-180" uuid="c4aabecd-f042-46c1-a621-3286fa4e0715"/>
-        <card number="1" name="Kaseto, Orochi Archmage" setShortName="PL25" collectorNumber="5" uuid="47a334c3-87e0-42db-b7ed-8e0644efb928"/>
         <card number="1" name="Scion of Oona" setShortName="WOC" collectorNumber="109" uuid="937c75ac-b7cf-4af5-a7b7-9e90f43fa1a5"/>
         <card number="1" name="Minn, Wily Illusionist" setShortName="AFC" collectorNumber="16" uuid="4eec1d87-1007-44a1-a45d-0623816de681"/>
         <card number="1" name="Dragonologist" setShortName="PTDM" collectorNumber="42p" uuid="2599b3fe-24ff-4abc-9a9f-7872ee588cc1"/>
@@ -47,20 +45,16 @@
         <card number="1" name="Whelming Wave" setShortName="PLST" collectorNumber="DDO-44" uuid="bc38e0d5-f1fe-46a8-a74a-4b667d1a2c28"/>
         <card number="1" name="Rally the Galadhrim" setShortName="LTC" collectorNumber="499" uuid="009a2276-0014-45c2-90b7-064594009780"/>
         <card number="1" name="Chameleon Colossus" setShortName="AFC" collectorNumber="153" uuid="15401ca4-f6cd-400e-8e5e-ea47493b56a4"/>
-        <card number="1" name="Leyline of Transformation" setShortName="DSK" collectorNumber="63" uuid="4bd941ca-f3d2-44c1-8df3-851362f6b848"/>
         <card number="1" name="Wren's Run Packmaster" setShortName="CMA" collectorNumber="171" uuid="a44a2d69-df93-475b-8233-f73d8402594a"/>
         <card number="1" name="Sachi, Daughter of Seshiro" setShortName="CHK" collectorNumber="238" uuid="4c45b36f-b879-417c-b284-0176990fb9f9"/>
         <card number="1" name="Howlpack Piper" setShortName="DBL" collectorNumber="472" uuid="de7b7d93-fe69-4b18-b398-cf1a61eed175"/>
-        <card number="1" name="Oviya, Automech Artisan" setShortName="DFT" collectorNumber="173" uuid="ee5f504c-33fc-4a91-b69b-8ef555987c79"/>
         <card number="1" name="Shifting Sliver" setShortName="CMM" collectorNumber="855" uuid="c1d3b30b-d4c4-4f60-a7b3-e8854bd203d5"/>
         <card number="1" name="Nightpack Ambusher" setShortName="J22" collectorNumber="696" uuid="4cd67241-6ff1-41bc-9bda-4a87fd4f6bdd"/>
-        <card number="1" name="Naru Meha, Master Wizard" setShortName="C21" collectorNumber="124" uuid="cf44910a-4e24-4e36-a58e-ae7f463db368"/>
         <card number="1" name="Knowledge Exploitation" setShortName="MOR" collectorNumber="38" uuid="3d283c49-2e81-4b2e-956a-69152cc4704e"/>
         <card number="1" name="Hakbal of the Surging Soul" setShortName="LCC" collectorNumber="3" uuid="e738e675-4fd1-4bc3-97f5-71d0e2fc3f2e"/>
         <card number="1" name="Overwhelming Stampede" setShortName="DSC" collectorNumber="192" uuid="cbb081ca-75ab-40e4-b071-50ed387c90e4"/>
         <card number="1" name="Conjurer's Closet" setShortName="DRC" collectorNumber="126" uuid="7e520d49-f3d5-46b3-a941-c57936648a47"/>
         <card number="1" name="Moritte of the Frost" setShortName="PLST" collectorNumber="KHM-223" uuid="9c83dfd6-bf06-4291-89a3-924c3e9ab3f9"/>
-        <card number="1" name="Docent of Perfection" setShortName="INR" collectorNumber="62" uuid="96658239-3169-42ef-9983-cd4da24e0f4c"/>
         <card number="1" name="Deranged Hermit" setShortName="VMA" collectorNumber="202" uuid="c25df202-0dd4-448d-8cb3-11fd7df0d505"/>
         <card number="1" name="Deep Forest Hermit" setShortName="BLC" collectorNumber="213" uuid="f712e233-1de8-45e4-9225-790d608ac90b"/>
         <card number="1" name="Apex Devastator" setShortName="M3C" collectorNumber="220" uuid="ca9783bc-0e1b-42da-b0f3-89dd0db83743"/>
@@ -105,5 +99,11 @@
         <card number="1" name="Synapse Sliver" setShortName="CMM" collectorNumber="857" uuid="7c458a0f-0e63-417f-b51e-8491822835b0"/>
         <card number="1" name="Peer Pressure" setShortName="ONS" collectorNumber="101" uuid="be0110ba-49e4-4729-8a84-4d408b20df53"/>
         <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
+        <card number="1" name="Oko, Lorwyn Liege" setShortName="ECL" collectorNumber="61" uuid="1dab370a-1067-4d94-be1f-10362d4abf5a"/>
+        <card number="1" name="Chomping Changeling" setShortName="ECL" collectorNumber="172" uuid="e187dcc6-19ad-4cf6-94b4-daf07f5144e5"/>
+        <card number="1" name="Omni-Changeling" setShortName="ECL" collectorNumber="62" uuid="f29ce8f9-42a3-43fa-8197-666cc26e2c76"/>
+        <card number="1" name="Selfless Safewright" setShortName="ECL" collectorNumber="193" uuid="ac95b1c3-9eb2-4f80-bb32-72b36817d622"/>
+        <card number="1" name="Sunderflock" setShortName="ECL" collectorNumber="74" uuid="e5b6221e-cb22-45e4-bb98-2b960afc614c"/>
+        <card number="1" name="Leaf-Crowned Elder" setShortName="PLST" collectorNumber="MOR-128" uuid="5d47a112-9441-4580-9fd8-1a83e35f64b7"/>
     </zone>
 </cockatrice_deck>

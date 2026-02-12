@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 17:28:38 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 12 00:08:41 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="d94c15b7-6c8f-45a6-8734-975e3e3b790c">Ivy, Gleeful Spellthief</bannerCard>
     <comments></comments>
@@ -15,7 +15,6 @@
         <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
         <card number="1" name="Invigorate" setShortName="GN3" collectorNumber="99" uuid="07554910-a145-4c6a-b686-d1b5ce46f126"/>
         <card number="1" name="Rancor" setShortName="2X2" collectorNumber="156" uuid="86d6b411-4a31-4bfc-8dd6-e19f553bb29b"/>
-        <card number="1" name="Fumble" setShortName="PLST" collectorNumber="BBD-34" uuid="c4b93377-414a-4198-b017-27fb2a173330"/>
         <card number="1" name="Lofty Denial" setShortName="M21" collectorNumber="56" uuid="64832674-beb1-446e-b2f7-8a5e271139a5"/>
         <card number="1" name="Sanctum Weaver" setShortName="CMM" collectorNumber="910" uuid="3c9ac089-6962-48fd-bf67-f041ece27fa9"/>
         <card number="1" name="Dreampod Druid" setShortName="PLST" collectorNumber="PC2-64" uuid="6ef36eb5-b9a9-4c8d-92d4-847a8ed8933f"/>
@@ -98,5 +97,6 @@
         <card number="1" name="Curiosity" setShortName="PLST" collectorNumber="8ED-72" uuid="566ac9ab-f62f-4bc9-bb5b-8f8c7e397e0a"/>
         <card number="1" name="Keen Sense" setShortName="PLST" collectorNumber="PLC-152" uuid="83767c02-8553-4a9d-8818-ff3e5d068451"/>
         <card number="1" name="Blossoming Defense" setShortName="PLST" collectorNumber="KLD-146" uuid="c8569898-4c9c-40ca-8d25-41e8933d8742"/>
+        <card number="1" name="Crystalline Armor" setShortName="TLE" collectorNumber="137" uuid="2558ce86-ee30-4075-b991-bfb5f7513a5e"/>
     </zone>
 </cockatrice_deck>

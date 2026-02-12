@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Dec 14 23:18:12 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 20:46:06 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Ognis, the Dragon's Lash</bannerCard>
     <comments></comments>
@@ -32,7 +32,7 @@
         <card number="1" name="Zealous Conscripts"/>
         <card number="1" name="Gaze of Granite"/>
         <card number="1" name="Klauth, Unrivaled Ancient"/>
-        <card number="3" name="Swamp"/>
+        <card number="2" name="Swamp"/>
         <card number="4" name="Mountain"/>
         <card number="4" name="Forest"/>
         <card number="1" name="Ziatora's Proving Ground"/>
@@ -90,13 +90,14 @@
         <card number="1" name="Exotic Orchard" setShortName="40K" collectorNumber="278" uuid="ec9c7011-694b-4705-b85c-bf4edf26e437"/>
         <card number="1" name="Open the Way" setShortName="MAT" collectorNumber="23" uuid="e72a911e-8291-48ca-bfc6-8907e3b57011"/>
         <card number="1" name="Devastating Onslaught" setShortName="EOE" collectorNumber="132" uuid="fc779971-24e2-46a8-86be-16f0b244a3d2"/>
-        <card number="1" name="Coiling Rebirth" setShortName="BLB" collectorNumber="86" uuid="96d5de3e-0440-4dd1-899c-ab40c0752343"/>
         <card number="1" name="Detective's Phoenix" setShortName="MH3" collectorNumber="116" uuid="e2a01edd-dbc0-4ed4-b827-9b608290e9a1"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
         <card number="1" name="Realm-Scorcher Hellkite" setShortName="PWOE" collectorNumber="145s" uuid="872d1a98-0b29-415b-b734-7afebb8b6830"/>
         <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
+        <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
+        <card number="1" name="Shadow the Hedgehog" setShortName="SLD" collectorNumber="2086" uuid="6c184959-a1e5-40d7-8faa-99310c4156ef"/>
     </zone>
     <zone name="side">
         <card number="1" name="Ognis, the Dragon's Lash"/>

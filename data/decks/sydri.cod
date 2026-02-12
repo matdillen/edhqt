@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 19:04:40 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 21:06:38 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Sydri, Galvanic Genius</bannerCard>
     <comments></comments>
@@ -13,7 +13,6 @@
         <card number="1" name="Weatherlight"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Research Thief"/>
-        <card number="1" name="Sunfall"/>
         <card number="1" name="Canoptek Spyder"/>
         <card number="1" name="Parhelion II"/>
         <card number="1" name="Metalwork Colossus"/>
@@ -29,7 +28,6 @@
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Talisman of Hierarchy"/>
         <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Drown in the Loch"/>
         <card number="1" name="Baleful Strix"/>
         <card number="1" name="Unlicensed Hearse"/>
         <card number="1" name="Reckoner Bankbuster"/>
@@ -107,5 +105,7 @@
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
         <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
         <card number="1" name="Ethersworn Sphinx" setShortName="MH2" collectorNumber="195" uuid="315ae21a-4d95-488e-812b-0d018219af6c"/>
+        <card number="1" name="Sunfall" setShortName="MOM" collectorNumber="349" uuid="b961b23d-a16f-4126-9293-2906dc2aba79"/>
+        <card number="1" name="Unstoppable Plan" setShortName="DFT" collectorNumber="72" uuid="aaeb5981-7e6a-4ffd-bb02-4757b2e92f08"/>
     </zone>
 </cockatrice_deck>

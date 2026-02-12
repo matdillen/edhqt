@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 14:52:22 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Feb 11 21:12:55 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -65,7 +65,6 @@
         <card number="1" name="Pyrogoyf"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Determined Iteration"/>
-        <card number="1" name="Herigast, Erupting Nullkite"/>
         <card number="1" name="Sunspine Lynx"/>
         <card number="1" name="Throne of Eldraine"/>
         <card number="1" name="Terror of the Peaks"/>
@@ -76,7 +75,6 @@
         <card number="1" name="Buried Ruin"/>
         <card number="1" name="Sceptre of Eternal Glory"/>
         <card number="1" name="Audacious Swap"/>
-        <card number="1" name="Clive, Ifrit's Dominant" setShortName="FIN" collectorNumber="458" uuid="cdf7fb4a-acb5-4fae-a44c-c437e5b82ec4"/>
         <card number="1" name="Anticausal Vestige" setShortName="EOE" collectorNumber="1" uuid="35372b69-6086-44e0-9f7c-681e362e5142"/>
         <card number="1" name="Dauntless Scrapbot" setShortName="EOE" collectorNumber="237" uuid="0efe5342-42b7-4f49-b4b4-d77055508c4d"/>
         <card number="1" name="Tannuk, Steadfast Second" setShortName="EOE" collectorNumber="162" uuid="44607ed3-9523-40ac-9f61-0edd011cf762"/>
@@ -87,5 +85,7 @@
         <card number="1" name="Secret Tunnel" setShortName="TLA" collectorNumber="278" uuid="2d39a0e1-6484-409c-ab05-5b276925a949"/>
         <card number="1" name="Blast-Furnace Hellkite" setShortName="BRC" collectorNumber="12" uuid="04c349f2-69b1-48dd-a547-f2b55f542700"/>
         <card number="1" name="Industrial Advancement" setShortName="NCC" collectorNumber="47" uuid="81f1416c-48bd-4168-aacd-a9b0a3afb8bc"/>
+        <card number="1" name="Impulsivity" setShortName="ECC" collectorNumber="13" uuid="c1c9ff71-b818-4d8b-8e0a-432becb7bf09"/>
+        <card number="1" name="Village Pillagers" setShortName="ECC" collectorNumber="14" uuid="a1e34ec4-6a85-4e22-9be9-f27dda5752d6"/>
     </zone>
 </cockatrice_deck>
