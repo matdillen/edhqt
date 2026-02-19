@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 12 00:08:38 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 18:31:32 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
     <comments></comments>
@@ -27,7 +27,6 @@
         <card number="1" name="Elven Chorus" setShortName="LTR" collectorNumber="160" uuid="616cfb94-3faf-44fe-bf04-e90643765e48"/>
         <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Realmwalker" setShortName="CMM" collectorNumber="909" uuid="d0c65ef6-93b4-448b-bf1c-01fe263cc39d"/>
-        <card number="1" name="Elvish Guidance" setShortName="ONS" collectorNumber="255" uuid="8698c46b-2628-4482-88f9-e37a01ade274"/>
         <card number="1" name="Reclamation Sage" setShortName="FDN" collectorNumber="231" uuid="1918ea65-ab7f-4d40-97fd-a656c892a2a1"/>
         <card number="1" name="Ezuri, Renegade Leader" setShortName="PLST" collectorNumber="C14-195" uuid="ad74bb11-9e62-49e3-8cd0-5e312dc0bcaa"/>
         <card number="1" name="Gwenna, Eyes of Gaea" setShortName="BRO" collectorNumber="185" uuid="7ee387b7-18e4-41b7-aefe-f2b5954e3051"/>
@@ -46,11 +45,9 @@
         <card number="1" name="Masked Vandal" setShortName="PLST" collectorNumber="KHM-184" uuid="d6f47fe1-36c6-4af9-a9eb-f2919e8e3446"/>
         <card number="1" name="Priest of Titania" setShortName="MH3" collectorNumber="286" uuid="eb11921b-1b28-483f-a707-4de21a6daa31"/>
         <card number="1" name="Skemfar Avenger" setShortName="KHM" collectorNumber="109" uuid="fad2c6d4-03dd-4dab-861c-77c55bda0db7"/>
-        <card number="1" name="Miara, Thorn of the Glade" setShortName="KHC" collectorNumber="51" uuid="7bdb9bfe-5e56-429d-af23-7548532e2406"/>
         <card number="1" name="Quest for Renewal" setShortName="WWK" collectorNumber="110" uuid="41b7ad82-1115-4f80-886a-3f59f568423f"/>
         <card number="1" name="Devoted Druid" setShortName="2X2" collectorNumber="143" uuid="1ab94f16-778d-4437-a1b9-2f67cd214cc0"/>
         <card number="1" name="Wall of Roots" setShortName="NCC" collectorNumber="319" uuid="d80940ad-8e36-4226-ad5f-b54487c75c76"/>
-        <card number="1" name="Assassin's Trophy" setShortName="2X2" collectorNumber="175" uuid="aeb63464-d06b-4626-a57a-1e393ef04a58"/>
         <card number="1" name="Leaf-Crowned Visionary" setShortName="DMU" collectorNumber="167" uuid="aa7bd814-9f88-4e01-932d-07ac1abc060e"/>
         <card number="1" name="Joraga Treespeaker" setShortName="PLST" collectorNumber="ROE-190" uuid="de6b6d2d-c2b0-421b-aad6-41e80d325fff"/>
         <card number="1" name="Wirewood Symbiote" setShortName="MH3" collectorNumber="288" uuid="d237f5cc-2b9b-4929-9697-72078bac4c77"/>
@@ -99,10 +96,13 @@
         <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
-        <card number="1" name="Chronicle of Victory" setShortName="ECL" collectorNumber="253" uuid="b3c2d68d-690b-41e7-99ed-2d20c7e0a9b4"/>
         <card number="1" name="Bloodline Bidding" setShortName="ECL" collectorNumber="91" uuid="877d9b75-ad2f-45a6-94d8-68e80d7db789"/>
         <card number="1" name="Chomping Changeling" setShortName="ECL" collectorNumber="172" uuid="e187dcc6-19ad-4cf6-94b4-daf07f5144e5"/>
         <card number="1" name="Selfless Safewright" setShortName="ECL" collectorNumber="193" uuid="ac95b1c3-9eb2-4f80-bb32-72b36817d622"/>
         <card number="1" name="Champions of the Perfect" setShortName="ECL" collectorNumber="171" uuid="4f359211-8be5-4818-b73c-14f24b7ddb21"/>
+        <card number="1" name="Agatha's Soul Cauldron" setShortName="PWOE" collectorNumber="242p" uuid="cb1bbd0b-a05a-4a6e-83d3-4bd067b7ef3a"/>
+        <card number="1" name="Galadhrim Ambush" setShortName="LTC" collectorNumber="38" uuid="e69e06f0-6142-4f80-9208-362b3e74d51d"/>
+        <card number="1" name="Last March of the Ents" setShortName="LTR" collectorNumber="172" uuid="7f1b99e0-ffb7-4f98-8ee5-4357bb79dd2e"/>
+        <card number="1" name="Breach the Multiverse" setShortName="MOM" collectorNumber="94" uuid="daf51a76-7a57-4462-ae18-a19e817e49e5"/>
     </zone>
 </cockatrice_deck>

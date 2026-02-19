@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Jan 4 23:41:44 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 13:00:01 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Pir, Imaginative Rascal</bannerCard>
     <comments></comments>
@@ -43,7 +43,6 @@
         <card number="1" name="Oran-Rief, the Vastwood"/>
         <card number="1" name="Simic Manipulator"/>
         <card number="1" name="Incubation Druid"/>
-        <card number="1" name="Steelbane Hydra"/>
         <card number="1" name="Kodama of the West Tree"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Temple of the False God"/>
@@ -91,7 +90,6 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Aetheric Amplifier"/>
         <card number="1" name="The Earth Crystal" setShortName="FIN" collectorNumber="184" uuid="d585e218-3dc8-4fbd-8ad2-795fbc9b2155"/>
-        <card number="1" name="Lulu, Stern Guardian" setShortName="FIC" collectorNumber="38" uuid="9c0b1d5d-2b10-4dde-bb95-8cbf780cca97"/>
         <card number="1" name="Kimahri, Valiant Guardian" setShortName="FIC" collectorNumber="85" uuid="42006bd4-f6f0-4638-a50e-46d9d7a54b6e"/>
         <card number="1" name="Solar Array" setShortName="EOC" collectorNumber="18" uuid="03c45b66-ddc7-43f8-95d0-fe2ad743b3a4"/>
         <card number="1" name="Mutational Advantage" setShortName="PIP" collectorNumber="111" uuid="b1ff92f1-9dc7-48e6-9e7c-9ef4a88518cb"/>
@@ -99,6 +97,8 @@
         <card number="1" name="Loading Zone" setShortName="EOE" collectorNumber="196" uuid="0d2c95bd-79af-4a23-b265-62cc0b164e3e"/>
         <card number="1" name="Empowered Autogenerator" setShortName="EOC" collectorNumber="135" uuid="1b6abe5b-9bd3-43a0-b1bb-e6ebb64b443c"/>
         <card number="1" name="Tezzeret's Gambit" setShortName="EOC" collectorNumber="47" uuid="29ad5bb3-927d-41d0-a000-3826ea117e52"/>
+        <card number="1" name="Leatherhead, Swamp Stalker" setShortName="TMT" collectorNumber="117" uuid="b1f6b5b5-12ca-468d-bc53-dd0cde60e7b6"/>
+        <card number="1" name="Echo Storm" setShortName="MOC" collectorNumber="221" uuid="75046d32-fb0b-4c25-9ffd-53db64ff6c9e"/>
     </zone>
     <zone name="side">
         <card number="1" name="Pir, Imaginative Rascal"/>

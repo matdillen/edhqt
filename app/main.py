@@ -1,13 +1,13 @@
 from PyQt5.QtWidgets import QApplication
 import sys
-import qdarktheme
+import qdarkstyle
 from app.ui.main_window import MainWindow
 
 def run():
     app = QApplication(sys.argv)
     # Optional theme
-    qdarktheme.setup_theme()
-
+    dark_stylesheet = qdarkstyle.load_stylesheet_pyqt5()
+    app.setStyleSheet(dark_stylesheet)
 
     win = MainWindow()
     win.show()

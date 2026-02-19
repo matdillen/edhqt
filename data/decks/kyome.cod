@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 21:19:25 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 22:16:37 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Gyome, Master Chef</bannerCard>
     <comments></comments>
@@ -69,7 +69,6 @@
         <card number="1" name="Boggart Trawler"/>
         <card number="1" name="Revitalizing Repast"/>
         <card number="1" name="Disciple of Freyalise"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Shifting Woodland"/>
         <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Agadeem's Awakening"/>
@@ -102,5 +101,6 @@
         <card number="1" name="Sproutback Trudge" setShortName="C21" collectorNumber="68" uuid="dbf26e54-bdfe-4da8-acbb-4f1a98faba49"/>
         <card number="1" name="Aberrant Return" setShortName="ECC" collectorNumber="7" uuid="a27a3d4b-caa7-4c5e-b1f3-aa607d3b157d"/>
         <card number="1" name="Mutagen Man, Living Ooze" setShortName="TMT" collectorNumber="124" uuid="9f9085f0-3702-462c-8c81-b4576236792d"/>
+        <card number="1" name="Fanatic of Rhonas" setShortName="MH3" collectorNumber="152" uuid="1f9fb33a-3b39-4aff-93b8-aedafe0ea694"/>
     </zone>
 </cockatrice_deck>

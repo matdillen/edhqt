@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 20:37:04 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 22:11:48 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
@@ -92,7 +92,6 @@
         <card number="1" name="Lizard, Connors's Curse" setShortName="OM1" collectorNumber="108" uuid="6361ffac-ad30-4b6a-aea2-c804ad51c773"/>
         <card number="1" name="Haliya, Guided by Light" setShortName="EOE" collectorNumber="19" uuid="6f7c63ae-5df3-410f-8643-b8c69133ca9d"/>
         <card number="1" name="Basri, Tomorrow's Champion" setShortName="DFT" collectorNumber="3" uuid="991270fa-a391-4c2e-bd9a-19151386fb67"/>
-        <card number="1" name="Kaheera, the Orphanguard" setShortName="MUL" collectorNumber="47" uuid="e9c296d0-ad8d-4139-97c4-e36c4af3d3c9"/>
         <card number="1" name="Toski, Bearer of Secrets" setShortName="BLC" collectorNumber="244" uuid="0b261989-b34e-4bba-90f8-2adfda58c89b"/>
         <card number="1" name="Adrix and Nev, Twincasters" setShortName="MKC" collectorNumber="198" uuid="b9c11061-bb34-4904-b9f1-ea106b517bbe"/>
         <card number="1" name="Jaheira, Friend of the Forest" setShortName="CLB" collectorNumber="237" uuid="feb7ad1b-4466-48f7-b46d-cc83d4e22b51"/>
@@ -108,5 +107,6 @@
         <card number="1" name="Qasali Slingers" setShortName="PLST" collectorNumber="C17-33" uuid="aad24af7-119d-42fd-9246-e559336fb63d"/>
         <card number="1" name="Mirari's Wake" setShortName="CMM" collectorNumber="928" uuid="ef4fa4e8-39e8-47a6-b975-ff5d46e59edd"/>
         <card number="1" name="Peter Parker" setShortName="OM1" collectorNumber="21" uuid="2ec821c3-3e5c-4af8-a6ef-e2e77aa8668c"/>
+        <card number="1" name="Comeuppance" setShortName="MAR" collectorNumber="1" uuid="ec191a2f-12b1-438b-b2fe-f88fb82d9b87"/>
     </zone>
 </cockatrice_deck>

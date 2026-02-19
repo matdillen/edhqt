@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 12 00:08:41 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 18:40:05 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="d94c15b7-6c8f-45a6-8734-975e3e3b790c">Ivy, Gleeful Spellthief</bannerCard>
     <comments></comments>
@@ -65,7 +65,6 @@
         <card number="1" name="Triton Wavebreaker" setShortName="MH3" collectorNumber="74" uuid="41e68700-c71c-46db-b6a4-beae924cf97a"/>
         <card number="1" name="Season of Growth" setShortName="PLST" collectorNumber="M20-191" uuid="5da608ff-6164-44f0-bb43-c5d26a9a6696"/>
         <card number="1" name="Gnarlback Rhino" setShortName="2X2" collectorNumber="148" uuid="c3009640-23b1-49ce-a51b-982a48602c1d"/>
-        <card number="1" name="Errant, Street Artist" setShortName="PSNC" collectorNumber="41p" uuid="8e3d171f-80a8-4968-a9cd-42fca12cb506"/>
         <card number="1" name="Stormchaser Drake" setShortName="DBL" collectorNumber="349" uuid="39f5226b-6343-40e0-a162-ca19818d8096"/>
         <card number="1" name="Bridgeworks Battle" setShortName="MH3" collectorNumber="249" uuid="ebef3db0-2b58-4581-a79c-fbca9a059e63"/>
         <card number="1" name="Simic Charm" setShortName="EA3" collectorNumber="10" uuid="0fc5df7c-6620-4a37-8869-e5d6bc42374d"/>
@@ -98,5 +97,6 @@
         <card number="1" name="Keen Sense" setShortName="PLST" collectorNumber="PLC-152" uuid="83767c02-8553-4a9d-8818-ff3e5d068451"/>
         <card number="1" name="Blossoming Defense" setShortName="PLST" collectorNumber="KLD-146" uuid="c8569898-4c9c-40ca-8d25-41e8933d8742"/>
         <card number="1" name="Crystalline Armor" setShortName="TLE" collectorNumber="137" uuid="2558ce86-ee30-4075-b991-bfb5f7513a5e"/>
+        <card number="1" name="Ember Island Production" setShortName="TLA" collectorNumber="48" uuid="0f79a7fc-36b1-4397-8e67-6638379d3a38"/>
     </zone>
 </cockatrice_deck>

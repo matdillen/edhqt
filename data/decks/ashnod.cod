@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Feb 7 00:33:55 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 20:15:10 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31">Ashnod the Uncaring</bannerCard>
     <comments></comments>
@@ -103,7 +103,7 @@
         <card number="1" name="Arcbound Ravager" setShortName="PL23" collectorNumber="6" uuid="73e50280-5202-43a8-9b80-14feaf0ea9fe"/>
         <card number="1" name="Momo's Heist" setShortName="TLE" collectorNumber="72" uuid="bfc80abe-c36e-4a96-82d5-4d4c1a793ae4"/>
         <card number="1" name="Dungeoneer's Pack" setShortName="CLB" collectorNumber="312" uuid="aa74e656-480a-4c1b-963d-1b207075c27f"/>
-        <card number="1" name="Urn of Godfire" setShortName="MOM" collectorNumber="266" uuid="ff5f302e-d884-4995-ba3c-8c22f9045318"/>
-        <card number="1" name="Storm the Vault" setShortName="PRIX" collectorNumber="173s" uuid="853c8df2-75b2-403e-87a4-5e5aa43a31b8"/>
+        <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
+        <card number="1" name="Myr Battlesphere" setShortName="BRC" collectorNumber="151" uuid="e225aa6b-bcf0-4672-8c95-b18e39e0b826"/>
     </zone>
 </cockatrice_deck>

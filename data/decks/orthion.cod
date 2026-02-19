@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 21:12:55 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 15:11:02 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -22,7 +22,6 @@
         <card number="1" name="Mindclaw Shaman"/>
         <card number="1" name="Gauntlet of Power"/>
         <card number="1" name="Fury"/>
-        <card number="1" name="Minion Reflector"/>
         <card number="1" name="Rapacious Dragon"/>
         <card number="1" name="Coercive Recruiter"/>
         <card number="1" name="Zealous Conscripts"/>
@@ -83,9 +82,10 @@
         <card number="1" name="Siege-Gang Commander" setShortName="BLC" collectorNumber="202" uuid="0befe0f5-ff7c-441a-9bb2-cbe919be10ad"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Secret Tunnel" setShortName="TLA" collectorNumber="278" uuid="2d39a0e1-6484-409c-ab05-5b276925a949"/>
-        <card number="1" name="Blast-Furnace Hellkite" setShortName="BRC" collectorNumber="12" uuid="04c349f2-69b1-48dd-a547-f2b55f542700"/>
         <card number="1" name="Industrial Advancement" setShortName="NCC" collectorNumber="47" uuid="81f1416c-48bd-4168-aacd-a9b0a3afb8bc"/>
         <card number="1" name="Impulsivity" setShortName="ECC" collectorNumber="13" uuid="c1c9ff71-b818-4d8b-8e0a-432becb7bf09"/>
         <card number="1" name="Village Pillagers" setShortName="ECC" collectorNumber="14" uuid="a1e34ec4-6a85-4e22-9be9-f27dda5752d6"/>
+        <card number="1" name="The Fire Crystal" setShortName="FIN" collectorNumber="135" uuid="ea430b17-2014-4b8e-b53f-43bcfc06f7cd"/>
+        <card number="1" name="Goldspan Dragon" setShortName="J22" collectorNumber="550" uuid="0c67a683-4e1d-4a64-952d-a1c27a34ed1d"/>
     </zone>
 </cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 12 23:16:41 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 14:12:54 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="77e548c9-8bed-40c3-bcdd-9d97a82c885d">Fire Lord Ozai</bannerCard>
     <comments></comments>
@@ -10,10 +10,8 @@
     </zone>
     <zone name="main">
         <card number="1" name="The Mycosynth Gardens" setShortName="EOC" collectorNumber="168" uuid="0a6f0408-6758-495f-9d6c-7686a1542fbd"/>
-        <card number="1" name="Tower of the Magistrate" setShortName="MB2" collectorNumber="242" uuid="0743db09-bf73-4d56-8c0c-7834cb535055"/>
         <card number="1" name="Havengul Laboratory" setShortName="SLX" collectorNumber="9" uuid="823b019e-10c0-4712-8167-d4f37a71e782"/>
         <card number="1" name="Blackbloom Rogue" setShortName="PIO" collectorNumber="85" uuid="8f64a6ac-d9ce-45eb-8278-63e442ad6916"/>
-        <card number="1" name="Geier Reach Sanitarium" setShortName="AFC" collectorNumber="241" uuid="cdb751d3-580f-44dd-a1e2-0f1240f2b891"/>
         <card number="1" name="Bloodstained Mire" setShortName="MH3" collectorNumber="216" uuid="579743fe-f71e-4cb2-8629-d6b02ed1591d"/>
         <card number="1" name="Bloodsoaked Insight" setShortName="MH3" collectorNumber="252" uuid="0a08e0d2-1e60-47f5-9228-4c11a127089d"/>
         <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
@@ -36,7 +34,6 @@
         <card number="1" name="Phyrexian Soulgorger" setShortName="PLST" collectorNumber="CSP-141" uuid="1ed11cef-3904-4bc3-8383-14ecdb774066"/>
         <card number="1" name="Two-Handed Axe // Sweeping Cleave" setShortName="CLB" collectorNumber="203" uuid="21e34888-f57c-4f5d-bb5c-b82be980d145"/>
         <card number="1" name="Fatal Frenzy" setShortName="PLC" collectorNumber="98" uuid="4e2fe87d-e886-4e30-8ff2-3886199f0461"/>
-        <card number="1" name="Enormous Energy Blade" setShortName="NEO" collectorNumber="96" uuid="991370bd-a96a-4ed0-bdf9-f03b98191abf"/>
         <card number="1" name="Mask of Griselbrand" setShortName="DBL" collectorNumber="111" uuid="fefa072d-3803-42cf-a853-b005b7270172"/>
         <card number="1" name="Leyline Tyrant" setShortName="TDC" collectorNumber="221" uuid="0542d0d7-5b0f-4093-b74d-6a60f174aeb5"/>
         <card number="1" name="Sneak Attack" setShortName="DMR" collectorNumber="139" uuid="a45b4ca9-4355-4690-84c3-a7d44c367dbf"/>
@@ -46,11 +43,9 @@
         <card number="1" name="Shadowheart, Dark Justiciar" setShortName="CLB" collectorNumber="146" uuid="13a0913d-776b-4ef8-adef-8861349df2b5"/>
         <card number="1" name="Yargle, Glutton of Urborg" setShortName="CMM" collectorNumber="202" uuid="8febc0fe-c52d-4b6a-9d18-e1e4a43b6dc3"/>
         <card number="1" name="Where Ancients Tread" setShortName="C13" collectorNumber="130" uuid="abf25a2a-961c-42ef-8d76-aa089720b12c"/>
-        <card number="1" name="Purphoros, Bronze-Blooded" setShortName="THB" collectorNumber="150" uuid="af3af5c4-0960-44a2-976e-abdf7803c436"/>
         <card number="1" name="Horizon Stone" setShortName="CMR" collectorNumber="315" uuid="6affd9c6-f7ab-488e-85fa-2a3a48383414"/>
         <card number="1" name="Alena, Kessig Trapper" setShortName="PLST" collectorNumber="CMR-160" uuid="312a2a8d-2d84-4c4b-b2c4-cbc4e8300312"/>
         <card number="1" name="Warstorm Surge" setShortName="40K" collectorNumber="209" uuid="1706ca09-1fdb-47d5-b31b-b4637a0ef5da"/>
-        <card number="1" name="Hoard-Smelter Dragon" setShortName="AFC" collectorNumber="128" uuid="2f4c5867-73c4-4e10-bbf5-6a69df879547"/>
         <card number="6" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="6" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
@@ -76,7 +71,6 @@
         <card number="1" name="The Last Agni Kai" setShortName="PTLA" collectorNumber="144s" uuid="62e81e36-8333-429a-a723-ea9461359b4c"/>
         <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
         <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
-        <card number="1" name="Fire Nation Turret" setShortName="TLE" collectorNumber="64" uuid="f25cc190-05e2-4aba-b214-46f687c07a10"/>
         <card number="1" name="Rings of Brighthearth" setShortName="LTC" collectorNumber="352" uuid="730d64cf-e71b-46dd-8e26-d2dec2608fc0"/>
         <card number="1" name="Relic Golem" setShortName="ZNR" collectorNumber="249" uuid="0b59c75b-d8f8-4f95-9030-ed73c67d988e"/>
         <card number="1" name="Electro, Assaulting Battery" setShortName="OM1" collectorNumber="76" uuid="5b12f23c-54b2-4b28-8434-c3f509a204d7"/>
@@ -98,5 +92,11 @@
         <card number="1" name="Hanweir Battlements" setShortName="INR" collectorNumber="279" uuid="8c0acb91-edfc-43a5-af77-6614327fce43"/>
         <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
         <card number="1" name="Bolt Bend" setShortName="FDN" collectorNumber="619" uuid="cf01af2c-68e5-4bb5-81de-f3a1b860fb2e"/>
+        <card number="1" name="Tibalt's Trickery" setShortName="KHM" collectorNumber="153" uuid="dd921e27-3e08-438c-bec2-723226d35175"/>
+        <card number="1" name="Cursed Mirror" setShortName="BRC" collectorNumber="115" uuid="a29473ee-1a11-42b8-8d14-34051208f35b"/>
+        <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
+        <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
+        <card number="1" name="Mines of Moria" setShortName="LTR" collectorNumber="257" uuid="0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f"/>
+        <card number="1" name="Wand of Wonder" setShortName="CLB" collectorNumber="204" uuid="df67ec01-9d4c-4ae1-9c8a-f94d649c81bc"/>
     </zone>
 </cockatrice_deck>

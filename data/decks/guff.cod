@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 21:04:00 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 20:26:59 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Commodore Guff</bannerCard>
     <comments></comments>
@@ -41,7 +41,6 @@
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Azorius Signet"/>
-        <card number="1" name="Meekstone"/>
         <card number="1" name="Jwari Disruption"/>
         <card number="1" name="Tundra"/>
         <card number="1" name="Hallowed Fountain"/>
@@ -54,14 +53,13 @@
         <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Karn's Bastion"/>
         <card number="1" name="Forge of Heroes"/>
-        <card number="1" name="Kher Keep"/>
         <card number="1" name="Nesting Grounds"/>
         <card number="1" name="Raugrin Triome"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Plateau"/>
         <card number="1" name="Arid Mesa"/>
-        <card number="2" name="Island"/>
+        <card number="3" name="Island"/>
         <card number="2" name="Mountain"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Interplanar Beacon"/>
@@ -104,5 +102,6 @@
         <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
         <card number="1" name="Radstorm" setShortName="PIP" collectorNumber="37" uuid="d778cdec-8fc7-4174-bae1-4c8e8ccdfab3"/>
         <card number="1" name="Overburden" setShortName="PCY" collectorNumber="39" uuid="7e6cf6b6-b4c1-4742-9be4-b3b15fbb0202"/>
+        <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
     </zone>
 </cockatrice_deck>

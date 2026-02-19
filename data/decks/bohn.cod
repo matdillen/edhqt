@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Jan 4 21:43:11 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 20:10:32 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="6e779a16-7528-49f4-8304-502bb603c15b">Bohn, Beguiling Balladeer</bannerCard>
     <comments></comments>
@@ -24,7 +24,6 @@
         <card number="1" name="Thran Turbine" setShortName="USG" collectorNumber="311" uuid="791c310f-b50d-4993-9add-9f585f6172af"/>
         <card number="1" name="Braid of Fire" setShortName="PLST" collectorNumber="CSP-78" uuid="8a8e0464-3f05-4719-ad42-577954751da8"/>
         <card number="1" name="Izzet Signet" setShortName="BLC" collectorNumber="278" uuid="a39b4b15-cd3e-4d30-8de2-8e584524d018"/>
-        <card number="1" name="Brazen Borrower // Petty Theft" setShortName="PLST" collectorNumber="ELD-281" uuid="112e1809-4323-48bc-afa1-13cc7ba6a3b5"/>
         <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
         <card number="1" name="Return the Favor" setShortName="OTJ" collectorNumber="142" uuid="a9cc02d1-799d-42aa-9bc2-4c05452b63b4"/>
         <card number="1" name="Delayed Blast Fireball" setShortName="CLB" collectorNumber="630" uuid="400c76c6-f677-4e7e-87ad-2e526d4b498a"/>
@@ -99,5 +98,6 @@
         <card number="1" name="Boseiju, Who Shelters All" setShortName="LTC" collectorNumber="359" uuid="bafe3253-feed-4cb9-a13c-9a9105462a8b"/>
         <card number="1" name="Spider-Verse" setShortName="OM1" collectorNumber="75" uuid="c3fd31e5-0faa-493f-aa50-08307a0c0139"/>
         <card number="1" name="Wan Shi Tong, Librarian" setShortName="TLA" collectorNumber="78" uuid="e20da6b5-1057-4a28-9e85-07de714e262f"/>
+        <card number="1" name="Torrential Gearhulk" setShortName="CMM" collectorNumber="128" uuid="92872fea-2fb4-4154-815e-cad9d966e60f"/>
     </zone>
 </cockatrice_deck>

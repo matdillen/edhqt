@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 13:29:35 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 18:42:57 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="31e4b7a1-b377-49d2-a92e-4bcb0db35f16">Bello, Bard of the Brambles</bannerCard>
     <comments></comments>
@@ -24,7 +24,6 @@
         <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
         <card number="1" name="Beast Within" setShortName="AFC" collectorNumber="152" uuid="6dc4dfa3-527f-4401-bc76-32d81e9f6ef1"/>
         <card number="1" name="Sakura-Tribe Elder" setShortName="BLC" collectorNumber="236" uuid="3696297a-b068-4e89-a62c-6cd5ad437618"/>
-        <card number="1" name="Up the Beanstalk" setShortName="WOE" collectorNumber="195" uuid="2d5e991f-23b2-4db0-a452-7755125b1fd2"/>
         <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
         <card number="1" name="Fog" setShortName="30A" collectorNumber="189" uuid="9e295859-c5b3-41e4-a714-31f1b91d4280"/>
         <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
@@ -54,11 +53,9 @@
         <card number="1" name="Alhammarret's Archive" setShortName="PLST" collectorNumber="ORI-221" uuid="810c91b8-6b2f-469f-8fd1-568885178c9b"/>
         <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
         <card number="1" name="Subterranean Tremors" setShortName="PZ2" collectorNumber="30" uuid="0a61707a-9952-4304-ad72-521194e410d8"/>
-        <card number="1" name="Wildsear, Scouring Maw" setShortName="BLC" collectorNumber="8" uuid="48494ef9-5eb3-4b55-ad1d-b32bbed89ca5"/>
         <card number="1" name="Glorious Sunrise" setShortName="DBL" collectorNumber="467" uuid="3b1f7506-fe59-4901-98a2-131e0d3a54cd"/>
         <card number="1" name="Incite Rebellion" setShortName="CM2" collectorNumber="108" uuid="3633c759-f86a-436d-b54d-0d6c9ef14b63"/>
         <card number="1" name="Full Throttle" setShortName="DFT" collectorNumber="127" uuid="d91f7cad-89e8-45cb-a78e-b35b0ee64783"/>
-        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
         <card number="1" name="Bane of Progress" setShortName="FIC" collectorNumber="299" uuid="5fc6876d-7441-42ac-b9a1-c10a0f6a387a"/>
         <card number="1" name="Sight of the Scalelords" setShortName="DTK" collectorNumber="207" uuid="b5921758-4e21-4d34-8cf7-b0205d4b0912"/>
         <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
@@ -82,7 +79,6 @@
         <card number="1" name="The Regalia" setShortName="FIN" collectorNumber="267" uuid="dc420e79-c483-474f-97cd-e9c6a636c306"/>
         <card number="1" name="Pyreswipe Hawk" setShortName="BLC" collectorNumber="26" uuid="0cf88f89-9490-4477-b632-85c513e8c749"/>
         <card number="1" name="Snake Pit" setShortName="PLST" collectorNumber="MMQ-271" uuid="baddb39b-c31f-48e4-8d43-1cc46a713416"/>
-        <card number="1" name="Deathleaper, Terror Weapon" setShortName="40K" collectorNumber="115" uuid="9819d50f-aae8-4e92-8dab-01eebace3c1e"/>
         <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Esika's Chariot" setShortName="BLC" collectorNumber="215" uuid="1f2514c2-c0c7-44f3-ab9d-48b227f039db"/>
         <card number="1" name="Predatory Advantage" setShortName="ARB" collectorNumber="58" uuid="595ae3af-cc28-407a-a045-a6d71cd6be60"/>
@@ -95,6 +91,10 @@
         <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
         <card number="1" name="Abstergo Entertainment" setShortName="ACR" collectorNumber="79" uuid="4d197866-7633-493c-80dd-ec3a09165934"/>
         <card number="1" name="Darksteel Plate" setShortName="2X2" collectorNumber="304" uuid="3f99fb1e-99a6-4c83-98eb-7bff23996a7f"/>
+        <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
+        <card number="1" name="Bolt Bend" setShortName="FDN" collectorNumber="619" uuid="cf01af2c-68e5-4bb5-81de-f3a1b860fb2e"/>
+        <card number="1" name="Tibalt's Trickery" setShortName="KHM" collectorNumber="153" uuid="dd921e27-3e08-438c-bec2-723226d35175"/>
+        <card number="1" name="Genesis Storm" setShortName="C18" collectorNumber="30" uuid="066578ed-ffaf-473d-87b8-e614035748b6"/>
     </zone>
     <zone name="side">
         <card number="1" name="Bello, Bard of the Brambles" setShortName="BLC" collectorNumber="1" uuid="31e4b7a1-b377-49d2-a92e-4bcb0db35f16"/>

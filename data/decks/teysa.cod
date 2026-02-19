@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 20:52:24 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 20:19:53 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -16,7 +16,6 @@
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Hallowed Spiritkeeper"/>
         <card number="1" name="Attrition"/>
-        <card number="1" name="Vindicate"/>
         <card number="1" name="Corpse Augur"/>
         <card number="1" name="Falkenrath Noble"/>
         <card number="1" name="Solemn Simulacrum"/>
@@ -98,6 +97,7 @@
         <card number="1" name="Keeper of the Accord" setShortName="MKC" collectorNumber="70" uuid="08788504-17b9-47b1-b928-f395d0057eed"/>
         <card number="1" name="Oft-Nabbed Goat" setShortName="ECC" collectorNumber="11" uuid="4030bfab-867c-4724-904e-3e8b631f075e"/>
         <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
+        <card number="1" name="Cauldron of Souls" setShortName="PLST" collectorNumber="CM2-180" uuid="3cd9c327-c2ff-4834-b806-f4ab1fb4325f"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

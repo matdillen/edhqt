@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 12 23:41:01 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Feb 19 14:11:17 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="b238485f-ef67-4295-892b-a10235368f74">Inniaz, the Gale Force</bannerCard>
     <comments></comments>
@@ -50,7 +50,6 @@
         <card number="1" name="Faerie Mastermind" setShortName="MOM" collectorNumber="58" uuid="52d3005f-a1c7-4ef5-911f-ccc0752f4181"/>
         <card number="1" name="Azorius Signet" setShortName="AA1" collectorNumber="1" uuid="1f880968-565b-41ad-a64b-3dd3ef100051"/>
         <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
-        <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
         <card number="1" name="March of Swirling Mist" setShortName="NEO" collectorNumber="61" uuid="100171d8-7436-44c8-b4cb-0101ffa05c25"/>
         <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
         <card number="1" name="Warden of Evos Isle" setShortName="J25" collectorNumber="385" uuid="40d26ee1-5264-4f5a-ac01-8304888589aa"/>
@@ -97,6 +96,7 @@
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
         <card number="1" name="Glen Elendra's Answer" setShortName="ECL" collectorNumber="52" uuid="fa5bfbf9-dca2-42b7-a431-f9afedb54528"/>
         <card number="1" name="Everything Comes to Dust" setShortName="WHO" collectorNumber="19" uuid="fb4b912c-07d4-42a1-8f3b-d5f34cca087f"/>
-        <card number="1" name="Comeuppance" setShortName="MAR" collectorNumber="1" uuid="ec191a2f-12b1-438b-b2fe-f88fb82d9b87"/>
+        <card number="1" name="Land Tax" setShortName="CMM" collectorNumber="37" uuid="9258ad10-cbe6-4676-93b4-6ef4a33f12ee"/>
+        <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
     </zone>
 </cockatrice_deck>
