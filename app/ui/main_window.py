@@ -1,71 +1,28 @@
 from PyQt5.QtWidgets import (
     QMainWindow, QWidget, QHBoxLayout, QVBoxLayout, QListWidget, QListWidgetItem,
-    QComboBox, QLineEdit, QPushButton, QLabel, QMessageBox, QSizePolicy, QProgressDialog
+    QComboBox, QPushButton, QLabel, QMessageBox, QSizePolicy, QProgressDialog
 )
-from PyQt5.QtGui import QPixmap
+from PyQt5.QtGui import QPixmap, QPainter
 from PyQt5.QtCore import Qt
 
 from app.services.config import AppConfig
 from app.services.db import CardDB
 from app.services.decks import index_decks_folder, read_mainboard
-from app.services.images import build_image_lookup, cache_image_for_card, safe_stem
+from app.services.images import get_image_lookup, cache_image_for_card, safe_stem
 from app.services.search import CardCache, search_in_deck
-from app.services.analytics import mana_curve
+from app.services.analytics import cmc_from_value
 from app.services.visualize import manafy_html
+from app.widgets.CardRowWidget import CardRowWidget
+from app.widgets.AutoSelectTextEdit import AutoSelectTextEdit
 from app.ui.plane_view import DeckPlaneDialog
+from app.ui.ImagePopup import ImagePopup
 
 from typing import Optional
 from string import Template
 from pathlib import Path
+import matplotlib.pyplot as plt
 
 import os
-
-class CardRowWidget(QWidget):
-    """A richer row for deck cards with color pips, qty, name, and mana value."""
-    def __init__(self, name: str, qty: int, color_identity: str, mana_value: Optional[str]):
-        super().__init__()
-        self.name = name
-        self.qty = qty
-        self.color_identity = color_identity or ""
-        self.mana_value = mana_value
-
-        lay = QHBoxLayout(self)
-        lay.setContentsMargins(6, 4, 6, 4)
-        lay.setSpacing(8)
-
-        # Color pips
-        self.pips = QLabel()
-        self.pips.setTextInteractionFlags(Qt.NoTextInteraction)
-        lay.addWidget(self.pips)
-
-        # Qty chip
-        self.qty_lbl = QLabel(f"{qty}×")
-        self.qty_lbl.setStyleSheet("QLabel { padding: 2px 6px; border-radius: 8px; border: 1px solid #666; }")
-        lay.addWidget(self.qty_lbl)
-
-        # Name
-        self.name_lbl = QLabel(name)
-        self.name_lbl.setStyleSheet("QLabel { font-weight: 600; }")
-        self.name_lbl.setTextInteractionFlags(Qt.NoTextInteraction)
-        lay.addWidget(self.name_lbl, 1)
-
-        # Mana value chip
-        mv_text = str(int(float(mana_value))) if (mana_value not in (None, "")) else "—"
-        self.mv_lbl = QLabel(mv_text)
-        self.mv_lbl.setStyleSheet("QLabel { padding: 2px 6px; border-radius: 8px; background: #2a2a2a; color: #ddd; }")
-        self.mv_lbl.setAlignment(Qt.AlignCenter)
-        self.mv_lbl.setFixedWidth(28)
-        lay.addWidget(self.mv_lbl)
-
-    def set_pips_html(self, html: str):
-        self.pips.setText(html)
-
-
-class AutoSelectTextEdit(QLineEdit):
-    def mousePressEvent(self, event):
-        super().mousePressEvent(event)
-        self.selectAll()
-
 
 class MainWindow(QMainWindow):
     def __init__(self):
@@ -76,7 +33,8 @@ class MainWindow(QMainWindow):
         # Config & services
         self.config = AppConfig.load()
         self.db = CardDB(str(self.config.db_path))
-        self.image_lookup = build_image_lookup(self.config.image_folder)
+        self.image_lookup = get_image_lookup()
+        
         self.cache = CardCache(self.config.cache_file)
         self.cache.load()
 
@@ -95,7 +53,7 @@ class MainWindow(QMainWindow):
 
         # Left panel: deck list + filters
         left_layout = QVBoxLayout()
-
+        
         self.deck_list = QListWidget()
         left_layout.addWidget(self.deck_list)
         self._init_decklist_items(self.deck_files)
@@ -114,23 +72,35 @@ class MainWindow(QMainWindow):
         f_layout = QHBoxLayout()
         self.filter_dropdown = QComboBox(); self.filter_dropdown.addItems(["Color Identity"])  # extensible
         f_layout.addWidget(self.filter_dropdown)
-        self.filter_input = QLineEdit(); self.filter_input.setPlaceholderText("Filter for color(s), e.g. wub")
+        self.filter_input = AutoSelectTextEdit(self); self.filter_input.setPlaceholderText("Filter for color(s), e.g. wub")
         self.filter_input.returnPressed.connect(self._filter_decks)
         f_layout.addWidget(self.filter_input)
         f_btn = QPushButton("Filter Decks"); f_btn.clicked.connect(self._filter_decks)
         f_layout.addWidget(f_btn)
         r_btn = QPushButton("Reset Filter"); r_btn.clicked.connect(self._reset_deck_list)
         f_layout.addWidget(r_btn)
-        plane_btn = QPushButton("Deck Plane"); plane_btn.clicked.connect(self._show_deck_plane)
-        f_layout.addWidget(plane_btn)
         left_layout.addLayout(f_layout)
+        
+        df_layout = QHBoxLayout()
+        plane_btn = QPushButton("Deck Plane"); plane_btn.clicked.connect(self._show_deck_plane)
+        curve_btn = QPushButton("Mana Curve"); curve_btn.clicked.connect(self._show_mana_curve)
+        refresh_btn = QPushButton("Refresh Img Cache"); refresh_btn.clicked.connect(self._refresh_image_cache)
+        df_layout.addWidget(plane_btn)
+        df_layout.addWidget(curve_btn)
+        df_layout.addWidget(refresh_btn)
+        left_layout.addLayout(df_layout)
 
         main_layout.addLayout(left_layout,stretch=1)
 
         # Mid panel: deck contents
         mid_layout = QVBoxLayout()
+        
+        self.general_image_label = QLabel("Commander Image"); self.general_image_label.setAlignment(Qt.AlignCenter)
+        self.general_image_label.setStyleSheet("border: 1px solid black;")
+        self.general_image_label.mousePressEvent = self._show_general_image_popup
+        mid_layout.addWidget(self.general_image_label, 1)
         self.deck_display = QListWidget(); self.deck_display.itemClicked.connect(self._show_card_details)
-        mid_layout.addWidget(self.deck_display)
+        mid_layout.addWidget(self.deck_display,4)
 
         main_layout.addLayout(mid_layout,stretch=2)
 
@@ -240,8 +210,50 @@ class MainWindow(QMainWindow):
             squares.append(f'<span style="color:{col}; font-size:14px;">&#9632;</span>')
         return " ".join(squares)
 
+    def _display_general(self, width, height):
+        general_name = self._selected_deck_name() or ""
+        
+        # Split names if '&' is present, otherwise create a list with one name
+        names = [n.strip() for n in general_name.split('&')] if '&' in general_name else [general_name]
+        pixmaps = []
+        for name in names:
+            img_path = self._get_card_img(name)
+            if img_path:
+                pix = QPixmap(img_path).scaled(width, height, Qt.KeepAspectRatio, Qt.SmoothTransformation)
+                pixmaps.append(pix)
+        if pixmaps:
+            if len(pixmaps) > 1:
+                # Calculate dimensions for the combined image
+                spacing = 5
+                total_width = sum(p.width() for p in pixmaps) + (spacing * (len(pixmaps) - 1))
+                max_height = max(p.height() for p in pixmaps)
+                
+                # Create a transparent canvas
+                combined = QPixmap(total_width, max_height)
+                combined.fill(Qt.transparent)
+                
+                # Paint the images side-by-side
+                painter = QPainter(combined)
+                current_x = 0
+                for p in pixmaps:
+                    painter.drawPixmap(current_x, 0, p)
+                    current_x += p.width() + spacing
+                painter.end()
+                
+                return(combined)
+            else:
+                # Single image behavior
+                return(pixmaps[0])
+        else:
+            return None
+    
     def _display_deck(self, deck_cards):
         self.deck_display.clear()
+        general_image = self._display_general(100,150)
+        if general_image:
+            self.general_image_label.setPixmap(general_image)
+        else:
+            self.general_image_label.clear(); self.general_image_label.setText("Image not available")
         for name, qty in deck_cards:
             meta = self._get_card(name)
             mv = meta.get("manaValue")
@@ -293,16 +305,8 @@ class MainWindow(QMainWindow):
         self.deck_files_actu = filtered
         self._init_decklist_items(filtered)
 
-    def _show_card_details(self, item):
-        # Retrieve the card name stored in UserRole (since rows are custom widgets)
-        card_name = item.data(Qt.UserRole)
-        if not card_name:
-            # Fallback: try to parse from text if present
-            text = item.text() or ""
-            card_name = text.split("x ", 1)[-1].strip()
+    def _get_card_img(self, card_name):
         key = (card_name or "").lower()
-
-        # Image
         img = self.image_lookup.get(key)
         if not img:
             cached_path = cache_image_for_card(card_name)
@@ -310,6 +314,18 @@ class MainWindow(QMainWindow):
                 # Rebuild lookup so subsequent selections are instant
                 self.image_lookup[safe_stem(card_name)] = str(cached_path)
                 img = str(cached_path)
+        return img
+    
+    def _show_card_details(self, item):
+        # Retrieve the card name stored in UserRole (since rows are custom widgets)
+        card_name = item.data(Qt.UserRole)
+        if not card_name:
+            # Fallback: try to parse from text if present
+            text = item.text() or ""
+            card_name = text.split("x ", 1)[-1].strip()
+
+        # Image
+        img = self._get_card_img(card_name)
 
         if img:
             self.card_image_label.setPixmap(QPixmap(img).scaled(200, 300, Qt.KeepAspectRatio, transformMode=Qt.SmoothTransformation))
@@ -353,10 +369,16 @@ class MainWindow(QMainWindow):
     def _show_image_popup(self, _evt):
         if not self.current_card_image_path:
             return
-        popup = QMessageBox(); popup.setWindowTitle("Card Image")
         pix = QPixmap(self.current_card_image_path)
-        popup.setIconPixmap(pix.scaledToHeight(680))
+        popup = ImagePopup(pix, parent=self)
         popup.exec()
+        
+    def _show_general_image_popup(self, _evt):
+        img = self._display_general(460,680)
+        if not img:
+            return
+        popup = ImagePopup(img, parent=self)
+        popup.exec()     
 
     def _ensure_deck_images(self, deck_cards):
         missing = []
@@ -385,6 +407,7 @@ class MainWindow(QMainWindow):
     # Get deck cards however you store them
         deck_name = self._selected_deck_name()
         if not deck_name:
+            QMessageBox.warning(self, "No Deck Selected", "Please select a deck to view its content on the plane.")
             return
         path = self.deck_files.get(deck_name)
         if not path:
@@ -402,3 +425,30 @@ class MainWindow(QMainWindow):
             parent=self
         )
         dlg.exec_()
+        
+    def _show_mana_curve(self):
+        deck_name = self._selected_deck_name()
+        if not deck_name:
+            QMessageBox.warning(self, "No Deck Selected", "Please select a deck to view its mana curve.")
+            return
+        path = self.deck_files.get(deck_name)
+        if not path:
+            QMessageBox.warning(self, "Deck Content not found", "Try loading the deck first?")
+            return
+        deck_cards = self.current_deck_cards
+        
+        curve: Dict[int, int] = {}
+        
+        for name, qty in deck_cards:
+            meta = self._get_card(name)
+            cmc = cmc_from_value(meta.get("manaValue"))
+            if cmc is not None:
+                curve[cmc] = curve.get(cmc, 0) + qty
+
+        plt.bar(curve.keys(), curve.values())
+        plt.title("Mana Curve")
+        plt.xlabel("Converted Mana Cost (CMC)")
+        plt.ylabel("Number of Cards")
+        plt.show()
+    def _refresh_image_cache(self):
+        self.image_lookup = get_image_lookup(self.config.image_folder)

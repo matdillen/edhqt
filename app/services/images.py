@@ -5,11 +5,13 @@ import time
 import json
 import mimetypes
 import requests
+import csv
 
 # scryfall API endpoint for exact name lookup
 SCRYFALL_NAMED_URL = "https://api.scryfall.com/cards/named"
 # Default app image cache directory
 APP_IMG_CACHE = Path("data/img")
+APP_IMG_INDEX = "data/img_index.csv"
 
 def ensure_app_cache_dir(path: Optional[Path] = None) -> Path:
     """Ensure the app's own image cache directory exists and return it."""
@@ -120,3 +122,38 @@ def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = APP_IM
 
 
     return lookup
+
+def get_image_lookup(source_directory: Optional[str] = None) -> Dict[str, str]:
+    """
+    Retrieves a lookup dictionary from a CSV. If a source_directory is provided,
+    it regenerates the lookup and updates the CSV file.
+    """
+    
+    # Scenario A: Update the CSV with new data from build_image_lookup
+    if source_directory:
+        # Assuming build_image_lookup is defined globally or imported
+        image_lookup = build_image_lookup(source_directory)
+        
+        with open(APP_IMG_INDEX, mode='w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            # Writing the dictionary items as rows
+            for key, path in image_lookup.items():
+                writer.writerow([key, path])
+        
+        return image_lookup
+
+    # Scenario B: Simply read the existing CSV
+    image_lookup = {}
+    try:
+        with open(APP_IMG_INDEX, mode='r', newline='', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            for row in reader:
+                if len(row) == 2:
+                    key, path = row
+                    image_lookup[key] = path
+    except FileNotFoundError:
+        # Return an empty dict if the file doesn't exist yet
+        return {}
+
+    return image_lookup
+        

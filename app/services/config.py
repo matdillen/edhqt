@@ -20,5 +20,5 @@ class AppConfig:
             decks_folder=cfg.get("decks_folder", "./decks"),
             db_path=cfg.get("db_path", "./allprintings.sqlite"),
             image_folder=cfg.get("image_folder", "./images"),
-            cache_file=cfg.get("cache_file", "./card_cache.csv"),
+            cache_file=cfg.get("cache_file", "./card_cache.csv")
         )
