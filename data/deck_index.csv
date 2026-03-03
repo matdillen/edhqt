@@ -1,0 +1,38 @@
+deck_name,file_path,color_identity
+Akul the Unrepentant,data\decks\akul.cod,"B, R"
+Ashnod the Uncaring,data\decks\ashnod.cod,"U, B, R"
+"Bello, Bard of the Brambles",data\decks\bello.cod,"R, G"
+"Betor, Kin to All",data\decks\betor.cod,"W, B, G"
+"Bohn, Beguiling Balladeer",data\decks\bohn.cod,"U, R"
+"Delney, Streetwise Lookout",data\decks\delney.cod,W
+"Eluge, the Shoreless Sea",data\decks\eluge.cod,U
+Emiel the Blessed,data\decks\emiel.cod,"W, G"
+"Feather, the Redeemed",data\decks\feather.cod,"W, R"
+"Firkraag, Cunning Instigator",data\decks\firkraag.cod,"U, R"
+Commodore Guff,data\decks\guff.cod,"W, U, R"
+"Inniaz, the Gale Force",data\decks\inniaz.cod,"W, U"
+"Isshin, Two Heavens as One",data\decks\isshin.cod,"W, B, R"
+"Ivy, Gleeful Spellthief",data\decks\ivy.cod,"U, G"
+"Jaheira, Friend of the Forest & Inspiring Leader",data\decks\jaheira.cod,"W, G"
+"Jedit Ojanen, Mercenary",data\decks\jedit.cod,"W, U, G"
+"Kadena, Slinking Sorcerer",data\decks\kadena.cod,"U, B, G"
+Karlov of the Ghost Council,data\decks\karlov.cod,"W, B"
+"Kokusho, the Evening Star",data\decks\kokusho.cod,B
+"Gyome, Master Chef",data\decks\kyome.cod,"B, G"
+"Livaan, Cultist of Tiamat & Hardy Outlander",data\decks\livaan.cod,"R, G"
+"Miirym, Sentinel Wyrm",data\decks\miirym.cod,"U, R, G"
+Nikya of the Old Ways,data\decks\nikya.cod,"R, G"
+"Ognis, the Dragon's Lash",data\decks\ognis.cod,"B, R, G"
+"Omo, Queen of Vesuva",data\decks\omo.cod,"U, G"
+"Orthion, Hero of Lavabrink",data\decks\orthion.cod,R
+Fire Lord Ozai,data\decks\ozai.cod,"B, R"
+"Atla Palani, Nest Tender",data\decks\pantani.cod,"W, R, G"
+"Pir, Imaginative Rascal & Toothy, Imaginary Friend",data\decks\pirtoo.cod,"U, G"
+"Reki, the History of Kamigawa",data\decks\reki.cod,G
+"Reyhan, Last of the Abzan & Bruse Tarl, Boorish Herder",data\decks\reybruse.cod,"W, B, R, G"
+Satoru Umezawa,data\decks\satoru.cod,"U, B"
+"Sydri, Galvanic Genius",data\decks\sydri.cod,"W, U, B"
+Teysa Karlov,data\decks\teysa.cod,"W, B"
+Tyvar the Bellicose,data\decks\tyvar.cod,"B, G"
+"Volo, Guide to Monsters",data\decks\volo.cod,"U, G"
+"Wayta, Trainer Prodigy",data\decks\wayta.cod,"W, R, G"

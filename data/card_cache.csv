@@ -1741,3 +1741,120 @@ within range,,4.0,B,Enchantment,"When this enchantment enters, create two 1/1 re
 "locke, treasure hunter","Human, Rogue",3.0,"B, R",Legendary Creature — Human Rogue,"Locke can't be blocked by creatures with greater power.\nMug — Whenever Locke attacks, each player mills a card. If a land card was milled this way, create a Treasure token. Until end of turn, you may cast a spell from among those cards.",FIC,2,3
 adept watershaper,,,,,,,,
 "raph & leo, sibling rivals",,,,,,,,
+"sting, the glinting dagger",Equipment,2.0,,Legendary Artifact — Equipment,"Equipped creature gets +1/+1 and has haste.\nAt the beginning of each combat, untap equipped creature.\nEquipped creature has first strike as long as it's blocking or blocked by a Goblin or Orc.\nEquip {2}",LTR,,
+"marvin, murderous mimic",Toy,2.0,,Legendary Artifact Creature — Toy,Marvin has all activated abilities of creatures you control that don't have the same name as this creature.,DSK,2,2
+viridian joiner,"Elf, Druid",3.0,G,Creature — Elf Druid,{T}: Add an amount of {G} equal to this creature's power.,MRD,1,2
+canopy tactician,"Elf, Warrior",4.0,G,Creature — Elf Warrior,Other Elves you control get +1/+1.\n{T}: Add {G}{G}{G}.,KHM,3,3
+mutable explorer,Shapeshifter,3.0,G,Creature — Shapeshifter,"Changeling (This card is every creature type.)\nWhen this creature enters, create a tapped Mutavault token. (It's a land with ""{T}: Add {C}"" and ""{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land."")",ECL,1,1
+gilt-leaf palace,,0.0,"B, G",Land,"As this land enters, you may reveal an Elf card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {G}.",LRW,,
+bloodline bidding,,,,,,,,
+selfless safewright,,,,,,,,
+champions of the perfect,,,,,,,,
+galadhrim ambush,,4.0,G,Instant,"Create X 1/1 green Elf Warrior creature tokens, where X is the number of attacking creatures.\nPrevent all combat damage that would be dealt this turn by non-Elf creatures.",LTC,,
+breach the multiverse,,7.0,B,Sorcery,"Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",MOM,,
+radstorm,,4.0,U,Instant,"Storm (When you cast this spell, copy it for each spell cast before it this turn.)\nProliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",PIP,,
+overburden,,2.0,U,Enchantment,"Whenever a player puts a nontoken creature onto the battlefield, that player returns a land they control to its owner's hand.",PCY,,
+seaside haven,,0.0,"U, W",Land,"{T}: Add {C}.
+{W}{U}, {T}, Sacrifice a Bird: Draw a card.",ONS,,
+moorland haunt,,0.0,"U, W",Land,"{T}: Add {C}.
+{W}{U}, {T}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.",ISD,,
+windbrisk heights,,0.0,W,Land,"Hideaway 4 (When this land enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+This land enters tapped.
+{T}: Add {W}.
+{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",LTC,,
+faerie conclave,,0.0,U,Land,"This land enters tapped.
+{T}: Add {U}.
+{1}{U}: This land becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.",C13,,
+prairie stream,"Plains, Island",0.0,"U, W",Land — Plains Island,"({T}: Add {W} or {U}.)
+This land enters tapped unless you control two or more basic lands.",BRC,,
+siren stormtamer,"Siren, Pirate, Wizard",1.0,U,Creature — Siren Pirate Wizard,"Flying
+{U}, Sacrifice this creature: Counter target spell or ability that targets you or a creature you control.",LCC,1,1
+"momo, friendly flier","Lemur, Bat, Ally",1.0,W,Legendary Creature — Lemur Bat Ally,"Flying
+The first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.
+Whenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",TLA,1,1
+sky tether,Aura,1.0,W,Enchantment — Aura,"Enchant creature
+Enchanted creature has defender and loses flying.",RNA,,
+mausoleum wanderer,Spirit,1.0,U,Creature — Spirit,"Flying
+Whenever another Spirit you control enters, this creature gets +1/+1 until end of turn.
+Sacrifice this creature: Counter target instant or sorcery spell unless its controller pays {X}, where X is this creature's power.",INR,1,1
+thousand-faced shadow,"Human, Ninja",1.0,U,Creature — Human Ninja,"Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Flying
+When this creature enters from your hand, if it's attacking, create a token that's a copy of another target attacking creature. The token enters tapped and attacking.",NEO,1,1
+haunted library,,2.0,W,Enchantment,"Whenever a creature an opponent controls dies, you may pay {1}. If you do, create a 1/1 white Spirit creature token with flying.",VOC,,
+rally of wings,,2.0,W,Instant,Untap all creatures you control. Creatures you control with flying get +2/+2 until end of turn.,SCD,,
+pride of the clouds,"Elemental, Cat",2.0,"U, W",Creature — Elemental Cat,"Flying
+This creature gets +1/+1 for each other creature on the battlefield with flying.
+Forecast — {2}{W}{U}, Reveal this creature from your hand: Create a 1/1 white and blue Bird creature token with flying. (Activate only during your upkeep and only once each turn.)",DIS,1,1
+skycat sovereign,"Elemental, Cat",2.0,"U, W",Creature — Elemental Cat,"Flying
+This creature gets +1/+1 for each other creature you control with flying.
+{2}{W}{U}: Create a 1/1 white Cat Bird creature token with flying.",PIKO,1,1
+watcher of the spheres,"Bird, Wizard",2.0,"U, W",Creature — Bird Wizard,"Flying
+Creature spells with flying you cast cost {1} less to cast.
+Whenever another creature you control with flying enters, this creature gets +1/+1 until end of turn.",M21,2,2
+air nomad legacy,,2.0,"U, W",Enchantment,"When this enchantment enters, create a Clue token. (It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+Creatures you control with flying get +1/+1.",TLA,,
+selfless spirit,"Spirit, Cleric",2.0,W,Creature — Spirit Cleric,"Flying
+Sacrifice this creature: Creatures you control gain indestructible until end of turn.",EMN,2,1
+faerie mastermind,"Faerie, Rogue",2.0,U,Creature — Faerie Rogue,"Flash
+Flying
+Whenever an opponent draws their second card each turn, you draw a card.
+{3}{U}: Each player draws a card.",PMOM,2,1
+warden of evos isle,"Bird, Wizard",3.0,U,Creature — Bird Wizard,"Flying
+Creature spells with flying you cast cost {1} less to cast.",ANB,2,2
+hushwing gryff,Hippogriff,3.0,W,Creature — Hippogriff,"Flash
+Flying
+Creatures entering don't cause abilities to trigger.",M15,2,1
+spell queller,Spirit,3.0,"U, W",Creature — Spirit,"Flash
+Flying
+When this creature enters, exile target spell with mana value 4 or less.
+When this creature leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.",SIR,2,3
+errant and giada,"Human, Angel",3.0,"U, W",Legendary Creature — Human Angel,"Flash
+Flying
+You may look at the top card of your library any time.
+You may cast spells with flash or flying from the top of your library.",MOM,2,3
+aerial surveyor,Vehicle,3.0,W,Artifact — Vehicle,"Flying
+Whenever this Vehicle attacks, if defending player controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.
+Crew 2",NEC,3,4
+midnight haunting,,3.0,W,Instant,Create two 1/1 white Spirit creature tokens with flying.,ISD,,
+jackdaw savior,"Bird, Cleric",3.0,W,Creature — Bird Cleric,"Flying
+Whenever this creature or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.",PBLB,3,1
+kitesail larcenist,"Human, Pirate",3.0,U,Creature — Human Pirate,"Flying, ward {1}
+When this creature enters, for each player, choose up to one other target artifact or creature that player controls. For as long as this creature remains on the battlefield, the chosen permanents become Treasure artifacts with ""{T}, Sacrifice this artifact: Add one mana of any color"" and lose all other abilities.",LCI,2,3
+scouting hawk,Bird,3.0,W,Creature — Bird,"Flying
+Keen Sight — When this creature enters, if an opponent controls more lands than you, search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle.",CLB,1,1
+faebloom trick,,3.0,U,Instant,"Create two 1/1 blue Faerie creature tokens with flying. When you do, tap target creature an opponent controls.",FDN,,
+battle screech,,4.0,W,Sorcery,"Create two 1/1 white Bird creature tokens with flying.
+Flashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",MH1,,
+windborn muse,Spirit,4.0,W,Creature — Spirit,"Flying
+Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",DMR,2,3
+"donal, herald of wings","Human, Wizard",4.0,U,Legendary Creature — Human Wizard,"Whenever you cast a nonlegendary creature spell with flying, you may copy it, except the copy is a 1/1 Spirit in addition to its other types. Do this only once each turn. (The copy becomes a token.)",VOC,3,3
+thieving skydiver,"Merfolk, Rogue",2.0,U,Creature — Merfolk Rogue,"Kicker {X}. X can't be 0. (You may pay an additional {X} as you cast this spell.)
+Flying
+When this creature enters, if it was kicked, gain control of target artifact with mana value X or less. If that artifact is an Equipment, attach it to this creature.",PRM,2,1
+mockingbird,"Bird, Bard",1.0,U,Creature — Bird Bard,"Flying
+You may have this creature enter as a copy of any creature on the battlefield with mana value less than or equal to the amount of mana spent to cast this creature, except it's a Bird in addition to its other types and it has flying.",PBLB,1,1
+overlord of the mistmoors,"Avatar, Horror",7.0,W,Enchantment Creature — Avatar Horror,"Impending 4—{2}{W}{W} (If you cast this spell for its impending cost, it enters with four time counters and isn't a creature until the last is removed. At the beginning of your end step, remove a time counter from it.)
+Whenever this permanent enters or attacks, create two 2/1 white Insect creature tokens with flying.",DSK,6,6
+curiosity crafter,"Bird, Wizard",4.0,U,Creature — Bird Wizard,"Flying
+You have no maximum hand size.
+Whenever a creature token you control deals combat damage to a player, draw a card.",PLST,3,3
+serra the benevolent,Serra,4.0,W,Legendary Planeswalker — Serra,"[+2]: Creatures you control with flying get +1/+1 until end of turn.
+[−3]: Create a 4/4 white Angel creature token with flying and vigilance.
+[−6]: You get an emblem with ""If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.""",SLD,,
+manor gargoyle,Gargoyle,5.0,,Artifact Creature — Gargoyle,"Defender
+This creature has indestructible as long as it has defender.
+{1}: Until end of turn, this creature loses defender and gains flying.",ISD,4,4
+"sephara, sky's blade",Angel,7.0,W,Legendary Creature — Angel,"You may pay {W} and tap four untapped creatures you control with flying rather than pay this spell's mana cost.
+Flying, lifelink
+Other creatures you control with flying have indestructible. (Damage and effects that say ""destroy"" don't destroy them.)",CMM,7,7
+aerial extortionist,"Bird, Soldier",5.0,W,Creature — Bird Soldier,"Flying
+Whenever this creature enters or deals combat damage to a player, exile up to one target nonland permanent. For as long as that card remains exiled, its owner may cast it.
+Whenever another player casts a spell from anywhere other than their hand, draw a card.",NCC,4,3
+access denied,,5.0,U,Instant,"Counter target spell. Create X 1/1 colorless Thopter artifact creature tokens with flying, where X is that spell's mana value.",NEC,,
+stolen by the fae,,2.0,U,Sorcery,Return target creature with mana value X to its owner's hand. You create X 1/1 blue Faerie creature tokens with flying.,PELD,,
+faerie slumber party,,6.0,U,Sorcery,"Return all creatures to their owners' hands. For each opponent who controlled a creature returned this way, you create two 1/1 blue Faerie creature tokens with flying and ""This token can block only creatures with flying.""",WOE,,
+murmuration,,5.0,W,Enchantment,"Birds you control get +1/+1 and have vigilance.
+At the beginning of your end step, for each spell you've cast this turn, create a 1/2 blue Bird creature token with flying named Storm Crow.",BLC,,
+glen elendra's answer,,4.0,U,Instant,"This spell can't be countered.
+Counter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",ECL,,
+land tax,,1.0,W,Enchantment,"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.",WOT,,

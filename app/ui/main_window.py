@@ -7,7 +7,7 @@ from PyQt5.QtCore import Qt
 
 from app.services.config import AppConfig
 from app.services.db import CardDB
-from app.services.decks import index_decks_folder, read_mainboard
+from app.services.decks import load_index, read_mainboard
 from app.services.images import get_image_lookup, cache_image_for_card, safe_stem
 from app.services.search import CardCache, search_in_deck
 from app.services.analytics import cmc_from_value
@@ -38,14 +38,7 @@ class MainWindow(QMainWindow):
         self.cache = CardCache(self.config.cache_file)
         self.cache.load()
 
-        # color identity lookup uses both name and faceName as in your script
-        def lookup_cid(card_name: str):
-            res = self.db.query_one("colorIdentity", "cards", "name = ?", (card_name,))
-            if not res or not res[0]:
-                res = self.db.query_one("colorIdentity", "cards", "faceName = ?", (card_name,))
-            return res[0] if res else ""
-
-        self.deck_files, self.color_ids = index_decks_folder(self.config.decks_folder, lookup_cid)
+        self.deck_files, self.color_ids = load_index(self.config.decks_folder, self.lookup_cid)
         self.deck_files_actu = dict(self.deck_files)
 
         # UI layout
@@ -54,11 +47,6 @@ class MainWindow(QMainWindow):
         # Left panel: deck list + filters
         left_layout = QVBoxLayout()
         
-        self.deck_list = QListWidget()
-        left_layout.addWidget(self.deck_list)
-        self._init_decklist_items(self.deck_files)
-        self.deck_list.itemClicked.connect(self._load_deck_clicked)
-
         s_layout = QHBoxLayout()
         self.search_dropdown = QComboBox(); self.search_dropdown.addItems(["Cards", "Subtypes"])
         s_layout.addWidget(self.search_dropdown)
@@ -84,11 +72,21 @@ class MainWindow(QMainWindow):
         df_layout = QHBoxLayout()
         plane_btn = QPushButton("Deck Plane"); plane_btn.clicked.connect(self._show_deck_plane)
         curve_btn = QPushButton("Mana Curve"); curve_btn.clicked.connect(self._show_mana_curve)
-        refresh_btn = QPushButton("Refresh Img Cache"); refresh_btn.clicked.connect(self._refresh_image_cache)
         df_layout.addWidget(plane_btn)
         df_layout.addWidget(curve_btn)
-        df_layout.addWidget(refresh_btn)
         left_layout.addLayout(df_layout)
+        
+        self.deck_list = QListWidget()
+        left_layout.addWidget(self.deck_list)
+        self._init_decklist_items(self.deck_files)
+        self.deck_list.itemClicked.connect(self._load_deck_clicked)
+        
+        bottom_layout = QHBoxLayout()
+        refresh_btn = QPushButton("Refresh Img Cache"); refresh_btn.clicked.connect(self._refresh_image_cache)
+        bottom_layout.addWidget(refresh_btn)
+        refresh_decks_btn = QPushButton("Refresh Decklists"); refresh_decks_btn.clicked.connect(self._refresh_decklists_from_file)
+        bottom_layout.addWidget(refresh_decks_btn)
+        left_layout.addLayout(bottom_layout)
 
         main_layout.addLayout(left_layout,stretch=1)
 
@@ -131,7 +129,14 @@ class MainWindow(QMainWindow):
     # ---------- UI helpers ----------
     def _color_hex(self, c: str) -> str:
         return {"W":"#FFFFFF","U":"#0000FF","B":"#000000","R":"#FF0000","G":"#008000"}.get(c, "#202124")
-
+        
+    # color identity lookup uses both name and faceName as in your script
+    def lookup_cid(self, card_name: str):
+        res = self.db.query_one("colorIdentity", "cards", "name = ?", (card_name,))
+        if not res or not res[0]:
+            res = self.db.query_one("colorIdentity", "cards", "faceName = ?", (card_name,))
+        return res[0] if res else ""
+    
     def _fetch_card_from_db(self, card_name: str) -> dict:
     # Query by name, fallback faceName; fetch all fields we display or search on
         SELECT = (
@@ -157,26 +162,28 @@ class MainWindow(QMainWindow):
             data = self._fetch_card_from_db(card_name) or {}
             return data
         data = self.cache.ensure_card(key, fetch) or {}
-        # Persist new cache entries ASAP so subsequent screens are instant
-        self.cache.save()
         return data
     
     def _init_decklist_items(self, decks):
         self.deck_list.clear()
         order = ["W","U","B","R","G"]
-        for deck_name in decks:
-            identity = self.color_ids.get(deck_name, "")
-            squares = " ".join([f'<span style="color:{self._color_hex(c) if c in identity else "#202124"};">&#9632;</span>' for c in order])
+        self.deck_list.setUpdatesEnabled(False)
+        try:
+            for deck_name in decks:
+                identity = self.color_ids.get(deck_name, "")
+                squares = " ".join([f'<span style="color:{self._color_hex(c) if c in identity else "#202124"};">&#9632;</span>' for c in order])
 
-            item_widget = QWidget(); lay = QHBoxLayout(); lay.setContentsMargins(5,5,5,5)
-            color_lbl = QLabel(); color_lbl.setText(squares); color_lbl.setAlignment(Qt.AlignLeft)
-            name_lbl = QLabel(deck_name); name_lbl.setAlignment(Qt.AlignLeft)
-            lay.addWidget(color_lbl); lay.addWidget(name_lbl); lay.addStretch(); item_widget.setLayout(lay)
+                item_widget = QWidget(); lay = QHBoxLayout(); lay.setContentsMargins(5,5,5,5)
+                color_lbl = QLabel(); color_lbl.setText(squares); color_lbl.setAlignment(Qt.AlignLeft)
+                name_lbl = QLabel(deck_name); name_lbl.setAlignment(Qt.AlignLeft)
+                lay.addWidget(color_lbl); lay.addWidget(name_lbl); lay.addStretch(); item_widget.setLayout(lay)
 
-            item = QListWidgetItem(self.deck_list)
-            item.setSizeHint(item_widget.sizeHint())
-            self.deck_list.addItem(item)
-            self.deck_list.setItemWidget(item, item_widget)
+                item = QListWidgetItem(self.deck_list)
+                item.setSizeHint(item_widget.sizeHint())
+                self.deck_list.addItem(item)
+                self.deck_list.setItemWidget(item, item_widget)
+        finally:
+            self.deck_list.setUpdatesEnabled(True)
 
     def _selected_deck_name(self):
         item = self.deck_list.currentItem()
@@ -248,24 +255,31 @@ class MainWindow(QMainWindow):
             return None
     
     def _display_deck(self, deck_cards):
+        self.deck_display.setUpdatesEnabled(False)
         self.deck_display.clear()
-        general_image = self._display_general(100,150)
-        if general_image:
-            self.general_image_label.setPixmap(general_image)
-        else:
-            self.general_image_label.clear(); self.general_image_label.setText("Image not available")
-        for name, qty in deck_cards:
-            meta = self._get_card(name)
-            mv = meta.get("manaValue")
-            ci = meta.get("colorIdentity") or ""
-            row = CardRowWidget(name=name, qty=qty, color_identity=ci, mana_value=mv)
-            row.set_pips_html(self._pip_squares(ci))
+        try:
+            general_image = self._display_general(100,150)
+            if general_image:
+                self.general_image_label.setPixmap(general_image)
+            else:
+                self.general_image_label.clear(); self.general_image_label.setText("Image not available")
+            card_names = [c[0] for c in deck_cards]
+            metadata_map = {name: self._get_card(name) for name in card_names}
+            for name, qty in deck_cards:
+                meta = metadata_map.get(name, {})
+                mv = meta.get("manaValue")
+                ci = meta.get("colorIdentity") or ""
+                row = CardRowWidget(name=name, qty=qty, color_identity=ci, mana_value=mv)
+                row.set_pips_html(self._pip_squares(ci))
 
-            item = QListWidgetItem()
-            item.setData(Qt.UserRole, name)
-            item.setSizeHint(row.sizeHint())
-            self.deck_display.addItem(item)
-            self.deck_display.setItemWidget(item, row)
+                item = QListWidgetItem()
+                item.setData(Qt.UserRole, name)
+                item.setSizeHint(row.sizeHint())
+                self.deck_display.addItem(item)
+                self.deck_display.setItemWidget(item, row)
+        finally:
+            self.deck_display.setUpdatesEnabled(True)
+            self.cache.save()
 
     def _search_decks(self):
         query = (self.search_input.text() or "").strip().lower()
@@ -452,3 +466,5 @@ class MainWindow(QMainWindow):
         plt.show()
     def _refresh_image_cache(self):
         self.image_lookup = get_image_lookup(self.config.image_folder)
+    def _refresh_decklists_from_file(self):
+        load_index(self.config.decks_folder, self.lookup_cid,True)
