@@ -1360,8 +1360,11 @@ spider-verse,,5.0,R,Enchantment,"The ""legend rule"" doesn't apply to Spiders yo
 "wan shi tong, librarian",,,,,,,,
 solid footing,Aura,1.0,W,Enchantment — Aura,"Flash\nEnchant creature\nEnchanted creature gets +1/+1.\nAs long as enchanted creature has vigilance, it assigns combat damage equal to its toughness rather than its power.",IKO,,
 traproot kami,Spirit,1.0,G,Creature — Spirit,Defender; reach (This creature can block creatures with flying.)\nTraproot Kami's toughness is equal to the number of Forests on the battlefield.,BOK,0,*
-bark of doran,,,,,,,,
-"doran, besieged by time",,,,,,,,
+bark of doran,Equipment,2.0,W,Artifact — Equipment,"Equipped creature gets +0/+1.
+As long as equipped creature's toughness is greater than its power, it assigns combat damage equal to its toughness rather than its power.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",ECL,,
+"doran, besieged by time","Treefolk, Druid",4.0,"B, G, W",Legendary Creature — Treefolk Druid,"Each creature spell you cast with toughness greater than its power costs {1} less to cast.
+Whenever a creature you control attacks or blocks, it gets +X/+X until end of turn, where X is the difference between its power and toughness.",ECL,0,5
 "doran, the siege tower","Treefolk, Shaman",3.0,"B, G, W",Legendary Creature — Treefolk Shaman,Each creature assigns combat damage equal to its toughness rather than its power.,2X2,0,5
 flumph,Jellyfish,2.0,W,Creature — Jellyfish,"Defender, flying\nWhenever this creature is dealt damage, you and target opponent each draw a card.",AFR,0,4
 animate dead,Aura,2.0,B,Enchantment — Aura,"Enchant creature card in a graveyard\nWhen this Aura enters, if it's on the battlefield, it loses ""enchant creature card in a graveyard"" and gains ""enchant creature put onto the battlefield with this Aura."" Return enchanted creature card to the battlefield under your control and attach this Aura to it. When this Aura leaves the battlefield, that creature's controller sacrifices it.\nEnchanted creature gets -1/-0.",2ED,,
@@ -1401,7 +1404,8 @@ eerie ultimatum,,7.0,"B, G, W",Sorcery,Return any number of permanent cards with
 avatar of woe,Avatar,8.0,B,Creature — Avatar,"If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{T}: Destroy target creature. It can't be regenerated.",ARC,6,5
 last march of the ents,,8.0,G,Sorcery,"This spell can't be countered.\nDraw cards equal to the greatest toughness among creatures you control, then put any number of creature cards from your hand onto the battlefield.",LTR,,
 towering titan,Giant,6.0,G,Creature — Giant,"This creature enters with X +1/+1 counters on it, where X is the total toughness of other creatures you control.\nSacrifice a creature with defender: All creatures gain trample until end of turn.",JMP,0,0
-the walls of ba sing se,,,,,,,,
+the walls of ba sing se,Wall,8.0,,Legendary Artifact Creature — Wall,"Defender
+Other permanents you control have indestructible.",TLA,0,30
 forbidding watchtower,,0.0,W,Land,This land enters tapped.\n{T}: Add {W}.\n{1}{W}: This land becomes a 1/5 white Soldier creature until end of turn. It's still a land.,10E,,
 grove of the guardian,,0.0,"G, W",Land,"{T}: Add {C}.\n{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice this land: Create an 8/8 green and white Elemental creature token with vigilance.",GK1,,
 "minamo, school at water's edge",,0.0,U,Legendary Land,"{T}: Add {U}.\n{U}, {T}: Untap target legendary permanent.",CHK,,
@@ -1447,7 +1451,9 @@ horizon stone,,5.0,,Artifact,"If you would lose unspent mana, that mana becomes 
 "alena, kessig trapper","Human, Scout",5.0,R,Legendary Creature — Human Scout,First strike\n{T}: Add an amount of {R} equal to the greatest power among creatures you control that entered this turn.\nPartner (You can have two commanders if both have partner.),CMR,4,3
 warstorm surge,,6.0,R,Enchantment,"Whenever a creature you control enters, it deals damage equal to its power to any target.",40K,,
 "shizo, death's storehouse",,0.0,B,Legendary Land,"{T}: Add {B}.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",CHK,,
-fire nation palace,,,,,,,,
+fire nation palace,,0.0,R,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {R}.
+{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)",TLA,,
 feign death,,1.0,B,Instant,"Until end of turn, target creature gains ""When this creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it.""",AFR,,
 undying malice,,1.0,B,Instant,"Until end of turn, target creature gains ""When this creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it.""",DBL,,
 not dead after all,,1.0,B,Instant,"Until end of turn, target creature you control gains ""When this creature dies, return it to the battlefield tapped under its owner's control, then create a Wicked Role token attached to it."" (Enchanted creature gets +1/+1. When this token is put into a graveyard, each opponent loses 1 life.)",WOE,,
@@ -1456,7 +1462,8 @@ doubling cube,,2.0,,Artifact,"{3}, {T}: Double the amount of each type of unspen
 unleash fury,,2.0,R,Instant,Double the power of target creature until end of turn.,J25,,
 lupine prototype,"Wolf, Construct",2.0,,Artifact Creature — Wolf Construct,This creature can't attack or block unless a player has no cards in hand.,EMN,5,5
 rot-curse rakshasa,Demon,2.0,B,Creature — Demon,"Trample\nDecayed (This creature can't block. When it attacks, sacrifice it at end of combat.)\nRenew — {X}{B}{B}, Exile this card from your graveyard: Put a decayed counter on each of X target creatures. Activate only as a sorcery.",PTDM,5,5
-the last agni kai,,,,,,,,
+the last agni kai,,2.0,R,Instant,"Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.
+Until end of turn, you don't lose unspent red mana as steps and phases end.",PTLA,,
 fire nation turret,,,,,,,,
 relic golem,Golem,3.0,,Artifact Creature — Golem,"This creature can't attack or block unless an opponent has eight or more cards in their graveyard.\n{2}, {T}: Target player mills two cards. (They put the top two cards of their library into their graveyard.)",ZNR,6,6
 "electro, assaulting battery","Human, Villain",3.0,R,Legendary Creature — Human Villain,"Flying\nYou don't lose unspent red mana as steps and phases end.\nWhenever you cast an instant or sorcery spell, add {R}.\nWhen Electro leaves the battlefield, you may pay {X}. When you do, he deals X damage to target player.",OM1,2,3
@@ -1469,10 +1476,14 @@ bygone colossus,"Robot, Giant",9.0,,Artifact Creature — Robot Giant,"Warp {3} 
 "the beast, deathless prince",Demon,4.0,"B, R",Legendary Creature — Demon,"When you cast this spell, gain control of target creature until end of turn. Untap it. It gains menace and haste until end of turn.\nThe Beast enters tapped with six stun counters on it. (If it would become untapped, remove a stun counter from it instead.)\nWhenever a creature deals combat damage to its owner, untap The Beast and draw a card.",WHO,6,6
 anticausal vestige,Eldrazi,6.0,,Creature — Eldrazi,"When this creature leaves the battlefield, draw a card, then you may put a permanent card with mana value less than or equal to the number of lands you control from your hand onto the battlefield tapped.\nWarp {4} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",EOE,7,5
 malignus,"Elemental, Spirit",5.0,R,Creature — Elemental Spirit,"Malignus's power and toughness are each equal to half the highest life total among your opponents, rounded up.\nDamage that would be dealt by this creature can't be prevented.",AVR,*,*
-sozin's comet,,,,,,,,
+sozin's comet,,5.0,R,Sorcery,"Each creature you control gains firebending 5 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}{R}. This mana lasts until end of combat.)
+Foretell {2}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",TLA,,
 electrodominance,,2.0,R,Instant,Electrodominance deals X damage to any target. You may cast a spell with mana value X or less from your hand without paying its mana cost.,OTP,,
-"ozai, the phoenix king",,,,,,,,
-"avatar roku, firebender",,,,,,,,
+"ozai, the phoenix king","Human, Noble",6.0,"B, R",Legendary Creature — Human Noble,"Trample, firebending 4, haste
+If you would lose unspent mana, that mana becomes red instead.
+Ozai has flying and indestructible as long as you have six or more unspent mana.",TLA,7,7
+"avatar roku, firebender","Human, Avatar",6.0,R,Legendary Creature — Human Avatar,"Whenever a player attacks, add six {R}. Until end of combat, you don't lose this mana as steps end.
+{R}{R}{R}: Target creature gets +3/+0 until end of turn.",TLE,6,6
 bolt bend,,4.0,R,Instant,This spell costs {3} less to cast if you control a creature with power 4 or greater.\nChange the target of target spell or ability with a single target.,FDN,,
 torrential gearhulk,Construct,6.0,U,Artifact Creature — Construct,"Flash\nWhen this creature enters, you may cast target instant card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.",CMM,5,6
 shifting woodland,,0.0,G,Land,This land enters tapped unless you control a Forest.\n{T}: Add {G}.\nDelirium — {2}{G}{G}: This land becomes a copy of target permanent card in your graveyard until end of turn. Activate only if there are four or more card types among cards in your graveyard.,MH3,,
@@ -1566,7 +1577,8 @@ ureni of the unwritten,"Spirit, Dragon",7.0,"G, R, U",Legendary Creature — Spi
 selvala's stampede,,6.0,G,Sorcery,"Council's dilemma — Starting with you, each player votes for wild or free. Reveal cards from the top of your library until you reveal a creature card for each wild vote. Put those creature cards onto the battlefield, then shuffle the rest into your library. You may put a permanent card from your hand onto the battlefield for each free vote.",CN2,,
 twinflame tyrant,Dragon,5.0,R,Creature — Dragon,"Flying\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.",FDN,3,5
 "klauth, unrivaled ancient",Dragon,7.0,"G, R",Legendary Creature — Dragon,"Flying, haste\nWhenever Klauth attacks, add X mana in any combination of colors, where X is the total power of attacking creatures. Spend this mana only to cast spells. Until end of turn, you don't lose this mana as steps and phases end.",AFC,4,4
-chomping changeling,,,,,,,,
+chomping changeling,Shapeshifter,3.0,G,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+When this creature enters, destroy up to one target artifact or enchantment.",ECL,1,2
 "arvinox, the mind flail",Horror,7.0,B,Legendary Enchantment Creature — Horror,"Arvinox isn't a creature unless you control three or more permanents you don't own.\nAt the beginning of your end step, exile the bottom card of each opponent's library face down. For as long as those cards remain exiled, you may look at them, you may cast permanent spells from among them, and you may spend mana as though it were mana of any color to cast those spells.",DSC,9,9
 "armaggon, future shark",,,,,,,,
 shadowgrange archfiend,Demon,7.0,B,Creature — Demon,"When this creature enters, each opponent sacrifices a creature with the greatest power among creatures they control. You gain life equal to the greatest power among creatures sacrificed this way.\nMadness—{2}{B}, Pay 8 life. (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",PRM,8,4
@@ -1670,13 +1682,18 @@ adventurers' guildhouse,,0.0,,Land,"Green legendary creatures you control have "
 "lizard, connors's curse","Lizard, Villain",4.0,G,Legendary Creature — Lizard Villain,"Trample\nLizard Formula — When Lizard, Connors's Curse enters, up to one other target creature loses all abilities and becomes a green Lizard creature with base power and toughness 4/4.",OM1,5,5
 "casal, lurkwood pathfinder","Tiefling, Druid",4.0,G,Legendary Creature — Tiefling Druid,"Vigilance\nWhen Casal enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.\nWhenever Casal attacks, you may pay {1}{G}. If you do, transform her.",SLD,3,3
 gatta and luzzu,"Human, Soldier",3.0,W,Legendary Creature — Human Soldier,"Flash\nWhen Gatta and Luzzu enters, choose target creature you control. If damage would be dealt to that creature this turn, prevent that damage and put that many +1/+1 counters on it.",FIC,1,1
-abandoned air temple,,,,,,,,
+abandoned air temple,,0.0,W,Land,"This land enters tapped unless you control a basic land.
+{T}: Add {W}.
+{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",TLA,,
 skyscanner,Thopter,3.0,,Artifact Creature — Thopter,"Flying\nWhen this creature enters, draw a card.",M19,1,1
 tataru taru,"Dwarf, Advisor",2.0,W,Legendary Creature — Dwarf Advisor,"When Tataru Taru enters, you draw a card and target opponent may draw a card.\nScions' Secretary — Whenever an opponent draws a card, if it isn't that player's turn, create a tapped Treasure token. This ability triggers only once each turn.",FIC,0,3
-kinscaer sentry,,,,,,,,
-"rhys, the evermore",,,,,,,,
+kinscaer sentry,"Kithkin, Soldier",2.0,W,Creature — Kithkin Soldier,"First strike, lifelink
+Whenever this creature attacks, you may put a creature card with mana value X or less from your hand onto the battlefield tapped and attacking, where X is the number of attacking creatures you control.",ECL,2,2
+"rhys, the evermore","Elf, Warrior",2.0,W,Legendary Creature — Elf Warrior,"Flash
+When Rhys enters, another target creature you control gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)
+{W}, {T}: Remove any number of counters from target creature you control. Activate only as a sorcery.",PECL,2,2
 overgrown battlement,Wall,2.0,G,Creature — Wall,Defender\n{T}: Add {G} for each creature you control with defender.,IMA,0,4
-spry and mighty,,,,,,,,
+spry and mighty,,5.0,G,Sorcery,"Choose two creatures you control. You draw X cards and the chosen creatures get +X/+X and gain trample until end of turn, where X is the difference between the chosen creatures' powers.",ECL,,
 robe of stars,Equipment,2.0,W,Artifact — Equipment,Equipped creature gets +0/+3.\nAstral Projection — {1}{W}: Equipped creature phases out. (Treat it and anything attached to it as though they don't exist until its controller's next turn.)\nEquip {1},AFC,,
 inkshield,,5.0,"B, W",Instant,"Prevent all combat damage that would be dealt to you this turn. For each 1 damage prevented this way, create a 2/1 white and black Inkling creature token with flying.",C21,,
 "adagia, windswept bastion",Planet,0.0,W,Land — Planet,"This land enters tapped.\n{T}: Add {W}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\nSTATION 12+\n{3}{W}, {T}: Create a token that's a copy of target artifact or enchantment you control, except it's legendary. Activate only as a sorcery.",EOE,,
@@ -1748,7 +1765,9 @@ canopy tactician,"Elf, Warrior",4.0,G,Creature — Elf Warrior,Other Elves you c
 mutable explorer,Shapeshifter,3.0,G,Creature — Shapeshifter,"Changeling (This card is every creature type.)\nWhen this creature enters, create a tapped Mutavault token. (It's a land with ""{T}: Add {C}"" and ""{1}: This token becomes a 2/2 creature with all creature types until end of turn. It's still a land."")",ECL,1,1
 gilt-leaf palace,,0.0,"B, G",Land,"As this land enters, you may reveal an Elf card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {G}.",LRW,,
 bloodline bidding,,,,,,,,
-selfless safewright,,,,,,,,
+selfless safewright,"Elf, Warrior",5.0,G,Creature — Elf Warrior,"Flash
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+When this creature enters, choose a creature type. Other permanents you control of that type gain hexproof and indestructible until end of turn.",ECL,4,2
 champions of the perfect,,,,,,,,
 galadhrim ambush,,4.0,G,Instant,"Create X 1/1 green Elf Warrior creature tokens, where X is the number of attacking creatures.\nPrevent all combat damage that would be dealt this turn by non-Elf creatures.",LTC,,
 breach the multiverse,,7.0,B,Sorcery,"Each player mills ten cards. For each player, choose a creature or planeswalker card in that player's graveyard. Put those cards onto the battlefield under your control. Then each creature you control becomes a Phyrexian in addition to its other types.",MOM,,
@@ -1858,3 +1877,152 @@ At the beginning of your end step, for each spell you've cast this turn, create 
 glen elendra's answer,,4.0,U,Instant,"This spell can't be countered.
 Counter all spells your opponents control and all abilities your opponents control. Create a 1/1 blue and black Faerie creature token with flying for each spell and ability countered this way.",ECL,,
 land tax,,1.0,W,Enchantment,"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle.",WOT,,
+swarmyard,,0.0,,Land,"{T}: Add {C}.
+{T}: Regenerate target Insect, Rat, Spider, or Squirrel. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",SLD,,
+glimmerpost,Locus,0.0,,Land — Locus,"When this land enters, you gain 1 life for each Locus on the battlefield.
+{T}: Add {C}.",SOM,,
+urza's tower,"Urza's, Tower",0.0,,Land — Urza's Tower,"{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.",9ED,,
+thespian's stage,,0.0,,Land,"{T}: Add {C}.
+{2}, {T}: This land becomes a copy of target land, except it has this ability.",MB2,,
+cloudpost,Locus,0.0,,Land — Locus,"This land enters tapped.
+{T}: Add {C} for each Locus on the battlefield.",PRM,,
+oakhollow village,,0.0,G,Land,"{T}: Add {C}.
+{T}: Add {G}. Spend this mana only to cast a creature spell.
+{G}, {T}: Put a +1/+1 counter on each Frog, Rabbit, Raccoon, or Squirrel you control that entered the battlefield this turn.",BLB,,
+lilypad village,,0.0,U,Land,"{T}: Add {C}.
+{T}: Add {U}. Spend this mana only to cast a creature spell.
+{U}, {T}: Surveil 2. Activate only if a Bird, Frog, Otter, or Rat entered the battlefield under your control this turn.",BLB,,
+aven courier,"Bird, Advisor",2.0,U,Creature — Bird Advisor,"Flying
+Whenever this creature attacks, choose a counter on a permanent you control. Put a counter of that kind on target permanent you control if it doesn't have a counter of that kind on it.",NCC,1,1
+harabaz druid,"Human, Druid, Ally",2.0,G,Creature — Human Druid Ally,"{T}: Add X mana of any one color, where X is the number of Allies you control.",PLST,0,1
+manaweft sliver,Sliver,2.0,G,Creature — Sliver,"Sliver creatures you control have ""{T}: Add one mana of any color.""",PLST,1,1
+gemhide sliver,Sliver,2.0,G,Creature — Sliver,"All Slivers have ""{T}: Add one mana of any color.""",TSR,1,1
+galerider sliver,Sliver,1.0,U,Creature — Sliver,Sliver creatures you control have flying.,SLD,1,1
+spellstutter sprite,"Faerie, Wizard",2.0,U,Creature — Faerie Wizard,"Flash
+Flying
+When this creature enters, counter target spell with mana value X or less, where X is the number of Faeries you control.",MMA,1,1
+lord of the unreal,"Human, Wizard",2.0,U,Creature — Human Wizard,Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.),J25,2,2
+moonmist,,2.0,G,Instant,Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.),PLST,,
+feline sovereign,Cat,3.0,G,Creature — Cat,"Other Cats you control get +1/+1 and have protection from Dogs.
+Whenever one or more Cats you control deal combat damage to a player, destroy up to one target artifact or enchantment that player controls.",M21,2,3
+scion of oona,"Faerie, Soldier",3.0,U,Creature — Faerie Soldier,"Flash
+Flying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud. (They can't be the targets of spells or abilities.)",WOC,1,1
+"minn, wily illusionist","Gnome, Wizard",3.0,U,Legendary Creature — Gnome Wizard,"Whenever you draw your second card each turn, create a 1/1 blue Illusion creature token with ""This token gets +1/+0 for each other Illusion you control.""
+Whenever an Illusion you control dies, you may put a permanent card with mana value less than or equal to that creature's power from your hand onto the battlefield.",AFC,1,3
+dragonologist,"Human, Wizard",3.0,U,Creature — Human Wizard,"When this creature enters, look at the top six cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Untapped Dragons you control have hexproof.",TDM,1,3
+whelming wave,,4.0,U,Sorcery,"Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.",BNG,,
+rally the galadhrim,,4.0,"G, U",Sorcery,"Create a token that's a copy of target creature you control.
+Conspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",LTC,,
+chameleon colossus,Shapeshifter,4.0,G,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Protection from black
+{2}{G}{G}: This creature gets +X/+X until end of turn, where X is its power.",PLST,4,4
+wren's run packmaster,"Elf, Warrior",4.0,G,Creature — Elf Warrior,"Champion an Elf (When this creature enters, sacrifice it unless you exile another Elf you control. When this creature leaves the battlefield, that card returns to the battlefield.)
+{2}{G}: Create a 2/2 green Wolf creature token.
+Wolves you control have deathtouch.",PRM,5,5
+"sachi, daughter of seshiro","Snake, Shaman",4.0,G,Legendary Creature — Snake Shaman,"Other Snake creatures you control get +0/+1.
+Shamans you control have ""{T}: Add {G}{G}.""",CHK,1,3
+shifting sliver,Sliver,4.0,U,Creature — Sliver,Slivers can't be blocked except by Slivers.,LGN,2,2
+nightpack ambusher,Wolf,4.0,G,Creature — Wolf,"Flash
+Other Wolves and Werewolves you control get +1/+1.
+At the beginning of your end step, if you didn't cast a spell this turn, create a 2/2 green Wolf creature token.",PM20,4,4
+knowledge exploitation,Rogue,7.0,U,Kindred Sorcery — Rogue,"Prowl {3}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles.",MOR,,
+hakbal of the surging soul,"Merfolk, Scout",4.0,"G, U",Legendary Creature — Merfolk Scout,"At the beginning of combat on your turn, each Merfolk creature you control explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the exploring creature, then put the card back or put it into your graveyard.)
+Whenever Hakbal attacks, you may put a land card from your hand onto the battlefield. If you don't, draw a card.",LCC,3,3
+overwhelming stampede,,5.0,G,Sorcery,"Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control.",C14,,
+moritte of the frost,Shapeshifter,5.0,"G, U",Legendary Snow Creature — Shapeshifter,"Changeling (This card is every creature type.)
+You may have Moritte enter as a copy of a permanent you control, except it's legendary and snow in addition to its other types and, if it's a creature, it enters with two additional +1/+1 counters on it and has changeling.",PLST,0,0
+deranged hermit,Elf,5.0,G,Creature — Elf,"Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When this creature enters, create four 1/1 green Squirrel creature tokens.
+Squirrel creatures get +1/+1.",G04,1,1
+deep forest hermit,"Elf, Druid",5.0,G,Creature — Elf Druid,"Vanishing 3 (This creature enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When this creature enters, create four 1/1 green Squirrel creature tokens.
+Squirrels you control get +1/+1.",MH1,1,1
+megantic sliver,Sliver,6.0,G,Creature — Sliver,Sliver creatures you control get +3/+3.,CMM,3,3
+hollowhenge overlord,Wolf,6.0,G,Creature — Wolf,"Flash
+At the beginning of your upkeep, for each creature you control that's a Wolf or a Werewolf, create a 2/2 green Wolf creature token.",PRM,4,4
+seshiro the anointed,"Snake, Monk",6.0,G,Legendary Creature — Snake Monk,"Other Snake creatures you control get +2/+2.
+Whenever a Snake you control deals combat damage to a player, you may draw a card.",SLD,3,4
+earthshaker dreadmaw,Dinosaur,6.0,G,Creature — Dinosaur,"Trample
+When this creature enters, draw a card for each other Dinosaur you control.",LCI,6,6
+"arixmethes, slumbering isle",Kraken,4.0,"G, U",Legendary Creature — Kraken,"Arixmethes enters tapped with five slumber counters on it.
+As long as Arixmethes has a slumber counter on it, it's a land. (It's not a creature.)
+Whenever you cast a spell, you may remove a slumber counter from Arixmethes.
+{T}: Add {G}{U}.",C18,12,12
+"azami, lady of scrolls","Human, Wizard",5.0,U,Legendary Creature — Human Wizard,Tap an untapped Wizard you control: Draw a card.,CHK,0,2
+planar nexus,,0.0,,Land,"This land is every nonbasic land type. (Nonbasic land types include Cave, Desert, Gate, Lair, Locus, Mine, Power-Plant, Sphere, Tower, and Urza's.)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.",M3C,,
+urza's power plant,"Urza's, Power-Plant",0.0,,Land — Urza's Power-Plant,"{T}: Add {C}. If you control an Urza's Mine and an Urza's Tower, add {C}{C} instead.",CHR,,
+urza's mine,"Urza's, Mine",0.0,,Land — Urza's Mine,"{T}: Add {C}. If you control an Urza's Power-Plant and an Urza's Tower, add {C}{C} instead.",5ED,,
+basilisk gate,Gate,0.0,,Land — Gate,"{T}: Add {C}.
+{2}, {T}: Target creature gets +X/+X until end of turn, where X is the number of Gates you control. Activate only as a sorcery.",CLB,,
+griffin canyon,,0.0,,Land,"{T}: Add {C}.
+{T}: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.",VIS,,
+scavenger grounds,Desert,0.0,,Land — Desert,"{T}: Add {C}.
+{2}, {T}, Sacrifice a Desert: Exile all graveyards.",PIP,,
+baldur's gate,Gate,0.0,,Legendary Land — Gate,"{T}: Add {C}.
+{2}, {T}: Add X mana of any one color, where X is the number of other Gates you control.",CLB,,
+cresting mosasaurus,Dinosaur,8.0,U,Creature — Dinosaur,"Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)
+When this creature enters, if you cast it, return each non-Dinosaur creature to its owner's hand.",REX,4,8
+thrumming hivepool,,6.0,,Artifact,"Affinity for Slivers (This spell costs {1} less to cast for each Sliver you control.)
+Slivers you control have double strike and haste.
+At the beginning of your upkeep, create two 1/1 colorless Sliver creature tokens.",PEOE,,
+sage of the maze,"Elf, Wizard",3.0,G,Creature — Elf Wizard,"{T}: Add two mana in any combination of colors.
+{T}: Until end of turn, target land you control becomes an X/X Citizen creature with haste in addition to its other types, where X is twice the number of Gates you control. Activate only as a sorcery.
+Tap an untapped Gate you control: Untap this creature.",M3C,1,3
+timber protector,"Treefolk, Warrior",5.0,G,Creature — Treefolk Warrior,"Other Treefolk creatures you control get +1/+1.
+Other Treefolk and Forests you control have indestructible.",LTC,4,6
+"baru, wurmspeaker","Human, Druid",4.0,G,Legendary Creature — Human Druid,"Wurms you control get +2/+2 and have trample.
+{7}{G}, {T}: Create a 4/4 green Wurm creature token. This ability costs {X} less to activate, where X is the greatest power among Wurms you control.",DMC,3,3
+sea gate loremaster,"Merfolk, Wizard, Ally",5.0,U,Creature — Merfolk Wizard Ally,{T}: Draw a card for each Ally you control.,ZEN,1,3
+spawning kraken,Kraken,6.0,U,Creature — Kraken,"Whenever a Kraken, Leviathan, Octopus, or Serpent you control deals combat damage to a player, create a 9/9 blue Kraken creature token.",C21,6,6
+absorb identity,,2.0,U,Instant,Return target creature to its owner's hand. You may have Shapeshifters you control become copies of that creature until end of turn.,KHM,,
+synapse sliver,Sliver,5.0,U,Creature — Sliver,"Whenever a Sliver deals combat damage to a player, its controller may draw a card.",CMM,3,3
+peer pressure,,4.0,U,Sorcery,"Choose a creature type. If you control more creatures of that type than each other player, you gain control of all creatures of that type. (This effect lasts indefinitely.)",ONS,,
+"oko, lorwyn liege",Oko,3.0,"G, U",Legendary Planeswalker — Oko,"At the beginning of your first main phase, you may pay {G}. If you do, transform Oko.
+[+2]: Up to one target creature gains all creature types. (This effect doesn't end.)
+[+1]: Target creature gets -2/-0 until your next turn.",ECL,,
+omni-changeling,Shapeshifter,5.0,U,Creature — Shapeshifter,"Changeling (This card is every creature type.)
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+You may have this creature enter as a copy of any creature on the battlefield, except it has changeling.",ECL,0,0
+sunderflock,Elemental,9.0,U,Creature — Elemental,"This spell costs {X} less to cast, where X is the greatest mana value among Elementals you control.
+Flying
+When this creature enters, if you cast it, return all non-Elemental creatures to their owners' hands.",ECL,5,5
+leaf-crowned elder,"Treefolk, Shaman",4.0,G,Creature — Treefolk Shaman,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with this creature, you may reveal it. If you do, you may play that card without paying its mana cost.",MOR,3,5
+urban retreat,,0.0,"G, U, W",Land,"This land enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{2}, Return a tapped creature you control to its owner's hand: Put this card from your hand onto the battlefield. Activate only as a sorcery.",PSPM,,
+kellan joins up,,3.0,"G, U, W",Legendary Enchantment,"When Kellan Joins Up enters, you may exile a nonland card with mana value 3 or less from your hand. If you do, it becomes plotted. (You may cast it as a sorcery on a later turn without paying its mana cost.)
+Whenever a legendary creature you control enters, put a +1/+1 counter on each creature you control.",POTJ,,
+gandalf the white,"Avatar, Wizard",5.0,W,Legendary Creature — Avatar Wizard,"Flash
+You may cast legendary spells and artifact spells as though they had flash.
+If a legendary permanent or an artifact entering or leaving the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",LTR,4,5
+"basri, tomorrow's champion","Human, Knight",1.0,W,Legendary Creature — Human Knight,"{W}, {T}, Exert Basri: Create a 1/1 white Cat creature token with lifelink. (An exerted creature won't untap during your next untap step.)
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle this card, Cats you control gain hexproof and indestructible until end of turn.",DFT,2,1
+"jaheira, friend of the forest","Human, Elf, Druid",3.0,G,Legendary Creature — Human Elf Druid,"Tokens you control have ""{T}: Add {G}.""
+Choose a Background (You can have a Background as a second commander.)",CLB,2,3
+"venat, heart of hydaelyn","Elder, Wizard",3.0,W,Legendary Creature — Elder Wizard,"Whenever you cast a legendary spell, draw a card. This ability triggers only once each turn.
+Hero's Sundering — {7}, {T}: Exile target nonland permanent. Transform Venat. Activate only as a sorcery.",FIN,3,3
+"reki, the history of kamigawa","Human, Shaman",3.0,G,Legendary Creature — Human Shaman,"Whenever you cast a legendary spell, draw a card.",SLD,1,2
+rhys the redeemed,"Elf, Warrior",1.0,"G, W",Legendary Creature — Elf Warrior,"{2}{G/W}, {T}: Create a 1/1 green and white Elf Warrior creature token.
+{4}{G/W}{G/W}, {T}: For each creature token you control, create a token that's a copy of that creature.",TLE,1,1
+"aang, swift savior","Human, Avatar, Ally",3.0,"U, W",Legendary Creature — Human Avatar Ally,"Flash
+Flying
+When Aang enters, airbend up to one other target creature or spell. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)
+Waterbend {8}: Transform Aang.",TLA,2,3
+"katara, water tribe's hope","Human, Warrior, Ally",5.0,"U, W",Legendary Creature — Human Warrior Ally,"Vigilance
+When Katara enters, create a 1/1 white Ally creature token.
+Waterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",TLA,3,3
+desynchronization,,4.0,U,Instant,"Return each nonland permanent that's not historic to its owner's hand. (Artifacts, legendaries, and Sagas are historic.)",ACR,,
+serah farron,"Human, Citizen",3.0,"G, W",Legendary Creature — Human Citizen,"The first legendary creature spell you cast each turn costs {2} less to cast.
+At the beginning of combat on your turn, if you control two or more other legendary creatures, you may transform Serah Farron.",PFIN,2,2
+cultural exchange,,6.0,U,Sorcery,Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.),ODY,,
+qasali slingers,"Cat, Warrior",5.0,G,Creature — Cat Warrior,"Reach
+Whenever this creature or another Cat you control enters, you may destroy target artifact or enchantment.",PLST,3,5
+peter parker,"Human, Scientist, Hero",2.0,"G, U, W",Legendary Creature — Human Scientist Hero,"When Peter Parker enters, create a 2/1 green Spider creature token with reach.
+{1}{G}{W}{U}: Transform Peter Parker. Activate only as a sorcery.",SPM,0,1

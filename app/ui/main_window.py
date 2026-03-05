@@ -15,7 +15,7 @@ from app.services.visualize import manafy_html
 from app.widgets.CardRowWidget import CardRowWidget
 from app.widgets.AutoSelectTextEdit import AutoSelectTextEdit
 from app.ui.plane_view import DeckPlaneDialog
-from app.ui.ImagePopup import ImagePopup
+from app.ui.ImagePopup import ImagePopup, ResultsPopup
 
 from typing import Optional
 from string import Template
@@ -30,153 +30,220 @@ class MainWindow(QMainWindow):
         self.setWindowTitle("MTG Deck Analyzer")
         self.setGeometry(100, 100, 1000, 600)
 
-        # Config & services
+        # Load custom file paths from config.json
         self.config = AppConfig.load()
+
+        # Set up connection to sqlite db for card data lookups
         self.db = CardDB(str(self.config.db_path))
+
+        # Retrieve cached dict with paths to already cached card images
         self.image_lookup = get_image_lookup()
         
+        # Load cached card data previously loaded, for quicker retrieval than db lookups
         self.cache = CardCache(self.config.cache_file)
         self.cache.load()
 
-        self.deck_files, self.color_ids = load_index(self.config.decks_folder, self.lookup_cid)
+        # Load cockatrice commanders from the data folder and their color identity
+        self.deck_files, self.color_ids = load_index(self.config.decks_folder, self.db.lookup_cid)
+
+        # Save the initial list to reset after filtering
         self.deck_files_actu = dict(self.deck_files)
 
-        # UI layout
+        ### set up UI layout
         main_layout = QHBoxLayout()
 
-        # Left panel: deck list + filters
+        ## Left panel: 
         left_layout = QVBoxLayout()
         
+        ###################
+        # Filters
+        ###################
+        
+        # Filter all listed decks on cardname or card subtype
         s_layout = QHBoxLayout()
-        self.search_dropdown = QComboBox(); self.search_dropdown.addItems(["Cards", "Subtypes"])
+
+        self.search_dropdown = QComboBox()
+
+        self.search_dropdown.addItems(["Cards", "Subtypes"])
         s_layout.addWidget(self.search_dropdown)
-        self.search_input = AutoSelectTextEdit(self); self.search_input.setPlaceholderText("Search for a card or subtype")
+
+        self.search_input = AutoSelectTextEdit(self)
+        self.search_input.setPlaceholderText("Search for a card or subtype")
         self.search_input.returnPressed.connect(self._search_decks)
         s_layout.addWidget(self.search_input)
-        btn = QPushButton("Search Decks"); btn.clicked.connect(self._search_decks)
+
+        btn = QPushButton("Search Decks")
+        btn.clicked.connect(self._search_decks)
         s_layout.addWidget(btn)
+
         left_layout.addLayout(s_layout)
 
+        # Filter all decks on commander's color identity or Reset deck filter
         f_layout = QHBoxLayout()
-        self.filter_dropdown = QComboBox(); self.filter_dropdown.addItems(["Color Identity"])  # extensible
+
+        self.filter_dropdown = QComboBox()
+        self.filter_dropdown.addItems(["Color Identity"])  # extensible
         f_layout.addWidget(self.filter_dropdown)
-        self.filter_input = AutoSelectTextEdit(self); self.filter_input.setPlaceholderText("Filter for color(s), e.g. wub")
+
+        self.filter_input = AutoSelectTextEdit(self)
+        self.filter_input.setPlaceholderText("Filter for color(s), e.g. wub")
         self.filter_input.returnPressed.connect(self._filter_decks)
         f_layout.addWidget(self.filter_input)
-        f_btn = QPushButton("Filter Decks"); f_btn.clicked.connect(self._filter_decks)
+
+        f_btn = QPushButton("Filter Decks")
+        f_btn.clicked.connect(self._filter_decks)
         f_layout.addWidget(f_btn)
-        r_btn = QPushButton("Reset Filter"); r_btn.clicked.connect(self._reset_deck_list)
+
+        r_btn = QPushButton("Reset Filter")
+        r_btn.clicked.connect(self._reset_deck_list)
         f_layout.addWidget(r_btn)
+
         left_layout.addLayout(f_layout)
         
+        ###################
+        # Decklist functionalities
+        ###################
+
+        # Deck plane view and show mana curve
         df_layout = QHBoxLayout()
-        plane_btn = QPushButton("Deck Plane"); plane_btn.clicked.connect(self._show_deck_plane)
-        curve_btn = QPushButton("Mana Curve"); curve_btn.clicked.connect(self._show_mana_curve)
+
+        plane_btn = QPushButton("Deck Plane")
+        plane_btn.clicked.connect(self._show_deck_plane)
         df_layout.addWidget(plane_btn)
+
+        curve_btn = QPushButton("Mana Curve")
+        curve_btn.clicked.connect(self._show_mana_curve)
         df_layout.addWidget(curve_btn)
+
+        gc_btn = QPushButton("List Game Changers")
+        gc_btn.clicked.connect(self._count_game_changers)
+        df_layout.addWidget(gc_btn)
+
         left_layout.addLayout(df_layout)
         
+        ###################
+        # Decklist panel
+        ################### 
+
+        # Load with (cached) decklists
         self.deck_list = QListWidget()
-        left_layout.addWidget(self.deck_list)
         self._init_decklist_items(self.deck_files)
         self.deck_list.itemClicked.connect(self._load_deck_clicked)
-        
+        left_layout.addWidget(self.deck_list)
+
+        ###################
+        # Cache refresh
+        ###################  
+       
         bottom_layout = QHBoxLayout()
-        refresh_btn = QPushButton("Refresh Img Cache"); refresh_btn.clicked.connect(self._refresh_image_cache)
+
+        # Refresh image cache (walk through image dirs and index all image files, including those newly downloaded)
+        refresh_btn = QPushButton("Refresh Img Cache")
+        refresh_btn.clicked.connect(self._refresh_image_cache)
         bottom_layout.addWidget(refresh_btn)
-        refresh_decks_btn = QPushButton("Refresh Decklists"); refresh_decks_btn.clicked.connect(self._refresh_decklists_from_file)
+
+        # Refresh decklist cache (read all .cod files, infer commander from their sideboard and look up color identity)
+        refresh_decks_btn = QPushButton("Refresh Decklists")
+        refresh_decks_btn.clicked.connect(self._refresh_decklists_from_file)
         bottom_layout.addWidget(refresh_decks_btn)
+
         left_layout.addLayout(bottom_layout)
+
 
         main_layout.addLayout(left_layout,stretch=1)
 
-        # Mid panel: deck contents
+        ## Mid panel: deck contents and commander image
         mid_layout = QVBoxLayout()
         
-        self.general_image_label = QLabel("Commander Image"); self.general_image_label.setAlignment(Qt.AlignCenter)
+        # panel to show (small) image of commander(s) for a decklist
+        self.general_image_label = QLabel("Commander Image")
+        self.general_image_label.setAlignment(Qt.AlignCenter)
         self.general_image_label.setStyleSheet("border: 1px solid black;")
         self.general_image_label.mousePressEvent = self._show_general_image_popup
         mid_layout.addWidget(self.general_image_label, 1)
-        self.deck_display = QListWidget(); self.deck_display.itemClicked.connect(self._show_card_details)
+
+        # Panel to show cards in the deck, with count and mana value
+        self.deck_display = QListWidget()
+        self.deck_display.itemClicked.connect(self._show_card_details)
         mid_layout.addWidget(self.deck_display,4)
 
         main_layout.addLayout(mid_layout,stretch=2)
 
-        # Right panel: card details
+
+        ## Right panel: card details
+
         right_layout = QVBoxLayout()
-        self.card_image_label = QLabel("Card Image"); self.card_image_label.setAlignment(Qt.AlignCenter)
+
+        # Panel to show selected card image 
+        self.card_image_label = QLabel("Card Image")
+        self.card_image_label.setAlignment(Qt.AlignCenter)
         self.card_image_label.setStyleSheet("border: 1px solid black;")
         self.card_image_label.mousePressEvent = self._show_image_popup
         right_layout.addWidget(self.card_image_label, 1)
 
-        self.card_text_display = QLabel("Card Details"); self.card_text_display.setAlignment(Qt.AlignTop | Qt.AlignLeft)
+        # Panel to show card details (text)
+        self.card_text_display = QLabel("Card Details")
+        self.card_text_display.setAlignment(Qt.AlignTop | Qt.AlignLeft)
         self.card_text_display.setStyleSheet("border: 1px solid black;")
         self.card_text_display.setWordWrap(True)
         self.card_text_display.setSizePolicy(QSizePolicy.Fixed, QSizePolicy.Expanding)
         right_layout.addWidget(self.card_text_display, 1)
 
-        #right_layout.addLayout(bottom)
         main_layout.addLayout(right_layout,stretch=2)
 
         # Central widget
         cw = QWidget(); cw.setLayout(main_layout)
         self.setCentralWidget(cw)
 
-        # State
+        # State (selected card, selected deck)
         self.current_card_image_path = None
         self.current_deck_cards = []
 
     # ---------- UI helpers ----------
     def _color_hex(self, c: str) -> str:
+        """Returns hexcode for an MTG color code, defaulting to dark theme background color."""
         return {"W":"#FFFFFF","U":"#0000FF","B":"#000000","R":"#FF0000","G":"#008000"}.get(c, "#202124")
-        
-    # color identity lookup uses both name and faceName as in your script
-    def lookup_cid(self, card_name: str):
-        res = self.db.query_one("colorIdentity", "cards", "name = ?", (card_name,))
-        if not res or not res[0]:
-            res = self.db.query_one("colorIdentity", "cards", "faceName = ?", (card_name,))
-        return res[0] if res else ""
     
-    def _fetch_card_from_db(self, card_name: str) -> dict:
-    # Query by name, fallback faceName; fetch all fields we display or search on
-        SELECT = (
-            "subtypes, manaValue, colorIdentity, type, text, "
-            "setCode, power, toughness"
-        )
-        res = self.db.query_one(SELECT, "cards", "name = ?", (card_name,))
-        if not res:
-            res = self.db.query_one(SELECT, "cards", "faceName = ?", (card_name,))
-        if not res:
-            return {"subtypes": "", "manaValue": None, "type": "", "colorIdentity": "", "text": "", "setCode": "", "power": "", "toughness": ""}
-        keys = [
-            "subtypes", "manaValue", "colorIdentity", "type", "text",
-            "setCode", "power", "toughness",
-        ]
-        return dict(zip(keys, res))
+    def _pip_squares(self, identity: str) -> str:
+        """Sets up color identity pips in the right order."""
+        order = ["W", "U", "B", "R", "G"]
+        squares = []
+        for c in order:
+            active = (c in (identity or ""))
+            col = self._color_hex(c) if active else "#3a3a3a"
+            squares.append(f'<span style="color:{col}; font-size:14px;">&#9632;</span>')
+        return " ".join(squares)
     
     def _get_card(self, card_name: str) -> dict:
-        key = (card_name or "").lower()
-        if not key:
+        """Looks up card metadata in the cache (as currently loaded), and retrieves it from the database if not found."""
+        if not card_name:
             return {}
-        def fetch():
-            data = self._fetch_card_from_db(card_name) or {}
-            return data
-        data = self.cache.ensure_card(key, fetch) or {}
+        data = self.cache.ensure_card(card_name, self.db) or {}
         return data
     
     def _init_decklist_items(self, decks):
+        """Initialize or reset the decks panel with the decks provided (in cache, or read from file)."""
         self.deck_list.clear()
         order = ["W","U","B","R","G"]
+        # disable auto-update as new ui elements are added while populating the panel
         self.deck_list.setUpdatesEnabled(False)
         try:
             for deck_name in decks:
                 identity = self.color_ids.get(deck_name, "")
                 squares = " ".join([f'<span style="color:{self._color_hex(c) if c in identity else "#202124"};">&#9632;</span>' for c in order])
 
-                item_widget = QWidget(); lay = QHBoxLayout(); lay.setContentsMargins(5,5,5,5)
-                color_lbl = QLabel(); color_lbl.setText(squares); color_lbl.setAlignment(Qt.AlignLeft)
-                name_lbl = QLabel(deck_name); name_lbl.setAlignment(Qt.AlignLeft)
-                lay.addWidget(color_lbl); lay.addWidget(name_lbl); lay.addStretch(); item_widget.setLayout(lay)
+                item_widget = QWidget()
+                lay = QHBoxLayout()
+                lay.setContentsMargins(5,5,5,5)
+                color_lbl = QLabel()
+                color_lbl.setText(squares)
+                color_lbl.setAlignment(Qt.AlignLeft)
+                name_lbl = QLabel(deck_name)
+                name_lbl.setAlignment(Qt.AlignLeft)
+                lay.addWidget(color_lbl)
+                lay.addWidget(name_lbl)
+                lay.addStretch()
+                item_widget.setLayout(lay)
 
                 item = QListWidgetItem(self.deck_list)
                 item.setSizeHint(item_widget.sizeHint())
@@ -186,6 +253,7 @@ class MainWindow(QMainWindow):
             self.deck_list.setUpdatesEnabled(True)
 
     def _selected_deck_name(self):
+        """Returns the commander name (i.e. the key) of the currently selected deck."""
         item = self.deck_list.currentItem()
         if not item:
             return None
@@ -193,31 +261,21 @@ class MainWindow(QMainWindow):
 
     # ---------- Actions ----------
     def _load_deck_clicked(self, item):
+        """Loads the selected deck's content in the mid panel."""
         dn = self.deck_list.itemWidget(item).layout().itemAt(1).widget().text().split(" (")[0]
         self._load_deck_by_name(dn)
 
     def _load_deck_by_name(self, deck_name: str):
+        """Reads a deck's mainboard cards from the xml file and then loads them into the mid panel with display_deck."""
         file_path = self.deck_files.get(deck_name)
         if not file_path:
             return
         self.current_deck_cards = read_mainboard(file_path)
 
-        # fill cache for missing cards (subtypes, manaValue)
-        for cname, _ in self.current_deck_cards:
-            self._get_card(cname)
-
         self._display_deck(self.current_deck_cards)
 
-    def _pip_squares(self, identity: str) -> str:
-        order = ["W", "U", "B", "R", "G"]
-        squares = []
-        for c in order:
-            active = (c in (identity or ""))
-            col = self._color_hex(c) if active else "#3a3a3a"
-            squares.append(f'<span style="color:{col}; font-size:14px;">&#9632;</span>')
-        return " ".join(squares)
-
     def _display_general(self, width, height):
+        """Shows the commander(s) as images in the mid panel at the top."""
         general_name = self._selected_deck_name() or ""
         
         # Split names if '&' is present, otherwise create a list with one name
@@ -255,6 +313,7 @@ class MainWindow(QMainWindow):
             return None
     
     def _display_deck(self, deck_cards):
+        """Effectively loads the deck's content into the mid panel and the commander(s) image()s above it."""
         self.deck_display.setUpdatesEnabled(False)
         self.deck_display.clear()
         try:
@@ -282,6 +341,7 @@ class MainWindow(QMainWindow):
             self.cache.save()
 
     def _search_decks(self):
+        """Searches through all decks for a certain query (name or subtype currently supported)."""
         query = (self.search_input.text() or "").strip().lower()
         if not query:
             return
@@ -292,22 +352,35 @@ class MainWindow(QMainWindow):
             if matches:
                 results.append((deck_name, matches))
         if not results:
-            self.deck_display.clear(); self.deck_display.addItem(f"No results found for query: {query}")
-            return
+            results.append(("No results found for query: ",[(query,0)]))
+        self._display_search_results(results)
+
+    def _count_game_changers(self):
+        """Searches through all decks for a certain query (name or subtype currently supported)."""
+        gc_list = self.db.list_game_changers()
+        print(gc_list)
+        results = []
+        for deck_name, path in self.deck_files_actu.items():
+            cards = read_mainboard(path)
+            matches = search_in_deck(cards, gc_list, self.cache, "Game Changers")
+            if matches:
+                results.append((deck_name, matches))
+        if not results:
+            results.append(("No results found for query: ",[("Game Changers",0)]))
         self._display_search_results(results)
 
     def _display_search_results(self, results):
-        self.deck_display.clear()
-        for deck_name, cards in results:
-            self.deck_display.addItem(f"Deck: {deck_name}")
-            for card_name, qty in cards:
-                self.deck_display.addItem(f"    {qty}x {card_name}")
+        """Show search results in a popup."""
+        dialog = ResultsPopup(results, "Search Result",self)
+        dialog.exec()
 
     def _reset_deck_list(self):
+        """After filtering decks on color identity, reset them."""
         self.deck_files_actu = dict(self.deck_files)
         self._init_decklist_items(self.deck_files)
 
     def _filter_decks(self):
+        """Filter decks on color identity."""
         query = (self.filter_input.text() or "").strip().lower()
         if not query:
             return
@@ -319,7 +392,8 @@ class MainWindow(QMainWindow):
         self.deck_files_actu = filtered
         self._init_decklist_items(filtered)
 
-    def _get_card_img(self, card_name):
+    def _get_card_img(self, card_name: str):
+        """Returns card image path from image lookup, or go fetch it from scryfall."""
         key = (card_name or "").lower()
         img = self.image_lookup.get(key)
         if not img:
@@ -331,6 +405,7 @@ class MainWindow(QMainWindow):
         return img
     
     def _show_card_details(self, item):
+        """Show card image and details in right panel when clicking a card in a decklist."""
         # Retrieve the card name stored in UserRole (since rows are custom widgets)
         card_name = item.data(Qt.UserRole)
         if not card_name:
@@ -381,6 +456,7 @@ class MainWindow(QMainWindow):
         self.card_text_display.setText(html)
 
     def _show_image_popup(self, _evt):
+        """Show card image larger in popup when clicking the image."""
         if not self.current_card_image_path:
             return
         pix = QPixmap(self.current_card_image_path)
@@ -388,6 +464,7 @@ class MainWindow(QMainWindow):
         popup.exec()
         
     def _show_general_image_popup(self, _evt):
+        """Show image of the commander(s) in a popup when clicking them."""
         img = self._display_general(460,680)
         if not img:
             return
@@ -395,6 +472,7 @@ class MainWindow(QMainWindow):
         popup.exec()     
 
     def _ensure_deck_images(self, deck_cards):
+        """For plane view, ensure all images are downloaded before showing the view."""
         missing = []
         for name, _ in deck_cards:
             key = safe_stem(name)
@@ -418,7 +496,7 @@ class MainWindow(QMainWindow):
 
 
     def _show_deck_plane(self):
-    # Get deck cards however you store them
+        """Show plane view of a deck in a new Dialog."""
         deck_name = self._selected_deck_name()
         if not deck_name:
             QMessageBox.warning(self, "No Deck Selected", "Please select a deck to view its content on the plane.")
@@ -435,12 +513,13 @@ class MainWindow(QMainWindow):
         dlg = DeckPlaneDialog(
             deck_cards=deck_cards,
             image_lookup=self.image_lookup,
-            get_card_meta=self._get_card,   # unified cache-backed getter you already have
+            get_card_meta=self._get_card,   
             parent=self
         )
         dlg.exec_()
         
     def _show_mana_curve(self):
+        """Plot the mana curve of the chosen decklist."""
         deck_name = self._selected_deck_name()
         if not deck_name:
             QMessageBox.warning(self, "No Deck Selected", "Please select a deck to view its mana curve.")
@@ -464,7 +543,13 @@ class MainWindow(QMainWindow):
         plt.xlabel("Converted Mana Cost (CMC)")
         plt.ylabel("Number of Cards")
         plt.show()
+
     def _refresh_image_cache(self):
+        """Walk through the image directories to rebuild the image lookup cache."""
         self.image_lookup = get_image_lookup(self.config.image_folder)
+        
     def _refresh_decklists_from_file(self):
-        load_index(self.config.decks_folder, self.lookup_cid,True)
+        """Refresh commanders and their color identity from the .cod files."""
+        self.deck_files, self.color_ids = load_index(self.config.decks_folder, self.db.lookup_cid,True)
+        self.deck_files_actu = dict(self.deck_files)
+        self._init_decklist_items(self.deck_files)

@@ -1,6 +1,7 @@
 import csv
 from pathlib import Path
 from typing import Dict, Any, List, Tuple, Optional
+from app.services.db import CardDB
 
 class CardCache:
     def __init__(self, path: Path):
@@ -84,25 +85,30 @@ class CardCache:
             })
 
 
-    def ensure_card(self, name_lc: str, fetch_fn):
-        if name_lc in self.cache and self.cache[name_lc].get("manaValue") != "":
-            return self.cache[name_lc]
-        data = fetch_fn()
+    def ensure_card(self, card_name: str, db_connection: CardDB) -> dict:
+        key = (card_name or "").lower()
+        if key in self.cache and self.cache[key].get("manaValue") != "":
+            return self.cache[key]
+        data = db_connection.fetch_card_from_db(card_name)
         if data:
-            self.cache[name_lc] = data
+            self.cache[key] = data
         return data
 
 def search_in_deck(deck_cards: List[Tuple[str, int]], query: str, cache: CardCache, mode: str) -> List[Tuple[str, int]]:
     out: List[Tuple[str, int]] = []
-    qparts = [q.strip() for q in query.lower().split(',') if q.strip()]
+    if mode == "Subtypes":
+        qparts = [q.strip() for q in query.lower().split(',') if q.strip()]
     for card_name, qty in deck_cards:
         if mode == "Cards":
             if query in card_name.lower():
                 out.append((card_name, qty))
-        else: # Subtypes
+        if mode == "Subtypes":
             data = cache.cache.get(card_name.lower())
             if data:
                 st = (data.get("subtypes") or "").lower()
                 if any(p in st for p in qparts):
                     out.append((card_name, qty))
+        if mode == "Game Changers":
+            if card_name in query:
+                out.append((card_name, qty))
     return out

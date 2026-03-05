@@ -2,8 +2,6 @@ from pathlib import Path
 from typing import Dict, Optional
 import os
 import time
-import json
-import mimetypes
 import requests
 import csv
 

@@ -1,5 +1,4 @@
-from typing import Dict, List, Tuple, Optional
-
+from typing import Optional
 
 def cmc_from_value(mana_value: Optional[str]) -> Optional[int]:
     # returns mana value as int
