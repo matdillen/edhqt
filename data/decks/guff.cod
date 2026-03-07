@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat Mar 7 11:48:25 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Mar 7 16:38:02 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Commodore Guff</bannerCard>
     <comments></comments>
@@ -27,7 +27,6 @@
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Dack Fayden"/>
-        <card number="1" name="Narset, Parter of Veils"/>
         <card number="1" name="Teferi, Time Raveler"/>
         <card number="1" name="Lae'zel, Vlaakith's Champion"/>
         <card number="1" name="Flux Channeler"/>
@@ -103,5 +102,6 @@
         <card number="1" name="Overburden" setShortName="PCY" collectorNumber="39" uuid="7e6cf6b6-b4c1-4742-9be4-b3b15fbb0202"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
         <card number="1" name="Great Hall of the Citadel" setShortName="LTR" collectorNumber="254" uuid="219c7b57-b62b-42d1-85d9-4b57624a3f54"/>
+        <card number="1" name="Ral, Crackling Wit" setShortName="BLB" collectorNumber="230" uuid="acfde780-899a-4c5b-a39b-f4a3ff129103"/>
     </zone>
 </cockatrice_deck>

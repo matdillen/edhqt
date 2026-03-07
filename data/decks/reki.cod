@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Mar 6 11:33:44 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Mar 7 16:43:03 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Reki, the History of Kamigawa</bannerCard>
     <comments></comments>
@@ -20,7 +20,6 @@
         <card number="1" name="Demolition Field"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
         <card number="1" name="Boseiju, Who Endures"/>
-        <card number="1" name="Gaea's Cradle"/>
         <card number="1" name="Winding Canyons"/>
         <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="Blast Zone"/>
@@ -93,5 +92,6 @@
         <card number="1" name="Lizard, Connors's Curse" setShortName="OM1" collectorNumber="108" uuid="6361ffac-ad30-4b6a-aea2-c804ad51c773"/>
         <card number="1" name="Casal, Lurkwood Pathfinder" setShortName="SLX" collectorNumber="29" uuid="d571c367-c786-41f9-9cdb-cb02594fa413"/>
         <card number="1" name="Zopandrel, Hunger Dominus" setShortName="ONE" collectorNumber="195" uuid="fb419d9d-e06f-48c8-a4f8-a57f9be39e50"/>
+        <card number="1" name="Mox Diamond" setShortName="TPR" collectorNumber="228" uuid="bf9fecfd-d122-422f-bd0a-5bf69b434dfe"/>
     </zone>
 </cockatrice_deck>
