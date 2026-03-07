@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Dec 17 19:03:20 2025</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Mar 5 18:04:18 2026</lastLoadedTimestamp>
     <deckname>firkraag</deckname>
     <bannerCard providerId="">Firkraag, Cunning Instigator</bannerCard>
     <comments></comments>
@@ -70,7 +70,6 @@
         <card number="1" name="The Sound of Drums"/>
         <card number="1" name="Bothersome Quasit"/>
         <card number="1" name="Komainu Battle Armor"/>
-        <card number="1" name="War's Toll"/>
         <card number="1" name="Cavern-Hoard Dragon"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Reliquary Tower"/>
@@ -98,5 +97,6 @@
         <card number="1" name="Cactus Preserve" setShortName="OTC" collectorNumber="40" uuid="ad9d426f-5870-42bb-a589-9218f7e35d62"/>
         <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
         <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
+        <card number="1" name="Fable of the Mirror-Breaker" setShortName="NEO" collectorNumber="141" uuid="24c0d87b-0049-4beb-b9cb-6f813b7aa7dc"/>
     </zone>
 </cockatrice_deck>

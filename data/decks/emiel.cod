@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Feb 8 00:46:27 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Mar 5 11:54:22 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Emiel the Blessed</bannerCard>
     <comments></comments>
@@ -33,12 +33,10 @@
         <card number="1" name="Invasion of Zendikar"/>
         <card number="1" name="Yasharn, Implacable Earth"/>
         <card number="1" name="White Plume Adventurer"/>
-        <card number="1" name="Mangara of Corondor"/>
         <card number="1" name="Flickerwisp"/>
         <card number="1" name="Skyclave Apparition"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Wood Elves"/>
-        <card number="1" name="Aura Shards"/>
         <card number="1" name="Llanowar Visionary"/>
         <card number="1" name="Charming Prince"/>
         <card number="1" name="Ephemerate"/>
@@ -75,7 +73,6 @@
         <card number="1" name="Hornet Queen"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Blessed Sanctuary"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="God-Eternal Rhonas"/>
         <card number="1" name="Overlord of the Hauntwoods"/>
         <card number="1" name="Saltcrusted Steppe"/>
@@ -98,5 +95,8 @@
         <card number="1" name="Castle Garenbrig" setShortName="PLST" collectorNumber="ELD-240" uuid="e33285ee-aaf8-4fe4-9991-9fb16dfdd531"/>
         <card number="1" name="Turntimber Symbiosis" setShortName="ZNR" collectorNumber="215" uuid="61bd69ea-1e9e-46b0-b1a1-ed7fdbe3deb6"/>
         <card number="1" name="Aang, the Last Airbender" setShortName="TLA" collectorNumber="4" uuid="245e008c-e073-443f-9592-6f628c0026ec"/>
+        <card number="1" name="Welcoming Vampire" setShortName="DBL" collectorNumber="313" uuid="10369eee-c364-4796-ae5a-aeab9188a510"/>
+        <card number="1" name="Spike Weaver" setShortName="MB2" collectorNumber="214" uuid="f3ef1600-3218-49e9-81cd-6288b52543c6"/>
+        <card number="1" name="Parting Gust" setShortName="BLB" collectorNumber="24" uuid="1086e826-94b8-4398-8a38-d8eacca56a43"/>
     </zone>
 </cockatrice_deck>

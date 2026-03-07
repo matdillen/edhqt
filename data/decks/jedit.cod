@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 22:11:48 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Mar 4 18:55:39 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
@@ -17,7 +17,6 @@
         <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
         <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
         <card number="1" name="Staff of the Storyteller" setShortName="ONC" collectorNumber="10" uuid="ab1d1461-1625-4163-aacd-a939f4871fad"/>
-        <card number="1" name="Kataki, War's Wage" setShortName="MB2" collectorNumber="148" uuid="2fe21296-7e04-410d-b441-aed64451682f"/>
         <card number="1" name="Samwise the Stouthearted" setShortName="LTR" collectorNumber="28" uuid="214c270e-29ca-4d69-bea6-9252ae7707ad"/>
         <card number="1" name="Niambi, Esteemed Speaker" setShortName="M21" collectorNumber="222" uuid="e21827eb-fa49-4784-a86b-aef164a5018e"/>
         <card number="1" name="Gaddock Teeg" setShortName="PLST" collectorNumber="UMA-199" uuid="4ed8c8ba-7618-4cb2-9856-173fc54176f2"/>
@@ -32,7 +31,6 @@
         <card number="1" name="Raff Capashen, Ship's Mage" setShortName="CMM" collectorNumber="351" uuid="c681e33b-3d60-4aaa-8186-51866d8b79d1"/>
         <card number="1" name="Teshar, Ancestor's Apostle" setShortName="BRC" collectorNumber="77" uuid="31b96ec5-065e-41a8-9383-2b86888f4405"/>
         <card number="1" name="Jazal Goldmane" setShortName="BLC" collectorNumber="142" uuid="eb9666d0-2100-40e0-a065-165ccc5c0d28"/>
-        <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
         <card number="1" name="Shalai, Voice of Plenty" setShortName="PLST" collectorNumber="DOM-35" uuid="14a74ac1-d827-48d5-9d7d-5eb0122b0069"/>
         <card number="1" name="Yasharn, Implacable Earth" setShortName="ZNR" collectorNumber="240" uuid="12878fbd-dbe5-44bc-9f34-38fd374ec10a"/>
         <card number="1" name="Yorion, Sky Nomad" setShortName="MB2" collectorNumber="94" uuid="a245bb3b-9126-4361-824b-2b27fbba9696"/>
@@ -100,7 +98,6 @@
         <card number="1" name="Reki, the History of Kamigawa" setShortName="PLST" collectorNumber="SOK-142" uuid="623ec8c3-9173-4dc8-bd93-0b22d852fa60"/>
         <card number="1" name="Rhys the Redeemed" setShortName="PLST" collectorNumber="SHM-237" uuid="41ce3414-01cd-4c98-999c-c691f8a5545d"/>
         <card number="1" name="Aang, Swift Savior" setShortName="TLA" collectorNumber="204" uuid="82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4"/>
-        <card number="1" name="Katara, Water Tribe's Hope" setShortName="TLA" collectorNumber="231" uuid="9ec03308-59a2-417a-938f-bdda75080e43"/>
         <card number="1" name="Desynchronization" setShortName="ACR" collectorNumber="16" uuid="3ddd3561-0143-40b7-81bc-640a978b8b15"/>
         <card number="1" name="Serah Farron" setShortName="FIN" collectorNumber="240" uuid="62fa74c0-43ae-445c-8039-ca9d00e9709a"/>
         <card number="1" name="Cultural Exchange" setShortName="SLD" collectorNumber="2071" uuid="18e1a8eb-5219-4e2c-9134-100367ba8b08"/>
@@ -108,5 +105,8 @@
         <card number="1" name="Mirari's Wake" setShortName="CMM" collectorNumber="928" uuid="ef4fa4e8-39e8-47a6-b975-ff5d46e59edd"/>
         <card number="1" name="Peter Parker" setShortName="OM1" collectorNumber="21" uuid="2ec821c3-3e5c-4af8-a6ef-e2e77aa8668c"/>
         <card number="1" name="Comeuppance" setShortName="MAR" collectorNumber="1" uuid="ec191a2f-12b1-438b-b2fe-f88fb82d9b87"/>
+        <card number="1" name="Mirri, Weatherlight Duelist" setShortName="CMM" collectorNumber="347" uuid="db44fe95-6a32-4d6f-a32f-72491381f495"/>
+        <card number="1" name="Smile at Death" setShortName="PTDM" collectorNumber="24p" uuid="40a9270d-c5dd-45b8-863b-3a34f2d4717d"/>
+        <card number="1" name="Galadriel, Light of Valinor" setShortName="LTC" collectorNumber="498" uuid="f485596f-3a23-4714-ad7e-4c493ab1b530"/>
     </zone>
 </cockatrice_deck>

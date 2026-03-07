@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 15:11:02 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Mar 2 16:21:56 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Orthion, Hero of Lavabrink</bannerCard>
     <comments></comments>
@@ -22,7 +22,6 @@
         <card number="1" name="Mindclaw Shaman"/>
         <card number="1" name="Gauntlet of Power"/>
         <card number="1" name="Fury"/>
-        <card number="1" name="Rapacious Dragon"/>
         <card number="1" name="Coercive Recruiter"/>
         <card number="1" name="Zealous Conscripts"/>
         <card number="1" name="Kiki-Jiki, Mirror Breaker"/>
@@ -87,5 +86,6 @@
         <card number="1" name="Village Pillagers" setShortName="ECC" collectorNumber="14" uuid="a1e34ec4-6a85-4e22-9be9-f27dda5752d6"/>
         <card number="1" name="The Fire Crystal" setShortName="FIN" collectorNumber="135" uuid="ea430b17-2014-4b8e-b53f-43bcfc06f7cd"/>
         <card number="1" name="Goldspan Dragon" setShortName="J22" collectorNumber="550" uuid="0c67a683-4e1d-4a64-952d-a1c27a34ed1d"/>
+        <card number="1" name="Goldlust Triad" setShortName="TDC" collectorNumber="34" uuid="2876d57a-a17e-4892-9992-321a32562e13"/>
     </zone>
 </cockatrice_deck>

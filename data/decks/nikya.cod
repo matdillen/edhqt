@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 22:19:45 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Mar 4 13:42:00 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="90ff41a6-6604-4953-a43d-816c4568b742">Nikya of the Old Ways</bannerCard>
     <comments></comments>
@@ -92,7 +92,6 @@
         <card number="1" name="Kogla, the Titan Ape" setShortName="IKO" collectorNumber="162" uuid="3c35ca79-eb72-427a-a8ed-404b2214389a"/>
         <card number="1" name="Gruul Ragebeast" setShortName="GTC" collectorNumber="170" uuid="080ef367-7904-4e5c-a8b4-1fb62f951f3e"/>
         <card number="1" name="Zopandrel, Hunger Dominus" setShortName="ONE" collectorNumber="195" uuid="fb419d9d-e06f-48c8-a4f8-a57f9be39e50"/>
-        <card number="1" name="Ilharg, the Raze-Boar" setShortName="RVR" collectorNumber="113" uuid="3d397fc3-fd4e-45ad-ad40-0f8a585c15fd"/>
         <card number="1" name="Ghalta, Stampede Tyrant" setShortName="LCI" collectorNumber="185" uuid="72e805e9-69be-45c1-aa04-f460641a0c1e"/>
         <card number="1" name="Ojer Kaslem, Deepest Growth" setShortName="LCI" collectorNumber="204" uuid="0cbc43a3-8cba-4988-9de1-c89aedd79ada"/>
         <card number="1" name="Xenagos, God of Revels" setShortName="EA3" collectorNumber="18" uuid="5d7f8ef3-212b-4671-8489-e24f1659450b"/>
@@ -100,5 +99,6 @@
         <card number="1" name="Thorn Mammoth" setShortName="PLST" collectorNumber="ELD-323" uuid="0ba9115c-0a13-440d-b981-90fa2520d73a"/>
         <card number="1" name="Hanweir Battlements" setShortName="INR" collectorNumber="279" uuid="8c0acb91-edfc-43a5-af77-6614327fce43"/>
         <card number="1" name="Castle Embereth" setShortName="CLB" collectorNumber="883" uuid="eb4126a6-5f79-4dad-8d18-e279ca19d2b2"/>
+        <card number="1" name="Agonasaur Rex" setShortName="DFT" collectorNumber="151" uuid="5b11ec26-9e07-45e1-bcaa-5d44d1231586"/>
     </zone>
 </cockatrice_deck>

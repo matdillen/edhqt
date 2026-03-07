@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 20:19:50 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Mar 4 13:49:18 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="e5d1c814-4c22-4917-95ae-dffaf491db32">Omo, Queen of Vesuva</bannerCard>
     <comments></comments>
@@ -39,7 +39,6 @@
         <card number="1" name="Feline Sovereign" setShortName="PLST" collectorNumber="M21-180" uuid="c4aabecd-f042-46c1-a621-3286fa4e0715"/>
         <card number="1" name="Scion of Oona" setShortName="WOC" collectorNumber="109" uuid="937c75ac-b7cf-4af5-a7b7-9e90f43fa1a5"/>
         <card number="1" name="Minn, Wily Illusionist" setShortName="AFC" collectorNumber="16" uuid="4eec1d87-1007-44a1-a45d-0623816de681"/>
-        <card number="1" name="Dragonologist" setShortName="PTDM" collectorNumber="42p" uuid="2599b3fe-24ff-4abc-9a9f-7872ee588cc1"/>
         <card number="1" name="Elvish Guidance" setShortName="ONS" collectorNumber="255" uuid="8698c46b-2628-4482-88f9-e37a01ade274"/>
         <card number="1" name="Unwind" setShortName="DOM" collectorNumber="72" uuid="97da6607-9131-4f8b-8af3-63439a59b78b"/>
         <card number="1" name="Whelming Wave" setShortName="PLST" collectorNumber="DDO-44" uuid="bc38e0d5-f1fe-46a8-a74a-4b667d1a2c28"/>
@@ -50,7 +49,6 @@
         <card number="1" name="Howlpack Piper" setShortName="DBL" collectorNumber="472" uuid="de7b7d93-fe69-4b18-b398-cf1a61eed175"/>
         <card number="1" name="Shifting Sliver" setShortName="CMM" collectorNumber="855" uuid="c1d3b30b-d4c4-4f60-a7b3-e8854bd203d5"/>
         <card number="1" name="Nightpack Ambusher" setShortName="J22" collectorNumber="696" uuid="4cd67241-6ff1-41bc-9bda-4a87fd4f6bdd"/>
-        <card number="1" name="Knowledge Exploitation" setShortName="MOR" collectorNumber="38" uuid="3d283c49-2e81-4b2e-956a-69152cc4704e"/>
         <card number="1" name="Hakbal of the Surging Soul" setShortName="LCC" collectorNumber="3" uuid="e738e675-4fd1-4bc3-97f5-71d0e2fc3f2e"/>
         <card number="1" name="Overwhelming Stampede" setShortName="DSC" collectorNumber="192" uuid="cbb081ca-75ab-40e4-b071-50ed387c90e4"/>
         <card number="1" name="Conjurer's Closet" setShortName="DRC" collectorNumber="126" uuid="7e520d49-f3d5-46b3-a941-c57936648a47"/>
@@ -61,7 +59,6 @@
         <card number="1" name="Megantic Sliver" setShortName="CMM" collectorNumber="901" uuid="49c1afd5-d1d3-42b7-8417-bb05c91ef822"/>
         <card number="1" name="Hollowhenge Overlord" setShortName="VOC" collectorNumber="36" uuid="dac9c33c-bff1-491a-b369-ad92395283a5"/>
         <card number="1" name="Seshiro the Anointed" setShortName="PLST" collectorNumber="CHK-241" uuid="797953e8-9d6a-4054-8a88-2d59e64f30c3"/>
-        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
         <card number="1" name="Earthshaker Dreadmaw" setShortName="LCI" collectorNumber="183" uuid="cdcbba6f-aa54-44be-a3b0-f712fa8bd5ad"/>
         <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
         <card number="1" name="Arixmethes, Slumbering Isle" setShortName="DSC" collectorNumber="211" uuid="bf561379-4e5f-486a-bcdf-6e08e105316e"/>
@@ -105,5 +102,8 @@
         <card number="1" name="Selfless Safewright" setShortName="ECL" collectorNumber="193" uuid="ac95b1c3-9eb2-4f80-bb32-72b36817d622"/>
         <card number="1" name="Sunderflock" setShortName="ECL" collectorNumber="74" uuid="e5b6221e-cb22-45e4-bb98-2b960afc614c"/>
         <card number="1" name="Leaf-Crowned Elder" setShortName="PLST" collectorNumber="MOR-128" uuid="5d47a112-9441-4580-9fd8-1a83e35f64b7"/>
+        <card number="1" name="Banner of Kinship" setShortName="FDN" collectorNumber="127" uuid="a14c16c0-4053-46b0-8fa6-be8b4a7a1c8a"/>
+        <card number="1" name="Springleaf Parade" setShortName="ECC" collectorNumber="19" uuid="44265489-645a-43b0-bc1f-726905b06876"/>
+        <card number="1" name="Season of Gathering" setShortName="BLB" collectorNumber="192" uuid="71dd3c27-e0d5-434e-a0f3-4a95245e21c2"/>
     </zone>
 </cockatrice_deck>

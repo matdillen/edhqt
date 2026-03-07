@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 15:40:09 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Mar 7 11:48:30 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Feather, the Redeemed</bannerCard>
     <comments></comments>
@@ -82,7 +82,6 @@
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Generous Gift"/>
         <card number="1" name="Nibelheim Aflame" setShortName="FIN" collectorNumber="146" uuid="3d3e926a-74af-4996-849f-d31e0fdedeae"/>
-        <card number="1" name="Honor" setShortName="EOE" collectorNumber="21" uuid="d0b4e925-1d59-41a1-bc06-9982695d778f"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Hushbringer" setShortName="PLST" collectorNumber="ELD-18" uuid="31a76579-b5c9-49ca-a75c-be0f4b1ff69f"/>
         <card number="1" name="Angelfire Ignition" setShortName="DBL" collectorNumber="209" uuid="ced8f1b7-3d77-402c-828e-bd2dfe7581e0"/>
@@ -99,6 +98,7 @@
         <card number="1" name="Giantfall" setShortName="ECL" collectorNumber="141" uuid="1ac52728-adb3-4220-8392-73f7bd379ab4"/>
         <card number="1" name="Impolite Entrance" setShortName="ECL" collectorNumber="146" uuid="45be88d8-0be1-47a2-a1c1-d6e693fc706f"/>
         <card number="1" name="Spinerock Tyrant" setShortName="ECL" collectorNumber="159" uuid="478bbb7a-4b96-4e04-921e-bdf23185de25"/>
+        <card number="1" name="Myriad Construct" setShortName="CMM" collectorNumber="963" uuid="fe102126-9aee-4b50-8bc6-1e979132eb3e"/>
     </zone>
     <zone name="side">
         <card number="1" name="Feather, the Redeemed"/>

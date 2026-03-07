@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 20:26:59 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Mar 7 11:48:25 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Commodore Guff</bannerCard>
     <comments></comments>
@@ -49,7 +49,6 @@
         <card number="1" name="Volcanic Island"/>
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Sulfur Falls"/>
-        <card number="1" name="Shivan Reef"/>
         <card number="1" name="Scalding Tarn"/>
         <card number="1" name="Karn's Bastion"/>
         <card number="1" name="Forge of Heroes"/>
@@ -103,5 +102,6 @@
         <card number="1" name="Radstorm" setShortName="PIP" collectorNumber="37" uuid="d778cdec-8fc7-4174-bae1-4c8e8ccdfab3"/>
         <card number="1" name="Overburden" setShortName="PCY" collectorNumber="39" uuid="7e6cf6b6-b4c1-4742-9be4-b3b15fbb0202"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
+        <card number="1" name="Great Hall of the Citadel" setShortName="LTR" collectorNumber="254" uuid="219c7b57-b62b-42d1-85d9-4b57624a3f54"/>
     </zone>
 </cockatrice_deck>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 23:47:54 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Mar 2 15:40:30 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
-        <card number="1" name="Domri, Anarch of Bolas"/>
         <card number="1" name="Steely Resolve"/>
         <card number="1" name="Dragon Tempest"/>
         <card number="1" name="Dragon's Hoard"/>
@@ -83,7 +82,6 @@
         <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Dispelling Exhale"/>
         <card number="1" name="Encroaching Dragonstorm"/>
         <card number="1" name="Herd Heirloom"/>
         <card number="1" name="Spark Double"/>
@@ -99,9 +97,11 @@
         <card number="1" name="Selvala's Stampede" setShortName="TDC" collectorNumber="269" uuid="b84e46c2-f3ea-49ff-8f8b-58aa6a1175a4"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Twinflame Tyrant" setShortName="FDN" collectorNumber="97" uuid="1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb"/>
-        <card number="1" name="Three Visits" setShortName="CLB" collectorNumber="837" uuid="cad698c3-687e-4b73-88d2-fd0ac7d755c5"/>
         <card number="1" name="Klauth, Unrivaled Ancient" setShortName="AFC" collectorNumber="50" uuid="7f5cf828-17b2-4105-9a9a-ee0ab720c2ee"/>
         <card number="1" name="Chomping Changeling" setShortName="ECL" collectorNumber="172" uuid="e187dcc6-19ad-4cf6-94b4-daf07f5144e5"/>
+        <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
+        <card number="1" name="Shadow in the Warp" setShortName="40K" collectorNumber="140" uuid="bd60cd99-1511-4903-b678-ff5a1853a742"/>
+        <card number="1" name="Tempt with Discovery" setShortName="BLC" collectorNumber="124" uuid="580bbd5b-795e-41fe-b061-579c42218670"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 14:12:54 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Mar 2 17:12:02 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="77e548c9-8bed-40c3-bcdd-9d97a82c885d">Fire Lord Ozai</bannerCard>
     <comments></comments>
@@ -17,10 +17,8 @@
         <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
         <card number="1" name="Supernatural Stamina" setShortName="2X2" collectorNumber="93" uuid="69a0278b-3198-4c8d-b20c-f42e8b1569f4"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
-        <card number="1" name="Reckless Charge" setShortName="PLST" collectorNumber="ODY-215" uuid="5bad216a-66d3-46a6-ba05-db7e082d0dc5"/>
         <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
         <card number="1" name="Rakdos Signet" setShortName="AA1" collectorNumber="10" uuid="afaf490c-70f4-4e9f-9cf5-176403215c31"/>
-        <card number="1" name="Agent of the Shadow Thieves" setShortName="CLB" collectorNumber="108" uuid="f50448e9-afe4-4d4e-b027-bbb855f17aeb"/>
         <card number="1" name="Braid of Fire" setShortName="PLST" collectorNumber="CSP-78" uuid="8a8e0464-3f05-4719-ad42-577954751da8"/>
         <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
         <card number="1" name="Transmogrant's Crown" setShortName="BRO" collectorNumber="125" uuid="dc913ed6-3032-4b45-a6c1-6a4208a7e00a"/>
@@ -34,7 +32,6 @@
         <card number="1" name="Phyrexian Soulgorger" setShortName="PLST" collectorNumber="CSP-141" uuid="1ed11cef-3904-4bc3-8383-14ecdb774066"/>
         <card number="1" name="Two-Handed Axe // Sweeping Cleave" setShortName="CLB" collectorNumber="203" uuid="21e34888-f57c-4f5d-bb5c-b82be980d145"/>
         <card number="1" name="Fatal Frenzy" setShortName="PLC" collectorNumber="98" uuid="4e2fe87d-e886-4e30-8ff2-3886199f0461"/>
-        <card number="1" name="Mask of Griselbrand" setShortName="DBL" collectorNumber="111" uuid="fefa072d-3803-42cf-a853-b005b7270172"/>
         <card number="1" name="Leyline Tyrant" setShortName="TDC" collectorNumber="221" uuid="0542d0d7-5b0f-4093-b74d-6a60f174aeb5"/>
         <card number="1" name="Sneak Attack" setShortName="DMR" collectorNumber="139" uuid="a45b4ca9-4355-4690-84c3-a7d44c367dbf"/>
         <card number="1" name="Daring Fiendbonder" setShortName="C20" collectorNumber="41" uuid="27dd910a-a3ca-46ac-9350-f2a22496f4e6"/>
@@ -42,11 +39,8 @@
         <card number="1" name="Traxos, Scourge of Kroog" setShortName="BRC" collectorNumber="170" uuid="513fd010-db79-4aa4-8186-776fc3e27750"/>
         <card number="1" name="Shadowheart, Dark Justiciar" setShortName="CLB" collectorNumber="146" uuid="13a0913d-776b-4ef8-adef-8861349df2b5"/>
         <card number="1" name="Yargle, Glutton of Urborg" setShortName="CMM" collectorNumber="202" uuid="8febc0fe-c52d-4b6a-9d18-e1e4a43b6dc3"/>
-        <card number="1" name="Where Ancients Tread" setShortName="C13" collectorNumber="130" uuid="abf25a2a-961c-42ef-8d76-aa089720b12c"/>
-        <card number="1" name="Horizon Stone" setShortName="CMR" collectorNumber="315" uuid="6affd9c6-f7ab-488e-85fa-2a3a48383414"/>
         <card number="1" name="Alena, Kessig Trapper" setShortName="PLST" collectorNumber="CMR-160" uuid="312a2a8d-2d84-4c4b-b2c4-cbc4e8300312"/>
-        <card number="1" name="Warstorm Surge" setShortName="40K" collectorNumber="209" uuid="1706ca09-1fdb-47d5-b31b-b4637a0ef5da"/>
-        <card number="6" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="5" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="6" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
         <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
@@ -98,5 +92,12 @@
         <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
         <card number="1" name="Mines of Moria" setShortName="LTR" collectorNumber="257" uuid="0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f"/>
         <card number="1" name="Wand of Wonder" setShortName="CLB" collectorNumber="204" uuid="df67ec01-9d4c-4ae1-9c8a-f94d649c81bc"/>
+        <card number="1" name="Ebondeath, Dracolich" setShortName="AFR" collectorNumber="100" uuid="e6b3f460-92ba-4af0-aad9-cf86615d4177"/>
+        <card number="1" name="Kaya's Ghostform" setShortName="PLST" collectorNumber="WAR-94" uuid="8cae3159-b321-4ce5-900d-5b2371e1fedb"/>
+        <card number="1" name="Wild-Magic Sorcerer" setShortName="AFC" collectorNumber="36" uuid="a48df69d-ef3d-46b1-8811-b6a1be777cdc"/>
+        <card number="1" name="Nalfeshnee" setShortName="CLB" collectorNumber="632" uuid="58e3b25f-beb1-4688-8b14-be597b9aee81"/>
+        <card number="1" name="Fire Nation Turret" setShortName="TLE" collectorNumber="64" uuid="f25cc190-05e2-4aba-b214-46f687c07a10"/>
+        <card number="1" name="Feldon of the Third Path" setShortName="MOC" collectorNumber="277" uuid="0360f1ff-15c9-48e3-89eb-fbc4bf140c55"/>
+        <card number="1" name="Talon Gates of Madara" setShortName="M3C" collectorNumber="82" uuid="de92facf-762b-4a23-8d5e-bb673b0500c0"/>
     </zone>
 </cockatrice_deck>

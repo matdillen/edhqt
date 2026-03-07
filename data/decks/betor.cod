@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 13:42:42 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Mar 5 01:31:53 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="5006a96e-718f-45c0-b8f0-1d2ad714511c">Betor, Kin to All</bannerCard>
     <comments></comments>
@@ -24,16 +24,13 @@
         <card number="1" name="Saving Grace" setShortName="HOU" collectorNumber="21" uuid="9ac7b2d8-7702-4b8c-84ed-1d785dea5cc5"/>
         <card number="1" name="Tower Defense" setShortName="TDC" collectorNumber="275" uuid="adacc68a-0bc5-49ee-b5f8-d61024952ce9"/>
         <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
-        <card number="1" name="Toxic Deluge" setShortName="CC2" collectorNumber="6" uuid="db34617f-b04f-4b65-84cf-5c5be1eb7226"/>
         <card number="1" name="Treefolk Umbra" setShortName="MH1" collectorNumber="185" uuid="677166cf-4e1e-43ac-a67b-afaf33c0d14e"/>
         <card number="1" name="Huatli, the Sun's Heart" setShortName="SLD" collectorNumber="530" uuid="79d05299-27bd-4826-bbdb-f24ac9a5005b"/>
         <card number="1" name="Rasaad yn Bashir" setShortName="CLB" collectorNumber="37" uuid="f6597ec7-0fc8-4aa5-a8a6-ea5f95f4ce15"/>
-        <card number="1" name="Scourge of Skola Vale" setShortName="BNG" collectorNumber="137" uuid="baef76dc-7cef-449b-b8a7-e038887129d9"/>
         <card number="1" name="Selvala, Explorer Returned" setShortName="BLC" collectorNumber="259" uuid="69195842-c7ce-477b-a04f-06412aff382a"/>
         <card number="1" name="Sarulf, Realm Eater" setShortName="PLST" collectorNumber="KHM-228" uuid="ec75f537-9f9e-4c8d-b12f-73e1978e0a9d"/>
         <card number="1" name="Pernicious Deed" setShortName="PLST" collectorNumber="A25-212" uuid="fb5e76e7-7098-415e-9230-8ceebbe3f14a"/>
         <card number="1" name="Runic Armasaur" setShortName="LCC" collectorNumber="256" uuid="17913fb0-ef73-4b20-8625-b84d4e62178a"/>
-        <card number="1" name="Abyssal Harvester" setShortName="FDN" collectorNumber="54" uuid="f2e0f538-5825-47e9-883c-3ec6fd5b25ea"/>
         <card number="1" name="Felothar the Steadfast" setShortName="TDC" collectorNumber="4" uuid="2c3549f6-25df-4ea7-84ad-922ccd4af6b2"/>
         <card number="1" name="Tree of Perdition" setShortName="ECC" collectorNumber="49" uuid="750b4c88-26c7-43ec-b6b9-ece3263dfd59"/>
         <card number="1" name="Tree of Redemption" setShortName="TDC" collectorNumber="97" uuid="4f55dae2-e6b4-4498-8abd-86d9717691f4"/>
@@ -97,6 +94,9 @@
         <card number="1" name="Silverback Elder" setShortName="DMU" collectorNumber="177" uuid="b987664f-0b74-4c0a-b306-14767a55559a"/>
         <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
         <card number="1" name="Inkshield" setShortName="DSC" collectorNumber="221" uuid="bf3af774-526e-4b64-a34f-407e6ef92d24"/>
+        <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
+        <card number="1" name="Eirdu, Carrier of Dawn" setShortName="ECL" collectorNumber="13" uuid="b2d9d5ca-7e15-437a-bdfc-5972b42148fe"/>
+        <card number="1" name="Perennation" setShortName="PTDM" collectorNumber="212p" uuid="a85fb2d8-fc5f-4f9f-b811-2f3208a53808"/>
     </zone>
     <zone name="side">
         <card number="1" name="Betor, Kin to All" setShortName="PTDM" collectorNumber="172p" uuid="5006a96e-718f-45c0-b8f0-1d2ad714511c"/>

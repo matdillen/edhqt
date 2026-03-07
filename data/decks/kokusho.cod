@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 15:36:25 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat Mar 7 11:48:03 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
     <comments></comments>
@@ -45,7 +45,6 @@
         <card number="1" name="Decree of Pain" setShortName="40K" collectorNumber="198" uuid="458b4f09-7c59-4e72-b37f-f1a69ec0fb05"/>
         <card number="1" name="Fated Return" setShortName="ZNC" collectorNumber="42" uuid="5d168856-5568-4ee0-942d-78865d2bb1ef"/>
         <card number="1" name="Necromantic Selection" setShortName="AFC" collectorNumber="103" uuid="d3cec373-0a3f-4628-8706-b7c9c205f150"/>
-        <card number="1" name="Black Sun's Zenith" setShortName="DCI" collectorNumber="68" uuid="dd88131a-2811-4a1f-bb9a-c82e12c1493b"/>
         <card number="1" name="Caged Sun" setShortName="40K" collectorNumber="231" uuid="e828d87a-f2c7-475b-8c8f-b36474c50cf9"/>
         <card number="1" name="Nirkana Revenant" setShortName="VOC" collectorNumber="134" uuid="96da0a4c-2865-4383-875a-9f5d6503baee"/>
         <card number="22" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
@@ -84,6 +83,7 @@
         <card number="1" name="Rescue from the Underworld" setShortName="PIO" collectorNumber="105" uuid="cb064eec-e942-4b6f-a2cf-16c84f4b8643"/>
         <card number="1" name="Necromantic Summons" setShortName="ORI" collectorNumber="110" uuid="3afe7891-09d5-470e-aa41-71d89249875b"/>
         <card number="1" name="Eventide's Shadow" setShortName="ECC" collectorNumber="8" uuid="9c5d71a6-8e68-4aee-b781-486276d17fce"/>
+        <card number="1" name="Heartless Conscription" setShortName="OTC" collectorNumber="21" uuid="52fc4862-b57b-42d7-be8b-d9915a0bb4fd"/>
     </zone>
     <zone name="side">
         <card number="1" name="Kokusho, the Evening Star" setShortName="SLD" collectorNumber="1528" uuid="154c2d54-6dc2-4350-8cc1-f099c7d13ccc"/>

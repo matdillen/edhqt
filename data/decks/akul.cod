@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 14:12:46 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Mar 5 17:02:54 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="68fd8548-50db-4243-9154-377f32408d58">Akul the Unrepentant</bannerCard>
     <comments></comments>
@@ -38,7 +38,6 @@
         <card number="1" name="Myr Battlesphere" setShortName="BRC" collectorNumber="151" uuid="e225aa6b-bcf0-4672-8c95-b18e39e0b826"/>
         <card number="1" name="Chancellor of the Forge" setShortName="NPH" collectorNumber="81" uuid="dd3520a7-a55f-4c00-b4f1-c1c154adfc8f"/>
         <card number="1" name="Harvester of Souls" setShortName="J25" collectorNumber="453" uuid="3e02dd03-cced-43b7-ba8f-cdcf9083252a"/>
-        <card number="1" name="Summon Undead" setShortName="CLB" collectorNumber="151" uuid="278f7705-01a4-4baf-929b-b93e538a8d77"/>
         <card number="1" name="Bonehoard Dracosaur" setShortName="LCI" collectorNumber="134" uuid="2220ed60-3f8f-4dd2-8319-6a06896a5350"/>
         <card number="1" name="Burn Down the House" setShortName="DBL" collectorNumber="131" uuid="4b73cbec-3c03-453f-903e-9a948cd40a8b"/>
         <card number="1" name="Emrakul's Hatcher" setShortName="PLST" collectorNumber="DDP-59" uuid="e442d1cf-3e17-4719-8d5b-512749c9eee8"/>
@@ -65,9 +64,7 @@
         <card number="1" name="Squee, Goblin Nabob" setShortName="CMM" collectorNumber="258" uuid="12d6d674-40aa-42d7-88b3-f65603ecaa1e"/>
         <card number="1" name="Anax, Hardened in the Forge" setShortName="CMM" collectorNumber="204" uuid="ad107ae0-2540-46f8-9970-72983b87ba04"/>
         <card number="1" name="Fable of the Mirror-Breaker" setShortName="NEO" collectorNumber="141" uuid="24c0d87b-0049-4beb-b9cb-6f813b7aa7dc"/>
-        <card number="1" name="Necromancy" setShortName="AA3" collectorNumber="9" uuid="6a70746b-484a-47ab-a14a-7ac680bab63b"/>
         <card number="1" name="Weaponcraft Enthusiast" setShortName="PLST" collectorNumber="KLD-105" uuid="4f096976-20a0-419b-9249-1cf0cccd2eb5"/>
-        <card number="1" name="Endless Cockroaches" setShortName="J25" collectorNumber="433" uuid="f25ec109-0ed3-4e25-b76c-a558e2ad577b"/>
         <card number="1" name="Victimize" setShortName="AFC" collectorNumber="112" uuid="1303644e-d406-4136-8524-9d99f0b318ac"/>
         <card number="1" name="Pawn of Ulamog" setShortName="PLST" collectorNumber="ROE-122" uuid="a1a77c8c-5dd7-4027-bc11-3b41cda5d57d"/>
         <card number="1" name="Chandra, Acolyte of Flame" setShortName="PM20" collectorNumber="126p" uuid="1b69993a-02ae-4eed-be6f-5682e2abb10e"/>
@@ -86,10 +83,13 @@
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
         <card number="1" name="Cult Conscript" setShortName="DMU" collectorNumber="88" uuid="fed77513-94ab-44e2-b9a1-30ba927cd6ee"/>
         <card number="1" name="Tortured Existence" setShortName="PLST" collectorNumber="STH-74" uuid="1efe6c2f-eb19-4a34-925a-3b90d2dbe680"/>
-        <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
         <card number="1" name="Kher Keep" setShortName="CLB" collectorNumber="899" uuid="e44bba8e-59e9-4a06-b845-c3ba7625ff58"/>
         <card number="1" name="Snow-Covered Swamp" setShortName="MB2" collectorNumber="118" uuid="632e2c82-0122-4f87-bb83-88064fbb91ab"/>
         <card number="5" name="Snow-Covered Mountain" setShortName="MB2" collectorNumber="119" uuid="c55fd65e-7701-447f-a42b-942eadccae3d"/>
         <card number="1" name="Grave Titan" setShortName="DRC" collectorNumber="42" uuid="179c5a3a-ea17-46bb-9a61-18b31f4705a9"/>
+        <card number="1" name="Devastating Onslaught" setShortName="EOE" collectorNumber="132" uuid="fc779971-24e2-46a8-86be-16f0b244a3d2"/>
+        <card number="1" name="Rakshasa Debaser" setShortName="SCD" collectorNumber="100" uuid="11e16fad-925a-4b59-8612-362f650e09e1"/>
+        <card number="1" name="Incarnation Technique" setShortName="C21" collectorNumber="41" uuid="9655deda-f02b-47a0-89a3-2904b11b84aa"/>
+        <card number="1" name="Coiling Rebirth" setShortName="BLB" collectorNumber="86" uuid="96d5de3e-0440-4dd1-899c-ab40c0752343"/>
     </zone>
 </cockatrice_deck>

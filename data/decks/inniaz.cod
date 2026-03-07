@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Feb 19 14:11:17 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Thu Mar 5 17:49:59 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="b238485f-ef67-4295-892b-a10235368f74">Inniaz, the Gale Force</bannerCard>
     <comments></comments>
@@ -10,7 +10,7 @@
     </zone>
     <zone name="main">
         <card number="6" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
-        <card number="6" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="5" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Blinkmoth Nexus" setShortName="EOS" collectorNumber="3" uuid="765fad0a-50fe-4e19-87a1-c3ec70937f61"/>
         <card number="1" name="Inkmoth Nexus" setShortName="EOS" collectorNumber="20" uuid="4c65f0c0-e771-4236-a3aa-02a0104eb4bc"/>
         <card number="1" name="Seaside Haven" setShortName="ONS" collectorNumber="323" uuid="9c940a6b-3c5e-4ce2-92b6-63e2cb575c15"/>
@@ -34,17 +34,13 @@
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Siren Stormtamer" setShortName="LCC" collectorNumber="171" uuid="073c301e-5bb6-49fa-bf61-2f662030540f"/>
         <card number="1" name="Momo, Friendly Flier" setShortName="TLA" collectorNumber="29" uuid="c472ef84-a632-4ad7-853c-60588a7a4b12"/>
-        <card number="1" name="Sky Tether" setShortName="JMP" collectorNumber="133" uuid="ec7b4430-95c0-424b-a365-4ae467bb303d"/>
         <card number="1" name="Mausoleum Wanderer" setShortName="EA1" collectorNumber="4" uuid="a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b"/>
-        <card number="1" name="Thousand-Faced Shadow" setShortName="NEO" collectorNumber="86" uuid="89a698a5-f4ac-4b04-96dc-32e1eeef6ac7"/>
         <card number="1" name="Haunted Library" setShortName="VOC" collectorNumber="6" uuid="b0193151-0f5f-457b-a6b2-08f66b53c9b2"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
         <card number="1" name="Rally of Wings" setShortName="J25" collectorNumber="238" uuid="a88827db-a52a-44ef-8e49-8c32bb37cbfe"/>
         <card number="1" name="Lofty Denial" setShortName="M21" collectorNumber="56" uuid="64832674-beb1-446e-b2f7-8a5e271139a5"/>
-        <card number="1" name="Pride of the Clouds" setShortName="GK2" collectorNumber="17" uuid="48e6b67f-ebf5-4413-9417-ed45a576a390"/>
         <card number="1" name="Skycat Sovereign" setShortName="SCD" collectorNumber="243" uuid="8276bec2-1a3c-425c-928f-866b8ef05e97"/>
         <card number="1" name="Watcher of the Spheres" setShortName="M21" collectorNumber="227" uuid="354b9ea4-3d55-48cc-b426-c46b1d1bb397"/>
-        <card number="1" name="Air Nomad Legacy" setShortName="TLA" collectorNumber="206" uuid="10874416-fa4c-4aa3-b885-4351d011d208"/>
         <card number="1" name="Selfless Spirit" setShortName="BLC" collectorNumber="153" uuid="975a2d50-4230-4f13-b54e-5e0d27c7261a"/>
         <card number="1" name="Staff of the Storyteller" setShortName="AA3" collectorNumber="4" uuid="9fd3e003-20d4-407a-850f-453e5086a502"/>
         <card number="1" name="Faerie Mastermind" setShortName="MOM" collectorNumber="58" uuid="52d3005f-a1c7-4ef5-911f-ccc0752f4181"/>
@@ -55,9 +51,7 @@
         <card number="1" name="Warden of Evos Isle" setShortName="J25" collectorNumber="385" uuid="40d26ee1-5264-4f5a-ac01-8304888589aa"/>
         <card number="1" name="Hushwing Gryff" setShortName="PIO" collectorNumber="322" uuid="847caadc-0da9-4f21-829b-2b92bac5b861"/>
         <card number="1" name="Spell Queller" setShortName="INR" collectorNumber="248" uuid="a9364b43-ab2e-4433-91e8-88a0d5d5965c"/>
-        <card number="1" name="Errant and Giada" setShortName="MOM" collectorNumber="224" uuid="54aa2d03-7713-44d4-8fca-45c6f77b174b"/>
         <card number="1" name="Aerial Surveyor" setShortName="NEC" collectorNumber="5" uuid="7c474f31-336d-44df-a7da-27aefd220e22"/>
-        <card number="1" name="Wispmare" setShortName="LRW" collectorNumber="48" uuid="56389c91-a470-4c43-9368-98df4d38f7fd"/>
         <card number="1" name="Midnight Haunting" setShortName="ONC" collectorNumber="82" uuid="eddc09d1-63de-4791-b654-31b354032c54"/>
         <card number="1" name="Jackdaw Savior" setShortName="BLB" collectorNumber="18" uuid="121af600-6143-450a-9f87-12ce4833f1ec"/>
         <card number="1" name="Welcoming Vampire" setShortName="DBL" collectorNumber="313" uuid="10369eee-c364-4796-ae5a-aeab9188a510"/>
@@ -89,7 +83,6 @@
         <card number="1" name="Aerial Extortionist" setShortName="MKC" collectorNumber="54" uuid="5353bcb9-800d-4d74-95fa-42350a0f25de"/>
         <card number="1" name="Access Denied" setShortName="NEC" collectorNumber="11" uuid="1642df77-6fe8-47cf-b750-ca4dd9b331ba"/>
         <card number="1" name="Perch Protection" setShortName="BLC" collectorNumber="11" uuid="1f81d6ea-9a76-43b9-b030-d40c5cfbeefe"/>
-        <card number="1" name="Stolen by the Fae" setShortName="BLC" collectorNumber="176" uuid="40e3c160-3dff-4bf4-9be2-c2446f20a305"/>
         <card number="1" name="Faerie Slumber Party" setShortName="WOE" collectorNumber="311" uuid="f8e5de58-cc4c-40b2-94c8-4e4d7cebfaf8"/>
         <card number="1" name="Murmuration" setShortName="BLC" collectorNumber="10" uuid="561c9c4e-942e-40e8-b5f2-ac709a502f18"/>
         <card number="1" name="Exalted Sunborn" setShortName="EOE" collectorNumber="15" uuid="7e1fe101-f634-41e5-9aa4-e8d7474535dc"/>
@@ -98,5 +91,13 @@
         <card number="1" name="Everything Comes to Dust" setShortName="WHO" collectorNumber="19" uuid="fb4b912c-07d4-42a1-8f3b-d5f34cca087f"/>
         <card number="1" name="Land Tax" setShortName="CMM" collectorNumber="37" uuid="9258ad10-cbe6-4676-93b4-6ef4a33f12ee"/>
         <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
+        <card number="1" name="Kangee's Lieutenant" setShortName="SCD" collectorNumber="27" uuid="d0caf32b-ab0e-4207-9aaa-75c19f88cdd9"/>
+        <card number="1" name="Reconnaissance Mission" setShortName="40K" collectorNumber="193" uuid="009f7603-a6a3-461b-bc73-810db1ab2898"/>
+        <card number="1" name="Cathars' Crusade" setShortName="INR" collectorNumber="17" uuid="5296e353-2efc-4d72-a877-7957eff630b9"/>
+        <card number="1" name="Amonkhet Raceway" setShortName="DFT" collectorNumber="248" uuid="4f312807-ea2a-4385-8774-4e23b4a5d4a6"/>
+        <card number="1" name="Training Grounds" setShortName="MAT" collectorNumber="9" uuid="991c27ed-f53c-48c6-8c12-282f44b8d441"/>
+        <card number="1" name="Expel the Interlopers" setShortName="PWOE" collectorNumber="13p" uuid="c0182aa4-009b-4496-b147-5724a92a92ed"/>
+        <card number="1" name="Akroma's Will" setShortName="FCA" collectorNumber="21" uuid="fc9c542d-ff46-4193-9972-68287879a8a0"/>
+        <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
     </zone>
 </cockatrice_deck>
