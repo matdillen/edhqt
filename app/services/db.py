@@ -19,16 +19,32 @@ class CardDB:
         """Query the database by name, fallback for faceName; fetch all fields we currently display or search on."""
         SELECT = (
             "subtypes, manaValue, colorIdentity, type, text, "
-            "setCode, power, toughness"
+            "setCode, power, toughness, manaCost, producedMana, "
+            "edhrecRank, edhrecSaltiness, isGameChanger"
         )
         res = self.query_one(SELECT, "cards", "name = ?", (card_name,))
         if not res:
             res = self.query_one(SELECT, "cards", "faceName = ?", (card_name,))
         if not res:
-            return {"subtypes": "", "manaValue": None, "type": "", "colorIdentity": "", "text": "", "setCode": "", "power": "", "toughness": ""}
+            return {
+                "subtypes": "",
+                "manaValue": None,
+                "type": "",
+                "colorIdentity": "",
+                "text": "",
+                "setCode": "",
+                "power": "",
+                "toughness": "",
+                "manaCost": "",
+                "producedMana": "",
+                "edhrecRank": None,
+                "edhrecSaltiness": 0.0,
+                "isGameChanger": 0,
+            }
         keys = [
             "subtypes", "manaValue", "colorIdentity", "type", "text",
-            "setCode", "power", "toughness",
+            "setCode", "power", "toughness", "manaCost", "producedMana",
+            "edhrecRank", "edhrecSaltiness", "isGameChanger",
         ]
         return dict(zip(keys, res))
     

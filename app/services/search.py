@@ -37,6 +37,11 @@ class CardCache:
                             "setCode": row.get("setCode", ""),
                             "power": row.get("power", ""),
                             "toughness": row.get("toughness", ""),
+                            "manaCost": row.get("manaCost", ""),
+                            "producedMana": row.get("producedMana", ""),
+                            "edhrecRank": row.get("edhrecRank", ""),
+                            "edhrecSaltiness": row.get("edhrecSaltiness", ""),
+                            "isGameChanger": row.get("isGameChanger", ""),
                         }
                 self._detected_encoding = enc
                 return
@@ -61,6 +66,11 @@ class CardCache:
                     "setCode": row.get("setCode", ""),
                     "power": row.get("power", ""),
                     "toughness": row.get("toughness", ""),
+                    "manaCost": row.get("manaCost", ""),
+                    "producedMana": row.get("producedMana", ""),
+                    "edhrecRank": row.get("edhrecRank", ""),
+                    "edhrecSaltiness": row.get("edhrecSaltiness", ""),
+                    "isGameChanger": row.get("isGameChanger", ""),
                 }
             self._detected_encoding = "utf-8"
         except Exception as e:
@@ -69,25 +79,39 @@ class CardCache:
 
     def save(self):
         with self.path.open("w", encoding="utf-8", newline="") as f:
-            w = csv.DictWriter(f, fieldnames=["name","subtypes","manaValue","colorIdentity","type","text","setCode","power","toughness"])
+            w = csv.DictWriter(
+                f,
+                fieldnames=[
+                    "name", "subtypes", "manaValue", "colorIdentity", "type", "text",
+                    "setCode", "power", "toughness", "manaCost", "producedMana",
+                    "edhrecRank", "edhrecSaltiness", "isGameChanger",
+                ],
+            )
             w.writeheader()
             for name, data in self.cache.items():
                 w.writerow({
-                "name": name,
-                "subtypes": data.get("subtypes", ""),
-                "manaValue": data.get("manaValue", ""),
-                "colorIdentity": data.get("colorIdentity", ""),
-                "type": data.get("type", ""),
-                "text": data.get("text", ""),
-                "setCode": data.get("setCode", ""),
-                "power": data.get("power", ""),
-                "toughness": data.get("toughness", ""),
-            })
+                    "name": name,
+                    "subtypes": data.get("subtypes", ""),
+                    "manaValue": data.get("manaValue", ""),
+                    "colorIdentity": data.get("colorIdentity", ""),
+                    "type": data.get("type", ""),
+                    "text": data.get("text", ""),
+                    "setCode": data.get("setCode", ""),
+                    "power": data.get("power", ""),
+                    "toughness": data.get("toughness", ""),
+                    "manaCost": data.get("manaCost", ""),
+                    "producedMana": data.get("producedMana", ""),
+                    "edhrecRank": data.get("edhrecRank", ""),
+                    "edhrecSaltiness": data.get("edhrecSaltiness", ""),
+                    "isGameChanger": data.get("isGameChanger", ""),
+                })
 
 
     def ensure_card(self, card_name: str, db_connection: CardDB) -> dict:
         key = (card_name or "").lower()
-        if key in self.cache and self.cache[key].get("manaValue") != "":
+        cached = self.cache.get(key)
+        required_fields = ("manaValue", "manaCost", "producedMana", "edhrecSaltiness", "isGameChanger")
+        if cached and all(field in cached for field in required_fields) and cached.get("manaValue") != "":
             return self.cache[key]
         data = db_connection.fetch_card_from_db(card_name)
         if data:

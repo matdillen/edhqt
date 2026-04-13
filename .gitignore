@@ -2,3 +2,4 @@ data/db
 data/img
 __pycache__
 data/img_index.csv
+data/deck_sort_debug.log
