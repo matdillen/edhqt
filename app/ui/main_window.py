@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import (
     QMainWindow, QWidget, QHBoxLayout, QVBoxLayout, QListWidget, QListWidgetItem,
-    QComboBox, QPushButton, QLabel, QMessageBox, QSizePolicy, QProgressDialog
+    QCheckBox, QComboBox, QPushButton, QLabel, QMessageBox, QSizePolicy, QProgressDialog
 )
 from PyQt5.QtGui import QPixmap, QPainter
 from PyQt5.QtCore import QSignalBlocker, Qt
@@ -83,6 +83,8 @@ class MainWindow(QMainWindow):
 
         # Save the initial list to reset after filtering
         self.deck_files_actu = dict(self.deck_files)
+        self.search_result_counts = {}
+        self.search_results_popup = None
         self.deck_sort_key = "type"
         self.deck_sort_descending = False
 
@@ -109,9 +111,16 @@ class MainWindow(QMainWindow):
         self.search_input.returnPressed.connect(self._search_decks)
         s_layout.addWidget(self.search_input)
 
+        self.search_negative_checkbox = QCheckBox("Exclude")
+        s_layout.addWidget(self.search_negative_checkbox)
+
         btn = QPushButton("Search Decks")
         btn.clicked.connect(self._search_decks)
         s_layout.addWidget(btn)
+
+        reset_search_btn = QPushButton("Reset Search")
+        reset_search_btn.clicked.connect(self._reset_search_results)
+        s_layout.addWidget(reset_search_btn)
 
         left_layout.addLayout(s_layout)
 
@@ -126,6 +135,9 @@ class MainWindow(QMainWindow):
         self.filter_input.setPlaceholderText("Filter for color(s), e.g. wub")
         self.filter_input.returnPressed.connect(self._filter_decks)
         f_layout.addWidget(self.filter_input)
+
+        self.filter_negative_checkbox = QCheckBox("Exclude")
+        f_layout.addWidget(self.filter_negative_checkbox)
 
         f_btn = QPushButton("Filter Decks")
         f_btn.clicked.connect(self._filter_decks)
@@ -554,10 +566,15 @@ class MainWindow(QMainWindow):
                 color_lbl.setAlignment(Qt.AlignLeft)
                 name_lbl = QLabel(deck_name)
                 name_lbl.setAlignment(Qt.AlignLeft)
+                result_lbl = QLabel()
+                result_lbl.setAlignment(Qt.AlignRight | Qt.AlignVCenter)
+                result_lbl.setFixedWidth(44)
+                result_lbl.setProperty("search_count_label", True)
                 lay.addWidget(color_lbl)
-                lay.addWidget(name_lbl)
-                lay.addStretch()
+                lay.addWidget(name_lbl, 1)
+                lay.addWidget(result_lbl)
                 item_widget.setLayout(lay)
+                self._apply_deck_search_result(item_widget, deck_name)
 
                 item = QListWidgetItem(self.deck_list)
                 item.setSizeHint(item_widget.sizeHint())
@@ -571,12 +588,45 @@ class MainWindow(QMainWindow):
         item = self.deck_list.currentItem()
         if not item:
             return None
-        return self.deck_list.itemWidget(item).layout().itemAt(1).widget().text().split(" (")[0]
+        return self._deck_name_from_item(item)
+
+    def _deck_name_from_item(self, item):
+        """Return the commander name stored in a deck-list row."""
+        widget = self.deck_list.itemWidget(item)
+        if not widget:
+            return None
+        return widget.layout().itemAt(1).widget().text().split(" (")[0]
+
+    def _apply_deck_search_result(self, item_widget, deck_name: str):
+        """Fill the persistent search-result column and highlight matching decks."""
+        count = self.search_result_counts.get(deck_name, 0)
+        count_lbl = item_widget.layout().itemAt(2).widget()
+        count_lbl.setText(str(count) if count else "")
+        if count:
+            count_lbl.setStyleSheet("QLabel { font-weight: 600; color: #f6d365; }")
+            item_widget.setStyleSheet("QWidget { background-color: #3a3217; }")
+        else:
+            count_lbl.setStyleSheet("")
+            item_widget.setStyleSheet("")
+
+    def _refresh_deck_search_results(self):
+        """Refresh search highlighting/counts without changing the deck-list structure."""
+        for row in range(self.deck_list.count()):
+            item = self.deck_list.item(row)
+            deck_name = self._deck_name_from_item(item)
+            widget = self.deck_list.itemWidget(item)
+            if deck_name and widget:
+                self._apply_deck_search_result(widget, deck_name)
+
+    def _reset_search_results(self):
+        """Clear search highlights and result counts from the deck list."""
+        self.search_result_counts = {}
+        self._refresh_deck_search_results()
 
     # ---------- Actions ----------
     def _load_deck_clicked(self, item):
         """Loads the selected deck's content in the mid panel."""
-        dn = self.deck_list.itemWidget(item).layout().itemAt(1).widget().text().split(" (")[0]
+        dn = self._deck_name_from_item(item)
         self._load_deck_by_name(dn)
 
     def _load_deck_by_name(self, deck_name: str):
@@ -641,11 +691,19 @@ class MainWindow(QMainWindow):
         if not query:
             return
         results = []
+        mode = self.search_dropdown.currentText()
+        negative = self.search_negative_checkbox.isChecked() and mode == "Cards"
         for deck_name, path in self.deck_files_actu.items():
             cards = read_mainboard(path)
-            matches = search_in_deck(cards, query, self.cache, self.search_dropdown.currentText())
+            matches = search_in_deck(cards, query, self.cache, mode, negative)
             if matches:
                 results.append((deck_name, matches))
+        self.search_result_counts = {
+            deck_name: len(matches)
+            for deck_name, matches in results
+            if matches
+        }
+        self._refresh_deck_search_results()
         if not results:
             results.append(("No results found for query: ",[(query,0)]))
         self._display_search_results(results)
@@ -660,14 +718,25 @@ class MainWindow(QMainWindow):
             matches = search_in_deck(cards, gc_list, self.cache, "Game Changers")
             if matches:
                 results.append((deck_name, matches))
+        self.search_result_counts = {
+            deck_name: len(matches)
+            for deck_name, matches in results
+            if matches
+        }
+        self._refresh_deck_search_results()
         if not results:
             results.append(("No results found for query: ",[("Game Changers",0)]))
         self._display_search_results(results)
 
     def _display_search_results(self, results):
-        """Show search results in a popup."""
-        dialog = ResultsPopup(results, "Search Result",self)
-        dialog.exec()
+        """Show search results in a modeless popup so the main window stays usable."""
+        if self.search_results_popup:
+            self.search_results_popup.close()
+        self.search_results_popup = ResultsPopup(results, "Search Result", self)
+        self.search_results_popup.finished.connect(lambda _result: setattr(self, "search_results_popup", None))
+        self.search_results_popup.show()
+        self.search_results_popup.raise_()
+        self.search_results_popup.activateWindow()
 
     def _show_deck_stats(self):
         """Show a popup with composition and score details for the selected deck."""
@@ -716,9 +785,11 @@ class MainWindow(QMainWindow):
         if not query:
             return
         filtered = {}
+        negative = self.filter_negative_checkbox.isChecked()
         for deck_name, identity in self.color_ids.items():
             raw = set([x.lower() for x in identity.split(', ') if x])
-            if all(ch in raw for ch in query):
+            matches = all(ch in raw for ch in query)
+            if matches != negative:
                 filtered[deck_name] = self.deck_files[deck_name]
         self.deck_files_actu = filtered
         self._init_decklist_items(filtered)

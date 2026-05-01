@@ -54,7 +54,10 @@ class ResultsPopup(QDialog):
         for deck_name, cards in results:
             formatted_text += f"Deck: {deck_name}\n"
             for card_name, qty in cards:
-                formatted_text += f"    {qty}x {card_name}\n"
+                if qty:
+                    formatted_text += f"    {qty}x {card_name}\n"
+                else:
+                    formatted_text += f"    {card_name}\n"
             formatted_text += "\n"  # Spacing between decks
         
         self.text_display.setPlainText(formatted_text)

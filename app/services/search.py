@@ -118,7 +118,13 @@ class CardCache:
             self.cache[key] = data
         return data
 
-def search_in_deck(deck_cards: List[Tuple[str, int]], query: str, cache: CardCache, mode: str) -> List[Tuple[str, int]]:
+def search_in_deck(
+    deck_cards: List[Tuple[str, int]],
+    query: str,
+    cache: CardCache,
+    mode: str,
+    negative: bool = False,
+) -> List[Tuple[str, int]]:
     out: List[Tuple[str, int]] = []
     if mode == "Subtypes":
         qparts = [q.strip() for q in query.lower().split(',') if q.strip()]
@@ -135,4 +141,6 @@ def search_in_deck(deck_cards: List[Tuple[str, int]], query: str, cache: CardCac
         if mode == "Game Changers":
             if card_name in query:
                 out.append((card_name, qty))
+    if mode == "Cards" and negative:
+        return [] if out else [(f"No card matching: {query}", 0)]
     return out

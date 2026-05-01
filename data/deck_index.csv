@@ -1,5 +1,4 @@
 deck_name,file_path,color_identity
-Akul the Unrepentant,data\decks\akul.cod,"B, R"
 Ashnod the Uncaring,data\decks\ashnod.cod,"U, B, R"
 "Bello, Bard of the Brambles",data\decks\bello.cod,"R, G"
 "Betor, Kin to All",data\decks\betor.cod,"W, B, G"
@@ -7,6 +6,7 @@ Ashnod the Uncaring,data\decks\ashnod.cod,"U, B, R"
 "Delney, Streetwise Lookout",data\decks\delney.cod,W
 "Eluge, the Shoreless Sea",data\decks\eluge.cod,U
 Emiel the Blessed,data\decks\emiel.cod,"W, G"
+"Estrid, the Masked",data\decks\estrid.cod,"W, U, G"
 "Feather, the Redeemed",data\decks\feather.cod,"W, R"
 "Firkraag, Cunning Instigator",data\decks\firkraag.cod,"U, R"
 Commodore Guff,data\decks\guff.cod,"W, U, R"
@@ -20,6 +20,7 @@ Karlov of the Ghost Council,data\decks\karlov.cod,"W, B"
 "Kokusho, the Evening Star",data\decks\kokusho.cod,B
 "Gyome, Master Chef",data\decks\kyome.cod,"B, G"
 "Livaan, Cultist of Tiamat & Hardy Outlander",data\decks\livaan.cod,"R, G"
+"Lorehold, the Historian",data\decks\lorehold.cod,"W, R"
 "Miirym, Sentinel Wyrm",data\decks\miirym.cod,"U, R, G"
 Nikya of the Old Ways,data\decks\nikya.cod,"R, G"
 "Ognis, the Dragon's Lash",data\decks\ognis.cod,"B, R, G"
@@ -28,6 +29,7 @@ Nikya of the Old Ways,data\decks\nikya.cod,"R, G"
 Fire Lord Ozai,data\decks\ozai.cod,"B, R"
 "Atla Palani, Nest Tender",data\decks\pantani.cod,"W, R, G"
 "Pir, Imaginative Rascal & Toothy, Imaginary Friend",data\decks\pirtoo.cod,"U, G"
+"Prossh, Skyraider of Kher",data\decks\prossh.cod,"B, R, G"
 "Reki, the History of Kamigawa",data\decks\reki.cod,G
 "Reyhan, Last of the Abzan & Bruse Tarl, Boorish Herder",data\decks\reybruse.cod,"W, B, R, G"
 Satoru Umezawa,data\decks\satoru.cod,"U, B"
