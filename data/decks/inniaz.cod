@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Apr 13 23:21:44 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 19:45:05 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="b238485f-ef67-4295-892b-a10235368f74">Inniaz, the Gale Force</bannerCard>
     <comments></comments>
@@ -46,7 +46,6 @@
         <card number="1" name="Faerie Mastermind" setShortName="MOM" collectorNumber="58" uuid="52d3005f-a1c7-4ef5-911f-ccc0752f4181"/>
         <card number="1" name="Azorius Signet" setShortName="AA1" collectorNumber="1" uuid="1f880968-565b-41ad-a64b-3dd3ef100051"/>
         <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
-        <card number="1" name="March of Swirling Mist" setShortName="NEO" collectorNumber="61" uuid="100171d8-7436-44c8-b4cb-0101ffa05c25"/>
         <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
         <card number="1" name="Warden of Evos Isle" setShortName="J25" collectorNumber="385" uuid="40d26ee1-5264-4f5a-ac01-8304888589aa"/>
         <card number="1" name="Hushwing Gryff" setShortName="PIO" collectorNumber="322" uuid="847caadc-0da9-4f21-829b-2b92bac5b861"/>
@@ -89,7 +88,6 @@
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
         <card number="1" name="Glen Elendra's Answer" setShortName="ECL" collectorNumber="52" uuid="fa5bfbf9-dca2-42b7-a431-f9afedb54528"/>
         <card number="1" name="Everything Comes to Dust" setShortName="WHO" collectorNumber="19" uuid="fb4b912c-07d4-42a1-8f3b-d5f34cca087f"/>
-        <card number="1" name="Land Tax" setShortName="CMM" collectorNumber="37" uuid="9258ad10-cbe6-4676-93b4-6ef4a33f12ee"/>
         <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
         <card number="1" name="Kangee's Lieutenant" setShortName="SCD" collectorNumber="27" uuid="d0caf32b-ab0e-4207-9aaa-75c19f88cdd9"/>
         <card number="1" name="Reconnaissance Mission" setShortName="40K" collectorNumber="193" uuid="009f7603-a6a3-461b-bc73-810db1ab2898"/>
@@ -99,5 +97,7 @@
         <card number="1" name="Expel the Interlopers" setShortName="PWOE" collectorNumber="13p" uuid="c0182aa4-009b-4496-b147-5724a92a92ed"/>
         <card number="1" name="Akroma's Will" setShortName="FCA" collectorNumber="21" uuid="fc9c542d-ff46-4193-9972-68287879a8a0"/>
         <card number="1" name="Enduring Curiosity" setShortName="DSK" collectorNumber="51" uuid="8616629e-08f9-41ad-bfec-f86c8096f1cb"/>
+        <card number="1" name="Sword of the Animist" setShortName="AFC" collectorNumber="218" uuid="3bfa6b8c-6e4b-42fa-9f6c-40c95e162b9a"/>
+        <card number="1" name="Bident of Thassa" setShortName="BLC" collectorNumber="162" uuid="60a9018a-24a9-4c25-89ca-4ac52a60fbf1"/>
     </zone>
 </cockatrice_deck>

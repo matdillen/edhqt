@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Apr 17 16:03:37 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 19:41:19 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Miirym, Sentinel Wyrm</bannerCard>
     <comments></comments>
@@ -60,16 +60,13 @@
         <card number="1" name="Scourge of Valkas"/>
         <card number="1" name="Kura, the Boundless Sky"/>
         <card number="1" name="Old Gnawbone"/>
-        <card number="1" name="Bonders' Enclave"/>
         <card number="1" name="Goldspan Dragon"/>
         <card number="1" name="Cavern-Hoard Dragon"/>
         <card number="1" name="Titan of Littjara"/>
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Kindred Discovery"/>
         <card number="1" name="Terror of the Peaks"/>
-        <card number="1" name="Progenitor's Icon"/>
         <card number="1" name="Fierce Guardianship"/>
-        <card number="1" name="Rivendell"/>
         <card number="1" name="Volcanic Island"/>
         <card number="1" name="Roaming Throne"/>
         <card number="1" name="Raise the Palisade"/>
@@ -102,6 +99,9 @@
         <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
         <card number="1" name="Shadow in the Warp" setShortName="40K" collectorNumber="140" uuid="bd60cd99-1511-4903-b678-ff5a1853a742"/>
         <card number="1" name="Tempt with Discovery" setShortName="BLC" collectorNumber="124" uuid="580bbd5b-795e-41fe-b061-579c42218670"/>
+        <card number="1" name="Spiteful Banditry" setShortName="LTR" collectorNumber="149" uuid="e85a82bc-49f3-4694-b688-808a541146db"/>
+        <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
+        <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
     </zone>
     <zone name="side">
         <card number="1" name="Miirym, Sentinel Wyrm"/>

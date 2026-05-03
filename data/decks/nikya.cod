@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 19:02:11 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun May 3 02:49:00 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="90ff41a6-6604-4953-a43d-816c4568b742">Nikya of the Old Ways</bannerCard>
     <comments></comments>
@@ -52,7 +52,6 @@
         <card number="1" name="Nullstone Gargoyle" setShortName="RAV" collectorNumber="266" uuid="1dc3aa88-2555-4862-a771-e9d5b9eab3ad"/>
         <card number="1" name="Genesis Hydra" setShortName="MOC" collectorNumber="298" uuid="69467d04-6c7d-44d1-88c4-9721741d6034"/>
         <card number="1" name="Genesis Wave" setShortName="FDN" collectorNumber="221" uuid="d46f7ddb-f986-4f1f-b096-ae1a02d0bdc8"/>
-        <card number="1" name="Multani, Yavimaya's Avatar" setShortName="DSC" collectorNumber="190" uuid="61337cf3-709d-4886-9c9b-0c346677f026"/>
         <card number="1" name="Artisan of Kozilek" setShortName="CMM" collectorNumber="801" uuid="9312fada-fc31-46ac-b6a1-cfffd776856f"/>
         <card number="1" name="Primal Surge" setShortName="AVR" collectorNumber="189" uuid="4278f7bd-afff-4a1d-a0bb-bf9ce3ad5a2e"/>
         <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
@@ -66,8 +65,6 @@
         <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="5" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
-        <card number="1" name="High Market" setShortName="AFC" collectorNumber="246" uuid="9d56844f-ee3b-4161-85d2-18b872a9b465"/>
-        <card number="1" name="Soul of the Harvest" setShortName="JMP" collectorNumber="432" uuid="d7ce9104-0ad3-4d3d-bb2c-c456c25030f6"/>
         <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
         <card number="1" name="Nykthos, Shrine to Nyx" setShortName="EA2" collectorNumber="24" uuid="920bbc28-1a57-4dc3-86e9-6a491a4afa1e"/>
         <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
@@ -85,7 +82,6 @@
         <card number="1" name="Beast Whisperer" setShortName="CLU" collectorNumber="158" uuid="daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59"/>
         <card number="1" name="Nylea, Keen-Eyed" setShortName="THB" collectorNumber="185" uuid="bdf894d4-1a06-4952-a481-22786ab87a73"/>
         <card number="1" name="Yeva, Nature's Herald" setShortName="RVR" collectorNumber="162" uuid="67ff9ba3-cd2b-4970-b4da-22104b10a4a4"/>
-        <card number="1" name="Questing Beast" setShortName="PLST" collectorNumber="ELD-171" uuid="f22676dc-9c00-4fe6-aa39-1fd801ad7102"/>
         <card number="1" name="Enduring Courage" setShortName="DSK" collectorNumber="133" uuid="f46ac55f-d68e-4d5d-af0a-3879f97f705e"/>
         <card number="1" name="Hornet Queen" setShortName="CLB" collectorNumber="825" uuid="6ef7c1a5-eb4e-4f75-ad41-1b84741ecab1"/>
         <card number="1" name="Bane of Progress" setShortName="FIC" collectorNumber="299" uuid="5fc6876d-7441-42ac-b9a1-c10a0f6a387a"/>
@@ -100,5 +96,9 @@
         <card number="1" name="Hanweir Battlements" setShortName="INR" collectorNumber="279" uuid="8c0acb91-edfc-43a5-af77-6614327fce43"/>
         <card number="1" name="Castle Embereth" setShortName="CLB" collectorNumber="883" uuid="eb4126a6-5f79-4dad-8d18-e279ca19d2b2"/>
         <card number="1" name="Agonasaur Rex" setShortName="DFT" collectorNumber="151" uuid="5b11ec26-9e07-45e1-bcaa-5d44d1231586"/>
+        <card number="1" name="Shatterskull Smashing" setShortName="ZNR" collectorNumber="161" uuid="bc7239ea-f8aa-4a6f-87bd-c35359635673"/>
+        <card number="1" name="Dualcaster Mage" setShortName="SPG" collectorNumber="153" uuid="ea11f546-4f7c-4649-9e6e-65d0a3ef3912"/>
+        <card number="1" name="Radiant Performer" setShortName="C21" collectorNumber="54" uuid="e8faedf4-1178-4f5d-8f46-7277dfe1ae2c"/>
+        <card number="1" name="Selfless Safewright" setShortName="ECL" collectorNumber="193" uuid="ac95b1c3-9eb2-4f80-bb32-72b36817d622"/>
     </zone>
 </cockatrice_deck>

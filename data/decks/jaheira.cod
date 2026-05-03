@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 20:31:29 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 23:21:22 2026</lastLoadedTimestamp>
     <deckname>jaheira</deckname>
     <bannerCard providerId="">Jaheira, Friend of the Forest</bannerCard>
     <comments></comments>
@@ -24,7 +24,6 @@
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Harvest Season"/>
         <card number="1" name="Horn of Valhalla // Ysgard's Call"/>
-        <card number="1" name="Cryptolith Rite"/>
         <card number="1" name="Throne of the God-Pharaoh"/>
         <card number="1" name="Staff of the Storyteller"/>
         <card number="1" name="Mirrex"/>
@@ -101,5 +100,6 @@
         <card number="1" name="Springleaf Parade" setShortName="ECC" collectorNumber="19" uuid="44265489-645a-43b0-bc1f-726905b06876"/>
         <card number="1" name="Empyrial Storm" setShortName="C18" collectorNumber="2" uuid="dbfb7f01-87bf-4eb6-8a8f-3401f37c3ebf"/>
         <card number="1" name="Polygoyf" setShortName="M3C" collectorNumber="65" uuid="00b4625c-ce91-4b86-8db7-a6c2d4fb9c92"/>
+        <card number="1" name="Earthcraft" setShortName="TMP" collectorNumber="222" uuid="9dda7531-82a1-4f49-8858-601ddbc6e2bc"/>
     </zone>
 </cockatrice_deck>

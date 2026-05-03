@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Feb 16 14:47:15 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 23:23:12 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Eluge, the Shoreless Sea</bannerCard>
     <comments></comments>
@@ -19,7 +19,6 @@
         <card number="1" name="Snapcaster Mage"/>
         <card number="1" name="Reality Shift"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Counterspell"/>
         <card number="1" name="Cyber Conversion"/>
         <card number="1" name="Teferi's Time Twist"/>
         <card number="1" name="Snap"/>
@@ -93,5 +92,6 @@
         <card number="1" name="Secret of Bloodbending" setShortName="TLA" collectorNumber="69" uuid="9bb928ae-f636-4aee-9146-a7885e6a8976"/>
         <card number="1" name="Spirit Water Revival" setShortName="TLA" collectorNumber="73" uuid="0c019e76-c88e-4d1b-a546-0f4e462ef44a"/>
         <card number="1" name="Kefnet's Last Word" setShortName="HOU" collectorNumber="39" uuid="4d7e5103-ee7d-40d7-bcd4-c5d1a48e9821"/>
+        <card number="1" name="Mana Drain" setShortName="2X2" collectorNumber="57" uuid="3c429c40-2389-41e5-8681-4bb274e25eba"/>
     </zone>
 </cockatrice_deck>

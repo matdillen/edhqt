@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 20:48:17 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 19:49:14 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="5006a96e-718f-45c0-b8f0-1d2ad714511c">Betor, Kin to All</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
         <card number="1" name="Deathrite Shaman" setShortName="EA3" collectorNumber="15" uuid="2071ed5f-7a50-4b02-b6a4-f5c781ef9212"/>
-        <card number="1" name="Traproot Kami" setShortName="BOK" collectorNumber="147" uuid="ce65aabe-5fd8-4b62-b13c-12e4bb91aacb"/>
         <card number="1" name="Bark of Doran" setShortName="ECL" collectorNumber="6" uuid="98210276-1b85-4db5-8ab4-ecb08f5d2ee2"/>
         <card number="1" name="Doran, Besieged by Time" setShortName="ECL" collectorNumber="215" uuid="568aa70a-6765-486a-bd37-5d38b16c46de"/>
         <card number="1" name="Doran, the Siege Tower" setShortName="2X2" collectorNumber="201" uuid="e0ad8e7f-cda0-4529-94fc-dd3709158a94"/>
@@ -24,7 +23,6 @@
         <card number="1" name="Saving Grace" setShortName="HOU" collectorNumber="21" uuid="9ac7b2d8-7702-4b8c-84ed-1d785dea5cc5"/>
         <card number="1" name="Tower Defense" setShortName="TDC" collectorNumber="275" uuid="adacc68a-0bc5-49ee-b5f8-d61024952ce9"/>
         <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
-        <card number="1" name="Treefolk Umbra" setShortName="MH1" collectorNumber="185" uuid="677166cf-4e1e-43ac-a67b-afaf33c0d14e"/>
         <card number="1" name="Huatli, the Sun's Heart" setShortName="SLD" collectorNumber="530" uuid="79d05299-27bd-4826-bbdb-f24ac9a5005b"/>
         <card number="1" name="Rasaad yn Bashir" setShortName="CLB" collectorNumber="37" uuid="f6597ec7-0fc8-4aa5-a8a6-ea5f95f4ce15"/>
         <card number="1" name="Selvala, Explorer Returned" setShortName="BLC" collectorNumber="259" uuid="69195842-c7ce-477b-a04f-06412aff382a"/>
@@ -60,10 +58,9 @@
         <card number="1" name="Farewell" setShortName="FIC" collectorNumber="242" uuid="4d8b6418-da30-4c68-b87c-3936eb77620c"/>
         <card number="1" name="Last March of the Ents" setShortName="LTR" collectorNumber="172" uuid="7f1b99e0-ffb7-4f98-8ee5-4357bb79dd2e"/>
         <card number="1" name="Zopandrel, Hunger Dominus" setShortName="ONE" collectorNumber="195" uuid="fb419d9d-e06f-48c8-a4f8-a57f9be39e50"/>
-        <card number="1" name="Towering Titan" setShortName="TDC" collectorNumber="276" uuid="2f75be32-0e5a-4d4f-93b4-149892df381c"/>
         <card number="1" name="The Walls of Ba Sing Se" setShortName="PTLA" collectorNumber="261s" uuid="eeb9b50f-43ed-4913-869b-1b38c09db9ef"/>
         <card number="4" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
-        <card number="4" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
+        <card number="3" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
         <card number="3" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Forbidding Watchtower" setShortName="PLST" collectorNumber="10E-352" uuid="97b2c000-a4ee-4b7b-b42d-e538de6896df"/>
         <card number="1" name="Grove of the Guardian" setShortName="GK1" collectorNumber="124" uuid="0079326b-ef87-49b8-9772-9134fb5deb3e"/>
@@ -90,13 +87,17 @@
         <card number="1" name="Arachnogenesis" setShortName="CMM" collectorNumber="272" uuid="ef6b1fd8-7c0b-4736-a100-cabd82052227"/>
         <card number="1" name="Overgrown Battlement" setShortName="NCC" collectorNumber="303" uuid="137852ce-3699-4dd0-8ead-9b267e9bb900"/>
         <card number="1" name="Spry and Mighty" setShortName="ECL" collectorNumber="195" uuid="152b7374-e991-443f-b6ca-914415635c4a"/>
-        <card number="1" name="Robe of Stars" setShortName="AFC" collectorNumber="11" uuid="b2992175-5499-4a83-9ff2-03c7c34819c3"/>
         <card number="1" name="Silverback Elder" setShortName="DMU" collectorNumber="177" uuid="b987664f-0b74-4c0a-b306-14767a55559a"/>
         <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
         <card number="1" name="Inkshield" setShortName="DSC" collectorNumber="221" uuid="bf3af774-526e-4b64-a34f-407e6ef92d24"/>
         <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
         <card number="1" name="Eirdu, Carrier of Dawn" setShortName="ECL" collectorNumber="13" uuid="b2d9d5ca-7e15-437a-bdfc-5972b42148fe"/>
-        <card number="1" name="Perennation" setShortName="PTDM" collectorNumber="212p" uuid="a85fb2d8-fc5f-4f9f-b811-2f3208a53808"/>
+        <card number="1" name="Wave of Reckoning" setShortName="SOC" collectorNumber="112" uuid="7be0c25a-5e65-48e1-9560-9391111bb912"/>
+        <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
+        <card number="1" name="Zero Point Ballad" setShortName="EOE" collectorNumber="128" uuid="59cf9f4d-54cd-4cda-9726-65e16100ab46"/>
+        <card number="1" name="Tip the Scales" setShortName="TDC" collectorNumber="29" uuid="00b492ca-9cba-4d51-91b9-41430c6933a1"/>
+        <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
+        <card number="1" name="Moment of Reckoning" setShortName="PSOS" collectorNumber="205p" uuid="7e02637b-a3a3-44cf-9cd4-f6ad045479a7"/>
     </zone>
     <zone name="side">
         <card number="1" name="Betor, Kin to All" setShortName="PTDM" collectorNumber="172p" uuid="5006a96e-718f-45c0-b8f0-1d2ad714511c"/>

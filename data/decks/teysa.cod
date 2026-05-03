@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 20:21:40 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 23:42:03 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
@@ -21,14 +21,13 @@
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Grave Pact"/>
         <card number="1" name="Archon of Justice"/>
-        <card number="1" name="Ao, the Dawn Sky"/>
         <card number="1" name="Kaya the Inexorable"/>
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Ogre Slumlord"/>
         <card number="1" name="Dictate of Erebos"/>
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Massacre Wurm"/>
-        <card number="6" name="Plains"/>
+        <card number="5" name="Plains"/>
         <card number="3" name="Swamp"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Command Tower"/>
@@ -98,6 +97,8 @@
         <card number="1" name="Oft-Nabbed Goat" setShortName="ECC" collectorNumber="11" uuid="4030bfab-867c-4724-904e-3e8b631f075e"/>
         <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
         <card number="1" name="Cauldron of Souls" setShortName="PLST" collectorNumber="CM2-180" uuid="3cd9c327-c2ff-4834-b806-f4ab1fb4325f"/>
+        <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
+        <card number="1" name="Prowling Geistcatcher" setShortName="MIC" collectorNumber="21" uuid="84ed5b16-273a-432b-895b-791ffaa5148d"/>
     </zone>
     <zone name="side">
         <card number="1" name="Teysa Karlov"/>

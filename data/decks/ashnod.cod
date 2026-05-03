@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun Apr 12 19:28:51 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 20:30:16 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31">Ashnod the Uncaring</bannerCard>
     <comments></comments>
@@ -53,13 +53,10 @@
         <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
         <card number="1" name="Aether Spellbomb" setShortName="J22" collectorNumber="752" uuid="ee539bda-62b4-40fb-95d3-c7d1fc0a7e09"/>
         <card number="1" name="Mayhem Devil" setShortName="DSC" collectorNumber="225" uuid="087ff277-902f-4285-93b6-dc18e6d4fe15"/>
-        <card number="1" name="Evereth, Viceroy of Plunder" setShortName="J25" collectorNumber="41" uuid="f9c9c0be-8c69-45e5-bdcb-e62ddb05e532"/>
         <card number="1" name="Dreamscape Artist" setShortName="PLST" collectorNumber="PLC-40" uuid="4fdb8b9d-9b4f-48c6-9651-7937aaf15282"/>
         <card number="1" name="Imskir Iron-Eater" setShortName="MH3" collectorNumber="189" uuid="541209fa-38b6-4d61-a72d-26bfb6ad5ead"/>
         <card number="1" name="Emry, Lurker of the Loch" setShortName="BRC" collectorNumber="81" uuid="aa6592b0-c809-4711-bb39-4c9a9e55657e"/>
-        <card number="1" name="Scrap Welder" setShortName="NEO" collectorNumber="159" uuid="14057067-2325-4229-8580-d9a6397ae343"/>
         <card number="1" name="Kurkesh, Onakke Ancient" setShortName="M15" collectorNumber="153" uuid="2e2a0e9e-0e45-4af1-9f03-6fd3652933f9"/>
-        <card number="1" name="High Market" setShortName="AFC" collectorNumber="246" uuid="9d56844f-ee3b-4161-85d2-18b872a9b465"/>
         <card number="1" name="Phyrexia's Core" setShortName="C21" collectorNumber="309" uuid="8d8df09f-d22f-4f29-b920-358433f81b76"/>
         <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
         <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
@@ -77,7 +74,6 @@
         <card number="1" name="Goblin Welder" setShortName="SLD" collectorNumber="1617" uuid="c427b231-3419-407c-803f-d6bcc37efb1d"/>
         <card number="1" name="Chaos Defiler" setShortName="40K" collectorNumber="110" uuid="1c0f2873-5849-4cab-855a-2fbbc41dbb6c"/>
         <card number="1" name="Vexing Bauble" setShortName="MH3" collectorNumber="212" uuid="29f11089-658f-42e6-aeb0-09b512ad2479"/>
-        <card number="1" name="Mindslaver" setShortName="OTP" collectorNumber="63" uuid="65b007d5-d9da-4342-ba7e-4b5d8d79912b"/>
         <card number="2" name="Snow-Covered Island" setShortName="J22" collectorNumber="833" uuid="fe6b4706-5452-4c50-872d-2d04f96407a8"/>
         <card number="1" name="Mana Vault" setShortName="2X2" collectorNumber="308" uuid="c1a31d52-a407-4ded-bfca-cc812f11afa0"/>
         <card number="1" name="Phyrexian Dragon Engine" setShortName="BRO" collectorNumber="163a" uuid="e2b826be-4256-4fd6-ad4d-6c80933ee940"/>
@@ -89,7 +85,6 @@
         <card number="1" name="Drowned Catacomb" setShortName="DRC" collectorNumber="152" uuid="6b4097eb-a1e5-4560-80d8-11bb5628dd0d"/>
         <card number="1" name="Burnished Hart" setShortName="AFC" collectorNumber="200" uuid="0f22bcce-4f9a-4e82-a684-63ab9cce90ed"/>
         <card number="1" name="Thought Monitor" setShortName="BRC" collectorNumber="98" uuid="01179c70-a87a-46aa-a95d-3269889e87ff"/>
-        <card number="1" name="Ayara, Widow of the Realm" setShortName="MOM" collectorNumber="90" uuid="a21b1734-a773-4107-95c1-b44d5ccdfd82"/>
         <card number="1" name="Esoteric Duplicator" setShortName="BIG" collectorNumber="5" uuid="3dbb2755-97d9-492e-8697-5548160678c8"/>
         <card number="1" name="Worldwalker Helm" setShortName="BIG" collectorNumber="7" uuid="b74ad496-05bc-4c5a-9027-b14df9c387ab"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
@@ -105,5 +100,10 @@
         <card number="1" name="Dungeoneer's Pack" setShortName="CLB" collectorNumber="312" uuid="aa74e656-480a-4c1b-963d-1b207075c27f"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Myr Battlesphere" setShortName="BRC" collectorNumber="151" uuid="e225aa6b-bcf0-4672-8c95-b18e39e0b826"/>
+        <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
+        <card number="1" name="Slip Out the Back" setShortName="CLU" collectorNumber="99" uuid="d9d9fbbb-ed6c-45f7-a1d8-f9d29ae7930f"/>
+        <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
+        <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
+        <card number="1" name="Extinction Event" setShortName="MAR" collectorNumber="65" uuid="f6bcf690-c532-4d2d-8458-78a5613a6090"/>
     </zone>
 </cockatrice_deck>

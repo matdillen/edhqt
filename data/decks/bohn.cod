@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Thu Apr 16 00:35:03 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 19:40:22 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="6e779a16-7528-49f4-8304-502bb603c15b">Bohn, Beguiling Balladeer</bannerCard>
     <comments></comments>
@@ -22,18 +22,15 @@
         <card number="1" name="Castle Vantress" setShortName="CLB" collectorNumber="885" uuid="dcf70844-18b1-4046-ae1d-ef41790bdcde"/>
         <card number="1" name="Sea Gate Restoration" setShortName="ZNR" collectorNumber="76" uuid="193071fe-180b-4d35-ba78-9c16675c29fc"/>
         <card number="1" name="Thran Turbine" setShortName="USG" collectorNumber="311" uuid="791c310f-b50d-4993-9add-9f585f6172af"/>
-        <card number="1" name="Braid of Fire" setShortName="PLST" collectorNumber="CSP-78" uuid="8a8e0464-3f05-4719-ad42-577954751da8"/>
         <card number="1" name="Izzet Signet" setShortName="BLC" collectorNumber="278" uuid="a39b4b15-cd3e-4d30-8de2-8e584524d018"/>
         <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
         <card number="1" name="Return the Favor" setShortName="OTJ" collectorNumber="142" uuid="a9cc02d1-799d-42aa-9bc2-4c05452b63b4"/>
         <card number="1" name="Delayed Blast Fireball" setShortName="CLB" collectorNumber="630" uuid="400c76c6-f677-4e7e-87ad-2e526d4b498a"/>
-        <card number="1" name="The Mirari Conjecture" setShortName="PLST" collectorNumber="DOM-57" uuid="18ee3a98-0254-4fe9-ba6b-94eb9266ac70"/>
         <card number="1" name="Unwind" setShortName="DOM" collectorNumber="72" uuid="97da6607-9131-4f8b-8af3-63439a59b78b"/>
         <card number="1" name="Supreme Will" setShortName="GN3" collectorNumber="40" uuid="fe64b0a3-ab59-44c5-84d0-0647a0572d5d"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Unexpected Windfall" setShortName="AFR" collectorNumber="164" uuid="bae6a5fb-39f5-4cf8-85f7-661cb4570507"/>
         <card number="1" name="Inscription of Insight" setShortName="ZNR" collectorNumber="61" uuid="281cdb1c-21ae-4430-8e0f-c993f52ba891"/>
-        <card number="1" name="Voracious Bibliophile" setShortName="TDC" collectorNumber="23" uuid="77d2c30b-3130-4d9d-bd3d-484fe6dc306d"/>
         <card number="1" name="Thran Dynamo" setShortName="BLC" collectorNumber="290" uuid="6455b185-aa5e-45e1-951e-f6eef517daf2"/>
         <card number="1" name="Chain Reaction" setShortName="AFC" collectorNumber="116" uuid="e631b484-37a2-4532-b4da-f24ee03152f6"/>
         <card number="1" name="Tidal Barracuda" setShortName="C20" collectorNumber="39" uuid="aacdf4c2-9bc8-400a-8ffc-d6597d8d7da9"/>
@@ -96,8 +93,11 @@
         <card number="1" name="Valakut Awakening" setShortName="PIO" collectorNumber="158" uuid="d30207c9-a067-43e1-af73-105369498e4c"/>
         <card number="1" name="Boseiju, Who Shelters All" setShortName="LTC" collectorNumber="359" uuid="bafe3253-feed-4cb9-a13c-9a9105462a8b"/>
         <card number="1" name="Spider-Verse" setShortName="OM1" collectorNumber="75" uuid="c3fd31e5-0faa-493f-aa50-08307a0c0139"/>
-        <card number="1" name="Wan Shi Tong, Librarian" setShortName="TLA" collectorNumber="78" uuid="e20da6b5-1057-4a28-9e85-07de714e262f"/>
         <card number="1" name="Torrential Gearhulk" setShortName="CMM" collectorNumber="128" uuid="92872fea-2fb4-4154-815e-cad9d966e60f"/>
         <card number="1" name="Lutri, the Spellchaser" setShortName="MUL" collectorNumber="52" uuid="08d24f3f-bff1-4424-a029-3221c4e395b3"/>
+        <card number="1" name="Deekah, Fractal Theorist" setShortName="SOC" collectorNumber="193" uuid="186e15a7-d97e-40df-adaa-96d9bd64f3ca"/>
+        <card number="1" name="Resonating Lute" setShortName="PSOS" collectorNumber="221p" uuid="b64f41bc-0161-4c75-a8fa-7168d3259fed"/>
+        <card number="1" name="Will of the Temur" setShortName="TDC" collectorNumber="24" uuid="d236aa15-f60c-4368-b796-4d41e0bc3358"/>
+        <card number="1" name="Consuming Tide" setShortName="DBL" collectorNumber="320" uuid="b1d9017f-608c-4397-a1b8-55f3ae265a2a"/>
     </zone>
 </cockatrice_deck>

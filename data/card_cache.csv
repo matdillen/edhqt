@@ -2146,3 +2146,346 @@ smile at death,,5.0,W,Enchantment,"At the beginning of your upkeep, return up to
 • Add {G}{G}{G}.
 • Put a +1/+1 counter on each creature you control.
 • Scry 2, then draw a card.",LTC,3,3,{2}{G}{W}{U},G,3895,0.56,
+library of leng,,1.0,,Artifact,"You have no maximum hand size.
+If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.",30A,,,{1},,3627,0.38,
+pyroblast,,1.0,R,Instant,"Choose one —
+• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.",5ED,,,{R},,437,0.38,
+banishing stroke,,6.0,W,Instant,"Put target artifact, creature, or enchantment on the bottom of its owner's library.
+Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",C18,,,{5}{W},,16317,0.06,
+sensei's divining top,,1.0,,Artifact,"{1}: Look at the top three cards of your library, then put them back in any order.
+{T}: Draw a card, then put this artifact on top of its owner's library.",CHK,,,{1},,218,1.47,
+dragon's rage channeler,"Human, Shaman",1.0,R,Creature — Human Shaman,"Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Delirium — As long as there are four or more card types among cards in your graveyard, this creature gets +2/+2, has flying, and attacks each combat if able.",H2R,1,1,{R},,1802,0.18,
+terminus,,6.0,W,Sorcery,"Put all creatures on the bottom of their owners' libraries.
+Miracle {W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",AVR,,,{4}{W}{W},,4695,0.5,
+demand answers,,2.0,R,Instant,"As an additional cost to cast this spell, sacrifice an artifact or discard a card.
+Draw two cards.",MKM,,,{1}{R},,420,0.1,
+thrill of possibility,,2.0,R,Instant,"As an additional cost to cast this spell, discard a card.
+Draw two cards.",ELD,,,{1}{R},,199,0.08,
+gift of estates,,2.0,W,Sorcery,"If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, put them into your hand, then shuffle.",STA,,,{1}{W},,4744,0.21,
+smoke,,2.0,R,Enchantment,Players can't untap more than one creature during their untap steps.,30A,,,{R}{R},,6474,1.58,
+powerbalance,,2.0,R,Enchantment,"Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, you may cast that card without paying its mana cost if the two spells have the same mana value.",MH3,,,{R}{R},,2272,0.41,
+scroll rack,,2.0,,Artifact,"{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",CMR,,,{2},,1398,0.73,
+"livaan, cultist of tiamat","Dragon, Shaman",3.0,R,Legendary Creature — Dragon Shaman,"Whenever you cast a noncreature spell, target creature gets +X/+0 until end of turn, where X is that spell's mana value.
+Choose a Background (You can have a Background as a second commander.)",CLB,1,3,{2}{R},,9186,0.36,
+space marine scout,"Astartes, Scout",3.0,W,Creature — Astartes Scout,"First strike, vigilance
+Concealed Position — When this creature enters, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle.",40K,2,1,{2}{W},,9596,0.35,
+victory chimes,,3.0,,Artifact,"Untap this artifact during each other player's untap step.
+{T}: A player of your choice adds {C}.",BBD,,,{3},C,4086,0.0,
+dragon's hoard,,3.0,,Artifact,"Whenever a Dragon you control enters, put a gold counter on this artifact.
+{T}, Remove a gold counter from this artifact: Draw a card.
+{T}: Add one mana of any color.",PM19,,,{3},"B, G, R, U, W",1132,0.06,
+seething song,,3.0,R,Instant,Add {R}{R}{R}{R}{R}.,PLST,,,{2}{R},R,375,0.5,
+calibrated blast,,3.0,R,Instant,"Reveal cards from the top of your library until you reveal a nonland card. Put the revealed cards on the bottom of your library in a random order. When you reveal a nonland card this way, Calibrated Blast deals damage equal to that card's mana value to any target.
+Flashback {3}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",PMH2,,,{2}{R},,18971,0.0,
+"squee, goblin nabob",Goblin,3.0,R,Legendary Creature — Goblin,"At the beginning of your upkeep, you may return this card from your graveyard to your hand.",UMA,1,1,{2}{R},,4583,0.34,
+glory,Incarnation,5.0,W,Creature — Incarnation,"Flying
+{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate only if this card is in your graveyard.",JUD,3,3,{3}{W}{W},,11929,0.59,
+ensnaring bridge,,3.0,,Artifact,Creatures with power greater than the number of cards in your hand can't attack.,MB2,,,{3},,4914,1.27,
+crackdown,,3.0,W,Enchantment,Nonwhite creatures with power 3 or greater don't untap during their controllers' untap steps.,MB2,,,{2}{W},,12392,1.06,
+revolutionist,"Human, Wizard",6.0,R,Creature — Human Wizard,"When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+Madness {3}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",MH2,3,3,{5}{R},,11669,0.0,
+wildfire devils,Devil,4.0,R,Creature — Devil,"When this creature enters and at the beginning of your upkeep, choose a player at random. That player exiles an instant or sorcery card from their graveyard. Copy that card. You may cast the copy without paying its mana cost.",SCD,4,2,{3}{R},,6107,0.1,
+white auracite,,4.0,W,Artifact,"When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+{T}: Add {W}.",FIN,,,{2}{W}{W},W,4813,0.13,
+surly badgersaur,"Badger, Dinosaur",4.0,R,Creature — Badger Dinosaur,"Whenever you discard a creature card, put a +1/+1 counter on this creature.
+Whenever you discard a land card, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Whenever you discard a noncreature, nonland card, this creature fights up to one target creature you don't control.",C20,3,3,{3}{R},"B, G, R, U, W",3286,0.27,
+timeless dragon,Dragon,5.0,W,Creature — Dragon,"Flying
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+Eternalize {2}{W}{W} ({2}{W}{W}, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Dragon with no mana cost. Eternalize only as a sorcery.)",DRC,5,5,{3}{W}{W},,8559,0.06,
+wild ricochet,,4.0,R,Instant,You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.,LRW,,,{2}{R}{R},,3801,0.35,
+magus of the moat,"Human, Wizard",4.0,W,Creature — Human Wizard,Creatures without flying can't attack.,FUT,0,3,{2}{W}{W},,7238,0.99,
+fiery confluence,,4.0,R,Sorcery,"Choose three. You may choose the same mode more than once.
+• Fiery Confluence deals 1 damage to each creature.
+• Fiery Confluence deals 2 damage to each opponent.
+• Destroy target artifact.",CM2,,,{2}{R}{R},,1475,0.2,
+miraculous recovery,,5.0,W,Instant,Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.,DDL,,,{4}{W},,15780,0.25,
+shower of coals,,5.0,R,Sorcery,"Shower of Coals deals 2 damage to each of up to three targets.
+Threshold — Shower of Coals deals 4 damage to each of those permanents and/or players instead if there are seven or more cards in your graveyard.",ODY,,,{3}{R}{R},,28825,0.0,
+gilded lotus,,5.0,,Artifact,{T}: Add three mana of any one color.,40K,,,{5},"B, G, R, U, W",414,0.06,
+galvanoth,Beast,5.0,R,Creature — Beast,"At the beginning of your upkeep, you may look at the top card of your library. You may cast it without paying its mana cost if it's an instant or sorcery spell.",DDJ,3,3,{3}{R}{R},,14327,0.2,
+bonehoard dracosaur,"Dinosaur, Dragon",5.0,R,Creature — Dinosaur Dragon,"Flying, first strike
+At the beginning of your upkeep, exile the top two cards of your library. You may play them this turn. If you exiled a land card this way, create a 3/1 red Dinosaur creature token. If you exiled a nonland card this way, create a Treasure token.",PLCI,5,5,{3}{R}{R},,1259,0.37,
+scalelord reckoner,Dragon,5.0,W,Creature — Dragon,"Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, destroy target nonland permanent that player controls.",PZ2,4,4,{3}{W}{W},,5918,0.24,
+brace for impact,,5.0,W,Instant,"Prevent all damage that would be dealt to target multicolored creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.",DIS,,,{4}{W},,25203,0.43,
+tragic arrogance,,5.0,W,Sorcery,"For each player, you choose from among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents they control.",PLST,,,{3}{W}{W},,3116,0.63,
+brilliant restoration,,7.0,W,Sorcery,Return all artifact and enchantment cards from your graveyard to the battlefield.,NEO,,,{3}{W}{W}{W}{W},,2068,0.29,
+reverse the sands,,8.0,W,Sorcery,Redistribute any number of players' life totals. (Each of those players gets one life total back.),CHK,,,{6}{W}{W},,13357,1.11,
+approach of the second sun,,7.0,W,Sorcery,"If this spell was cast from your hand and you've cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner's library seventh from the top and you gain 7 life.",SLD,,,{6}{W},,1029,1.17,
+hit the mother lode,,7.0,R,Sorcery,"Discover 10. If the discovered card's mana value is less than 10, create a number of tapped Treasure tokens equal to the difference. (To discover 10, exile cards from the top of your library until you exile a nonland card with mana value 10 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)",LCI,,,{4}{R}{R}{R},,1980,0.29,
+reckless endeavor,,7.0,R,Sorcery,Roll two d12 and choose one result. Reckless Endeavor deals damage equal to that result to each creature. Then create a number of Treasure tokens equal to the other result.,AFC,,,{5}{R}{R},,3518,0.2,
+rise of the eldrazi,,12.0,,Sorcery,"This spell can't be countered.
+Destroy target permanent. Target player draws four cards. Take an extra turn after this one.
+Exile Rise of the Eldrazi.",CMM,,,{9}{C}{C}{C},,2160,1.19,
+entreat the angels,,3.0,W,Sorcery,"Create X 4/4 white Angel creature tokens with flying.
+Miracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",V15,,,{X}{X}{W}{W}{W},,4832,0.29,
+call forth the tempest,,8.0,R,Sorcery,"Cascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)
+Call Forth the Tempest deals damage to each creature your opponents control equal to the total mana value of other spells you've cast this turn.",LTC,,,{5}{R}{R}{R},,2005,0.49,
+hour of revelation,,6.0,W,Sorcery,"This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.
+Destroy all nonland permanents.",AKR,,,{3}{W}{W}{W},,3558,0.62,
+elegant parlor,"Mountain, Plains",0.0,"R, W",Land — Mountain Plains,"({T}: Add {R} or {W}.)
+This land enters tapped.
+When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",PMKM,,,,"R, W",789,0.11,
+slayers' stronghold,,0.0,"R, W",Land,"{T}: Add {C}.
+{R}{W}, {T}: Target creature gets +2/+0 and gains vigilance and haste until end of turn.",MKC,,,,C,1204,0.07,
+nephalia academy,,0.0,,Land,"If a spell or ability an opponent controls causes you to discard a card, you may reveal that card and put it on top of your library instead of putting it anywhere else.
+{T}: Add {C}.",EMN,,,,C,9405,0.22,
+"mikokoro, center of the sea",,0.0,,Legendary Land,"{T}: Add {C}.
+{2}, {T}: Each player draws a card.",SOK,,,,C,1104,0.09,
+geier reach sanitarium,,0.0,,Legendary Land,"{T}: Add {C}.
+{2}, {T}: Each player draws a card, then discards a card.",C19,,,,C,412,0.15,
+mirrorpool,,0.0,,Land,"This land enters tapped.
+{T}: Add {C}.
+{2}{C}, {T}, Sacrifice this land: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+{4}{C}, {T}, Sacrifice this land: Create a token that's a copy of target creature you control.",EOS,,,,C,2727,0.21,
+brainstone,,1.0,,Artifact,"{2}, {T}, Sacrifice this artifact: Draw three cards, then put two cards from your hand on top of your library in any order.",MH2,,,{1},,4951,0.0,
+reforge the soul,,5.0,R,Sorcery,"Each player discards their hand, then draws seven cards.
+Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",AVR,,,{3}{R}{R},,1770,0.59,
+volcanic vision,,7.0,R,Sorcery,Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's mana value to each creature your opponents control. Exile Volcanic Vision.,PDTK,,,{5}{R}{R},,6110,0.64,
+erratic explosion,,3.0,R,Sorcery,Choose any target. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's mana value to that permanent or player. Put the revealed cards on the bottom of your library in any order.,PC2,,,{2}{R},,23610,0.07,
+radiant scrollwielder,"Dwarf, Cleric",4.0,"R, W",Creature — Dwarf Cleric,"Instant and sorcery spells you control have lifelink.
+At the beginning of your upkeep, exile an instant or sorcery card at random from your graveyard. You may cast it this turn. If a spell cast this way would be put into your graveyard, exile it instead.",PSTX,2,4,{2}{R}{W},,10118,0.0,
+deflecting palm,,2.0,"R, W",Instant,"The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.",KTK,,,{R}{W},,1213,0.51,
+heartflame duelist // heartflame slash,Adventure,2.0,"R, W",Instant — Adventure,Heartflame Slash deals 3 damage to any target. (Then exile this card. You may cast the creature later from exile.),PWOE,,,{2}{R},,9639,0.25,
+tarrian's journal,,2.0,B,Legendary Artifact,"{T}, Sacrifice another artifact or creature: Draw a card. Activate only as a sorcery.
+{2}, {T}, Discard your hand: Transform Tarrian's Journal.",LCI,,,{1}{B},B,3419,0.13,
+dolmen gate,,2.0,,Artifact,Prevent all combat damage that would be dealt to attacking creatures you control.,LRW,,,{2},,1405,0.66,
+stormclaw rager,"Ogre, Warrior",3.0,"B, R",Creature — Ogre Warrior,"{1}, Sacrifice another creature or artifact: Put a +1/+1 counter on this creature and draw a card. Activate only as a sorcery.",MOM,2,2,{1}{B}{R},,9766,0.07,
+"braids, arisen nightmare",Nightmare,3.0,B,Legendary Creature — Nightmare,"At the beginning of your end step, you may sacrifice an artifact, creature, enchantment, land, or planeswalker. If you do, each opponent may sacrifice a permanent of their choice that shares a card type with it. For each opponent who doesn't, that player loses 2 life and you draw a card.",GDY,3,3,{1}{B}{B},,289,1.05,
+mimic vat,,3.0,,Artifact,"Imprint — Whenever a nontoken creature dies, you may exile that card. If you do, return each other card exiled with this artifact to its owner's graveyard.
+{3}, {T}: Create a token that's a copy of a card exiled with this artifact. It gains haste. Exile it at the beginning of the next end step.",C19,,,{3},,2074,0.4,
+gruesome encore,,3.0,B,Sorcery,"Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. Exile it at the beginning of the next end step. If that creature would leave the battlefield, exile it instead of putting it anywhere else.",MBS,,,{2}{B},,17359,0.22,
+broadside bombardiers,"Goblin, Pirate",3.0,R,Creature — Goblin Pirate,"Menace, haste
+Boast — Sacrifice another creature or artifact: This creature deals damage equal to 2 plus the sacrificed permanent's mana value to any target. (Activate only if this creature attacked this turn and only once each turn.)",AA3,2,2,{2}{R},,5534,0.2,
+bow of nylea,,3.0,G,Legendary Enchantment Artifact,"Attacking creatures you control have deathtouch.
+{1}{G}, {T}: Choose one —
+• Put a +1/+1 counter on target creature.
+• Bow of Nylea deals 2 damage to target creature with flying.
+• You gain 3 life.
+• Put up to four target cards from your graveyard on the bottom of your library in any order.",THS,,,{1}{G}{G},,2190,0.28,
+beastmaster ascension,,3.0,G,Enchantment,"Whenever a creature you control attacks, you may put a quest counter on this enchantment.
+As long as this enchantment has seven or more quest counters on it, creatures you control get +5/+5.",PLST,,,{2}{G},,558,0.56,
+falkenrath aristocrat,"Vampire, Noble",4.0,"B, R",Creature — Vampire Noble,"Flying, haste
+Sacrifice a creature: This creature gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on this creature.",MM3,4,1,{2}{B}{R},,13593,0.31,
+whip of erebos,,4.0,B,Legendary Enchantment Artifact,"Creatures you control have lifelink.
+{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery.",SLD,,,{2}{B}{B},,729,0.44,
+questing beast,Beast,4.0,G,Legendary Creature — Beast,"Vigilance, deathtouch, haste
+Questing Beast can't be blocked by creatures with power 2 or less.
+Combat damage that would be dealt by creatures you control can't be prevented.
+Whenever Questing Beast deals combat damage to an opponent, it deals that much damage to target planeswalker that player controls.",SLC,4,4,{2}{G}{G},,2624,0.54,
+hate mirage,,4.0,R,Sorcery,"Choose up to two target creatures you don't control. For each of those creatures, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.",ONC,,,{3}{R},,6791,0.33,
+"minsc & boo, timeless heroes",Minsc,4.0,"G, R",Legendary Planeswalker — Minsc,"When Minsc & Boo enters and at the beginning of your upkeep, you may create Boo, a legendary 1/1 red Hamster creature token with trample and haste.
+[+1]: Put three +1/+1 counters on up to one target creature with trample or haste.
+[−2]: Sacrifice a creature. When you do, Minsc & Boo deals X damage to any target, where X is that creature's power. If the sacrificed creature was a Hamster, draw X cards.
+Minsc & Boo, Timeless Heroes can be your commander.",PCLB,,,{2}{R}{G},,3491,0.54,
+macabre mockery,,4.0,"B, R",Instant,Put target creature card from an opponent's graveyard onto the battlefield under your control. It gets +2/+0 and gains haste until end of turn. Sacrifice it at the beginning of the next end step.,RNA,,,{2}{B}{R},,16171,0.06,
+vengevine,Elemental,4.0,G,Creature — Elemental,"Haste
+Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return this card from your graveyard to the battlefield.",UMA,4,3,{2}{G}{G},,15875,0.43,
+goblin heelcutter,"Goblin, Berserker",4.0,R,Creature — Goblin Berserker,"Whenever this creature attacks, target creature can't block this turn.
+Dash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF,3,2,{3}{R},,19551,0.26,
+"the gitrog, ravenous ride","Frog, Horror, Mount",5.0,"B, G",Legendary Creature — Frog Horror Mount,"Trample, haste
+Whenever The Gitrog deals combat damage to a player, you may sacrifice a creature that saddled it this turn. If you do, draw X cards, then put up to X land cards from your hand onto the battlefield tapped, where X is the sacrificed creature's power.
+Saddle 1",OTJ,6,5,{3}{B}{G},,3881,0.52,
+clackbridge troll,Troll,5.0,B,Creature — Troll,"Trample, haste
+When this creature enters, target opponent creates three 0/1 white Goat creature tokens.
+At the beginning of combat on your turn, any opponent may sacrifice a creature of their choice. If a player does, tap this creature, you gain 3 life, and you draw a card.",ELD,8,8,{3}{B}{B},,4831,0.29,
+gaze of granite,,3.0,"B, G",Sorcery,Destroy each nonland permanent with mana value X or less.,C20,,,{X}{B}{B}{G},,4822,0.6,
+"klauth, unrivaled ancient",Dragon,7.0,"G, R",Legendary Creature — Dragon,"Flying, haste
+Whenever Klauth attacks, add X mana in any combination of colors, where X is the total power of attacking creatures. Spend this mana only to cast spells. Until end of turn, you don't lose this mana as steps and phases end.",SLD,4,4,{5}{R}{G},"B, G, R, U, W",2229,0.66,
+ziatora's proving ground,"Swamp, Mountain, Forest",0.0,"B, G, R",Land — Swamp Mountain Forest,"({T}: Add {B}, {R}, or {G}.)
+This land enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)",SNC,,,,"B, G, R",491,0.1,
+cinder glade,"Mountain, Forest",0.0,"G, R",Land — Mountain Forest,"({T}: Add {R} or {G}.)
+This land enters tapped unless you control two or more basic lands.",PLST,,,,"G, R",85,0.1,
+grove of the burnwillows,,0.0,"G, R",Land,"{T}: Add {C}.
+{T}: Add {R} or {G}. Each opponent gains 1 life.",EOS,,,,"C, G, R",3387,0.16,
+llanowar wastes,,0.0,"B, G",Land,"{T}: Add {C}.
+{T}: Add {B} or {G}. This land deals 1 damage to you.",APC,,,,"B, C, G",152,0.1,
+deathcap glade,,0.0,"B, G",Land,"This land enters tapped unless you control two or more other lands.
+{T}: Add {B} or {G}.",VOW,,,,"B, G",459,0.11,
+captain lannery storm,"Human, Pirate",3.0,R,Legendary Creature — Human Pirate,"Haste
+Whenever Captain Lannery Storm attacks, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")
+Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.",OTC,2,2,{2}{R},"B, G, R, U, W",1090,0.16,
+seize the spotlight,,3.0,R,Sorcery,"Each opponent chooses fame or fortune. For each player who chose fame, gain control of a creature that player controls until end of turn. Untap those creatures and they gain haste until end of turn. For each player who chose fortune, you draw a card and create a Treasure token.",PNCC,,,{2}{R},,1741,0.46,
+"krenko, baron of tin street",Goblin,3.0,R,Legendary Creature — Goblin,"Haste
+{T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.
+Whenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.",MKM,3,3,{2}{R},,7669,0.8,
+"the balrog, durin's bane","Avatar, Demon",7.0,"B, R",Legendary Creature — Avatar Demon,"This spell costs {1} less to cast for each permanent sacrificed this turn.
+Haste
+The Balrog can't be blocked except by legendary creatures.
+When The Balrog dies, destroy target artifact or creature an opponent controls.",PLTR,7,5,{5}{B}{R},,6008,0.43,
+rankle and torbran,"Faerie, Dwarf",5.0,"B, R",Legendary Creature — Faerie Dwarf,"Flying, first strike, haste
+Whenever Rankle and Torbran deals combat damage to a player or battle, choose any number —
+• Each player creates a Treasure token.
+• Each player sacrifices a creature of their choice.
+• If a source would deal damage to a player or battle this turn, it deals that much damage plus 2 instead.",MOM,3,4,{1}{B}{B}{R}{R},,8654,0.29,
+ambuscade shaman,"Orc, Shaman",3.0,B,Creature — Orc Shaman,"Whenever this creature or another creature you control enters, that creature gets +2/+2 until end of turn.
+Dash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",DTK,2,2,{2}{B},,20932,0.24,
+"saryth, the viper's fang","Human, Warlock",4.0,G,Legendary Creature — Human Warlock,"Other tapped creatures you control have deathtouch.
+Other untapped creatures you control have hexproof.
+{1}, {T}: Untap another target creature or land you control.",PMID,3,4,{2}{G}{G},,1165,0.39,
+ohran frostfang,Snake,5.0,G,Snow Creature — Snake,"Attacking creatures you control have deathtouch.
+Whenever a creature you control deals combat damage to a player, draw a card.",SLD,2,6,{3}{G}{G},,468,0.52,
+craterhoof behemoth,Beast,8.0,G,Creature — Beast,"Haste
+When this creature enters, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control.",PTDM,5,5,{5}{G}{G}{G},,353,1.44,
+old gnawbone,Dragon,7.0,G,Legendary Creature — Dragon,"Flying
+Whenever a creature you control deals combat damage to a player, create that many Treasure tokens.",PAFR,7,7,{5}{G}{G},,860,1.35,
+druids' repository,,3.0,G,Enchantment,"Whenever a creature you control attacks, put a charge counter on this enchantment.
+Remove a charge counter from this enchantment: Add one mana of any color.",AVR,,,{1}{G}{G},"B, G, R, U, W",6493,0.29,
+xorn,Elemental,3.0,R,Creature — Elemental,"If you would create one or more Treasure tokens, instead create those tokens plus an additional Treasure token.",PLST,3,2,{2}{R},,926,0.45,
+"samut, vizier of naktamun","Human, Warrior, Cleric",3.0,"G, R",Legendary Creature — Human Warrior Cleric,"First strike, vigilance, haste
+Whenever a creature you control deals combat damage to a player, if that creature entered this turn, draw a card.",MAT,2,3,{1}{R}{G},,6151,0.07,
+"kellogg, dangerous mind","Human, Mercenary",3.0,"B, R",Legendary Creature — Human Mercenary,"First strike, haste
+Whenever Kellogg attacks, create a Treasure token.
+Sacrifice five Treasures: Gain control of target creature for as long as you control Kellogg. Activate only as a sorcery.",PIP,3,2,{1}{B}{R},,2377,0.54,
+goldvein hydra,Hydra,1.0,G,Creature — Hydra,"Vigilance, trample, haste
+This creature enters with X +1/+1 counters on it.
+When this creature dies, create a number of tapped Treasure tokens equal to its power.",POTJ,0,0,{X}{G},,1633,0.38,
+shivan devastator,"Dragon, Hydra",1.0,R,Creature — Dragon Hydra,"Flying, haste
+This creature enters with X +1/+1 counters on it.",DMU,0,0,{X}{R},,3767,0.21,
+"mazirek, kraul death priest","Insect, Shaman",5.0,"B, G",Legendary Creature — Insect Shaman,"Flying
+Whenever a player sacrifices another permanent, put a +1/+1 counter on each creature you control.",C15,2,2,{3}{B}{G},,1912,0.36,
+tempt with vengeance,,1.0,R,Sorcery,"Tempting offer — Create X 1/1 red Elemental creature tokens with haste. Each opponent may create X 1/1 red Elemental creature tokens with haste. For each opponent who does, create X 1/1 red Elemental creature tokens with haste.",CMM,,,{X}{R},,2729,0.23,
+dowsing device,,2.0,R,Artifact,"Whenever this artifact or another artifact you control enters, up to one target creature you control gets +1/+0 and gains haste until end of turn. Then transform this artifact if you control four or more artifacts.",LCI,,,{1}{R},R,5382,0.13,
+skyfire phoenix,Phoenix,4.0,R,Creature — Phoenix,"Flying, haste
+When you cast your commander, return this card from your graveyard to the battlefield.",C19,3,3,{2}{R}{R},,11708,0.25,
+froghemoth,"Frog, Horror",5.0,G,Creature — Frog Horror,"Trample, haste
+Whenever this creature deals combat damage to a player, exile up to that many target cards from their graveyard. Put a +1/+1 counter on this creature for each creature card exiled this way. You gain 1 life for each noncreature card exiled this way.",PRM,4,4,{3}{G}{G},,5414,0.38,
+"rankle, master of pranks","Faerie, Rogue",4.0,B,Legendary Creature — Faerie Rogue,"Flying, haste
+Whenever Rankle deals combat damage to a player, choose any number —
+• Each player discards a card.
+• Each player loses 1 life and draws a card.
+• Each player sacrifices a creature of their choice.",ELD,3,3,{2}{B}{B},,1236,0.72,
+"sauron, the lidless eye","Avatar, Horror",5.0,"B, R",Legendary Creature — Avatar Horror,"When Sauron enters, gain control of target creature an opponent controls until end of turn. Untap it. It gains haste until end of turn.
+{1}{B}{R}: Creatures you control get +2/+0 until end of turn. Each opponent loses 2 life.",LTR,4,4,{3}{B}{R},,10591,0.25,
+kuldotha phoenix,Phoenix,5.0,R,Creature — Phoenix,"Flying, haste
+Metalcraft — {4}: Return this card from your graveyard to the battlefield. Activate only during your upkeep and only if you control three or more artifacts.",SOM,4,4,{2}{R}{R}{R},,18282,0.4,
+open the way,,2.0,G,Sorcery,"X can't be greater than the number of players in the game.
+Reveal cards from the top of your library until you reveal X land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.",MAT,,,{X}{G}{G},,1731,0.45,
+devastating onslaught,,1.0,R,Sorcery,Create X tokens that are copies of target artifact or creature you control. Those tokens gain haste until end of turn. Sacrifice them at the beginning of the next end step.,EOE,,,{X}{X}{R},,5407,0.31,
+detective's phoenix,Phoenix,3.0,R,Enchantment Creature — Phoenix,"Bestow—{R}, Collect evidence 6. (To pay this bestow cost, pay {R} and exile cards with total mana value 6 or greater from your graveyard.)
+Flying, haste
+Enchanted creature gets +2/+2 and has flying and haste.
+You may cast this card from your graveyard using its bestow ability.",MH3,2,2,{2}{R},,8698,0.29,
+realm-scorcher hellkite,Dragon,6.0,R,Creature — Dragon,"Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+Flying, haste
+When this creature enters, if it was bargained, add four mana in any combination of colors.
+{1}{R}: This creature deals 1 damage to any target.",WOE,4,6,{4}{R}{R},"B, G, R, U, W",9744,0.4,
+blasphemous edict,,5.0,B,Sorcery,"You may pay {B} rather than pay this spell's mana cost if there are thirteen or more creatures on the battlefield.
+Each player sacrifices thirteen creatures of their choice.",FDN,,,{3}{B}{B},,562,0.7,
+shadow the hedgehog,"Hedgehog, Mercenary",4.0,"B, R",Legendary Creature — Hedgehog Mercenary,"Haste
+Whenever Shadow the Hedgehog or another creature you control with flash or haste dies, draw a card.
+Chaos Control — Each spell you cast has split second if mana from an artifact was spent to cast it. (As long as it's on the stack, players can't cast spells or activate abilities that aren't mana abilities.)",SLD,4,2,{B}{B}{R}{R},,6863,1.02,
+finale of eternity,,2.0,B,Sorcery,"Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield.",WAR,,,{X}{B}{B},,9383,0.73,
+carrion feeder,Zombie,1.0,B,Creature — Zombie,"This creature can't block.
+Sacrifice a creature: Put a +1/+1 counter on this creature.",TD0,1,1,{B},,605,0.32,
+viscera seer,"Vampire, Wizard",1.0,B,Creature — Vampire Wizard,Sacrifice a creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.),CMR,1,1,{B},,256,0.4,
+marionette apprentice,"Human, Artificer",2.0,B,Creature — Human Artificer,"Fabricate 1 (When this creature enters, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)
+Whenever another creature or artifact you control is put into a graveyard from the battlefield, each opponent loses 1 life.",MH3,1,2,{1}{B},,587,0.32,
+blood artist,Vampire,2.0,B,Creature — Vampire,"Whenever this creature or another creature dies, target player loses 1 life and you gain 1 life.",INR,0,1,{1}{B},,149,0.56,
+altar of bhaal // bone offering,,2.0,B,Artifact,"{2}{B}, {T}, Exile a creature you control: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.",PCLB,,,{1}{B},,6870,0.61,
+agate instigator,"Lizard, Rogue",2.0,R,Creature — Lizard Rogue,"Offspring {1}{R} (You may pay an additional {1}{R} as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Whenever another creature you control enters, this creature deals 1 damage to each opponent.",BLC,1,3,{1}{R},,1268,0.28,
+evolutionary leap,,2.0,G,Enchantment,"{G}, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",PORI,,,{1}{G},,3127,0.36,
+earthcraft,,2.0,G,Enchantment,Tap an untapped creature you control: Untap target basic land.,TMP,,,{1}{G},,4437,1.05,
+roar of resistance,,2.0,R,Enchantment,"Creature tokens you control have haste.
+Whenever one or more creatures attack, you may pay {1}{R}. If you do, creatures attacking your opponents and/or planeswalkers they control get +2/+0 until end of turn.",ONC,,,{1}{R},,5117,0.13,
+impact tremors,,2.0,R,Enchantment,"Whenever a creature you control enters, this enchantment deals 1 damage to each opponent.",SLD,,,{1}{R},,182,0.6,
+pause for reflection,,3.0,G,Instant,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Prevent all combat damage that would be dealt this turn.",GRN,,,{2}{G},,13625,0.4,
+myth unbound,,3.0,G,Enchantment,"Your commander costs {1} less to cast for each time it's been cast from the command zone this game.
+Whenever your commander is put into the command zone from anywhere, draw a card.",PZ2,,,{2}{G},,9019,0.59,
+"mahadi, emporium master",Devil,3.0,"B, R",Legendary Creature — Devil,"At the beginning of your end step, create a Treasure token for each creature that died this turn. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",CLB,3,3,{1}{B}{R},"B, G, R, U, W",1169,0.32,
+ashnod's altar,,3.0,,Artifact,Sacrifice a creature: Add {C}{C}.,6ED,,,{3},C,129,1.12,
+"chatterfang, squirrel general","Squirrel, Warrior",3.0,"B, G",Legendary Creature — Squirrel Warrior,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+If one or more tokens would be created under your control, those tokens plus that many 1/1 green Squirrel creature tokens are created instead.
+{B}, Sacrifice X Squirrels: Target creature gets +X/-X until end of turn.",BLC,3,3,{2}{G},,1067,0.96,
+"sméagol, helpful guide","Halfling, Horror",3.0,"B, G",Legendary Creature — Halfling Horror,"At the beginning of your end step, if a creature died under your control this turn, the Ring tempts you.
+Whenever the Ring tempts you, target opponent reveals cards from the top of their library until they reveal a land card. Put that card onto the battlefield tapped under your control and the rest into their graveyard.",LTR,4,2,{1}{B}{G},,5605,0.86,
+witty roastmaster,"Devil, Citizen",3.0,R,Creature — Devil Citizen,"Alliance — Whenever another creature you control enters, this creature deals 1 damage to each opponent.",SNC,3,2,{2}{R},,1275,0.27,
+journey to eternity,Aura,3.0,"B, G",Legendary Enchantment — Aura,"Enchant creature you control
+When enchanted creature dies, return it to the battlefield under your control, then return this card to the battlefield transformed under your control.",PLST,,,{1}{B}{G},"B, G, R, U, W",3505,0.2,
+woe strider,Horror,3.0,B,Creature — Horror,"When this creature enters, create a 0/1 white Goat creature token.
+Sacrifice another creature: Scry 1.
+Escape—{3}{B}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
+This creature escapes with two +1/+1 counters on it.",BLC,3,2,{2}{B},,1729,0.15,
+mana echoes,,4.0,R,Enchantment,"Whenever a creature enters, you may add an amount of {C} equal to the number of creatures you control that share a creature type with it.",ONS,,,{2}{R}{R},C,3876,0.73,
+dread return,,4.0,B,Sorcery,"Return target creature card from your graveyard to the battlefield.
+Flashback—Sacrifice three creatures. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",PRM,,,{2}{B}{B},,517,0.35,
+poison-tip archer,"Elf, Archer",4.0,"B, G",Creature — Elf Archer,"Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever another creature dies, each opponent loses 1 life.",PLST,2,3,{2}{B}{G},,1651,0.33,
+pitiless plunderer,"Human, Pirate",4.0,B,Creature — Human Pirate,"Whenever another creature you control dies, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",PIP,1,4,{3}{B},"B, G, R, U, W",239,0.71,
+smothering abomination,Eldrazi,4.0,B,Creature — Eldrazi,"Devoid (This card has no color.)
+Flying
+At the beginning of your upkeep, sacrifice a creature.
+Whenever you sacrifice a creature, draw a card.",PBFZ,4,3,{2}{B}{B},,3812,0.28,
+mirkwood bats,Bat,4.0,B,Creature — Bat,"Flying
+Whenever you create or sacrifice a token, each opponent loses 1 life.",LTR,2,3,{3}{B},,213,0.73,
+szat's will,,5.0,B,Instant,"Choose one. If you control a commander as you cast this spell, you may choose both instead.
+• Each opponent sacrifices a creature they control with the greatest power.
+• Exile all opponents' graveyards, then create X 0/1 black Thrull creature tokens, where X is the greatest power among creature cards exiled this way.",CMR,,,{4}{B},,5680,0.83,
+emrakul's hatcher,"Eldrazi, Drone",5.0,R,Creature — Eldrazi Drone,"When this creature enters, create three 0/1 colorless Eldrazi Spawn creature tokens. They have ""Sacrifice this token: Add {C}.""",PLST,3,3,{4}{R},C,6907,0.19,
+seedguide ash,"Treefolk, Druid",5.0,G,Creature — Treefolk Druid,"When this creature dies, you may search your library for up to three Forest cards, put them onto the battlefield tapped, then shuffle.",LRW,4,4,{4}{G},,7191,0.26,
+"nadier, agent of the duskenel","Elf, Warrior",6.0,B,Legendary Creature — Elf Warrior,"Whenever a token you control leaves the battlefield, put a +1/+1 counter on Nadier.
+When Nadier leaves the battlefield, create a number of 1/1 green Elf Warrior creature tokens equal to its power.
+Partner (You can have two commanders if both have partner.)",PRM,3,3,{5}{B},,10772,0.18,
+dragonlair spider,Spider,6.0,"G, R",Creature — Spider,"Reach
+Whenever an opponent casts a spell, create a 1/1 green Insect creature token.",CM1,5,6,{2}{R}{R}{G}{G},,7709,0.1,
+descent of the dragons,,6.0,R,Sorcery,"Destroy any number of target creatures. For each creature destroyed this way, its controller creates a 4/4 red Dragon creature token with flying.",DTK,,,{4}{R}{R},,11865,0.29,
+mirrex,Sphere,0.0,,Land — Sphere,"{T}: Add {C}.
+{T}: Add one mana of any color. Activate only if this land entered this turn.
+{3}, {T}: Create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and ""This token can't block."" (Players dealt combat damage by it also get a poison counter.)",ONE,,,,"B, C, G, R, U, W",2571,0.26,
+kher keep,,0.0,R,Legendary Land,"{T}: Add {C}.
+{1}{R}, {T}: Create a 0/1 red Kobold creature token named Kobolds of Kher Keep.",CLB,,,,C,1550,0.04,
+witch's clinic,,0.0,,Land,"{T}: Add {C}.
+{2}, {T}: Target commander gains lifelink until end of turn.",C21,,,,C,1096,0.16,
+westvale abbey,,0.0,B,Land,"{T}: Add {C}.
+{5}, {T}, Pay 1 life: Create a 1/1 white and black Human Cleric creature token.
+{5}, {T}, Sacrifice five creatures: Transform this land, then untap it.",INR,,,,C,1420,0.13,
+spymaster's vault,,0.0,B,Land,"This land enters tapped unless you control a Swamp.
+{T}: Add {B}.
+{B}, {T}: Target creature you control connives X, where X is the number of creatures that died this turn. (Draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)",MH3,,,,B,1197,0.14,
+dragon broodmother,Dragon,6.0,"G, R",Creature — Dragon,"Flying
+At the beginning of each upkeep, create a 1/1 red and green Dragon creature token with flying and devour 2. (As the token enters, you may sacrifice any number of creatures. It enters with twice that many +1/+1 counters on it.)",PLST,4,4,{2}{R}{R}{R}{G},,6662,0.27,
+blood for the blood god!,,11.0,"B, R",Instant,"This spell costs {1} less to cast for each creature that died this turn.
+Discard your hand, then draw eight cards. Blood for the Blood God! deals 8 damage to each opponent. Exile Blood for the Blood God!",40K,,,{8}{B}{B}{R},,3016,0.36,
+the meathook massacre,,2.0,B,Legendary Enchantment,"When The Meathook Massacre enters, each creature gets -X/-X until end of turn.
+Whenever a creature you control dies, each opponent loses 1 life.
+Whenever a creature an opponent controls dies, you gain 1 life.",MID,,,{X}{B}{B},,501,0.99,
+dictate of erebos,,5.0,B,Enchantment,"Flash
+Whenever a creature you control dies, each opponent sacrifices a creature of their choice.",PLST,,,{3}{B}{B},,958,1.88,
+black market,,5.0,B,Enchantment,"Whenever a creature dies, put a charge counter on this enchantment.
+At the beginning of your first main phase, add {B} for each charge counter on this enchantment.",C17,,,{3}{B}{B},B,644,0.47,
+tendershoot dryad,Dryad,5.0,G,Creature — Dryad,"Ascend (If you control ten or more permanents, you get the city's blessing for the rest of the game.)
+At the beginning of each upkeep, create a 1/1 green Saproling creature token.
+Saprolings you control get +2/+2 as long as you have the city's blessing.",SLD,2,2,{4}{G},,1503,0.38,
+doubling season,,5.0,G,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",FDN,,,{4}{G},,212,1.16,
+"korvold, fae-cursed king","Dragon, Noble",5.0,"B, G, R",Legendary Creature — Dragon Noble,"Flying
+Whenever Korvold enters or attacks, sacrifice another permanent.
+Whenever you sacrifice a permanent, put a +1/+1 counter on Korvold and draw a card.",SLD,4,4,{2}{B}{R}{G},,1956,1.65,
+parallel lives,,4.0,G,Enchantment,"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.",MAR,,,{3}{G},,405,0.94,
+warren soultrader,"Zombie, Goblin, Wizard",3.0,B,Creature — Zombie Goblin Wizard,"Pay 1 life, Sacrifice another creature: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",PMH3,3,3,{2}{B},"B, G, R, U, W",493,0.77,
+enduring vitality,"Elk, Glimmer",3.0,G,Enchantment Creature — Elk Glimmer,"Vigilance
+Creatures you control have ""{T}: Add one mana of any color.""
+When Enduring Vitality dies, if it was a creature, return it to the battlefield under its owner's control. It's an enchantment. (It's not a creature.)",DSK,3,3,{1}{G}{G},"B, G, R, U, W",560,0.33,
+molten gatekeeper,Golem,3.0,R,Artifact Creature — Golem,"Whenever another creature you control enters, this creature deals 1 damage to each opponent.
+Unearth {R} ({R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",MH3,2,3,{2}{R},,1306,0.19,
+devilish valet,"Devil, Warrior",3.0,R,Creature — Devil Warrior,"Trample, haste
+Alliance — Whenever another creature you control enters, double this creature's power until end of turn.",SNC,1,3,{2}{R},,3280,0.38,
+bastion of remembrance,,3.0,B,Enchantment,"When this enchantment enters, create a 1/1 white Human Soldier creature token.
+Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.",FIC,,,{2}{B},,340,0.35,
+"sephiroth, fabled soldier","Human, Avatar, Soldier",3.0,B,Legendary Creature — Human Avatar Soldier,"Whenever Sephiroth enters or attacks, you may sacrifice another creature. If you do, draw a card.
+Whenever another creature dies, target opponent loses 1 life and you gain 1 life. If this is the fourth time this ability has resolved this turn, transform Sephiroth.",FIN,3,3,{2}{B},,1736,1.43,
+cauldron of essence,,,,,,,,,,,,0.0,0
+body count,,3.0,B,Instant,"Spectacle {B} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Draw a card for each creature that died under your control this turn.",PRM,,,{2}{B},,7558,0.27,
+zulaport cutthroat,"Human, Rogue, Ally",2.0,B,Creature — Human Rogue Ally,"Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life.",CLB,1,1,{1}{B},,242,0.51,
+skullclamp,Equipment,1.0,,Artifact — Equipment,"Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}",C15,,,{1},,45,0.83,
+tribute to the world tree,,3.0,G,Enchantment,"Whenever a creature you control enters, draw a card if its power is 3 or greater. Otherwise, put two +1/+1 counters on it.",PMOM,,,{G}{G}{G},,550,0.42,

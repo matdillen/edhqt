@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Apr 13 16:48:21 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun May 3 02:11:15 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Commodore Guff</bannerCard>
     <comments></comments>
@@ -74,7 +74,6 @@
         <card number="1" name="Arcane Signet"/>
         <card number="1" name="Teferi, Temporal Archmage"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Mana Leak"/>
         <card number="1" name="Plaza of Heroes"/>
         <card number="1" name="Kor Haven"/>
         <card number="1" name="Farewell"/>
@@ -88,7 +87,6 @@
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Deserted Beach"/>
         <card number="1" name="Final Showdown"/>
-        <card number="1" name="Resourceful Defense"/>
         <card number="1" name="Island Sanctuary"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Aetheric Amplifier"/>
@@ -103,5 +101,7 @@
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
         <card number="1" name="Great Hall of the Citadel" setShortName="LTR" collectorNumber="254" uuid="219c7b57-b62b-42d1-85d9-4b57624a3f54"/>
         <card number="1" name="Ral, Crackling Wit" setShortName="BLB" collectorNumber="230" uuid="acfde780-899a-4c5b-a39b-f4a3ff129103"/>
+        <card number="1" name="Expansion Algorithm" setShortName="SOC" collectorNumber="19" uuid="ef261999-1c18-46f3-bbd6-72911e14328f"/>
+        <card number="1" name="Urza Assembles the Titans" setShortName="DMU" collectorNumber="37" uuid="10a544d7-ead7-42fd-a35a-c1b672771d5b"/>
     </zone>
 </cockatrice_deck>

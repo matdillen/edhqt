@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Apr 17 15:58:11 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun May 3 15:57:27 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="71a6701f-40f1-43ef-bff5-a5907fd67cd6">Lorehold, the Historian</bannerCard>
     <comments></comments>
@@ -12,78 +12,91 @@
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
         <card number="1" name="Library of Leng" setShortName="30A" collectorNumber="254" uuid="f0535e83-d55a-4195-9a40-ec5acfe8d9ff"/>
         <card number="1" name="Pyroblast" setShortName="MB2" collectorNumber="198" uuid="2dea1e46-9786-429f-ad57-d608c006f508"/>
-        <card number="1" name="Banishing Stroke" setShortName="PLST" collectorNumber="AVR-7" uuid="05a6dc90-3997-4911-8bd6-854c85eca35b"/>
-        <card number="1" name="Blacksmith's Skill" setShortName="MH2" collectorNumber="6" uuid="31506792-d0ab-4c13-9ab8-6fa433220dbf"/>
         <card number="1" name="Sensei's Divining Top" setShortName="2X2" collectorNumber="314" uuid="e5142b7a-e580-4737-a4aa-2590f6610ceb"/>
         <card number="1" name="Dragon's Rage Channeler" setShortName="H2R" collectorNumber="9" uuid="c75cc38d-aee6-44ab-be69-26491fb9b808"/>
         <card number="1" name="Terminus" setShortName="DSC" collectorNumber="70" uuid="4c53c684-37f9-4b95-88be-a42b9600c47c"/>
-        <card number="1" name="Demand Answers" setShortName="MKM" collectorNumber="122" uuid="eca092fc-7c67-4a73-989e-5297bbaaea76"/>
-        <card number="1" name="Thrill of Possibility" setShortName="DMC" collectorNumber="127" uuid="9752ed44-dc5e-4f73-9422-c1d267b60a3c"/>
-        <card number="1" name="Gift of Estates" setShortName="PLST" collectorNumber="C14-73" uuid="b7daee4c-6b2d-4308-a76a-0326e09a9d1c"/>
         <card number="1" name="Boros Signet" setShortName="AA1" collectorNumber="2" uuid="57629f57-e765-4fd1-9273-f08495e46bc8"/>
-        <card number="1" name="Smoke" setShortName="30A" collectorNumber="171" uuid="e2114804-d081-4a50-91df-932c281bc171"/>
         <card number="1" name="Powerbalance" setShortName="MH3" collectorNumber="131" uuid="aff7c0bb-1210-4aeb-b5f8-1387eb633b0f"/>
         <card number="1" name="Scroll Rack" setShortName="PLST" collectorNumber="TMP-308" uuid="7bae726c-40b3-4f68-8ca7-0400a92d0495"/>
         <card number="1" name="Fable of the Mirror-Breaker" setShortName="NEO" collectorNumber="141" uuid="24c0d87b-0049-4beb-b9cb-6f813b7aa7dc"/>
         <card number="1" name="Livaan, Cultist of Tiamat" setShortName="CLB" collectorNumber="188" uuid="616c5b52-94bc-48e3-8e4f-e2db1eca7536"/>
-        <card number="1" name="Space Marine Scout" setShortName="40K" collectorNumber="15" uuid="1d7c6801-2c75-435c-a16b-a30b8c3a6be2"/>
         <card number="1" name="Victory Chimes" setShortName="C21" collectorNumber="274" uuid="9cb27fb1-41b1-49b8-bb3b-2c8a011ae7a9"/>
-        <card number="1" name="Dragon's Hoard" setShortName="AFC" collectorNumber="204" uuid="8845aa0f-f52d-4d9e-a4e2-1cadad84f948"/>
-        <card number="1" name="Seething Song" setShortName="PLST" collectorNumber="DDG-70" uuid="ce8376c8-fb4f-4b89-abb5-43eb243cfee3"/>
         <card number="1" name="Calibrated Blast" setShortName="MH2" collectorNumber="118" uuid="37962700-e4d9-419e-8972-d3fd955ff40e"/>
         <card number="1" name="Squee, Goblin Nabob" setShortName="CMM" collectorNumber="258" uuid="12d6d674-40aa-42d7-88b3-f65603ecaa1e"/>
-        <card number="1" name="Glory" setShortName="DMR" collectorNumber="7" uuid="6b01ebcf-8451-486e-84f6-8e6e1bb9d6e3"/>
         <card number="1" name="Ghostly Prison" setShortName="MKC" collectorNumber="67" uuid="eea3623d-1d39-4045-acdb-f0fb184ccbc8"/>
-        <card number="1" name="Ensnaring Bridge" setShortName="LTC" collectorNumber="350" uuid="1b251eca-06c2-4609-aaed-a88711ef6a45"/>
-        <card number="1" name="Crackdown" setShortName="MB2" collectorNumber="146" uuid="5dbc1e48-b148-41a5-b0aa-50aaa7d0d5e8"/>
-        <card number="1" name="Revolutionist" setShortName="MH2" collectorNumber="139" uuid="bb8f3008-a3ba-4f73-afa6-ad81074b3196"/>
         <card number="1" name="Wildfire Devils" setShortName="SCD" collectorNumber="170" uuid="3c876360-3608-422a-b709-84b32be8daa0"/>
         <card number="1" name="Thran Dynamo" setShortName="BLC" collectorNumber="290" uuid="6455b185-aa5e-45e1-951e-f6eef517daf2"/>
-        <card number="1" name="White Auracite" setShortName="FIN" collectorNumber="41" uuid="2df6f515-9d21-4769-b1c4-c219611bccbb"/>
         <card number="1" name="Surly Badgersaur" setShortName="C20" collectorNumber="57" uuid="7ba507e2-fe5e-4947-aada-20184aa09700"/>
-        <card number="1" name="Timeless Dragon" setShortName="DRC" collectorNumber="67" uuid="21070f13-42b3-40c6-8909-25337be6ea6d"/>
         <card number="1" name="Wild Ricochet" setShortName="SCD" collectorNumber="169" uuid="ecbe8717-07a1-4145-9cd4-b98b145c2d4c"/>
-        <card number="1" name="Magus of the Moat" setShortName="PLST" collectorNumber="FUT-12" uuid="59264c1f-38f1-408b-a6e9-b7c6dcb46103"/>
-        <card number="1" name="Fiery Confluence" setShortName="AA2" collectorNumber="10" uuid="fd6a1596-9896-468f-9491-969e03dfcc30"/>
-        <card number="1" name="Miraculous Recovery" setShortName="J22" collectorNumber="217" uuid="a193b7b6-0ec6-4225-9f23-67294a957f06"/>
-        <card number="1" name="Shower of Coals" setShortName="PLST" collectorNumber="ODY-221" uuid="cdc2fa3d-91dc-4a24-9609-8fdfbae50bc2"/>
-        <card number="1" name="Gilded Lotus" setShortName="40K" collectorNumber="239" uuid="4991e495-9b6d-4f52-aada-3187fd44b945"/>
-        <card number="1" name="Galvanoth" setShortName="DDJ" collectorNumber="10" uuid="23f2e251-1a90-433e-b63a-1a361f5dc6b3"/>
         <card number="1" name="Goldspan Dragon" setShortName="J22" collectorNumber="550" uuid="0c67a683-4e1d-4a64-952d-a1c27a34ed1d"/>
         <card number="1" name="Bonehoard Dracosaur" setShortName="LCI" collectorNumber="134" uuid="2220ed60-3f8f-4dd2-8319-6a06896a5350"/>
-        <card number="1" name="Scalelord Reckoner" setShortName="MB2" collectorNumber="151" uuid="68d50004-9bda-414f-bbad-9fc1e69faff1"/>
-        <card number="1" name="Cataclysmic Gearhulk" setShortName="AFC" collectorNumber="65" uuid="92aaf9d2-cb83-40be-b39c-05cb3721776e"/>
-        <card number="1" name="Brace for Impact" setShortName="DIS" collectorNumber="5" uuid="8d1f1c57-693f-452b-951f-8c8c23f2ee99"/>
         <card number="1" name="Tragic Arrogance" setShortName="FIC" collectorNumber="258" uuid="a479784c-3f94-4950-8928-6a1e57bb6627"/>
         <card number="1" name="Urza's Ruinous Blast" setShortName="BRC" collectorNumber="79" uuid="3baeeb19-c4f4-4e4f-97e0-52b2e512b26b"/>
-        <card number="1" name="Ultimate Magic: Meteor" setShortName="FIC" collectorNumber="62" uuid="b5b0f0fd-574a-4ae7-ab55-b815112d6b3a"/>
-        <card number="1" name="Brilliant Restoration" setShortName="NEO" collectorNumber="7" uuid="64f7a506-0aa1-4c2d-b322-e0e9179d05fb"/>
         <card number="1" name="Reverse the Sands" setShortName="C16" collectorNumber="75" uuid="b6d56ce1-fb5d-47c6-961d-65b544a48b32"/>
         <card number="1" name="Approach of the Second Sun" setShortName="PLST" collectorNumber="AKH-4" uuid="d363a81c-0509-47ad-bb48-8bdcbb233bfc"/>
-        <card number="1" name="Hit the Mother Lode" setShortName="LCI" collectorNumber="153" uuid="e75f460c-43e2-4353-8b73-71ff8651a79d"/>
-        <card number="1" name="Reckless Endeavor" setShortName="AFC" collectorNumber="33" uuid="ba98a4bd-e217-4dba-aee9-315b4f843cdf"/>
         <card number="1" name="Rise of the Eldrazi" setShortName="CMM" collectorNumber="716" uuid="4a4d851b-1fa9-4f5d-a8f6-6967b1ee5b50"/>
         <card number="1" name="Entreat the Angels" setShortName="DSC" collectorNumber="99" uuid="ff4411bc-ed4e-4d54-9e1b-21fc77b0e415"/>
         <card number="1" name="Call Forth the Tempest" setShortName="LTC" collectorNumber="509" uuid="81d6b979-251a-4736-86f0-35a6c8b492c9"/>
-        <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
-        <card number="1" name="Hour of Revelation" setShortName="ZNC" collectorNumber="17" uuid="ddb53e90-f91e-4da9-ab70-5460958c6c99"/>
         <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
         <card number="1" name="Elegant Parlor" setShortName="MKM" collectorNumber="260" uuid="72c6d541-e2cb-4d6e-acac-90a8f53b7006"/>
-        <card number="1" name="Slayers' Stronghold" setShortName="FIC" collectorNumber="424" uuid="30d0754a-f7bb-4c13-b7e3-28046db48cc1"/>
         <card number="1" name="Nephalia Academy" setShortName="PLST" collectorNumber="EMN-205" uuid="a8ff0fe0-3191-4f0d-a5e9-038bccb6e2cb"/>
         <card number="1" name="Mikokoro, Center of the Sea" setShortName="DMC" collectorNumber="217" uuid="d80eb098-5433-4b1e-aad5-0fd31bf598dd"/>
         <card number="1" name="Geier Reach Sanitarium" setShortName="AFC" collectorNumber="241" uuid="cdb751d3-580f-44dd-a1e2-0f1240f2b891"/>
         <card number="1" name="Mirrorpool" setShortName="CMM" collectorNumber="1010" uuid="0441cd2c-3646-4c69-ae97-ad3bcea7466f"/>
         <card number="1" name="Plateau" setShortName="30A" collectorNumber="275" uuid="d5ba61cb-0c57-4a94-91a9-6ce0a27b9db7"/>
-        <card number="13" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
-        <card number="12" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="6" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
+        <card number="6" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Furycalm Snarl" setShortName="CMM" collectorNumber="999" uuid="703f058c-6fc4-4e06-8570-a094ffe44574"/>
-        <card number="1" name="Brainstone" setShortName="DSC" collectorNumber="242" uuid="6e86ad39-2a90-466d-b188-056216429f4e"/>
-        <card number="1" name="Reforge the Soul" setShortName="INR" collectorNumber="167" uuid="1c3509c6-2ae7-45be-8ac9-4d14d69db32f"/>
         <card number="1" name="Volcanic Vision" setShortName="C21" collectorNumber="182" uuid="f973e1a6-c6f9-47f5-9bf0-b7fa06959bd4"/>
         <card number="1" name="Erratic Explosion" setShortName="PLST" collectorNumber="PCA-41" uuid="4c6da251-bf6c-4847-88a7-ee1cba30596d"/>
-        <card number="1" name="Radiant Scrollwielder" setShortName="PSTX" collectorNumber="221p" uuid="cdf1cd56-47d2-43c6-a657-a4a56e6b84f1"/>
         <card number="1" name="Deflecting Palm" setShortName="MKC" collectorNumber="205" uuid="c5bda1a7-537f-4a80-95a0-c45eb127969b"/>
-        <card number="1" name="Heartflame Duelist // Heartflame Slash" setShortName="PWOE" collectorNumber="228p" uuid="83d479a7-0d38-4213-8f33-bcbc8236882f"/>
+        <card number="1" name="Restore Balance" setShortName="TSR" collectorNumber="36" uuid="0febc7fe-4172-4285-9804-a62ce4506c39"/>
+        <card number="1" name="Land Tax" setShortName="CMM" collectorNumber="37" uuid="9258ad10-cbe6-4676-93b4-6ef4a33f12ee"/>
+        <card number="1" name="Loran's Escape" setShortName="BRO" collectorNumber="14" uuid="3765610d-a0c1-4de9-a81b-ffa3eb06454b"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
+        <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
+        <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
+        <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
+        <card number="1" name="Boros Charm" setShortName="FDN" collectorNumber="721" uuid="e0d8c9f6-cbbd-4694-b100-01cfb81036cc"/>
+        <card number="1" name="Olórin's Searing Light" setShortName="LTC" collectorNumber="503" uuid="7496ad0f-fc6d-4154-ac42-c2471e72ed88"/>
+        <card number="1" name="Mizzix's Mastery" setShortName="FCA" collectorNumber="41" uuid="8a139398-4d42-4715-8a5a-c446bf665a2e"/>
+        <card number="1" name="Primal Amulet" setShortName="PXTC" collectorNumber="243" uuid="9235dfc1-19bf-4923-84f7-721018514866"/>
+        <card number="1" name="Promise of Loyalty" setShortName="BLC" collectorNumber="148" uuid="bc537e6b-17bd-4908-a7b2-a4efa4f20c02"/>
+        <card number="1" name="Fated Clash" setShortName="FIC" collectorNumber="449" uuid="bd84f688-a2bb-4f1e-ae24-1a5cf8a05445"/>
+        <card number="1" name="Ultima" setShortName="FIN" collectorNumber="38" uuid="39504a0e-f63f-4907-afd7-c4492f6b8a3b"/>
+        <card number="1" name="Taunt from the Rampart" setShortName="LTC" collectorNumber="71" uuid="dd1eaa0e-060d-40f1-84c5-f7e8df2f824c"/>
+        <card number="1" name="Creative Technique" setShortName="SOC" collectorNumber="241" uuid="c0b5ba5f-ac25-4134-91c1-9677ba86576c"/>
+        <card number="1" name="Alhammarret's Archive" setShortName="PLST" collectorNumber="ORI-221" uuid="810c91b8-6b2f-469f-8fd1-568885178c9b"/>
+        <card number="1" name="Renegade Bull" setShortName="SOC" collectorNumber="36" uuid="aa23e922-f44b-4af8-8ce0-bc1bc1e65bad"/>
+        <card number="1" name="Coalition Relic" setShortName="DMC" collectorNumber="180" uuid="ef44324a-32bd-47e9-8fd9-258ba668de53"/>
+        <card number="1" name="Bender's Waterskin" setShortName="TLA" collectorNumber="255" uuid="6d4a1712-d19e-4475-9614-a0b1af4da610"/>
+        <card number="1" name="Verge Rangers" setShortName="DSC" collectorNumber="108" uuid="c63a5253-b3b7-48d0-8c2c-700fbd0e4c3f"/>
+        <card number="1" name="Penance" setShortName="EXO" collectorNumber="15" uuid="1f3db848-8394-43bd-a236-264641033a6d"/>
+        <card number="1" name="Hidden Retreat" setShortName="STH" collectorNumber="6" uuid="5be86f1f-c85a-4396-aa16-a39fbf493c96"/>
+        <card number="1" name="Palantír of Orthanc" setShortName="LTR" collectorNumber="247" uuid="6efb6a69-562c-4d95-858d-b067444cfd7e"/>
+        <card number="1" name="Monument to Endurance" setShortName="DFT" collectorNumber="237" uuid="d21433ba-0a14-42bc-ad0b-a4ef823a3295"/>
+        <card number="1" name="All Is Dust" setShortName="CMM" collectorNumber="800" uuid="4210c54e-89fd-4971-ab6a-ca8f4e7fe97a"/>
+        <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
+        <card number="1" name="The Dawning Archaic" setShortName="PSOS" collectorNumber="1p" uuid="8613f27f-fc9e-4efc-93f9-3dc644e6b692"/>
+        <card number="1" name="Restoration Seminar" setShortName="PSOS" collectorNumber="30p" uuid="048a44ee-8568-4b6a-867b-15a882b3aa34"/>
+        <card number="1" name="Improvisation Capstone" setShortName="PSOS" collectorNumber="120p" uuid="ba1c767c-0556-4026-826b-2933bef713a6"/>
+        <card number="1" name="Perch Protection" setShortName="BLC" collectorNumber="11" uuid="1f81d6ea-9a76-43b9-b030-d40c5cfbeefe"/>
+        <card number="1" name="Storm Herd" setShortName="PLST" collectorNumber="GPT-19" uuid="62a3fc08-6d95-43da-8479-4289018c2d58"/>
+        <card number="1" name="Furygale Flocking" setShortName="SOC" collectorNumber="32" uuid="a967af7a-03ed-4858-9c26-66f2cb706b02"/>
+        <card number="1" name="Insurrection" setShortName="CMM" collectorNumber="236" uuid="df8a0a8c-1953-46e6-9da5-b4c20909ce1c"/>
+        <card number="1" name="Mob Rule" setShortName="VOC" collectorNumber="147" uuid="8b04c928-9ee5-4e39-962e-4686e25b5c33"/>
+        <card number="1" name="Pinnacle Monk" setShortName="MH3" collectorNumber="246" uuid="24d4f26e-7f96-4b38-867e-4fac819b2679"/>
+        <card number="1" name="Emeria's Call" setShortName="ZNR" collectorNumber="12" uuid="c470539a-9cc7-4175-8f7c-c982b6072b6d"/>
+        <card number="1" name="Witch Enchanter" setShortName="MH3" collectorNumber="239" uuid="62061e7c-cf19-4f03-b8fa-2bdba62d6b0b"/>
+        <card number="1" name="Zhalfirin Void" setShortName="AFC" collectorNumber="273" uuid="d481d871-d1e3-439b-bfd5-5b2212f9b0c8"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
+        <card number="1" name="Rumble Arena" setShortName="TLA" collectorNumber="277" uuid="3f5d2c38-663c-4f64-8cfc-c102462e82ef"/>
+        <card number="1" name="The Grey Havens" setShortName="LTR" collectorNumber="255" uuid="dd698f10-b0fc-42fc-84ec-f5a0d96bfa1d"/>
+        <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
+        <card number="1" name="Temple of Triumph" setShortName="BLC" collectorNumber="344" uuid="4a1bfd38-b640-4fa5-a738-3b9aee1d8932"/>
+        <card number="1" name="Clifftop Retreat" setShortName="BLC" collectorNumber="300" uuid="42ca7627-965e-4594-a871-d8d137d6b9a9"/>
+        <card number="1" name="Arid Mesa" setShortName="MH2" collectorNumber="244" uuid="25ac5405-df7b-4097-914a-022cb18e20d4"/>
+        <card number="1" name="Sacred Foundry" setShortName="CLU" collectorNumber="279" uuid="83893cda-546c-445e-b32c-c972354ccec2"/>
     </zone>
 </cockatrice_deck>

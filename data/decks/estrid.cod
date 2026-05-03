@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Apr 17 16:01:24 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun May 3 16:31:27 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="3340b83e-72dc-42e2-9f93-92f732c047df">Estrid, the Masked</bannerCard>
     <comments></comments>
@@ -9,33 +9,25 @@
         <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
         <card number="1" name="Simic Growth Chamber" setShortName="2X2" collectorNumber="331" uuid="f511cf93-3443-4e35-8425-a1e2d24a6157"/>
         <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
-        <card number="1" name="Lush Portico" setShortName="MKM" collectorNumber="263" uuid="c17816e8-28b1-4295-a637-efb0e5c18873"/>
-        <card number="1" name="Brushland" setShortName="BLC" collectorNumber="295" uuid="0f04a729-2e7e-459b-83ca-7d57b6b13ac3"/>
         <card number="1" name="Selesnya Sanctuary" setShortName="2X2" collectorNumber="330" uuid="e8af7e5a-806b-4264-9010-f497b40a7fb4"/>
         <card number="1" name="Flooded Strand" setShortName="MH3" collectorNumber="220" uuid="8f85e12c-196b-4459-b81f-0c9c854e9f57"/>
-        <card number="1" name="Seachrome Coast" setShortName="BLC" collectorNumber="328" uuid="88ec4d3b-f1f1-489c-b41e-0206e5e59fbd"/>
         <card number="1" name="Azorius Chancery" setShortName="2X2" collectorNumber="318" uuid="7084fc02-8941-4a4f-805d-3c1625cf1d58"/>
         <card number="1" name="Spara's Headquarters" setShortName="PSNC" collectorNumber="257p" uuid="2bc770c4-4dd8-4129-8428-b730acc7bc68"/>
         <card number="1" name="Seaside Citadel" setShortName="AFC" collectorNumber="258" uuid="4f35d808-51c7-42b1-bbd5-1cd452432cd6"/>
-        <card number="8" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
-        <card number="6" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
-        <card number="6" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="5" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
+        <card number="5" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Hall of Heliod's Generosity" setShortName="DSC" collectorNumber="283" uuid="f08dfd99-59fa-4a6c-bd69-c647f639de4d"/>
         <card number="1" name="Deserted Temple" setShortName="EOS" collectorNumber="11" uuid="463d8132-fe98-4b71-b6a8-0feb4d40a391"/>
         <card number="1" name="Flickering Ward" setShortName="MB2" collectorNumber="11" uuid="a41ed670-f1bd-4785-9347-fea7b93a462f"/>
         <card number="1" name="Wild Growth" setShortName="30A" collectorNumber="225" uuid="077a6195-835e-496d-bd17-aec3f8fb7bc4"/>
         <card number="1" name="Utopia Sprawl" setShortName="AFC" collectorNumber="172" uuid="29b4050e-8b73-4f16-85e4-ec2a8faacf48"/>
-        <card number="1" name="Sigarda's Aid" setShortName="SIR" collectorNumber="43" uuid="83b07e61-e638-459e-8a51-d9d7ee3c578a"/>
         <card number="1" name="Sunken Field" setShortName="PCY" collectorNumber="51" uuid="9211ee02-e854-4414-92b1-65a7af29f0b9"/>
-        <card number="1" name="Resurgent Belief" setShortName="MH2" collectorNumber="26" uuid="01880c6f-be00-48b5-913f-ec6c80ced184"/>
-        <card number="1" name="Composer of Spring" setShortName="CMM" collectorNumber="739" uuid="b57e06f8-e542-47d4-b527-7d8fc3dec38c"/>
         <card number="1" name="Wolfwillow Haven" setShortName="BLC" collectorNumber="246" uuid="8506e3eb-07c1-4f5c-a2a7-c210acf6be16"/>
         <card number="1" name="Fertile Ground" setShortName="AFC" collectorNumber="158" uuid="0ade2db8-482e-42b0-939c-492dfbbe3b68"/>
         <card number="1" name="Starfield Mystic" setShortName="CMM" collectorNumber="839" uuid="d15b82ed-0c5c-4cc8-84ee-ce8e3b630c86"/>
         <card number="1" name="Herald of the Pantheon" setShortName="CMM" collectorNumber="898" uuid="a360af3e-626d-46c9-99cf-6c85921f5d26"/>
         <card number="1" name="Get Out" setShortName="DSK" collectorNumber="60" uuid="5d9471c8-2db9-4ce3-a1e5-42b85134cb8e"/>
-        <card number="1" name="Eaten by Piranhas" setShortName="FDN" collectorNumber="507" uuid="475e28bb-1333-45e1-b6fd-83121c2f1ab9"/>
-        <card number="1" name="Ossification" setShortName="ONE" collectorNumber="26" uuid="0da03224-c1af-438f-96c2-b0e41e1070b7"/>
         <card number="1" name="Dog Umbra" setShortName="MH3" collectorNumber="22" uuid="8d4ba710-eddb-40ca-b2fe-0e4e778aab9c"/>
         <card number="1" name="Temporal Isolation" setShortName="PLST" collectorNumber="TSP-43" uuid="f41c009b-f23a-456f-b8f8-220445094715"/>
         <card number="1" name="Argothian Enchantress" setShortName="EMA" collectorNumber="158" uuid="b99ff81f-08d9-4b4a-a879-de5e5e402802"/>
@@ -44,14 +36,10 @@
         <card number="1" name="Unwind" setShortName="DOM" collectorNumber="72" uuid="97da6607-9131-4f8b-8af3-63439a59b78b"/>
         <card number="1" name="Overgrowth" setShortName="40K" collectorNumber="219" uuid="d8c7c4ec-30da-426d-8be7-f1b8705052f1"/>
         <card number="1" name="Weirding Wood" setShortName="MOC" collectorNumber="315" uuid="82e20104-117e-47de-ac0c-cca9250c1f3c"/>
-        <card number="1" name="Gift of Paradise" setShortName="PLST" collectorNumber="AKH-167" uuid="f7a6fd97-819c-4947-b125-fb9da2329a02"/>
         <card number="1" name="Tarmogoyf Nest" setShortName="M3C" collectorNumber="68" uuid="eafd7838-faf2-4216-9ff6-8b98e58d69c5"/>
         <card number="1" name="Aura Gnarlid" setShortName="PLST" collectorNumber="C18-128" uuid="3729a071-8eb0-4142-be7e-c53139c40c46"/>
-        <card number="1" name="Reality Acid" setShortName="TSR" collectorNumber="81" uuid="a8510381-e05c-4cc4-98aa-c9327e18ec02"/>
-        <card number="1" name="Cage of Hands" setShortName="J22" collectorNumber="162" uuid="7635b128-5d14-43fb-9f6a-5da8aeb21172"/>
         <card number="1" name="Amphibian Downpour" setShortName="MH3" collectorNumber="51" uuid="2d8aeca5-622a-45be-8168-07e7c00e3092"/>
         <card number="1" name="Nettlecyst" setShortName="MH2" collectorNumber="231" uuid="4a0bb5dc-75a6-4bd6-81f8-611197fb0fba"/>
-        <card number="1" name="Pearl-Ear, Imperial Advisor" setShortName="MH3" collectorNumber="39" uuid="28aef7c8-58b3-463c-91d3-2d1ff8a815ee"/>
         <card number="1" name="Umbra Mystic" setShortName="WOC" collectorNumber="82" uuid="79865b8e-10fe-4f1a-805a-98bb5c10167f"/>
         <card number="1" name="Estrid's Invocation" setShortName="MH3" collectorNumber="269" uuid="8920e7e4-d89e-4ff9-8922-27fdc2f8ed6e"/>
         <card number="1" name="Mirrormade" setShortName="DSC" collectorNumber="120" uuid="a26cbfbe-fbb8-4804-b065-ab2c42ddad9b"/>
@@ -59,35 +47,52 @@
         <card number="1" name="Enchantress's Presence" setShortName="CMM" collectorNumber="893" uuid="3f50538b-f866-4e75-8856-2ad8af635011"/>
         <card number="1" name="Entity Tracker" setShortName="DSK" collectorNumber="53" uuid="ae54d697-6d06-4af1-a617-8a47a6ab9c01"/>
         <card number="1" name="Asinine Antics" setShortName="PWOE" collectorNumber="42p" uuid="33b4062c-c6ba-4bb7-a56a-bf35c2ea64b7"/>
-        <card number="1" name="Reins of Power" setShortName="CLB" collectorNumber="734" uuid="9b5730aa-c74a-4c74-bb1b-a133a3c353ec"/>
         <card number="1" name="Supreme Verdict" setShortName="2X2" collectorNumber="280" uuid="20b5fe42-929c-406d-9377-40b49f9d2e2c"/>
         <card number="1" name="Replenish" setShortName="WC00" collectorNumber="tvdl15" uuid="6c900f34-1bd2-43c7-be33-cf5cc02a62ea"/>
-        <card number="1" name="Cosmic Intervention" setShortName="KHC" collectorNumber="3" uuid="933c4a54-5c3a-496b-aa35-edf791155d8d"/>
         <card number="1" name="Calix, Destiny's Hand" setShortName="CMM" collectorNumber="918" uuid="53ec142a-81c0-43e3-bf37-bdc18d7b780e"/>
         <card number="1" name="Indestructibility" setShortName="M14" collectorNumber="23" uuid="e086a062-d39b-4e2a-bde0-f4d6d1797a5f"/>
         <card number="1" name="Dawn's Reflection" setShortName="PLST" collectorNumber="C18-139" uuid="d0994be7-fc69-426f-b01b-cff05b5e2fa7"/>
-        <card number="1" name="Ajani's Chosen" setShortName="WOC" collectorNumber="59" uuid="e0cb62f0-624a-4b7c-b237-1d3a8ac23eaa"/>
         <card number="1" name="Archon of Sun's Grace" setShortName="CMM" collectorNumber="814" uuid="72d10ba2-0408-47a2-bb6f-9e12541fe100"/>
         <card number="1" name="Tempest Technique" setShortName="TDC" collectorNumber="16" uuid="5d5ee7cc-4854-4b52-ba9b-64d5a401fca1"/>
         <card number="1" name="Hallowed Haunting" setShortName="DBL" collectorNumber="284" uuid="6f85bf51-4eca-4428-9a17-a85b5c2dd741"/>
-        <card number="1" name="Control Magic" setShortName="30A" collectorNumber="52" uuid="04cbe4e4-37a3-49fb-81bd-85f1b06687df"/>
         <card number="1" name="Tamiyo's Compleation" setShortName="NEO" collectorNumber="83" uuid="aee62e43-6a82-4749-972b-e21802642abf"/>
-        <card number="1" name="Hermes, Overseer of Elpis" setShortName="FIC" collectorNumber="36" uuid="e04a05e5-7bff-46a4-aae1-6713977e6e30"/>
-        <card number="1" name="Anointed Procession" setShortName="PLST" collectorNumber="AKH-2" uuid="c9d6af7b-41a5-4077-81ed-7560548dcf3e"/>
         <card number="1" name="Chamber of Manipulation" setShortName="ODY" collectorNumber="76" uuid="50496069-0f55-4dfe-8b1e-7fc4f649f2f1"/>
-        <card number="1" name="Adrix and Nev, Twincasters" setShortName="MKC" collectorNumber="198" uuid="b9c11061-bb34-4904-b9f1-ea106b517bbe"/>
         <card number="1" name="Yenna, Redtooth Regent" setShortName="PWOE" collectorNumber="219p" uuid="a0cff015-9e10-4d87-a9f9-f7b6a9faf04a"/>
         <card number="1" name="Sphere of Safety" setShortName="DSC" collectorNumber="104" uuid="5c4e3031-ffc2-4d4d-a9f9-e85820059315"/>
-        <card number="1" name="Starfield of Nyx" setShortName="CMM" collectorNumber="840" uuid="bfe4e1cb-ceee-46aa-96d1-f3f26516cd77"/>
         <card number="1" name="Sigil of the Empty Throne" setShortName="CMM" collectorNumber="836" uuid="394fad93-ecdf-4f05-be17-291ca246262f"/>
-        <card number="1" name="Corrupted Conscience" setShortName="PLST" collectorNumber="MBS-22" uuid="5d8a8278-0791-4ff2-95b8-71b94298e503"/>
-        <card number="1" name="Ondu Spiritdancer" setShortName="CMM" collectorNumber="723" uuid="71991921-a860-44fe-9005-bf604c723167"/>
         <card number="1" name="Oath of Teferi" setShortName="CMM" collectorNumber="934" uuid="f7474f9e-a994-4ed7-83df-22edd8219e24"/>
         <card number="1" name="Fear of Sleep Paralysis" setShortName="DSC" collectorNumber="12" uuid="845e9d68-11a9-4759-a031-13464d337e12"/>
         <card number="1" name="Triumphant Reckoning" setShortName="HA4" collectorNumber="4" uuid="a3be670f-3909-43b4-8d68-af4b1732c48c"/>
-        <card number="1" name="Brilliant Restoration" setShortName="NEO" collectorNumber="7" uuid="64f7a506-0aa1-4c2d-b322-e0e9179d05fb"/>
         <card number="1" name="Shark Typhoon" setShortName="DSC" collectorNumber="127" uuid="2b2accb1-d77b-4633-9d0c-b972d9c014bb"/>
         <card number="1" name="Confiscate" setShortName="DMR" collectorNumber="44" uuid="581dca85-a880-4ea2-a483-072bb50b7aee"/>
+        <card number="1" name="Strength of the Harvest" setShortName="MH3" collectorNumber="258" uuid="a7143aa7-b16d-4e63-910c-6ceec55483f3"/>
+        <card number="1" name="Tundra" setShortName="30A" collectorNumber="280" uuid="79fc39a1-6a9d-4893-a41b-e8d13fb0d108"/>
+        <card number="1" name="Tropical Island" setShortName="30A" collectorNumber="279" uuid="2d9d4f2e-5a41-410d-b1c3-47e4aca07177"/>
+        <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Serra's Sanctum" setShortName="USG" collectorNumber="325" uuid="f7a18130-dbaa-4657-a885-3a96a985935a"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="Market Festival" setShortName="JOU" collectorNumber="130" uuid="c3a70329-ecae-4647-b912-75d936a6c8c5"/>
+        <card number="1" name="Sanctum Weaver" setShortName="CMM" collectorNumber="910" uuid="3c9ac089-6962-48fd-bf67-f041ece27fa9"/>
+        <card number="1" name="Bear Umbra" setShortName="NEC" collectorNumber="113" uuid="5a195fb1-f2e9-4e05-8a04-c335e1afbef6"/>
+        <card number="1" name="Ghostly Dancers" setShortName="DSK" collectorNumber="13" uuid="ab38adb5-8f16-4a4a-8dbc-f6ec14ca6c9f"/>
+        <card number="1" name="Nyxborn Behemoth" setShortName="CMM" collectorNumber="742" uuid="b9f1dbdc-e590-48a4-bc52-e9e4e907fb82"/>
+        <card number="1" name="Faith's Fetters" setShortName="J22" collectorNumber="181" uuid="dc226022-c422-4e9d-a359-5c2104e0a5f2"/>
+        <card number="1" name="Buried in the Garden" setShortName="MKM" collectorNumber="191" uuid="7e144609-e1f6-4bdc-8d14-b735ef4140d3"/>
+        <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
+        <card number="1" name="Deification" setShortName="MAT" collectorNumber="2" uuid="52ce799e-cb9e-4d74-8b13-a5f4559e13a9"/>
+        <card number="1" name="Karmic Justice" setShortName="WOT" collectorNumber="7" uuid="45078d81-91ea-402c-ab3c-8464fc2ebb42"/>
+        <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
+        <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
+        <card number="1" name="Propaganda" setShortName="ACR" collectorNumber="85" uuid="4c7c9072-d14c-442c-a386-bfdc0cbe110d"/>
+        <card number="1" name="Collective Restraint" setShortName="PLST" collectorNumber="INV-49" uuid="a7e60999-8d45-468d-ad6e-de8826afad1a"/>
+        <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
+        <card number="1" name="Redress Fate" setShortName="DSC" collectorNumber="9" uuid="19f56096-f692-4719-af38-6a4955f2b65c"/>
+        <card number="1" name="Brilliant Restoration" setShortName="NEO" collectorNumber="7" uuid="64f7a506-0aa1-4c2d-b322-e0e9179d05fb"/>
+        <card number="1" name="Eidolon of Blossoms" setShortName="CMM" collectorNumber="892" uuid="f882aa63-d43c-4359-9de6-77231500a08e"/>
+        <card number="1" name="Setessan Champion" setShortName="CMM" collectorNumber="912" uuid="7680a8e1-cd59-43c5-8f06-426b918692c8"/>
+        <card number="1" name="Sythis, Harvest's Hand" setShortName="CMM" collectorNumber="938" uuid="89511ab5-8ea6-4f07-a80b-c1ec7e89924e"/>
+        <card number="1" name="Imprisoned in the Moon" setShortName="AFC" collectorNumber="85" uuid="1d916675-1e7e-477f-bbb5-bd54fdfd8159"/>
     </zone>
     <zone name="side">
         <card number="1" name="Estrid, the Masked" setShortName="C18" collectorNumber="40" uuid="3340b83e-72dc-42e2-9f93-92f732c047df"/>

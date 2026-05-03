@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon Apr 13 16:42:10 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri May 1 23:48:00 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
     <comments></comments>
@@ -14,7 +14,6 @@
         <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
         <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
         <card number="1" name="Haunting Voyage" setShortName="KHM" collectorNumber="98" uuid="2ac5bca0-35fe-47be-a78c-d5eac68a3bfa"/>
-        <card number="1" name="Shamanic Revelation" setShortName="AFC" collectorNumber="171" uuid="22d99567-8b8a-45cf-85f9-233e97256194"/>
         <card number="1" name="Patriarch's Bidding" setShortName="MH2" collectorNumber="275" uuid="317686d8-b762-4598-b74a-8b1fa6b899ba"/>
         <card number="1" name="Elvish Dreadlord" setShortName="CMR" collectorNumber="121" uuid="1f452927-4d04-4c1d-9d88-19901fd06937"/>
         <card number="1" name="Ruthless Winnower" setShortName="KHC" collectorNumber="10" uuid="886ef13a-4f9d-425b-a071-6366cdb637c8"/>
@@ -104,5 +103,6 @@
         <card number="1" name="Galadhrim Ambush" setShortName="LTC" collectorNumber="38" uuid="e69e06f0-6142-4f80-9208-362b3e74d51d"/>
         <card number="1" name="Last March of the Ents" setShortName="LTR" collectorNumber="172" uuid="7f1b99e0-ffb7-4f98-8ee5-4357bb79dd2e"/>
         <card number="1" name="Breach the Multiverse" setShortName="MOM" collectorNumber="94" uuid="daf51a76-7a57-4462-ae18-a19e817e49e5"/>
+        <card number="1" name="Tyvar, the Pummeler" setShortName="DSK" collectorNumber="202" uuid="5f7687b1-630a-4e95-89c7-eaf456d8cb68"/>
     </zone>
 </cockatrice_deck>
