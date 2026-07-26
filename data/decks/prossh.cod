@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun May 3 16:31:36 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon May 18 12:20:41 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="25260f47-2daa-4177-9950-ee792beffffc">Prossh, Skyraider of Kher</bannerCard>
     <comments></comments>
     <tags/>
@@ -9,13 +10,15 @@
         <card number="1" name="Prossh, Skyraider of Kher" setShortName="PLST" collectorNumber="A25-214" uuid="25260f47-2daa-4177-9950-ee792beffffc"/>
     </zone>
     <zone name="main">
-        <card number="1" name="Carrion Feeder" setShortName="PLST" collectorNumber="MH1-81" uuid="22a77543-749a-49d8-96f4-3458ae5dcd38"/>
-        <card number="1" name="Viscera Seer" setShortName="LCC" collectorNumber="213" uuid="486fd8a2-dd97-4082-84ef-4795c7e559a0"/>
+        <card number="1" name="Agent of the Iron Throne" setShortName="CLB" collectorNumber="107" uuid="5a5984d3-1e76-4d97-9373-b59cfa9c38ae"/>
+        <card number="1" name="Anger" setShortName="AFC" collectorNumber="113" uuid="0c7ce363-3f57-49ed-b89a-f12bb5227ab4"/>
         <card number="1" name="Marionette Apprentice" setShortName="MH3" collectorNumber="100" uuid="d16f8670-f038-400a-83e7-a53a7f8c47ac"/>
+        <card number="1" name="Immoral Bargain" setShortName="SOC" collectorNumber="47" uuid="fc01f092-80fb-4643-8ada-c2e5aeb68658"/>
         <card number="1" name="Blood Artist" setShortName="2X2" collectorNumber="70" uuid="693dd112-d04a-4404-8fce-74f7e5497312"/>
+        <card number="1" name="Cryptolith Rite" setShortName="INR" collectorNumber="189" uuid="0a4e707f-b760-434d-ba97-a0fe651f3f6a"/>
+        <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
         <card number="1" name="Altar of Bhaal // Bone Offering" setShortName="CLB" collectorNumber="109" uuid="37bd2e21-b292-4c86-bd01-010d4a1af7b2"/>
         <card number="1" name="Agate Instigator" setShortName="BLC" collectorNumber="21" uuid="9f838603-f7cd-497d-8d2b-d4cca03c1af7"/>
-        <card number="1" name="Evolutionary Leap" setShortName="NCC" collectorNumber="288" uuid="4d007d3c-3356-4394-9bcd-2b2c1031c20b"/>
         <card number="1" name="Earthcraft" setShortName="TMP" collectorNumber="222" uuid="9dda7531-82a1-4f49-8858-601ddbc6e2bc"/>
         <card number="1" name="Roar of Resistance" setShortName="ONC" collectorNumber="15" uuid="f5eb9570-6203-4a03-9a3e-e5c679df5903"/>
         <card number="1" name="Impact Tremors" setShortName="FDN" collectorNumber="717" uuid="d0b7cecf-b51b-4d30-b7e9-cd7976271e07"/>
@@ -29,11 +32,11 @@
         <card number="1" name="Sméagol, Helpful Guide" setShortName="LTR" collectorNumber="231" uuid="13253f8d-1897-41e8-a904-9e57ac7eff0a"/>
         <card number="1" name="Witty Roastmaster" setShortName="SNC" collectorNumber="131" uuid="71d13f19-482b-4a2e-9692-b7d7caf2f9f5"/>
         <card number="1" name="Journey to Eternity" setShortName="PLST" collectorNumber="RIX-160" uuid="dbfd926b-041b-404d-bd2d-2e4298076e3f"/>
-        <card number="1" name="Woe Strider" setShortName="BLC" collectorNumber="189" uuid="05b2af75-2e29-446b-b3d0-00b5e5d50b3c"/>
         <card number="1" name="Mana Echoes" setShortName="2XM" collectorNumber="136" uuid="bd079929-fa58-4484-91b7-31305b87ee43"/>
         <card number="1" name="Dread Return" setShortName="40K" collectorNumber="200" uuid="6a73b481-8e62-4742-bbd0-33b8048602d7"/>
         <card number="1" name="Poison-Tip Archer" setShortName="BLC" collectorNumber="256" uuid="b7e92375-037c-4be1-8183-6261e0666e12"/>
         <card number="1" name="Pitiless Plunderer" setShortName="FIC" collectorNumber="281" uuid="8ba8b02a-8a05-40cd-8b83-51fd0cc0a7a5"/>
+        <card number="1" name="Three Tree City" setShortName="BLB" collectorNumber="260" uuid="56f88a48-cced-4a9d-8c19-e4f105f0d8a2"/>
         <card number="1" name="Smothering Abomination" setShortName="PBFZ" collectorNumber="99s" uuid="e6f372a8-f69d-4c4c-af5d-07488dc3bc5c"/>
         <card number="1" name="Mirkwood Bats" setShortName="LTR" collectorNumber="95" uuid="15f035df-784a-4dc8-b7f5-77139a4e6e99"/>
         <card number="1" name="Szat's Will" setShortName="CMR" collectorNumber="152" uuid="9828be7b-1eae-4718-9e71-2f625121b00b"/>
@@ -41,7 +44,6 @@
         <card number="1" name="Seedguide Ash" setShortName="PLST" collectorNumber="LRW-235" uuid="38f924c1-5815-462a-bb73-14d345b40a71"/>
         <card number="1" name="Nadier, Agent of the Duskenel" setShortName="CMR" collectorNumber="135" uuid="47c5948b-b021-4d07-8003-9c11db690bc0"/>
         <card number="1" name="Dragonlair Spider" setShortName="PLST" collectorNumber="PCA-87" uuid="7ebddcdb-9bcb-4355-9bcf-232608fb678e"/>
-        <card number="1" name="Descent of the Dragons" setShortName="DTK" collectorNumber="133" uuid="5ab919f3-5797-406b-ae1f-7a7c27739b2d"/>
         <card number="1" name="Verdant Catacombs" setShortName="MH2" collectorNumber="260" uuid="94c229ea-90da-4aa0-bfda-b162fb3b5b8b"/>
         <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
         <card number="1" name="Mirrex" setShortName="ONE" collectorNumber="254" uuid="54a702cd-ca49-4570-b47e-8b090452a3c3"/>
@@ -102,7 +104,6 @@
         <card number="1" name="Goblin Bombardment" setShortName="MAR" collectorNumber="23" uuid="7ebd1f51-2db6-4c3f-95cb-8035a410a8e8"/>
         <card number="1" name="Zulaport Cutthroat" setShortName="BLC" collectorNumber="190" uuid="340efd40-6e1d-440e-b209-9b4993884e1d"/>
         <card number="1" name="Skullclamp" setShortName="40K" collectorNumber="248" uuid="04733881-38a3-404c-837f-fad3fc5a5647"/>
-        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
         <card number="1" name="Purphoros, God of the Forge" setShortName="CMM" collectorNumber="246" uuid="4736a2c4-c89c-48db-a104-6303e7e2eee8"/>
         <card number="1" name="Tribute to the World Tree" setShortName="MOM" collectorNumber="211" uuid="c0cdeaba-fc21-44e6-bf99-aa1ff379401b"/>
     </zone>

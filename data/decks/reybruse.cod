@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:50:21 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Jul 24 16:35:30 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
     <tags/>
@@ -11,7 +12,6 @@
     </zone>
     <zone name="main">
         <card number="1" name="Titanic Brawl"/>
-        <card number="1" name="Lion Sash"/>
         <card number="1" name="Winding Constrictor"/>
         <card number="1" name="Cursed Wombat"/>
         <card number="1" name="Together Forever"/>
@@ -31,6 +31,8 @@
         <card number="1" name="Crystalline Crawler"/>
         <card number="1" name="Etched Oracle"/>
         <card number="1" name="Mindless Automaton"/>
+        <card number="1" name="Medusa, Inhuman Queen" setShortName="MSC" collectorNumber="68" uuid="3187ebab-8008-455c-a3c9-794a5b225b88"/>
+        <card number="1" name="Savannah" setShortName="VMA" collectorNumber="311" uuid="b0d161fc-4a2a-4f1d-82b4-a746552552df"/>
         <card number="1" name="Deathbringer Thoctar"/>
         <card number="1" name="Damning Verdict"/>
         <card number="1" name="Uncivil Unrest"/>
@@ -45,7 +47,6 @@
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Savannah"/>
         <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Wooded Foothills"/>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun May 3 01:47:36 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Jul 24 16:46:16 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="154c2d54-6dc2-4350-8cc1-f099c7d13ccc">Kokusho, the Evening Star</bannerCard>
     <comments></comments>
     <tags/>
@@ -10,6 +11,7 @@
         <card number="1" name="Village Rites" setShortName="GN3" collectorNumber="64" uuid="f990e5c1-7df4-4eaf-a01b-67f858064e5e"/>
         <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
         <card number="1" name="Corrupted Conviction" setShortName="MOM" collectorNumber="98" uuid="ce133ad5-8748-4a3d-ae8c-7b2a5938927d"/>
+        <card number="1" name="M.O.D.O.K." setShortName="MSH" collectorNumber="106" uuid="38e87542-50f7-4812-9338-84e4b9b7bb44"/>
         <card number="1" name="Undying Evil" setShortName="DKA" collectorNumber="77" uuid="325f2243-54fd-484b-a742-166cea7ec179"/>
         <card number="1" name="Feign Death" setShortName="AFR" collectorNumber="103" uuid="32af7061-fca6-4a06-be3c-01881e6b96f7"/>
         <card number="1" name="Kaya's Ghostform" setShortName="PLST" collectorNumber="WAR-94" uuid="8cae3159-b321-4ce5-900d-5b2371e1fedb"/>
@@ -79,7 +81,6 @@
         <card number="1" name="Espers to Magicite" setShortName="FIC" collectorNumber="43" uuid="6cb18871-dd23-4ce8-a535-16adefae63c0"/>
         <card number="1" name="Necromantic Summons" setShortName="ORI" collectorNumber="110" uuid="3afe7891-09d5-470e-aa41-71d89249875b"/>
         <card number="1" name="Eventide's Shadow" setShortName="ECC" collectorNumber="8" uuid="9c5d71a6-8e68-4aee-b781-486276d17fce"/>
-        <card number="1" name="Heartless Conscription" setShortName="OTC" collectorNumber="21" uuid="52fc4862-b57b-42d7-be8b-d9915a0bb4fd"/>
         <card number="1" name="Changing Loyalty" setShortName="SOC" collectorNumber="23" uuid="5c2e30d4-98ab-46a7-87ab-1c36c43ab34a"/>
         <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
         <card number="1" name="The Sibsig Ceremony" setShortName="PTDM" collectorNumber="91p" uuid="8bb2c3b3-c337-45b6-98f5-716dd4fdb02e"/>

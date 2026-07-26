@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 19:45:05 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Jul 24 14:13:16 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="b238485f-ef67-4295-892b-a10235368f74">Inniaz, the Gale Force</bannerCard>
     <comments></comments>
     <tags/>
@@ -16,8 +17,10 @@
         <card number="1" name="Seaside Haven" setShortName="ONS" collectorNumber="323" uuid="9c940a6b-3c5e-4ce2-92b6-63e2cb575c15"/>
         <card number="1" name="Moorland Haunt" setShortName="SCD" collectorNumber="310" uuid="df8bbd04-981e-45ec-a835-7237350630cf"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
+        <card number="1" name="The Mind Stone" setShortName="MSH" collectorNumber="21" uuid="87f1e69a-6d74-4982-afda-82613637799a"/>
         <card number="1" name="Emeria's Call" setShortName="ZNR" collectorNumber="12" uuid="c470539a-9cc7-4175-8f7c-c982b6072b6d"/>
         <card number="1" name="Windbrisk Heights" setShortName="CLB" collectorNumber="930" uuid="cc4aa7d1-e168-4fa0-baf0-1102086dc717"/>
+        <card number="1" name="Falcon and Redwing" setShortName="MSC" collectorNumber="14" uuid="e565fb47-acca-4348-87bb-afdadbf55e8a"/>
         <card number="1" name="Minas Tirith" setShortName="LTR" collectorNumber="256" uuid="b38b6760-616f-4b11-8ce7-ac1223c7fd53"/>
         <card number="1" name="Faerie Conclave" setShortName="PLST" collectorNumber="CMA-248" uuid="f48061f5-02c3-432d-8d4b-9d0891258ecf"/>
         <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
@@ -35,7 +38,6 @@
         <card number="1" name="Siren Stormtamer" setShortName="LCC" collectorNumber="171" uuid="073c301e-5bb6-49fa-bf61-2f662030540f"/>
         <card number="1" name="Momo, Friendly Flier" setShortName="TLA" collectorNumber="29" uuid="c472ef84-a632-4ad7-853c-60588a7a4b12"/>
         <card number="1" name="Mausoleum Wanderer" setShortName="EA1" collectorNumber="4" uuid="a7dee31c-b6e8-49c4-9a0d-0957a5f8e03b"/>
-        <card number="1" name="Haunted Library" setShortName="VOC" collectorNumber="6" uuid="b0193151-0f5f-457b-a6b2-08f66b53c9b2"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
         <card number="1" name="Rally of Wings" setShortName="J25" collectorNumber="238" uuid="a88827db-a52a-44ef-8e49-8c32bb37cbfe"/>
         <card number="1" name="Lofty Denial" setShortName="M21" collectorNumber="56" uuid="64832674-beb1-446e-b2f7-8a5e271139a5"/>
@@ -89,7 +91,6 @@
         <card number="1" name="Glen Elendra's Answer" setShortName="ECL" collectorNumber="52" uuid="fa5bfbf9-dca2-42b7-a431-f9afedb54528"/>
         <card number="1" name="Everything Comes to Dust" setShortName="WHO" collectorNumber="19" uuid="fb4b912c-07d4-42a1-8f3b-d5f34cca087f"/>
         <card number="1" name="Fellwar Stone" setShortName="AFC" collectorNumber="206" uuid="07be53ef-c7b7-44fe-9754-b76871c6b55f"/>
-        <card number="1" name="Kangee's Lieutenant" setShortName="SCD" collectorNumber="27" uuid="d0caf32b-ab0e-4207-9aaa-75c19f88cdd9"/>
         <card number="1" name="Reconnaissance Mission" setShortName="40K" collectorNumber="193" uuid="009f7603-a6a3-461b-bc73-810db1ab2898"/>
         <card number="1" name="Cathars' Crusade" setShortName="INR" collectorNumber="17" uuid="5296e353-2efc-4d72-a877-7957eff630b9"/>
         <card number="1" name="Amonkhet Raceway" setShortName="DFT" collectorNumber="248" uuid="4f312807-ea2a-4385-8774-4e23b4a5d4a6"/>

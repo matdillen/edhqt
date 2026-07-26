@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 00:13:42 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Jul 24 13:29:59 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="914a4923-18a6-4aa5-8510-b02e9dc7bb41">Jedit Ojanen, Mercenary</bannerCard>
     <comments></comments>
     <tags/>
@@ -12,6 +13,7 @@
         <card number="1" name="Louisoix's Sacrifice" setShortName="FIN" collectorNumber="59" uuid="4a6976f2-0bd5-449a-8fcf-f5a732ce22c1"/>
         <card number="1" name="Yoshimaru, Ever Faithful" setShortName="NEC" collectorNumber="32" uuid="aa409269-3698-42a2-8c51-75557b27a6f6"/>
         <card number="1" name="Ephemerate" setShortName="H1R" collectorNumber="1" uuid="f48ab69d-8a01-4dcb-af70-31e2c62278df"/>
+        <card number="1" name="Bast, Panther Goddess" setShortName="MSC" collectorNumber="75" uuid="c53a05f1-8e95-4a39-b2a3-a21d3d19b5b3"/>
         <card number="1" name="Skrelv, Defector Mite" setShortName="ONE" collectorNumber="33" uuid="60b565da-a49b-479c-b0c4-8ff3dd20cc0b"/>
         <card number="1" name="Jolrael, Mwonvuli Recluse" setShortName="BLC" collectorNumber="225" uuid="258bfd1a-ec8d-453d-a957-814110e2dcaf"/>
         <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
@@ -22,8 +24,10 @@
         <card number="1" name="Gaddock Teeg" setShortName="PLST" collectorNumber="UMA-199" uuid="4ed8c8ba-7618-4cb2-9856-173fc54176f2"/>
         <card number="1" name="Selvala, Explorer Returned" setShortName="BLC" collectorNumber="259" uuid="69195842-c7ce-477b-a04f-06412aff382a"/>
         <card number="1" name="Song of the Dryads" setShortName="CMM" collectorNumber="324" uuid="161e66e3-0339-495c-bd06-0a799a254906"/>
+        <card number="1" name="Jennifer Walters" setShortName="MSH" collectorNumber="18" uuid="61237530-ad49-469c-a952-67c92315708e"/>
         <card number="1" name="Brokers Ascendancy" setShortName="PSNC" collectorNumber="170p" uuid="012abe1c-a5ff-4785-a555-76e4662b0a95"/>
         <card number="1" name="Lagrella, the Magpie" setShortName="SNC" collectorNumber="196" uuid="dd20f271-26c8-429f-a422-e7d95f3bda74"/>
+        <card number="1" name="King T'Challa" setShortName="MSH" collectorNumber="219" uuid="add7d3ce-aa58-4da0-8c2a-cfd01c3a8975"/>
         <card number="1" name="Loran of the Third Path" setShortName="BLC" collectorNumber="143" uuid="647e6b32-c755-4700-b151-6a174dbb2bd0"/>
         <card number="1" name="Kutzil, Malamet Exemplar" setShortName="LCI" collectorNumber="232" uuid="c9f88a40-a6ed-4c1f-a309-011aca1acddd"/>
         <card number="1" name="Brago, King Eternal" setShortName="PLST" collectorNumber="EMA-198" uuid="0a20a8d0-209b-44da-9c1e-e3e7853e7060"/>
@@ -32,13 +36,11 @@
         <card number="1" name="Teshar, Ancestor's Apostle" setShortName="BRC" collectorNumber="77" uuid="31b96ec5-065e-41a8-9383-2b86888f4405"/>
         <card number="1" name="Jazal Goldmane" setShortName="BLC" collectorNumber="142" uuid="eb9666d0-2100-40e0-a065-165ccc5c0d28"/>
         <card number="1" name="Shalai, Voice of Plenty" setShortName="PLST" collectorNumber="DOM-35" uuid="14a74ac1-d827-48d5-9d7d-5eb0122b0069"/>
-        <card number="1" name="Yasharn, Implacable Earth" setShortName="ZNR" collectorNumber="240" uuid="12878fbd-dbe5-44bc-9f34-38fd374ec10a"/>
         <card number="1" name="Yorion, Sky Nomad" setShortName="MB2" collectorNumber="94" uuid="a245bb3b-9126-4361-824b-2b27fbba9696"/>
         <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
         <card number="1" name="Urza's Ruinous Blast" setShortName="BRC" collectorNumber="79" uuid="3baeeb19-c4f4-4e4f-97e0-52b2e512b26b"/>
         <card number="1" name="Regal Caracal" setShortName="FDN" collectorNumber="579" uuid="b6310a82-73db-40cb-ae64-6f07f869024c"/>
         <card number="1" name="Kamahl's Druidic Vow" setShortName="DOM" collectorNumber="166" uuid="bf95ef60-e67b-466d-a6cb-d487ffa88b72"/>
-        <card number="1" name="Elesh Norn, Grand Cenobite" setShortName="HA5" collectorNumber="2" uuid="a4f74725-44d4-4ad1-8365-b21bc67e952e"/>
         <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
         <card number="1" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="1" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
@@ -106,7 +108,6 @@
         <card number="1" name="Peter Parker" setShortName="OM1" collectorNumber="21" uuid="2ec821c3-3e5c-4af8-a6ef-e2e77aa8668c"/>
         <card number="1" name="Comeuppance" setShortName="MAR" collectorNumber="1" uuid="ec191a2f-12b1-438b-b2fe-f88fb82d9b87"/>
         <card number="1" name="Mirri, Weatherlight Duelist" setShortName="CMM" collectorNumber="347" uuid="db44fe95-6a32-4d6f-a32f-72491381f495"/>
-        <card number="1" name="Smile at Death" setShortName="PTDM" collectorNumber="24p" uuid="40a9270d-c5dd-45b8-863b-3a34f2d4717d"/>
         <card number="1" name="Galadriel, Light of Valinor" setShortName="LTC" collectorNumber="498" uuid="f485596f-3a23-4714-ad7e-4c493ab1b530"/>
     </zone>
 </cockatrice_deck>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 19:40:22 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sat May 9 13:54:04 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="6e779a16-7528-49f4-8304-502bb603c15b">Bohn, Beguiling Balladeer</bannerCard>
     <comments></comments>
     <tags/>
@@ -10,16 +11,17 @@
     </zone>
     <zone name="main">
         <card number="1" name="All Is Dust" setShortName="CMM" collectorNumber="800" uuid="4210c54e-89fd-4971-ab6a-ca8f4e7fe97a"/>
-        <card number="5" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
-        <card number="6" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="4" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Shatterskull Smashing" setShortName="ZNR" collectorNumber="161" uuid="bc7239ea-f8aa-4a6f-87bd-c35359635673"/>
         <card number="1" name="Mystic Sanctuary" setShortName="MB2" collectorNumber="110" uuid="967a6608-6e5d-40b3-b0c6-2e79b97f10ba"/>
         <card number="1" name="Shivan Reef" setShortName="BLC" collectorNumber="331" uuid="59d5e76c-4961-4dbf-be38-a18a2c16d33f"/>
+        <card number="6" name="Island" setShortName="OLEP" collectorNumber="2" uuid="285d91c2-6128-4dc3-b573-065ddf8bd54e"/>
         <card number="1" name="Steam Vents" setShortName="CLU" collectorNumber="280" uuid="a8619bc1-04e8-4395-aff5-6ac5917fd4f1"/>
         <card number="1" name="Volcanic Island" setShortName="30A" collectorNumber="282" uuid="12f74d08-d020-4c89-a1a2-0815b8b65755"/>
         <card number="1" name="Lórien Revealed" setShortName="LTR" collectorNumber="60" uuid="0ce44270-a684-4489-9077-521456e6dfaa"/>
         <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
         <card number="1" name="Castle Vantress" setShortName="CLB" collectorNumber="885" uuid="dcf70844-18b1-4046-ae1d-ef41790bdcde"/>
+        <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Sea Gate Restoration" setShortName="ZNR" collectorNumber="76" uuid="193071fe-180b-4d35-ba78-9c16675c29fc"/>
         <card number="1" name="Thran Turbine" setShortName="USG" collectorNumber="311" uuid="791c310f-b50d-4993-9add-9f585f6172af"/>
         <card number="1" name="Izzet Signet" setShortName="BLC" collectorNumber="278" uuid="a39b4b15-cd3e-4d30-8de2-8e584524d018"/>

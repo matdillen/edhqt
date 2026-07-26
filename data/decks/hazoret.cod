@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="f582e3c3-c329-40bb-9ffb-c4812a7aedd5">Hazoret the Fervent</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Hazoret the Fervent" setShortName="MP2" collectorNumber="27" uuid="f582e3c3-c329-40bb-9ffb-c4812a7aedd5"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Bolt Bend" setShortName="FDN" collectorNumber="619" uuid="cf01af2c-68e5-4bb5-81de-f3a1b860fb2e"/>
+        <card number="1" name="Basilisk Collar" setShortName="AFC" collectorNumber="199" uuid="0d85fb76-2ae9-425b-9c5e-2c63471c9599"/>
+        <card number="1" name="Firestorm" setShortName="WC98" collectorNumber="br101sb" uuid="92f21ab7-5267-4f2b-ad2d-4aea1d69e87c"/>
+        <card number="1" name="Commander's Plate" setShortName="PCMR" collectorNumber="305p" uuid="cdab94e2-f0a1-42ad-9b03-a780f3de6901"/>
+        <card number="1" name="Faithless Looting" setShortName="BRC" collectorNumber="116" uuid="b78f314a-a7c2-4441-9d46-67521ad570ba"/>
+        <card number="1" name="Case of the Crimson Pulse" setShortName="MKM" collectorNumber="114" uuid="bb18b1de-bc08-4522-b891-6117a8271534"/>
+        <card number="1" name="Cool but Rude" setShortName="TMT" collectorNumber="89" uuid="a566ab2d-6ec8-4833-8ad6-210378b1a20e"/>
+        <card number="1" name="Tibalt's Trickery" setShortName="KHM" collectorNumber="153" uuid="dd921e27-3e08-438c-bec2-723226d35175"/>
+        <card number="1" name="Chandra's Incinerator" setShortName="M21" collectorNumber="136" uuid="ed875705-b7b6-4464-b16f-61629ffed04f"/>
+        <card number="1" name="Untimely Malfunction" setShortName="DSK" collectorNumber="161" uuid="857bfb0e-17dc-4dda-bc37-3df927a9eae6"/>
+        <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
+        <card number="1" name="Lion's Eye Diamond" setShortName="VMA" collectorNumber="271" uuid="758f95f8-bcb0-43ae-b474-56ebd855951e"/>
+        <card number="1" name="Marauding Mako" setShortName="DFT" collectorNumber="138" uuid="9efbfd67-e0f5-43e0-9fff-1eb4a2bed0d8"/>
+        <card number="1" name="Crucible of Worlds" setShortName="2X2" collectorNumber="303" uuid="7f4893ef-f983-418b-b7a4-5f073c844545"/>
+        <card number="1" name="Battlemage's Bracers" setShortName="C21" collectorNumber="48" uuid="1a14aad2-47f0-4d21-9fcf-5ca171faffaf"/>
+        <card number="1" name="Wheel of Fate" setShortName="PLST" collectorNumber="C16-138" uuid="34d572a8-e96c-4a60-a741-374f30211173"/>
+        <card number="1" name="Mox Diamond" setShortName="TPR" collectorNumber="228" uuid="bf9fecfd-d122-422f-bd0a-5bf69b434dfe"/>
+        <card number="1" name="Ivora, Insatiable Heir" setShortName="J25" collectorNumber="50" uuid="2ba70366-b6ae-423a-a8d8-29d2b8afd939"/>
+        <card number="1" name="Nahiri's Wrath" setShortName="SIR" collectorNumber="171" uuid="e91bb5ae-e870-466b-adfd-3ae5bf9b7806"/>
+        <card number="1" name="Misty Knight, Hero for Hire" setShortName="MSH" collectorNumber="145" uuid="6b963642-a103-44a0-9eb7-9c3fdde181b7"/>
+        <card number="1" name="Glint-Horn Buccaneer" setShortName="J22" collectorNumber="539" uuid="0884ffe1-4f4c-40a4-88c2-d34a19d80dd9"/>
+        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
+        <card number="1" name="Cursed Mirror" setShortName="BRC" collectorNumber="115" uuid="a29473ee-1a11-42b8-8d14-34051208f35b"/>
+        <card number="1" name="Flamewake Phoenix" setShortName="FDN" collectorNumber="198" uuid="a94f008e-48a0-406b-83fa-99cd396831f8"/>
+        <card number="1" name="Magmakin Artillerist" setShortName="DFT" collectorNumber="137" uuid="2ac26341-a100-424d-be84-33fbbf1b4078"/>
+        <card number="1" name="Monument to Endurance" setShortName="DFT" collectorNumber="237" uuid="d21433ba-0a14-42bc-ad0b-a4ef823a3295"/>
+        <card number="1" name="Wheel of Fortune" setShortName="30A" collectorNumber="179" uuid="3a21478b-aa47-442d-b04b-33db3f9fe529"/>
+        <card number="1" name="Ensnaring Bridge" setShortName="LTC" collectorNumber="350" uuid="1b251eca-06c2-4609-aaed-a88711ef6a45"/>
+        <card number="1" name="Conqueror's Galleon" setShortName="PXTC" collectorNumber="234" uuid="5f233ff1-5a4a-47d3-b3d5-6a00a7a00732"/>
+        <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
+        <card number="1" name="Brallin, Skyshark Rider" setShortName="PLST" collectorNumber="C20-4" uuid="11b49032-1906-44b5-8f89-2082bd6e5734"/>
+        <card number="1" name="Grafted Skullcap" setShortName="7ED" collectorNumber="298" uuid="3ff78a37-c321-4f02-bd10-e73823b954cf"/>
+        <card number="1" name="Phyrexian Dragon Engine" setShortName="BRO" collectorNumber="163" uuid="e2b826be-4256-4fd6-ad4d-6c80933ee940"/>
+        <card number="1" name="Spider-Man, New Champion" setShortName="MSC" collectorNumber="705" uuid="bc90f14c-9289-4284-bc89-e0df8e03152b"/>
+        <card number="1" name="Chandra's Spitfire" setShortName="J22" collectorNumber="515" uuid="6e823359-865d-4ef4-8e55-e170527b1b42"/>
+        <card number="1" name="Pyrohemia" setShortName="PLST" collectorNumber="PLC-119" uuid="a592660b-4d1a-4e83-8359-80bdd5b53506"/>
+        <card number="1" name="Snort" setShortName="FIC" collectorNumber="58" uuid="46f1179d-6e48-46ed-ab41-abddace7b5d4"/>
+        <card number="1" name="Phial of Galadriel" setShortName="LTR" collectorNumber="248" uuid="ac6d60fe-681b-495e-813c-c8418f3f29e5"/>
+        <card number="1" name="Squee, Goblin Nabob" setShortName="CMM" collectorNumber="258" uuid="12d6d674-40aa-42d7-88b3-f65603ecaa1e"/>
+        <card number="1" name="Ill-Tempered Loner" setShortName="DBL" collectorNumber="429" uuid="36c22e93-4b37-4912-9491-eff17510b08d"/>
+        <card number="1" name="Avaricious Dragon" setShortName="ORI" collectorNumber="131" uuid="354255d7-dc29-403b-aa90-9044cde669d0"/>
+        <card number="1" name="Null Brooch" setShortName="EXO" collectorNumber="136" uuid="d5d5a0c6-916c-428a-ae66-8adc8844e56e"/>
+        <card number="1" name="Nevinyrral's Disk" setShortName="30A" collectorNumber="263" uuid="751aa8f7-e9b1-41d5-bced-25f3ccf00275"/>
+        <card number="1" name="Fires of Invention" setShortName="ELD" collectorNumber="125" uuid="a12b16b0-f75f-42d8-9b24-947c1908e0f7"/>
+        <card number="1" name="Nibelheim Aflame" setShortName="FIN" collectorNumber="146" uuid="3d3e926a-74af-4996-849f-d31e0fdedeae"/>
+        <card number="1" name="Spiked Corridor // Torture Pit" setShortName="DSC" collectorNumber="28" uuid="b90164a1-8b0a-4445-a0ad-43e4c3324925"/>
+        <card number="1" name="Mjölnir, Hammer of Thor" setShortName="MSH" collectorNumber="146" uuid="e0c7f566-5351-44e3-a346-b84b0eb10209"/>
+        <card number="1" name="Surly Badgersaur" setShortName="C20" collectorNumber="57" uuid="7ba507e2-fe5e-4947-aada-20184aa09700"/>
+        <card number="1" name="Memory Jar" setShortName="AA3" collectorNumber="22" uuid="8b78ac4e-358d-486a-89a5-03fc67373fb3"/>
+        <card number="1" name="Ojer Axonil, Deepest Might" setShortName="LCI" collectorNumber="158" uuid="50f8e2b6-98c7-4f28-bb39-e1fbe841f1ee"/>
+        <card number="1" name="Hawkeye, Young Avenger" setShortName="MSH" collectorNumber="131" uuid="3cebccbb-dde2-41fe-bfdc-0a46ee185749"/>
+        <card number="1" name="Pariah's Shield" setShortName="PLST" collectorNumber="RAV-267" uuid="8d22e9ad-117a-4dbb-9d84-cd454e25eb93"/>
+        <card number="1" name="Chandra's Ignition" setShortName="LCC" collectorNumber="220" uuid="960f45a3-f9cf-41e6-b813-f3dee620a944"/>
+        <card number="1" name="Ox of Agonas" setShortName="NEC" collectorNumber="108" uuid="00c46d18-064e-403a-bf39-ec655d78390a"/>
+        <card number="1" name="Solphim, Mayhem Dominus" setShortName="ONE" collectorNumber="150" uuid="c3a0c7f3-7fb9-43de-a9af-96532c31e5ed"/>
+        <card number="1" name="Brash Taunter" setShortName="CLB" collectorNumber="782" uuid="a1480f99-83f8-48e7-ba52-9a3f3a9a24f3"/>
+        <card number="1" name="Torbran, Thane of Red Fell" setShortName="SLD" collectorNumber="463" uuid="a767f185-bf9c-450a-b699-9a20bb3686c6"/>
+        <card number="1" name="Neheb, the Eternal" setShortName="CMM" collectorNumber="244" uuid="a98695d3-a8ec-43f0-9a2a-fef4566f3a2f"/>
+        <card number="1" name="Mana Geyser" setShortName="GN3" collectorNumber="84" uuid="fd805298-9dbf-4294-a0f9-b3532167c341"/>
+        <card number="1" name="Throne of Eldraine" setShortName="PLST" collectorNumber="WOC-28" uuid="6d98bdb7-bdba-4e06-a122-9bcf131f4cc8"/>
+        <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
+        <card number="1" name="Spiteful Banditry" setShortName="LTR" collectorNumber="149" uuid="e85a82bc-49f3-4694-b688-808a541146db"/>
+        <card number="1" name="Scavenged Brawler" setShortName="BRC" collectorNumber="17" uuid="afd0ba67-cbb7-49fe-83a0-02e85a37d9d6"/>
+        <card number="1" name="Twinflame Tyrant" setShortName="FDN" collectorNumber="97" uuid="1eb34f51-0bd2-43c3-af95-2ce8dabcc7bb"/>
+        <card number="1" name="Abstergo Entertainment" setShortName="ACR" collectorNumber="79" uuid="4d197866-7633-493c-80dd-ec3a09165934"/>
+        <card number="1" name="Bonders' Enclave" setShortName="CMM" collectorNumber="988" uuid="e5b6aca8-190e-49b0-9185-2c72bd3fda7d"/>
+        <card number="1" name="Pinnacle Monk" setShortName="MH3" collectorNumber="246" uuid="24d4f26e-7f96-4b38-867e-4fac819b2679"/>
+        <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
+        <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
+        <card number="1" name="Geier Reach Sanitarium" setShortName="AFC" collectorNumber="241" uuid="cdb751d3-580f-44dd-a1e2-0f1240f2b891"/>
+        <card number="1" name="Oliphaunt" setShortName="LTR" collectorNumber="139" uuid="6989018c-37b1-4282-a4af-9cc97f160b4d"/>
+        <card number="1" name="Mishra's Factory" setShortName="AFC" collectorNumber="248" uuid="7c05c946-66c3-4785-90f9-ca0c606e036b"/>
+        <card number="1" name="Keldon Megaliths" setShortName="JVC" collectorNumber="58" uuid="da7c4600-1dc3-4a9d-a112-1b70abcb8951"/>
+        <card number="1" name="Mutavault" setShortName="CLB" collectorNumber="903" uuid="52cc2f10-142d-4e6a-984e-b25f566cc960"/>
+        <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
+        <card number="1" name="Terrain Generator" setShortName="CLB" collectorNumber="926" uuid="f40e9f0f-8c0d-4bfd-9872-370ce3763006"/>
+        <card number="1" name="Sea Gate Wreckage" setShortName="CMM" collectorNumber="1028" uuid="1c137634-7531-4573-9bfa-623d8edf839c"/>
+        <card number="1" name="Tower of the Magistrate" setShortName="MB2" collectorNumber="242" uuid="0743db09-bf73-4d56-8c0c-7834cb535055"/>
+        <card number="1" name="War Room" setShortName="CLB" collectorNumber="929" uuid="ed5cebc0-6a58-468d-a75e-46087ea2eb46"/>
+        <card number="1" name="Witch's Clinic" setShortName="DSC" collectorNumber="325" uuid="d2422e3e-a923-4516-b87c-cac748354dca"/>
+        <card number="18" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="1" name="Valakut, the Molten Pinnacle" setShortName="SLP" collectorNumber="14" uuid="24b2acd2-ad1a-468c-bacf-00d94f642e6d"/>
+    </zone>
+</cockatrice_deck>

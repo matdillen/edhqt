@@ -38,6 +38,14 @@ class MainWindow(QMainWindow):
         "name": "Name",
         "manaValue": "MV",
     }
+    TOKEN_SORT_FIELDS = (
+        "colorIdentity",
+        "qty",
+        "name",
+        "power",
+        "toughness",
+        "type",
+    )
     PIPS_WIDTH = 64
     QTY_WIDTH = 54
     MV_WIDTH = 40
@@ -85,8 +93,15 @@ class MainWindow(QMainWindow):
         self.deck_files_actu = dict(self.deck_files)
         self.search_result_counts = {}
         self.search_results_popup = None
+        self.selected_deck_name = None
         self.deck_sort_key = "type"
         self.deck_sort_descending = False
+        self.token_view_enabled = False
+        self.current_token_cards = []
+        self.current_token_metadata = {}
+        self.current_token_creator_cards = {}
+        self.token_count_label = "Decks"
+        self.token_metadata_cache = {}
 
         ### set up UI layout
         main_layout = QHBoxLayout()
@@ -187,6 +202,11 @@ class MainWindow(QMainWindow):
         self._init_decklist_items(self.deck_files)
         self.deck_list.itemClicked.connect(self._load_deck_clicked)
         left_layout.addWidget(self.deck_list)
+
+        self.token_toggle_btn = QPushButton("Show Tokens")
+        self.token_toggle_btn.setCheckable(True)
+        self.token_toggle_btn.toggled.connect(self._toggle_token_view)
+        left_layout.addWidget(self.token_toggle_btn)
 
         ###################
         # Cache refresh
@@ -338,6 +358,8 @@ class MainWindow(QMainWindow):
 
     def _deck_sort_fields(self):
         """Returns all supported deck sort fields, including the known cache keys."""
+        if self.token_view_enabled:
+            return list(self.TOKEN_SORT_FIELDS)
         fields = set(self.DEFAULT_CACHE_SORT_FIELDS)
         for meta in self.cache.cache.values():
             fields.update(meta.keys())
@@ -407,6 +429,8 @@ class MainWindow(QMainWindow):
         return " ".join(piece.capitalize() for piece in pieces) or (field or "")
 
     def _extra_sort_field(self):
+        if self.token_view_enabled:
+            return None if self.deck_sort_key in self.TOKEN_SORT_FIELDS else self.deck_sort_key
         return None if self.deck_sort_key in self.BASE_DECK_COLUMNS else self.deck_sort_key
 
     def _format_display_value(self, field: str, name: str, qty: int, meta: dict) -> str:
@@ -433,17 +457,20 @@ class MainWindow(QMainWindow):
 
     def _update_deck_header(self):
         arrow = self._sort_arrow()
+        qty_label = self.token_count_label if self.token_view_enabled else self._field_label("qty")
+        mv_label = "P/T" if self.token_view_enabled else self._field_label("manaValue")
+        pt_sorted = self.token_view_enabled and self.deck_sort_key in {"power", "toughness"}
         self.deck_header_ci.setText(f"{self._field_label('colorIdentity')} {arrow}" if self.deck_sort_key == "colorIdentity" else self._field_label("colorIdentity"))
-        self.deck_header_qty.setText(f"{self._field_label('qty')} {arrow}" if self.deck_sort_key == "qty" else self._field_label("qty"))
+        self.deck_header_qty.setText(f"{qty_label} {arrow}" if self.deck_sort_key == "qty" else qty_label)
         self.deck_header_name.setText(f"{self._field_label('name')} {arrow}" if self.deck_sort_key == "name" else self._field_label("name"))
-        self.deck_header_mv.setText(f"{self._field_label('manaValue')} {arrow}" if self.deck_sort_key == "manaValue" else self._field_label("manaValue"))
+        self.deck_header_mv.setText(f"{mv_label} {arrow}" if self.deck_sort_key == "manaValue" or pt_sorted else mv_label)
 
         extra_field = self._extra_sort_field()
         self.deck_header_extra.setVisible(bool(extra_field))
         self.deck_header_extra.setText(f"{self._field_label(extra_field)} {arrow}" if extra_field else "")
         self.deck_header.setVisible(True)
 
-    def _build_deck_row(self, name: str, qty: int, meta: dict) -> QWidget:
+    def _build_deck_row(self, name: str, qty: int, meta: dict, token_mode: bool = False) -> QWidget:
         row = QWidget(self.deck_display.viewport())
         lay = QHBoxLayout(row)
         lay.setContentsMargins(6, 4, 6, 4)
@@ -459,10 +486,15 @@ class MainWindow(QMainWindow):
         pips.setText(self._pip_squares(ci))
         lay.addWidget(pips)
 
-        qty_lbl = QLabel(f"{qty}×", row)
+        qty_text = str(qty) if token_mode else f"{qty}×"
+        qty_lbl = QLabel(qty_text, row)
         qty_lbl.setStyleSheet("QLabel { padding: 2px 6px; border-radius: 8px; border: 1px solid #666; }")
         qty_lbl.setAlignment(Qt.AlignCenter)
         qty_lbl.setFixedWidth(self.QTY_WIDTH)
+        if token_mode and self.token_count_label == "Cards":
+            qty_lbl.setCursor(Qt.PointingHandCursor)
+            qty_lbl.setToolTip("Show cards creating this token")
+            qty_lbl.mousePressEvent = lambda _evt, token_name=name: self._show_token_creator_popup(token_name)
         lay.addWidget(qty_lbl)
 
         name_lbl = QLabel(name, row)
@@ -470,14 +502,19 @@ class MainWindow(QMainWindow):
         name_lbl.setTextInteractionFlags(Qt.NoTextInteraction)
         lay.addWidget(name_lbl, 1)
 
-        try:
-            mv_text = str(int(float(mv))) if (mv not in (None, "")) else "—"
-        except (TypeError, ValueError):
-            mv_text = str(mv) if mv not in (None, "") else "—"
+        if token_mode:
+            power = meta.get("power") or ""
+            toughness = meta.get("toughness") or ""
+            mv_text = f"{power}/{toughness}" if power or toughness else "—"
+        else:
+            try:
+                mv_text = str(int(float(mv))) if (mv not in (None, "")) else "—"
+            except (TypeError, ValueError):
+                mv_text = str(mv) if mv not in (None, "") else "—"
         mv_lbl = QLabel(mv_text, row)
         mv_lbl.setStyleSheet("QLabel { padding: 2px 6px; border-radius: 8px; background: #2a2a2a; color: #ddd; }")
         mv_lbl.setAlignment(Qt.AlignCenter)
-        mv_lbl.setFixedWidth(self.MV_WIDTH)
+        mv_lbl.setFixedWidth(self.QTY_WIDTH if token_mode else self.MV_WIDTH)
         lay.addWidget(mv_lbl)
 
         extra_lbl = QLabel(self._format_display_value(extra_field, name, qty, meta) if extra_field else "", row)
@@ -486,18 +523,19 @@ class MainWindow(QMainWindow):
         lay.addWidget(extra_lbl)
         return row
 
-    def _populate_deck_rows(self, deck_cards):
+    def _populate_deck_rows(self, deck_cards, metadata_map=None, token_mode: bool = False):
         """Refresh just the card rows for the current deck view."""
         self.deck_display.setUpdatesEnabled(False)
         display_blocker = QSignalBlocker(self.deck_display)
         self.deck_display.clear()
         try:
-            sorted_cards = self._sorted_deck_cards(deck_cards)
+            sorted_cards = self._sorted_deck_cards(deck_cards, metadata_map)
             self._update_deck_header()
-            metadata_map = self._deck_metadata_map(sorted_cards)
+            if metadata_map is None:
+                metadata_map = self._deck_metadata_map(sorted_cards)
             for name, qty in sorted_cards:
                 meta = metadata_map.get(name, {})
-                row = self._build_deck_row(name, qty, meta)
+                row = self._build_deck_row(name, qty, meta, token_mode)
 
                 item = QListWidgetItem()
                 item.setData(Qt.UserRole, name)
@@ -508,9 +546,10 @@ class MainWindow(QMainWindow):
             del display_blocker
             self.deck_display.setUpdatesEnabled(True)
 
-    def _sorted_deck_cards(self, deck_cards):
+    def _sorted_deck_cards(self, deck_cards, metadata_map=None):
         """Returns a sorted copy of the deck cards using the currently selected sort field."""
-        metadata_map = self._deck_metadata_map(deck_cards)
+        if metadata_map is None:
+            metadata_map = self._deck_metadata_map(deck_cards)
         self._refresh_deck_sort_fields()
 
         def sort_key(card_entry):
@@ -531,7 +570,10 @@ class MainWindow(QMainWindow):
 
     def _redisplay_current_deck(self):
         """Re-renders the currently loaded deck using the active sort configuration."""
-        if self.current_deck_cards:
+        if self.token_view_enabled:
+            if self.current_token_cards:
+                self._populate_deck_rows(self.current_token_cards, self.current_token_metadata, True)
+        elif self.current_deck_cards:
             self._populate_deck_rows(self.current_deck_cards)
 
     def _update_deck_sort(self, sort_key: str):
@@ -549,6 +591,8 @@ class MainWindow(QMainWindow):
     
     def _init_decklist_items(self, decks):
         """Initialize or reset the decks panel with the decks provided (in cache, or read from file)."""
+        if self.selected_deck_name not in decks:
+            self.selected_deck_name = None
         self.deck_list.clear()
         order = ["W","U","B","R","G"]
         # disable auto-update as new ui elements are added while populating the panel
@@ -585,10 +629,7 @@ class MainWindow(QMainWindow):
 
     def _selected_deck_name(self):
         """Returns the commander name (i.e. the key) of the currently selected deck."""
-        item = self.deck_list.currentItem()
-        if not item:
-            return None
-        return self._deck_name_from_item(item)
+        return self.selected_deck_name
 
     def _deck_name_from_item(self, item):
         """Return the commander name stored in a deck-list row."""
@@ -600,13 +641,19 @@ class MainWindow(QMainWindow):
     def _apply_deck_search_result(self, item_widget, deck_name: str):
         """Fill the persistent search-result column and highlight matching decks."""
         count = self.search_result_counts.get(deck_name, 0)
+        selected = deck_name == self.selected_deck_name
         count_lbl = item_widget.layout().itemAt(2).widget()
         count_lbl.setText(str(count) if count else "")
         if count:
             count_lbl.setStyleSheet("QLabel { font-weight: 600; color: #f6d365; }")
-            item_widget.setStyleSheet("QWidget { background-color: #3a3217; }")
         else:
             count_lbl.setStyleSheet("")
+
+        if selected:
+            item_widget.setStyleSheet("QWidget { background-color: #264f78; } QLabel { color: #f5f5f5; }")
+        elif count:
+            item_widget.setStyleSheet("QWidget { background-color: #3a3217; }")
+        else:
             item_widget.setStyleSheet("")
 
     def _refresh_deck_search_results(self):
@@ -623,11 +670,139 @@ class MainWindow(QMainWindow):
         self.search_result_counts = {}
         self._refresh_deck_search_results()
 
+    def _token_meta(self, token_spec: dict) -> dict:
+        """Return token metadata resolved from relatedCards."""
+        token_name = token_spec.get("name") or ""
+        key = token_spec.get("uuid") or token_name.lower()
+        if key not in self.token_metadata_cache:
+            self.token_metadata_cache[key] = dict(token_spec)
+
+        meta = dict(self.token_metadata_cache.get(key) or {})
+        if not meta.get("type"):
+            meta["type"] = "Token"
+        return meta
+
+    def _collect_tokens_for_decks(self, decks: Dict[str, str]):
+        """Aggregate created tokens and remember the cards creating each token."""
+        token_decks = {}
+        token_creators = {}
+        token_metadata = {}
+        deck_mainboards = {
+            deck_name: read_mainboard(path)
+            for deck_name, path in decks.items()
+        }
+        token_lookup = self.db.fetch_related_tokens_for_cards([
+            card_name
+            for deck_cards in deck_mainboards.values()
+            for card_name, _qty in deck_cards
+        ])
+        for deck_name, path in decks.items():
+            deck_tokens = {}
+            deck_creator_cards = {}
+            for card_name, _qty in deck_mainboards[deck_name]:
+                for token_spec in token_lookup.get(card_name, []):
+                    token_name = token_spec.get("name")
+                    if not token_name:
+                        continue
+                    deck_tokens.setdefault(token_name, token_spec)
+                    deck_creator_cards.setdefault(token_name, set()).add(card_name)
+            for token_name, token_spec in deck_tokens.items():
+                token_decks.setdefault(token_name, set()).add(deck_name)
+                token_creators.setdefault(token_name, set()).update(deck_creator_cards.get(token_name, set()))
+                token_metadata.setdefault(token_name, self._token_meta(token_spec))
+
+        count_by_cards = len(decks) == 1
+        token_cards = [
+            (token_name, len(token_creators[token_name]) if count_by_cards else len(deck_names))
+            for token_name, deck_names in token_decks.items()
+        ]
+        token_creators = {
+            token_name: sorted(card_names, key=str.lower)
+            for token_name, card_names in token_creators.items()
+        }
+        return token_cards, token_metadata, token_creators
+
+    def _display_tokens(self, decks: Dict[str, str], show_selected_general: bool = False):
+        """Render aggregate token rows in the deck content panel."""
+        self.token_count_label = "Cards" if show_selected_general else "Decks"
+        if show_selected_general:
+            general_image = self._display_general(100,150)
+            if general_image:
+                self.general_image_label.setPixmap(general_image)
+            else:
+                self.general_image_label.clear(); self.general_image_label.setText("Image not available")
+        else:
+            self.general_image_label.clear()
+            self.general_image_label.setText("All Deck Tokens")
+
+        (
+            self.current_token_cards,
+            self.current_token_metadata,
+            self.current_token_creator_cards,
+        ) = self._collect_tokens_for_decks(decks)
+        self._populate_deck_rows(self.current_token_cards, self.current_token_metadata, True)
+
+    def _show_token_creator_popup(self, token_name: str):
+        """Show cards from the selected deck that can create the clicked token."""
+        creator_cards = self.current_token_creator_cards.get(token_name, [])
+        if not creator_cards:
+            return
+        cards = [(card_name, 0) for card_name in creator_cards]
+        popup = ResultsPopup([(token_name, cards)], f"Cards Creating {token_name}", self)
+        popup.exec()
+
+    def _toggle_token_view(self, checked: bool):
+        """Switch between normal deck contents and aggregate created-token contents."""
+        self.token_view_enabled = checked
+        self.token_toggle_btn.setText("Show Deck Cards" if checked else "Show Tokens")
+        if self.deck_sort_key not in self._deck_sort_fields():
+            self.deck_sort_key = "name" if checked else "type"
+        self._refresh_deck_sort_fields()
+        self._update_deck_header()
+
+        deck_name = self._selected_deck_name()
+        if checked:
+            if deck_name and deck_name in self.deck_files:
+                self._display_tokens({deck_name: self.deck_files[deck_name]}, True)
+            else:
+                self._display_tokens(self.deck_files_actu, False)
+            return
+
+        if deck_name:
+            self._load_deck_by_name(deck_name)
+        else:
+            self.current_token_cards = []
+            self.current_token_metadata = {}
+            self.current_token_creator_cards = {}
+            self.token_count_label = "Decks"
+            self.deck_display.clear()
+
     # ---------- Actions ----------
     def _load_deck_clicked(self, item):
-        """Loads the selected deck's content in the mid panel."""
+        """Toggle deck selection and load or clear the mid panel."""
         dn = self._deck_name_from_item(item)
+        if dn == self.selected_deck_name:
+            self._clear_selected_deck()
+            return
+        self.selected_deck_name = dn
+        self._refresh_deck_search_results()
         self._load_deck_by_name(dn)
+
+    def _clear_selected_deck(self):
+        """Clear the active deck selection and reset the dependent content view."""
+        self.selected_deck_name = None
+        self.deck_list.clearSelection()
+        self.deck_list.setCurrentRow(-1)
+        self._refresh_deck_search_results()
+
+        self.current_deck_cards = []
+        if self.token_view_enabled:
+            self._display_tokens(self.deck_files_actu, False)
+            return
+
+        self.deck_display.clear()
+        self.general_image_label.clear()
+        self.general_image_label.setText("Commander Image")
 
     def _load_deck_by_name(self, deck_name: str):
         """Reads a deck's mainboard cards from the xml file and then loads them into the mid panel with display_deck."""
@@ -635,6 +810,9 @@ class MainWindow(QMainWindow):
         if not file_path:
             return
         self.current_deck_cards = read_mainboard(file_path)
+        if self.token_view_enabled:
+            self._display_tokens({deck_name: file_path}, True)
+            return
         self._display_deck(self.current_deck_cards)
 
     def _display_general(self, width, height):
@@ -825,7 +1003,7 @@ class MainWindow(QMainWindow):
             self.card_image_label.clear(); self.card_image_label.setText("Image not available")
 
         # Metadata
-        meta = self._get_card(card_name)
+        meta = self.current_token_metadata.get(card_name, {}) if self.token_view_enabled else self._get_card(card_name)
         mv = meta.get("manaValue")
         mv_txt = str(int(float(mv))) if (mv not in (None, "")) else "—"
         type_line = meta.get("type") or ""

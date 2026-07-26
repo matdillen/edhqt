@@ -4,6 +4,7 @@ from typing import Dict, List, Tuple
 
 import csv
 import pandas as pd
+import re
 
 INDEX_FILE = Path("data/deck_index.csv")
 
@@ -79,3 +80,98 @@ def read_mainboard(file_path: str) -> List[Tuple[str, int]]:
     for card in root.findall("./zone[@name='main']/card"):
         out.append((card.attrib['name'], int(card.attrib['number'])))
     return out
+
+TOKEN_LEADING_COUNTS = {
+    "a", "an", "one", "two", "three", "four", "five", "six", "seven",
+    "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen",
+    "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+    "x", "that", "those", "many",
+}
+TOKEN_COLORS = {"white", "blue", "black", "red", "green", "colorless", "and"}
+TOKEN_CARD_TYPES = {
+    "artifact", "creature", "enchantment", "land", "vehicle", "aura",
+    "equipment",
+}
+GENERIC_TOKEN_WORDS = {
+    "artifact", "creature", "enchantment", "land", "vehicle", "aura",
+    "equipment", "permanent", "copy", "card", "spell", "those", "that",
+}
+
+
+def _clean_token_descriptor(descriptor: str) -> Tuple[str, str, str]:
+    """Infer a printable token name plus P/T from common Oracle token text."""
+    raw = re.sub(r"\([^)]*\)", " ", descriptor or "")
+    raw = re.sub(r"\b(?:tapped|attacking|legendary|nonlegendary)\b", " ", raw, flags=re.IGNORECASE)
+    raw = re.sub(r"\b(?:named|with|that|where|equal|for|attached|and has|except)\b.*$", " ", raw, flags=re.IGNORECASE)
+    raw = re.sub(r"['\"]", "", raw)
+    words = [w.strip(", ") for w in raw.split() if w.strip(", ")]
+
+    power = ""
+    toughness = ""
+    while words:
+        first = words[0].lower()
+        if re.fullmatch(r"\d+/\d+|x/x|\*/\*|\d+/\*|\*/\d+", first):
+            power, toughness = words.pop(0).split("/", 1)
+            continue
+        if first == "one" and len(words) >= 3 and words[1].lower() == "or" and words[2].lower() == "more":
+            words = words[3:]
+            continue
+        if first in TOKEN_LEADING_COUNTS or first.isdigit():
+            words.pop(0)
+            continue
+        if first == "number" and len(words) >= 3 and words[1].lower() == "of":
+            words = words[2:]
+            continue
+        break
+
+    filtered = [
+        word for word in words
+        if word.lower() not in TOKEN_COLORS and word.lower() not in TOKEN_CARD_TYPES
+    ]
+    if not filtered:
+        return "", power, toughness
+
+    name = " ".join(filtered).strip()
+    if not name or name.lower() in GENERIC_TOKEN_WORDS:
+        return "", power, toughness
+    return name.title(), power, toughness
+
+
+def extract_created_tokens(oracle_text: str) -> List[Dict[str, str]]:
+    """Returns token specs that can be inferred from common 'create ... token' wording."""
+    text = (oracle_text or "").replace("\\n", "\n")
+    tokens: List[Dict[str, str]] = []
+    seen = set()
+
+    for match in re.finditer(r"\bcreate(?:s|d)?\s+([^.;\n]+?)\s+tokens?\b", text, re.IGNORECASE):
+        descriptor = match.group(1)
+        name, power, toughness = _clean_token_descriptor(descriptor)
+        if not name:
+            continue
+        key = (name.lower(), power, toughness)
+        if key in seen:
+            continue
+        seen.add(key)
+        tokens.append({"name": name, "power": power, "toughness": toughness})
+
+    for match in re.finditer(r"\bcreate(?:s|d)?\s+[^.;\n]+?\s+tokens?\s+named\s+([^.,;\n]+?)(?=\s+(?:that|with|and|for)\b|[.,;\n]|$)", text, re.IGNORECASE):
+        name = re.sub(r"['\"]", "", match.group(1)).strip()
+        if not name:
+            continue
+        key = (name.lower(), "", "")
+        if key in seen:
+            continue
+        seen.add(key)
+        tokens.append({"name": name.title(), "power": "", "toughness": ""})
+
+    for match in re.finditer(r"\badditional\s+([^.;\n]+?)\s+tokens?\b", text, re.IGNORECASE):
+        name, power, toughness = _clean_token_descriptor(match.group(1))
+        if not name:
+            continue
+        key = (name.lower(), power, toughness)
+        if key in seen:
+            continue
+        seen.add(key)
+        tokens.append({"name": name, "power": power, "toughness": toughness})
+
+    return tokens

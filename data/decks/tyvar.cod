@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:48:00 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Jul 24 17:17:17 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
     <comments></comments>
     <tags/>
@@ -10,7 +11,6 @@
     </zone>
     <zone name="main">
         <card number="1" name="Kindred Dominance" setShortName="CMM" collectorNumber="169" uuid="af613b69-b9f6-4221-a21b-c8e4b0f010f1"/>
-        <card number="1" name="Tribal Unity" setShortName="HOP" collectorNumber="80" uuid="f1379753-0a37-4e33-ac46-8ef33cb98b06"/>
         <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
         <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
         <card number="1" name="Haunting Voyage" setShortName="KHM" collectorNumber="98" uuid="2ac5bca0-35fe-47be-a78c-d5eac68a3bfa"/>
@@ -50,6 +50,7 @@
         <card number="1" name="Leaf-Crowned Visionary" setShortName="DMU" collectorNumber="167" uuid="aa7bd814-9f88-4e01-932d-07ac1abc060e"/>
         <card number="1" name="Joraga Treespeaker" setShortName="PLST" collectorNumber="ROE-190" uuid="de6b6d2d-c2b0-421b-aad6-41e80d325fff"/>
         <card number="1" name="Wirewood Symbiote" setShortName="MH3" collectorNumber="288" uuid="d237f5cc-2b9b-4929-9697-72078bac4c77"/>
+        <card number="1" name="Shang-Chi, Master of Kung Fu" setShortName="MSH" collectorNumber="187" uuid="2edbb62f-ad45-4422-850b-68dcc18b4c73"/>
         <card number="1" name="Deathrite Shaman" setShortName="EA3" collectorNumber="15" uuid="2071ed5f-7a50-4b02-b6a4-f5c781ef9212"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
         <card number="1" name="Elvish Mystic" setShortName="CMM" collectorNumber="284" uuid="75918859-c93f-41b4-9ad0-a4a96c389f0d"/>

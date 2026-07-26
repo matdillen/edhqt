@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:26:13 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Fri Jul 24 17:23:22 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="be219928-3d0e-4d00-b124-152ce8a8c13b">Delney, Streetwise Lookout</bannerCard>
     <comments></comments>
     <tags/>
@@ -15,16 +16,16 @@
         <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>
         <card number="1" name="Three Tree City" setShortName="BLB" collectorNumber="260" uuid="56f88a48-cced-4a9d-8c19-e4f105f0d8a2"/>
         <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
+        <card number="1" name="The Mind Stone" setShortName="MSH" collectorNumber="21" uuid="87f1e69a-6d74-4982-afda-82613637799a"/>
         <card number="1" name="Esper Sentinel" setShortName="H2R" collectorNumber="2" uuid="8b5a916f-a6f2-4e89-b38f-7e5bc0c2e032"/>
         <card number="1" name="Ephemerate" setShortName="H1R" collectorNumber="1" uuid="f48ab69d-8a01-4dcb-af70-31e2c62278df"/>
         <card number="1" name="Cloudshift" setShortName="PLST" collectorNumber="A25-7" uuid="c2ebce86-2342-482c-a882-8f3c02c56486"/>
+        <card number="1" name="Hatut Zeraze Strike Force" setShortName="MSC" collectorNumber="15" uuid="d96a9ecd-86a3-49ae-851c-ce93b0dca6af"/>
         <card number="1" name="Ocelot Pride" setShortName="MH3" collectorNumber="38" uuid="89cf6f57-230f-497e-a14e-ad1e8737fd42"/>
         <card number="1" name="Suture Priest" setShortName="MOC" collectorNumber="210" uuid="430b96aa-7bb0-4d2b-b265-9c4987db28a2"/>
         <card number="1" name="Charming Prince" setShortName="FDN" collectorNumber="568" uuid="aa7b47e1-7e32-4f2f-aecf-bac7ca197081"/>
-        <card number="1" name="Darksteel Mutation" setShortName="CMM" collectorNumber="21" uuid="e47a6750-4fdd-44e2-86ae-5bc4d414bf42"/>
         <card number="1" name="Luminarch Aspirant" setShortName="NCC" collectorNumber="205" uuid="dcd27fa3-f6b6-4137-9b6c-4cba7187664c"/>
         <card number="1" name="Lion Sash" setShortName="NEO" collectorNumber="26" uuid="3e1766e9-2fa7-4446-a255-7beea1467ece"/>
-        <card number="1" name="Anafenza, Kin-Tree Spirit" setShortName="CMM" collectorNumber="11" uuid="1717da7b-9e87-4694-873b-abd4e3bcd5e2"/>
         <card number="1" name="Samwise the Stouthearted" setShortName="LTR" collectorNumber="28" uuid="214c270e-29ca-4d69-bea6-9252ae7707ad"/>
         <card number="1" name="Strionic Resonator" setShortName="BRC" collectorNumber="165" uuid="56d770bf-a8ad-4817-8342-b0dde94c538a"/>
         <card number="1" name="Pearl Medallion" setShortName="CMM" collectorNumber="401" uuid="f256e868-92b5-4506-b409-9e1190b049dd"/>
@@ -35,6 +36,7 @@
         <card number="1" name="Sevinne's Reclamation" setShortName="CLB" collectorNumber="707" uuid="458db878-07ba-42cc-9bee-910957685596"/>
         <card number="1" name="The Battle of Bywater" setShortName="LTR" collectorNumber="2" uuid="9bae7a4d-9117-43c5-a048-80a0ddadc034"/>
         <card number="1" name="Skyclave Apparition" setShortName="BLC" collectorNumber="154" uuid="a76c56a3-db5c-4884-8c6a-bf8105b62421"/>
+        <card number="1" name="Red Guardian, Super-Soldier" setShortName="MSH" collectorNumber="34" uuid="c08f8163-319a-4a31-b15a-93974cacd5b7"/>
         <card number="1" name="Oketra's Monument" setShortName="DMC" collectorNumber="188" uuid="a7f1d5a6-bdf2-4b12-b11e-70f58b59dd80"/>
         <card number="1" name="Custodi Soulcaller" setShortName="CN2" collectorNumber="15" uuid="e29212c9-04e3-4678-be73-f7405a85dadb"/>
         <card number="1" name="Citywide Bust" setShortName="SCD" collectorNumber="11" uuid="c249e9db-41a7-4da8-99b3-d7854c538713"/>
@@ -79,7 +81,6 @@
         <card number="1" name="All-Fates Stalker" setShortName="EOE" collectorNumber="3" uuid="82ae4f7b-8122-4af6-8079-888eabf1a11e"/>
         <card number="1" name="Commander Sofia Daguerre" setShortName="PIP" collectorNumber="15" uuid="712697a4-69b4-4237-9340-96f0e5a32229"/>
         <card number="1" name="Monumental Henge" setShortName="MH3" collectorNumber="222" uuid="62907e7b-e531-4f51-9a69-7e60ae525775"/>
-        <card number="1" name="Recruiter of the Guard" setShortName="MH3" collectorNumber="266" uuid="8e4c6ba1-1abc-478f-9b7c-97e9e3c92fb0"/>
         <card number="1" name="Phelia, Exuberant Shepherd" setShortName="MH3" collectorNumber="40" uuid="55707746-da6e-46e5-a5ca-7ac843fdc38e"/>
         <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>

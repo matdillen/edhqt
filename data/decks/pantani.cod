@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 19:29:39 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed May 6 13:37:34 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <bannerCard providerId="">Atla Palani, Nest Tender</bannerCard>
     <comments></comments>
@@ -26,7 +26,6 @@
         <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Impostor of the Sixth Pride"/>
         <card number="1" name="Swiftfoot Boots"/>
-        <card number="1" name="Chaos Warp"/>
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Roc Egg"/>
         <card number="1" name="Dragon Egg"/>
@@ -102,6 +101,7 @@
         <card number="1" name="Yuna's Decision" setShortName="FIC" collectorNumber="74" uuid="5044eedb-f7d9-4b65-aa5b-fb494d00facd"/>
         <card number="1" name="Stalactite Dagger" setShortName="ECL" collectorNumber="261" uuid="6954df09-95f3-46cf-9ba8-2a1aea653d8f"/>
         <card number="1" name="Chomping Changeling" setShortName="ECL" collectorNumber="172" uuid="e187dcc6-19ad-4cf6-94b4-daf07f5144e5"/>
+        <card number="1" name="Next of Kin" setShortName="NCC" collectorNumber="62" uuid="51a4414b-3cab-463f-a2b5-e49104f251da"/>
     </zone>
     <zone name="side">
         <card number="1" name="Atla Palani, Nest Tender"/>
