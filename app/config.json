@@ -2,6 +2,7 @@
   "decks_folder": "data/decks",
   "db_path": "data/db/allprintings.sqlite",
   "image_folder": "C:/Users/mdill/AppData/Local/Cockatrice/Cockatrice/pics/downloadedPics",
+  "cockatrice_cache_folder": "data/cacheex",
   "new_image_folder": "data/img",
   "cache_file": "data/card_cache.csv"
 }

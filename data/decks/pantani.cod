@@ -1,38 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed May 6 13:37:34 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 15:06:17 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Atla Palani, Nest Tender</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
         <card number="2" name="Forest"/>
         <card number="2" name="Mountain"/>
+        <card number="1" name="Ashnod's Altar" setShortName="BRR" collectorNumber="67z" uuid="f35ff4b7-c55a-4ede-ae73-b6c648d25613"/>
+        <card number="1" name="Goblin Bombardment" setShortName="SLD" collectorNumber="825" uuid="d9f1f94b-ab3e-4adb-b72a-89f3ea9f5859"/>
+        <card number="1" name="Deathrender" setShortName="CNS" collectorNumber="197" uuid="ea48de8d-edcd-414e-b630-473af2d95abe"/>
+        <card number="1" name="Command Beacon" setShortName="OTC" collectorNumber="279" uuid="4ff61202-fb5e-4cea-a5ea-168505ac31e1"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="High Market"/>
-        <card number="1" name="Miren, the Moaning Well"/>
+        <card number="1" name="Grove of the Burnwillows" setShortName="ZNE" collectorNumber="25" uuid="82fb5274-c11a-465b-b14f-8f35495482e4"/>
         <card number="1" name="Mutavault"/>
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Temple Garden"/>
+        <card number="1" name="Miren, the Moaning Well" setShortName="TD0" collectorNumber="A132" uuid="0427f5b7-ef54-4751-b121-b754dadc9a0a"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Skullclamp"/>
+        <card number="1" name="Overgrown Farmland" setShortName="MID" collectorNumber="283" uuid="a46aa097-ad92-4f9a-be52-e4e485a8fe99"/>
         <card number="1" name="Universal Automaton"/>
         <card number="1" name="Mysterious Egg"/>
         <card number="1" name="Shields of Velis Vel"/>
+        <card number="1" name="Savannah" setShortName="CED" collectorNumber="281" uuid="de7de05f-1a45-46b1-a217-1044dc85fcc5"/>
         <card number="1" name="Greater Gargadon"/>
         <card number="1" name="Spawning Pit"/>
-        <card number="1" name="Goblin Bombardment"/>
         <card number="1" name="Impostor of the Sixth Pride"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Roc Egg"/>
         <card number="1" name="Dragon Egg"/>
         <card number="1" name="Taurean Mauler"/>
+        <card number="1" name="Nyxbloom Ancient" setShortName="THB" collectorNumber="330" uuid="c8a8e37b-0b97-4355-8e00-169a82c38ea0"/>
         <card number="1" name="Phyrexian Altar"/>
         <card number="1" name="Martyr's Cause"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Summoner's Egg"/>
         <card number="1" name="Skyshroud Claim"/>
         <card number="1" name="Farewell"/>
@@ -48,11 +55,8 @@
         <card number="1" name="Maskwood Nexus"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Taiga"/>
-        <card number="1" name="Savannah"/>
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Arid Mesa"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Grove of the Burnwillows"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Sun Titan"/>
         <card number="1" name="Gruul Ragebeast"/>
@@ -77,12 +81,10 @@
         <card number="1" name="Three Tree Mascot"/>
         <card number="1" name="Monster Manual // Zoological Study"/>
         <card number="1" name="Vaultborn Tyrant"/>
-        <card number="1" name="Nyxbloom Ancient"/>
         <card number="1" name="Elesh Norn, Grand Cenobite"/>
         <card number="1" name="Avacyn, Angel of Hope"/>
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Gisela, Blade of Goldnight" setShortName="CMM" collectorNumber="338" uuid="c40ba800-4423-4fd9-94c7-a9019c857af6"/>
         <card number="1" name="Ajani, Nacatl Pariah" setShortName="MH3" collectorNumber="237" uuid="0d16e8e0-31b2-4389-afd6-783c501f6fa0"/>
         <card number="1" name="Galadriel's Dismissal" setShortName="LTC" collectorNumber="500" uuid="2d1c66a7-a39e-4869-80c7-1cec89777e0d"/>
@@ -94,7 +96,6 @@
         <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
         <card number="1" name="Shifting Woodland" setShortName="MH3" collectorNumber="228" uuid="059164e1-894d-4586-9800-e60d6fbd6eb6"/>
         <card number="1" name="Terastodon" setShortName="M3C" collectorNumber="249" uuid="f25e0ef9-29e1-45fe-b9b1-b228594939ab"/>
-        <card number="1" name="Deathrender" setShortName="SLD" collectorNumber="1573" uuid="07de695f-aac5-4367-9fdc-3b11740c7f97"/>
         <card number="1" name="Curious Colossus" setShortName="ECL" collectorNumber="12" uuid="582b6e5d-0bab-471d-af4d-19438c5fd524"/>
         <card number="1" name="Aurora Awakener" setShortName="ECL" collectorNumber="165" uuid="913977c2-73f9-466b-bd01-827c1736e070"/>
         <card number="1" name="Springleaf Parade" setShortName="ECC" collectorNumber="19" uuid="44265489-645a-43b0-bc1f-726905b06876"/>

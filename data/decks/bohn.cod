@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sat May 9 13:54:04 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 12:37:03 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="6e779a16-7528-49f4-8304-502bb603c15b">Bohn, Beguiling Balladeer</bannerCard>
@@ -10,17 +10,24 @@
         <card number="1" name="Bohn, Beguiling Balladeer" setShortName="SLX" collectorNumber="30" uuid="6e779a16-7528-49f4-8304-502bb603c15b"/>
     </zone>
     <zone name="main">
+        <card number="1" name="Ancient Tomb" setShortName="PLST" collectorNumber="TMP-315" uuid="2189b1cb-94c4-4477-a5ef-17a1ae2c6708"/>
+        <card number="1" name="Boseiju, Who Shelters All" setShortName="V12" collectorNumber="2" uuid="e01b7141-9576-445b-bcd4-00d79850a4dd"/>
+        <card number="1" name="Arcane Signet" setShortName="AFC" collectorNumber="197" uuid="552be01e-cd54-46ba-b38a-96883a48d985"/>
         <card number="1" name="All Is Dust" setShortName="CMM" collectorNumber="800" uuid="4210c54e-89fd-4971-ab6a-ca8f4e7fe97a"/>
+        <card number="1" name="Consuming Tide" setShortName="PVOW" collectorNumber="53s" uuid="075b98d8-9134-4c0d-807c-d26a77f49ead"/>
         <card number="4" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Shatterskull Smashing" setShortName="ZNR" collectorNumber="161" uuid="bc7239ea-f8aa-4a6f-87bd-c35359635673"/>
-        <card number="1" name="Mystic Sanctuary" setShortName="MB2" collectorNumber="110" uuid="967a6608-6e5d-40b3-b0c6-2e79b97f10ba"/>
+        <card number="1" name="Magma Opus" setShortName="SOC" collectorNumber="318" uuid="0fd4a0f7-ba03-4158-95cd-4effe798aec0"/>
         <card number="1" name="Shivan Reef" setShortName="BLC" collectorNumber="331" uuid="59d5e76c-4961-4dbf-be38-a18a2c16d33f"/>
+        <card number="1" name="Myriad Landscape" setShortName="MKC" collectorNumber="276" uuid="bf4797b0-4d0a-433f-b891-b14f96fd1484"/>
         <card number="6" name="Island" setShortName="OLEP" collectorNumber="2" uuid="285d91c2-6128-4dc3-b573-065ddf8bd54e"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="TSR" collectorNumber="408" uuid="31f83f35-c4dc-46f0-9109-9d0d0181d9c8"/>
         <card number="1" name="Steam Vents" setShortName="CLU" collectorNumber="280" uuid="a8619bc1-04e8-4395-aff5-6ac5917fd4f1"/>
         <card number="1" name="Volcanic Island" setShortName="30A" collectorNumber="282" uuid="12f74d08-d020-4c89-a1a2-0815b8b65755"/>
         <card number="1" name="Lórien Revealed" setShortName="LTR" collectorNumber="60" uuid="0ce44270-a684-4489-9077-521456e6dfaa"/>
         <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
         <card number="1" name="Castle Vantress" setShortName="CLB" collectorNumber="885" uuid="dcf70844-18b1-4046-ae1d-ef41790bdcde"/>
+        <card number="1" name="Stormcarved Coast" setShortName="INR" collectorNumber="285" uuid="2a91991f-4340-45a7-ba04-0001de9581e0"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Sea Gate Restoration" setShortName="ZNR" collectorNumber="76" uuid="193071fe-180b-4d35-ba78-9c16675c29fc"/>
         <card number="1" name="Thran Turbine" setShortName="USG" collectorNumber="311" uuid="791c310f-b50d-4993-9add-9f585f6172af"/>
@@ -53,7 +60,6 @@
         <card number="1" name="Spelltwine" setShortName="C17" collectorNumber="94" uuid="ab3332a9-cbed-4ebd-8aac-eb87325221fa"/>
         <card number="1" name="Sublime Epiphany" setShortName="PLST" collectorNumber="M21-74" uuid="b38c1c4a-5b5f-4d60-8d9c-cdd5db6ad4c5"/>
         <card number="1" name="Rite of the Dragoncaller" setShortName="FDN" collectorNumber="92" uuid="673e4561-8dfd-46db-b492-878009666ac7"/>
-        <card number="1" name="Magma Opus" setShortName="PSTX" collectorNumber="203p" uuid="7e6eb5cf-eb27-4161-b346-50a64a5d39fa"/>
         <card number="1" name="Scholar of the Lost Trove" setShortName="JMP" collectorNumber="14" uuid="aa254a86-3c30-408d-9c14-befd472f9740"/>
         <card number="1" name="Overwhelming Intellect" setShortName="DDJ" collectorNumber="28" uuid="9624bbf9-15b0-40f9-9f02-f2af3f1220f8"/>
         <card number="1" name="Portal to Phyrexia" setShortName="BRO" collectorNumber="240" uuid="5f608efc-0dbc-4cc3-aadd-ed473bfc29ab"/>
@@ -64,7 +70,6 @@
         <card number="1" name="The Twelfth Doctor" setShortName="WHO" collectorNumber="164" uuid="2400d681-05ef-43b1-b720-c15ca4226c27"/>
         <card number="1" name="Gale's Redirection" setShortName="CLB" collectorNumber="73" uuid="1f5ddcf8-c87b-4a26-b226-8593f517a74a"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
-        <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
         <card number="1" name="Rewind" setShortName="PLST" collectorNumber="USG-93" uuid="2c8826d2-e283-4b2b-a7b1-52f4066febbd"/>
         <card number="1" name="Primal Amulet" setShortName="PXTC" collectorNumber="243" uuid="9235dfc1-19bf-4923-84f7-721018514866"/>
@@ -83,23 +88,18 @@
         <card number="1" name="Cori Mountain Monastery" setShortName="PTDM" collectorNumber="252p" uuid="9aa63bba-16c5-4330-8afb-7bc4029b13a6"/>
         <card number="1" name="Mistrise Village" setShortName="PTDM" collectorNumber="261p" uuid="52f7e36c-87fb-4145-a5ca-6df7f55b3f1e"/>
         <card number="1" name="Scalding Tarn" setShortName="MH2" collectorNumber="254" uuid="71e491c5-8c07-449b-b2f1-ffa052e6d311"/>
-        <card number="1" name="Stormcarved Coast" setShortName="DBL" collectorNumber="532" uuid="133c1ed0-9fd4-43ae-a32f-f0b4be50ed66"/>
         <card number="1" name="Sulfur Falls" setShortName="BLC" collectorNumber="333" uuid="1db63651-5241-4eee-982e-5fa19db87179"/>
         <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
         <card number="1" name="Insurrection" setShortName="CMM" collectorNumber="236" uuid="df8a0a8c-1953-46e6-9da5-b4c20909ce1c"/>
         <card number="1" name="Transcendent Dragon" setShortName="TDC" collectorNumber="22" uuid="3c9a4205-eda8-4858-9d46-2428058c94fc"/>
         <card number="1" name="Coastal Breach" setShortName="C16" collectorNumber="6" uuid="bf8b550a-c86f-4684-a4f6-14e75172324f"/>
-        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
-        <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
         <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
         <card number="1" name="Valakut Awakening" setShortName="PIO" collectorNumber="158" uuid="d30207c9-a067-43e1-af73-105369498e4c"/>
-        <card number="1" name="Boseiju, Who Shelters All" setShortName="LTC" collectorNumber="359" uuid="bafe3253-feed-4cb9-a13c-9a9105462a8b"/>
         <card number="1" name="Spider-Verse" setShortName="OM1" collectorNumber="75" uuid="c3fd31e5-0faa-493f-aa50-08307a0c0139"/>
         <card number="1" name="Torrential Gearhulk" setShortName="CMM" collectorNumber="128" uuid="92872fea-2fb4-4154-815e-cad9d966e60f"/>
         <card number="1" name="Lutri, the Spellchaser" setShortName="MUL" collectorNumber="52" uuid="08d24f3f-bff1-4424-a029-3221c4e395b3"/>
         <card number="1" name="Deekah, Fractal Theorist" setShortName="SOC" collectorNumber="193" uuid="186e15a7-d97e-40df-adaa-96d9bd64f3ca"/>
         <card number="1" name="Resonating Lute" setShortName="PSOS" collectorNumber="221p" uuid="b64f41bc-0161-4c75-a8fa-7168d3259fed"/>
         <card number="1" name="Will of the Temur" setShortName="TDC" collectorNumber="24" uuid="d236aa15-f60c-4368-b796-4d41e0bc3358"/>
-        <card number="1" name="Consuming Tide" setShortName="DBL" collectorNumber="320" uuid="b1d9017f-608c-4397-a1b8-55f3ae265a2a"/>
     </zone>
 </cockatrice_deck>

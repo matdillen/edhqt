@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 12:32:18 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="845e5663-2959-44ae-b4c6-d6ea41f01d6e">Danitha, Benalia's Hope</bannerCard>
@@ -12,13 +12,18 @@
     <zone name="main">
         <card number="1" name="Bonders' Enclave" setShortName="CMM" collectorNumber="988" uuid="e5b6aca8-190e-49b0-9185-2c72bd3fda7d"/>
         <card number="1" name="Buried Ruin" setShortName="BRC" collectorNumber="177" uuid="34e53bc3-f8af-4547-a694-d01c18bf56c1"/>
+        <card number="1" name="Armory Automaton" setShortName="PZ2" collectorNumber="68" uuid="1115c9e1-0d8e-4873-96a0-e53f4cc82675"/>
         <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
+        <card number="1" name="Unfinished Business" setShortName="WOC" collectorNumber="44" uuid="fa023af0-e3e0-4fbb-8397-2a737b29e4de"/>
         <card number="1" name="Fomori Vault" setShortName="BIG" collectorNumber="29" uuid="a5433b98-4657-4bbe-9e72-d3c94c6aa8ef"/>
+        <card number="1" name="Inventors' Fair" setShortName="PLST" collectorNumber="KLD-247" uuid="a4ba795a-8a08-4853-a7ca-cf3883a6f667"/>
         <card number="1" name="Hall of Tagsin" setShortName="BRO" collectorNumber="263" uuid="a8007012-39c5-4247-ba77-1cfcaade37fa"/>
-        <card number="1" name="Inventors' Fair" setShortName="EOS" collectorNumber="21" uuid="06b24278-4d20-4d74-8be8-c8078e0a1873"/>
+        <card number="1" name="Genji Glove" setShortName="FIN" collectorNumber="258" uuid="f724dde1-84b0-4e3b-a9b8-44cd22bb9f79"/>
         <card number="24" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
+        <card number="1" name="Urza's Saga" setShortName="MH2" collectorNumber="380" uuid="2138dfbb-a4e3-49db-b908-95d0b2b7e82f"/>
         <card number="1" name="Rogue's Passage" setShortName="CLB" collectorNumber="913" uuid="e1f1dd27-be41-4bfa-b59d-3a002647f1ad"/>
-        <card number="1" name="Urza's Saga" setShortName="MB2" collectorNumber="114" uuid="c7658ec0-3207-4c7e-b31a-30a2a9249595"/>
+        <card number="1" name="Kíli the Resourceful" setShortName="HOB" collectorNumber="17" uuid="1805532f-6d99-47d0-9529-5f5831a7fdc8"/>
+        <card number="1" name="Ethersworn Canonist" setShortName="2XM" collectorNumber="14" uuid="abc8e0f8-fdb9-4f24-a3e3-439f6cc3ebdc"/>
         <card number="1" name="War Room" setShortName="CLB" collectorNumber="929" uuid="ed5cebc0-6a58-468d-a75e-46087ea2eb46"/>
         <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
         <card number="1" name="Loxodon Warhammer" setShortName="J22" collectorNumber="784" uuid="ebca896a-6f1e-4235-a725-aa5d57c06181"/>
@@ -27,11 +32,14 @@
         <card number="1" name="Nahiri, the Lithomancer" setShortName="CMM" collectorNumber="45" uuid="b074e60a-6f9b-4679-9617-261e2e15e1e8"/>
         <card number="1" name="Auriok Survivors" setShortName="NPH" collectorNumber="3" uuid="deffb601-6a53-4d88-a6af-686ce97eb4f0"/>
         <card number="1" name="Avatar's Wrath" setShortName="PTLA" collectorNumber="12s" uuid="32ce61cb-e94a-491c-8863-fa88bc49ae8a"/>
+        <card number="1" name="Sculpting Steel" setShortName="BRR" collectorNumber="50" uuid="e5813b15-6adb-4ed8-b08d-5dee70ecb45a"/>
+        <card number="1" name="Shadowspear" setShortName="PLST" collectorNumber="THB-236" uuid="769326d4-60af-4b19-85d9-d96d3acdb56e"/>
         <card number="1" name="Promise of Loyalty" setShortName="BLC" collectorNumber="148" uuid="bc537e6b-17bd-4908-a7b2-a4efa4f20c02"/>
+        <card number="1" name="Sword of Feast and Famine" setShortName="PLST" collectorNumber="2XM-296" uuid="0ca8ac5a-a2f7-428d-9313-12ce9e9c340d"/>
+        <card number="1" name="Sword of Fire and Ice" setShortName="2XM" collectorNumber="365" uuid="22cd80dd-1c57-423c-81e2-9a956901565f"/>
         <card number="1" name="Excalibur, Sword of Eden" setShortName="ACR" collectorNumber="72" uuid="26dbf574-3193-413e-a982-4b9d27dafaf5"/>
         <card number="1" name="Mantle of the Ancients" setShortName="AFC" collectorNumber="8" uuid="867124fc-c8e4-4e0e-be41-b74a6bb34e86"/>
         <card number="1" name="Kaldra Compleat" setShortName="AA3" collectorNumber="21" uuid="a4aa61ce-cee2-4d32-b930-28f7e9761eeb"/>
-        <card number="1" name="Unfinished Business" setShortName="FIC" collectorNumber="259" uuid="76c9b6c1-05de-4c16-8ebf-ea68aa110a69"/>
         <card number="1" name="Bitterthorn, Nissa's Animus" setShortName="MOC" collectorNumber="45" uuid="fa7a883f-e180-48ce-b7d4-cded2f74c323"/>
         <card number="1" name="Armored Skyhunter" setShortName="SOC" collectorNumber="138" uuid="707e9d2e-3934-4b90-878d-4699ac1cbe89"/>
         <card number="1" name="Meteor Sword" setShortName="TLA" collectorNumber="258" uuid="68b1c746-a4b8-4a45-9f0e-3962f0ae40e3"/>
@@ -46,19 +54,13 @@
         <card number="1" name="Halvar, God of Battle" setShortName="KHM" collectorNumber="15" uuid="97502411-5c93-434c-b77b-ceb2c32feae7"/>
         <card number="1" name="Cloudsteel Kirin" setShortName="NEO" collectorNumber="8" uuid="a13ddda7-da6e-415e-8886-295514f862d4"/>
         <card number="1" name="Jhoira's Familiar" setShortName="2XM" collectorNumber="265" uuid="7b89a074-9aca-4f7f-953a-b401199be1cb"/>
-        <card number="1" name="Kusari-Gama" setShortName="CHK" collectorNumber="260" uuid="c6a700bd-6424-4a0c-b055-e8b64cf430ec"/>
         <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
         <card number="1" name="Teferi's Protection" setShortName="2X2" collectorNumber="32" uuid="483fa1cb-1e35-44f2-a143-98c0f107f5ca"/>
         <card number="1" name="Nettlecyst" setShortName="MH2" collectorNumber="231" uuid="4a0bb5dc-75a6-4bd6-81f8-611197fb0fba"/>
         <card number="1" name="Codsworth, Handy Helper" setShortName="PIP" collectorNumber="14" uuid="bbdfbd21-61b1-4ebd-8d37-bce2a391a7e9"/>
-        <card number="1" name="Sword of Feast and Famine" setShortName="AA1" collectorNumber="13" uuid="13222228-057d-4f01-9204-585d86e71e3c"/>
-        <card number="1" name="Armory Automaton" setShortName="FIC" collectorNumber="336" uuid="99fbb6f1-0584-45c2-b4c5-0431447913d4"/>
         <card number="1" name="Etched Champion" setShortName="BRC" collectorNumber="140" uuid="e87347d9-fa02-42b9-8ae2-60374a70ece5"/>
-        <card number="1" name="Sculpting Steel" setShortName="40K" collectorNumber="247" uuid="5cfa5564-47d8-48e7-a815-2a6cff683a52"/>
         <card number="1" name="Silent Arbiter" setShortName="CMM" collectorNumber="972" uuid="14f42cc9-8b7f-4f8a-8d68-8480e668c239"/>
         <card number="1" name="Blackblade Reforged" setShortName="BRR" collectorNumber="6" uuid="2cde7ae2-87b9-43d0-87cf-38c8706dd95e"/>
-        <card number="1" name="Ethersworn Canonist" setShortName="MB2" collectorNumber="10" uuid="abfbf22d-a5ab-4a36-8711-13b758f96089"/>
-        <card number="1" name="Sword of Fire and Ice" setShortName="HA7" collectorNumber="20" uuid="080f7d1b-3e73-4766-8d0a-21d1a2f692a4"/>
         <card number="1" name="Traxos, Scourge of Kroog" setShortName="BRC" collectorNumber="170" uuid="513fd010-db79-4aa4-8186-776fc3e27750"/>
         <card number="1" name="Knight of the White Orchid" setShortName="MIC" collectorNumber="88" uuid="27234c73-c725-4157-9d01-762e584bcc71"/>
         <card number="1" name="Conformer Shuriken" setShortName="FIC" collectorNumber="98" uuid="019615fa-4bec-41e8-9c4c-2c6f91bdefb2"/>
@@ -71,7 +73,6 @@
         <card number="1" name="Skittering Cicada" setShortName="CMM" collectorNumber="717" uuid="d3a83be9-856d-4c30-95f5-da72a5ac8263"/>
         <card number="1" name="Loyal Warhound" setShortName="AFR" collectorNumber="23" uuid="f408c5e4-e18d-4e4d-959a-f41df4c3019c"/>
         <card number="1" name="Ornithopter of Paradise" setShortName="BLC" collectorNumber="281" uuid="3eafd20b-30a7-4e37-b4e9-1d8a61f44ee7"/>
-        <card number="1" name="Phantom Nomad" setShortName="VMA" collectorNumber="38" uuid="1f43bb08-0a69-48e2-ac7a-5db92e60337b"/>
         <card number="1" name="Robe of Stars" setShortName="AFC" collectorNumber="11" uuid="b2992175-5499-4a83-9ff2-03c7c34819c3"/>
         <card number="1" name="Stoneforge Mystic" setShortName="SPG" collectorNumber="29" uuid="11130547-391b-4fe7-8821-ef9514f6073f"/>
         <card number="1" name="Puresteel Paladin" setShortName="AFC" collectorNumber="69" uuid="6dfd52a8-14c0-4e53-862e-01da4d7823e2"/>
@@ -85,6 +86,5 @@
         <card number="1" name="Swiftfoot Boots" setShortName="AFC" collectorNumber="217" uuid="bc89db46-0df6-4ce1-b162-233f5fe1b554"/>
         <card number="1" name="Apostle's Blessing" setShortName="PLST" collectorNumber="MM2-8" uuid="616b0dba-0b8c-406d-87e5-f0055fadccbb"/>
         <card number="1" name="Reroute Systems" setShortName="EOE" collectorNumber="31" uuid="3bbdba38-2b99-4226-98e3-6d2580345d6d"/>
-        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
     </zone>
 </cockatrice_deck>

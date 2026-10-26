@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon May 18 12:20:33 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 13:32:04 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="3340b83e-72dc-42e2-9f93-92f732c047df">Estrid, the Masked</bannerCard>
@@ -9,20 +9,23 @@
     <zone name="main">
         <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
         <card number="1" name="Simic Growth Chamber" setShortName="2X2" collectorNumber="331" uuid="f511cf93-3443-4e35-8425-a1e2d24a6157"/>
+        <card number="1" name="Deserted Temple" setShortName="ODY" collectorNumber="320" uuid="d1fa74b2-f9bd-4617-8b65-878781f3a2fd"/>
         <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
+        <card number="1" name="Replenish" setShortName="UDS" collectorNumber="15" uuid="7fd2fe13-bbc0-42b7-bc42-3b51910ce118"/>
         <card number="1" name="Selesnya Sanctuary" setShortName="2X2" collectorNumber="330" uuid="e8af7e5a-806b-4264-9010-f497b40a7fb4"/>
         <card number="1" name="Flooded Strand" setShortName="MH3" collectorNumber="220" uuid="8f85e12c-196b-4459-b81f-0c9c854e9f57"/>
         <card number="1" name="Azorius Chancery" setShortName="2X2" collectorNumber="318" uuid="7084fc02-8941-4a4f-805d-3c1625cf1d58"/>
+        <card number="5" name="Island" setShortName="DMU" collectorNumber="265" uuid="8bafc217-3d83-4551-b2e3-3494ec14b2f9"/>
         <card number="1" name="Spara's Headquarters" setShortName="PSNC" collectorNumber="257p" uuid="2bc770c4-4dd8-4129-8428-b730acc7bc68"/>
         <card number="1" name="Seaside Citadel" setShortName="AFC" collectorNumber="258" uuid="4f35d808-51c7-42b1-bbd5-1cd452432cd6"/>
+        <card number="1" name="Savannah" setShortName="CED" collectorNumber="281" uuid="de7de05f-1a45-46b1-a217-1044dc85fcc5"/>
         <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="5" name="Plains" setShortName="30A" collectorNumber="283" uuid="42014ad8-22d0-4313-906f-5baa39642cf4"/>
-        <card number="5" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
         <card number="1" name="Hall of Heliod's Generosity" setShortName="DSC" collectorNumber="283" uuid="f08dfd99-59fa-4a6c-bd69-c647f639de4d"/>
-        <card number="1" name="Deserted Temple" setShortName="EOS" collectorNumber="11" uuid="463d8132-fe98-4b71-b6a8-0feb4d40a391"/>
-        <card number="1" name="Flickering Ward" setShortName="MB2" collectorNumber="11" uuid="a41ed670-f1bd-4785-9347-fea7b93a462f"/>
         <card number="1" name="Wild Growth" setShortName="30A" collectorNumber="225" uuid="077a6195-835e-496d-bd17-aec3f8fb7bc4"/>
+        <card number="1" name="Flickering Ward" setShortName="TMP" collectorNumber="19" uuid="d4d2b011-bb0d-463c-bf2a-04b6650771a3"/>
         <card number="1" name="Utopia Sprawl" setShortName="AFC" collectorNumber="172" uuid="29b4050e-8b73-4f16-85e4-ec2a8faacf48"/>
+        <card number="1" name="Hallowed Haunting" setShortName="VOW" collectorNumber="349" uuid="d0904640-40e8-45bf-ac9c-94b1dd0bab8f"/>
         <card number="1" name="Sunken Field" setShortName="PCY" collectorNumber="51" uuid="9211ee02-e854-4414-92b1-65a7af29f0b9"/>
         <card number="1" name="Wolfwillow Haven" setShortName="BLC" collectorNumber="246" uuid="8506e3eb-07c1-4f5c-a2a7-c210acf6be16"/>
         <card number="1" name="Fertile Ground" setShortName="AFC" collectorNumber="158" uuid="0ade2db8-482e-42b0-939c-492dfbbe3b68"/>
@@ -49,13 +52,11 @@
         <card number="1" name="Entity Tracker" setShortName="DSK" collectorNumber="53" uuid="ae54d697-6d06-4af1-a617-8a47a6ab9c01"/>
         <card number="1" name="Asinine Antics" setShortName="PWOE" collectorNumber="42p" uuid="33b4062c-c6ba-4bb7-a56a-bf35c2ea64b7"/>
         <card number="1" name="Supreme Verdict" setShortName="2X2" collectorNumber="280" uuid="20b5fe42-929c-406d-9377-40b49f9d2e2c"/>
-        <card number="1" name="Replenish" setShortName="WC00" collectorNumber="tvdl15" uuid="6c900f34-1bd2-43c7-be33-cf5cc02a62ea"/>
         <card number="1" name="Calix, Destiny's Hand" setShortName="CMM" collectorNumber="918" uuid="53ec142a-81c0-43e3-bf37-bdc18d7b780e"/>
         <card number="1" name="Indestructibility" setShortName="M14" collectorNumber="23" uuid="e086a062-d39b-4e2a-bde0-f4d6d1797a5f"/>
         <card number="1" name="Dawn's Reflection" setShortName="PLST" collectorNumber="C18-139" uuid="d0994be7-fc69-426f-b01b-cff05b5e2fa7"/>
         <card number="1" name="Archon of Sun's Grace" setShortName="CMM" collectorNumber="814" uuid="72d10ba2-0408-47a2-bb6f-9e12541fe100"/>
         <card number="1" name="Tempest Technique" setShortName="TDC" collectorNumber="16" uuid="5d5ee7cc-4854-4b52-ba9b-64d5a401fca1"/>
-        <card number="1" name="Hallowed Haunting" setShortName="DBL" collectorNumber="284" uuid="6f85bf51-4eca-4428-9a17-a85b5c2dd741"/>
         <card number="1" name="Tamiyo's Compleation" setShortName="NEO" collectorNumber="83" uuid="aee62e43-6a82-4749-972b-e21802642abf"/>
         <card number="1" name="Chamber of Manipulation" setShortName="ODY" collectorNumber="76" uuid="50496069-0f55-4dfe-8b1e-7fc4f649f2f1"/>
         <card number="1" name="Yenna, Redtooth Regent" setShortName="PWOE" collectorNumber="219p" uuid="a0cff015-9e10-4d87-a9f9-f7b6a9faf04a"/>
@@ -69,7 +70,6 @@
         <card number="1" name="Strength of the Harvest" setShortName="MH3" collectorNumber="258" uuid="a7143aa7-b16d-4e63-910c-6ceec55483f3"/>
         <card number="1" name="Tundra" setShortName="30A" collectorNumber="280" uuid="79fc39a1-6a9d-4893-a41b-e8d13fb0d108"/>
         <card number="1" name="Tropical Island" setShortName="30A" collectorNumber="279" uuid="2d9d4f2e-5a41-410d-b1c3-47e4aca07177"/>
-        <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Serra's Sanctum" setShortName="USG" collectorNumber="325" uuid="f7a18130-dbaa-4657-a885-3a96a985935a"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>

@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 14:14:18 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 13:33:25 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="5006a96e-718f-45c0-b8f0-1d2ad714511c">Betor, Kin to All</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
+        <card number="1" name="Ancient Lumberknot" setShortName="PLST" collectorNumber="VOW-230" uuid="d21f7732-a95f-45fa-a289-c58a35151936"/>
         <card number="1" name="Deathrite Shaman" setShortName="EA3" collectorNumber="15" uuid="2071ed5f-7a50-4b02-b6a4-f5c781ef9212"/>
         <card number="1" name="Captain America's Shield" setShortName="MSH" collectorNumber="244" uuid="4b5433ac-0d36-4472-bf8b-d22f0ffd367b"/>
+        <card number="1" name="Farewell" setShortName="M3C" collectorNumber="170" uuid="d9afeade-c7a0-4c88-93c8-112774860e51"/>
         <card number="1" name="Bark of Doran" setShortName="ECL" collectorNumber="6" uuid="98210276-1b85-4db5-8ab4-ecb08f5d2ee2"/>
+        <card number="1" name="Strionic Resonator" setShortName="LCC" collectorNumber="116" uuid="01cb04a6-d185-4e1e-a33b-032793247365"/>
         <card number="1" name="Doran, Besieged by Time" setShortName="ECL" collectorNumber="215" uuid="568aa70a-6765-486a-bd37-5d38b16c46de"/>
         <card number="1" name="Doran, the Siege Tower" setShortName="2X2" collectorNumber="201" uuid="e0ad8e7f-cda0-4529-94fc-dd3709158a94"/>
         <card number="1" name="Wall of Roots" setShortName="NCC" collectorNumber="319" uuid="d80940ad-8e36-4226-ad5f-b54487c75c76"/>
         <card number="1" name="Flumph" setShortName="AFR" collectorNumber="15" uuid="cdc86e78-8911-4a0d-ba3a-7802f8d991ef"/>
         <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
         <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
-        <card number="1" name="Strionic Resonator" setShortName="BRC" collectorNumber="165" uuid="56d770bf-a8ad-4817-8342-b0dde94c538a"/>
         <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
         <card number="1" name="Assault Formation" setShortName="PLST" collectorNumber="IMA-155" uuid="57a7734e-b964-42bb-920d-168ade9c6377"/>
         <card number="1" name="Kin-Tree Invocation" setShortName="PLST" collectorNumber="KTK-183" uuid="e32b0b86-898c-4c14-b2d0-627024aa8b42"/>
+        <card number="1" name="Ghalta the Immovable" setShortName="FRA" collectorNumber="197" uuid="a9f3aa55-908f-42db-8135-4201433df850"/>
         <card number="1" name="Swiftfoot Boots" setShortName="AFC" collectorNumber="217" uuid="bc89db46-0df6-4ce1-b162-233f5fe1b554"/>
         <card number="1" name="Fanatic of Rhonas" setShortName="MH3" collectorNumber="152" uuid="1f9fb33a-3b39-4aff-93b8-aedafe0ea694"/>
+        <card number="1" name="Savannah" setShortName="VMA" collectorNumber="311" uuid="b0d161fc-4a2a-4f1d-82b4-a746552552df"/>
         <card number="1" name="Saving Grace" setShortName="HOU" collectorNumber="21" uuid="9ac7b2d8-7702-4b8c-84ed-1d785dea5cc5"/>
         <card number="1" name="Tower Defense" setShortName="TDC" collectorNumber="275" uuid="adacc68a-0bc5-49ee-b5f8-d61024952ce9"/>
         <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
@@ -36,7 +40,7 @@
         <card number="1" name="Tree of Redemption" setShortName="TDC" collectorNumber="97" uuid="4f55dae2-e6b4-4498-8abd-86d9717691f4"/>
         <card number="1" name="Arbor Adherent" setShortName="TDC" collectorNumber="42" uuid="57d0502f-5ae8-40b6-9f2b-cd4418016219"/>
         <card number="1" name="Indomitable Ancients" setShortName="TDC" collectorNumber="121" uuid="a4e20d78-8c01-40ed-bc69-89d4d5028552"/>
-        <card number="1" name="Ancient Lumberknot" setShortName="DBL" collectorNumber="497" uuid="24ed08db-a8ae-4579-9c54-0cc259e03892"/>
+        <card number="1" name="Unhallowed Phalanx" setShortName="VOW" collectorNumber="135" uuid="d5ec541b-1799-4c0e-a3fb-c008cf2eb911"/>
         <card number="1" name="Arasta of the Endless Web" setShortName="BLC" collectorNumber="205" uuid="6dda8d6b-fd31-4908-a953-20c180a33e56"/>
         <card number="1" name="Tapestry Warden" setShortName="EOE" collectorNumber="209" uuid="7cbbab6c-43ae-4e50-97ce-532a3316591a"/>
         <card number="1" name="Silent Arbiter" setShortName="CMM" collectorNumber="972" uuid="14f42cc9-8b7f-4f8a-8d68-8480e668c239"/>
@@ -46,17 +50,14 @@
         <card number="1" name="Trostani, Selesnya's Voice" setShortName="PLST" collectorNumber="GK1-102" uuid="c2649bc6-2ed9-4d50-ad11-ae05d6df2c3d"/>
         <card number="1" name="Undermountain Adventurer" setShortName="CLB" collectorNumber="260" uuid="541f53a3-521f-4463-a0b6-758a45d8f661"/>
         <card number="1" name="Fecund Greenshell" setShortName="BLB" collectorNumber="171" uuid="80b3e815-0e2e-4325-b1d5-5531b7b92da6"/>
-        <card number="1" name="Unhallowed Phalanx" setShortName="DBL" collectorNumber="402" uuid="7331542f-5a5f-40b1-87c0-3a2a1df79e84"/>
         <card number="1" name="Sight of the Scalelords" setShortName="DTK" collectorNumber="207" uuid="b5921758-4e21-4d34-8cf7-b0205d4b0912"/>
         <card number="1" name="Vulturous Zombie" setShortName="CM2" collectorNumber="170" uuid="7f562c38-3c53-4dc6-9816-6e4be3355e2e"/>
         <card number="1" name="Scour the Desert" setShortName="MH2" collectorNumber="28" uuid="b87d368f-e1e0-41ab-9da0-f07c01c8ae38"/>
         <card number="1" name="Lord of Extinction" setShortName="2X2" collectorNumber="244" uuid="696cb81d-bc00-4603-b340-c0b2e55c0959"/>
-        <card number="1" name="Army of the Damned" setShortName="J25" collectorNumber="399" uuid="b46b0818-cd87-41b4-85d2-c474b995d4c0"/>
         <card number="1" name="Eerie Ultimatum" setShortName="PLST" collectorNumber="IKO-184" uuid="50ef833c-8472-4d6c-9bcf-bd448c650d2f"/>
         <card number="1" name="Austere Command" setShortName="BRC" collectorNumber="69" uuid="c800e39d-753b-4e0a-8a00-54dd20825103"/>
         <card number="1" name="Avenger of Zendikar" setShortName="ECC" collectorNumber="98" uuid="c6f1e60f-a195-4590-80b0-86767de6c423"/>
         <card number="1" name="Avatar of Woe" setShortName="CM2" collectorNumber="57" uuid="7e8e34de-4b0a-48fe-bb13-c7e181d37e6c"/>
-        <card number="1" name="Farewell" setShortName="FIC" collectorNumber="242" uuid="4d8b6418-da30-4c68-b87c-3936eb77620c"/>
         <card number="1" name="Last March of the Ents" setShortName="LTR" collectorNumber="172" uuid="7f1b99e0-ffb7-4f98-8ee5-4357bb79dd2e"/>
         <card number="1" name="Zopandrel, Hunger Dominus" setShortName="ONE" collectorNumber="195" uuid="fb419d9d-e06f-48c8-a4f8-a57f9be39e50"/>
         <card number="1" name="The Walls of Ba Sing Se" setShortName="PTLA" collectorNumber="261s" uuid="eeb9b50f-43ed-4913-869b-1b38c09db9ef"/>
@@ -71,7 +72,6 @@
         <card number="1" name="Godless Shrine" setShortName="CLU" collectorNumber="276" uuid="e221e498-d9b1-47f0-b4dd-05e1105ce9f1"/>
         <card number="1" name="Isolated Chapel" setShortName="DMR" collectorNumber="249" uuid="d359281b-b509-41be-a820-c7ac9f36f27f"/>
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
-        <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
         <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
         <card number="1" name="Sunpetal Grove" setShortName="BLC" collectorNumber="335" uuid="1eb0d965-a7a1-4dfc-9867-adbf153e72be"/>
         <card number="1" name="Temple Garden" setShortName="CLU" collectorNumber="282" uuid="027df6ad-7677-4daf-b14d-0fb773b48263"/>

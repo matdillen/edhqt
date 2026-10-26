@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:09:52 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 15:47:45 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Satoru Umezawa</bannerCard>
     <comments></comments>
     <tags/>
@@ -10,11 +11,12 @@
     </zone>
     <zone name="main">
         <card number="1" name="Watery Grave"/>
-        <card number="4" name="Island"/>
-        <card number="4" name="Swamp"/>
+        <card number="1" name="Dimir Signet" setShortName="BRC" collectorNumber="138" uuid="1f03430e-2c3d-4317-b4bd-06c2059b7e34"/>
+        <card number="5" name="Swamp"/>
         <card number="1" name="Temple of the False God"/>
-        <card number="1" name="Swarmyard"/>
         <card number="1" name="Bojuka Bog"/>
+        <card number="4" name="Island" setShortName="PIP" collectorNumber="848" uuid="0480b669-e72b-4b21-b0f3-09d78abe421c"/>
+        <card number="1" name="Hidden Lair" setShortName="MSH" collectorNumber="269" uuid="0742ddb6-71ed-444e-91ad-84f876725a4a"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Otawara, Soaring City"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
@@ -23,6 +25,7 @@
         <card number="1" name="Sepulchral Primordial"/>
         <card number="1" name="Inkwell Leviathan"/>
         <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Shipwreck Marsh" setShortName="MID" collectorNumber="285" uuid="07ad2562-fc26-40a1-9e6c-21f4f88dc2d8"/>
         <card number="1" name="Silent-Blade Oni"/>
         <card number="1" name="Steel Hellkite"/>
         <card number="1" name="Dread"/>
@@ -31,7 +34,7 @@
         <card number="1" name="Mulldrifter"/>
         <card number="1" name="Shriekmaw"/>
         <card number="1" name="Consuming Aberration"/>
-        <card number="1" name="Ink-Eyes, Servant of Oni"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni" setShortName="PLST" collectorNumber="BOK-71" uuid="4b2c7b49-c7cc-419d-a666-6796bccb83f3"/>
         <card number="1" name="Canoptek Scarab Swarm"/>
         <card number="1" name="Fallen Shinobi"/>
         <card number="1" name="Glen Elendra Archmage"/>
@@ -53,7 +56,6 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Admiral's Order"/>
         <card number="1" name="Talisman of Dominance"/>
-        <card number="1" name="Dimir Signet"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Underground River"/>
         <card number="1" name="Underground Sea"/>
@@ -82,14 +84,12 @@
         <card number="1" name="Fierce Guardianship"/>
         <card number="1" name="Puppeteer Clique"/>
         <card number="1" name="Boggart Trawler"/>
-        <card number="1" name="Mudflat Village"/>
         <card number="1" name="Gossip's Talent"/>
         <card number="1" name="Silent Hallcreeper"/>
         <card number="1" name="Metamorphosis Fanatic"/>
         <card number="1" name="Ancient Silver Dragon"/>
         <card number="1" name="Escape Tunnel"/>
         <card number="1" name="Minas Morgul, Dark Fortress"/>
-        <card number="1" name="Shipwreck Marsh"/>
         <card number="1" name="Schema Thief"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Oct 26 18:55:08 2026</lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="c2aadc25-7755-4bc8-a8af-b01d27eec364">Baron Helmut Zemo</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Baron Helmut Zemo" setShortName="MSH" collectorNumber="87" uuid="c2aadc25-7755-4bc8-a8af-b01d27eec364"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Crypt of Agadeem" setShortName="TDC" collectorNumber="354" uuid="18adafe6-de67-4101-8b39-b53ab695ec4a"/>
+        <card number="1" name="Geier Reach Sanitarium" setShortName="AFC" collectorNumber="241" uuid="cdb751d3-580f-44dd-a1e2-0f1240f2b891"/>
+        <card number="1" name="Myriad Landscape" setShortName="40K" collectorNumber="285" uuid="a3a12e0f-85de-440f-8a7d-230bf8c415c1"/>
+        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="EA2" collectorNumber="24" uuid="920bbc28-1a57-4dc3-86e9-6a491a4afa1e"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="DMC" collectorNumber="233" uuid="099352e2-38c8-4fb4-a25f-6d928aa20f9e"/>
+        <card number="1" name="Spymaster's Vault" setShortName="MH3" collectorNumber="230" uuid="3d5fbb30-abfc-4e79-8ce5-bbb04a241c9f"/>
+        <card number="1" name="Boggart Trawler" setShortName="MH3" collectorNumber="243" uuid="d0d484a6-5610-4f1d-95ec-eda273c255e4"/>
+        <card number="20" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="1" name="Tomb Fortress" setShortName="40K" collectorNumber="168" uuid="5ffd1a43-5613-4058-9e51-fd3cc1585651"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
+        <card number="1" name="War Room" setShortName="CLB" collectorNumber="929" uuid="ed5cebc0-6a58-468d-a75e-46087ea2eb46"/>
+        <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
+        <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
+        <card number="1" name="Cabal Ritual" setShortName="MB2" collectorNumber="177" uuid="b8a8df5d-9582-4797-ae26-f64668972a1b"/>
+        <card number="1" name="Entomb" setShortName="DMR" collectorNumber="82" uuid="3caa9c55-5e3b-436b-84a9-b7ccebf63799"/>
+        <card number="1" name="Hagra Mauling" setShortName="PLST" collectorNumber="ZNR-106" uuid="d18134a8-ca74-4e2e-b80e-823968fc25e3"/>
+        <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
+        <card number="1" name="Mesmeric Orb" setShortName="BRR" collectorNumber="31" uuid="671cb8c4-4019-4d40-9e3d-691aad555356"/>
+        <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
+        <card number="1" name="Songs of the Damned" setShortName="PLST" collectorNumber="UMA-115" uuid="3ea99634-98f8-4fa6-9db0-2cc26607d6e7"/>
+        <card number="1" name="Archenemy's Charm" setShortName="EOE" collectorNumber="88" uuid="dcde5f27-e2f0-4d2a-afa3-f300896ec4b1"/>
+        <card number="1" name="Swiftfoot Boots" setShortName="AFC" collectorNumber="217" uuid="bc89db46-0df6-4ce1-b162-233f5fe1b554"/>
+        <card number="1" name="Angel of Suffering" setShortName="PSNC" collectorNumber="67p" uuid="8e416101-4fae-4684-921b-12207b137ac9"/>
+        <card number="1" name="Dark Matter Manipulator" setShortName="FRA" collectorNumber="52" uuid="4ec912d5-cbe7-4d07-9ece-b03ac02d3055"/>
+        <card number="1" name="Fated Return" setShortName="ZNC" collectorNumber="42" uuid="5d168856-5568-4ee0-942d-78865d2bb1ef"/>
+        <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
+        <card number="1" name="Buried Alive" setShortName="MH3" collectorNumber="273" uuid="76878b19-2916-4f3f-bee5-20846bc9e2db"/>
+        <card number="1" name="Golgari Thug" setShortName="PLST" collectorNumber="RAV-87" uuid="6dba86d9-0dd2-45cf-8fe9-c995d2cbb7d9"/>
+        <card number="1" name="Afterlife from the Loam" setShortName="TDC" collectorNumber="25" uuid="9361b548-a8d9-4e57-98cf-0c464742e1c9"/>
+        <card number="1" name="Dread Return" setShortName="40K" collectorNumber="200" uuid="6a73b481-8e62-4742-bbd0-33b8048602d7"/>
+        <card number="1" name="Funeral Room // Awakening Hall" setShortName="DSK" collectorNumber="100" uuid="48237c98-5067-47a8-af74-7b9bce57c6a4"/>
+        <card number="1" name="Ardyn, the Usurper" setShortName="FIN" collectorNumber="89" uuid="4627072e-9c72-4084-8021-690777342548"/>
+        <card number="1" name="Doom Whisperer" setShortName="MKC" collectorNumber="128" uuid="e8aabcaf-0968-402f-bc9f-289756e4d4b7"/>
+        <card number="1" name="Stitch Together" setShortName="FIC" collectorNumber="286" uuid="73f1aa13-b3bc-480e-826c-6bded7ee1ca6"/>
+        <card number="1" name="Invoke Despair" setShortName="NEO" collectorNumber="101" uuid="35af9d5c-4449-4549-b549-c3ba4a67dee0"/>
+        <card number="1" name="Baleful Force" setShortName="AA4" collectorNumber="11" uuid="788c64d5-31ca-4173-9d8d-30645eb0c0e4"/>
+        <card number="1" name="Lokhust Heavy Destroyer" setShortName="40K" collectorNumber="38" uuid="4665fa5d-37ea-4898-a4a4-7bc5311075de"/>
+        <card number="1" name="Incarnation Technique" setShortName="C21" collectorNumber="41" uuid="9655deda-f02b-47a0-89a3-2904b11b84aa"/>
+        <card number="1" name="Unmarked Grave" setShortName="MH2" collectorNumber="106" uuid="492b368b-de32-45c1-8459-238aae54f9fc"/>
+        <card number="1" name="Living Death" setShortName="40K" collectorNumber="202" uuid="9e03a4fe-6ee5-423b-bc05-452e8d14507b"/>
+        <card number="1" name="Stitcher's Supplier" setShortName="DSC" collectorNumber="157" uuid="3677165d-be78-4011-92dd-8f1bc31302c1"/>
+        <card number="1" name="Pox Plague" setShortName="PSOS" collectorNumber="94p" uuid="a55eb26f-11c0-47fb-827f-96d73e7b7925"/>
+        <card number="1" name="Avacyn, Angel of Horror" setShortName="FRC" collectorNumber="7" uuid="ff65f46b-0f82-49b8-93b9-7ac0243ce941"/>
+        <card number="1" name="Meathook Massacre II" setShortName="DSK" collectorNumber="108" uuid="3db59d06-a226-42b2-8f01-6b63a6eea83f"/>
+        <card number="1" name="Necromantic Selection" setShortName="AFC" collectorNumber="103" uuid="d3cec373-0a3f-4628-8706-b7c9c205f150"/>
+        <card number="1" name="Summon Undead" setShortName="CLB" collectorNumber="151" uuid="278f7705-01a4-4baf-929b-b93e538a8d77"/>
+        <card number="1" name="Sorin Markov" setShortName="PLST" collectorNumber="ZEN-111" uuid="f24b8afc-020f-4d20-a749-cc87d55d674c"/>
+        <card number="1" name="Stinkweed Imp" setShortName="PLST" collectorNumber="GK1-53" uuid="c31d9067-a389-4a66-ae85-bf524c41cd4c"/>
+        <card number="1" name="Sheoldred, the Apocalypse" setShortName="DMU" collectorNumber="107" uuid="d67be074-cdd4-41d9-ac89-0a0456c4e4b2"/>
+        <card number="1" name="Doomsday Excruciator" setShortName="DSK" collectorNumber="94" uuid="542c89b6-48c6-4fcb-8a4c-b5ed2fa1d384"/>
+        <card number="1" name="The Master of Lake-town" setShortName="HOB" collectorNumber="77" uuid="3788ada6-34a9-41af-a31c-2d090550e503"/>
+        <card number="1" name="Entreat the Dead" setShortName="PLST" collectorNumber="C18-15" uuid="619f1986-9344-46ba-bcd3-906a84f87472"/>
+        <card number="1" name="Phthisis" setShortName="AFC" collectorNumber="105" uuid="98b84356-fa97-4f61-bd84-e8efd7f46e38"/>
+        <card number="1" name="Vile Entomber" setShortName="FDN" collectorNumber="616" uuid="833b5a32-5d77-4e46-a524-25bada29ef59"/>
+        <card number="1" name="Forced March" setShortName="MMQ" collectorNumber="136" uuid="36eae0e1-7100-449d-a259-7abfcd429117"/>
+        <card number="1" name="Syr Konrad, the Grim" setShortName="DSC" collectorNumber="158" uuid="443a4eac-f972-4027-aed4-552d4edc2ce1"/>
+        <card number="1" name="Vengeful Pharaoh" setShortName="M12" collectorNumber="116" uuid="12e0ca97-bc57-4084-86b4-e2e06152cb1c"/>
+        <card number="1" name="Arvinox, the Mind Flail" setShortName="DSC" collectorNumber="130" uuid="f81e3110-857c-4074-9c55-7e87c22051c9"/>
+        <card number="1" name="Lord of the Void" setShortName="RVR" collectorNumber="81" uuid="2e014649-0d96-4bc9-8446-e57df50a2a4c"/>
+        <card number="1" name="Avatar of Woe" setShortName="CM2" collectorNumber="57" uuid="7e8e34de-4b0a-48fe-bb13-c7e181d37e6c"/>
+        <card number="1" name="Summon: Bahamut" setShortName="FIN" collectorNumber="1" uuid="95318d85-4a08-47ac-a43d-ea83c0bea81c"/>
+        <card number="1" name="Breach the Multiverse" setShortName="MOM" collectorNumber="94" uuid="daf51a76-7a57-4462-ae18-a19e817e49e5"/>
+        <card number="1" name="Mikaeus, the Unhallowed" setShortName="CMM" collectorNumber="173" uuid="bc1f42a2-fe11-45da-9552-069803b4068a"/>
+        <card number="1" name="Kokusho, the Evening Star" setShortName="PLST" collectorNumber="DRB-9" uuid="06401fc0-f230-4819-89b8-ac629cb89bcd"/>
+        <card number="1" name="Reaper from the Abyss" setShortName="J22" collectorNumber="458" uuid="29595671-fcec-41a0-a361-91c6be3af6b7"/>
+        <card number="1" name="Shard of the Void Dragon" setShortName="40K" collectorNumber="56" uuid="41dd0b55-3dbb-4b65-a949-20c2a12f7edd"/>
+        <card number="1" name="Massacre Wurm" setShortName="DSC" collectorNumber="147" uuid="721e2879-b9c6-4567-a105-00e1a52e1a0e"/>
+        <card number="1" name="Decree of Pain" setShortName="40K" collectorNumber="198" uuid="458b4f09-7c59-4e72-b37f-f1a69ec0fb05"/>
+        <card number="1" name="Rise of the Dark Realms" setShortName="FDN" collectorNumber="183" uuid="8645bf0c-631f-4003-bd24-3e069ae23513"/>
+        <card number="1" name="Temporal Extortion" setShortName="SLD" collectorNumber="1859" uuid="33da3281-1cf1-41ac-841a-e01521642779"/>
+        <card number="1" name="Gray Merchant of Asphodel" setShortName="DSC" collectorNumber="142" uuid="00d001d0-fd29-4b7c-9d0e-9131b995f910"/>
+        <card number="1" name="M.O.D.O.K." setShortName="MSH" collectorNumber="106" uuid="38e87542-50f7-4812-9338-84e4b9b7bb44"/>
+        <card number="1" name="Phyrexian Obliterator" setShortName="ONE" collectorNumber="105" uuid="67a9c38b-6b3a-4056-a87c-fc48446f854f"/>
+        <card number="1" name="Sheoldred" setShortName="MOM" collectorNumber="125" uuid="bf2249e6-af74-4b88-8eb7-144ce8fa7f6b"/>
+        <card number="1" name="Witch-king of Angmar" setShortName="HOC" collectorNumber="20" uuid="7170f930-8f94-4671-9acf-bf40913cbfa0"/>
+        <card number="1" name="Zodiark, Umbral God" setShortName="FIN" collectorNumber="128" uuid="9ba292d5-5139-42ea-950d-0a638445277f"/>
+        <card number="1" name="Nyx Lotus" setShortName="THB" collectorNumber="235" uuid="5bd6353f-d119-40e6-895c-030a11a7a2fe"/>
+        <card number="1" name="Black Market Connections" setShortName="ACR" collectorNumber="87" uuid="9bac8176-d0db-4397-820d-acbdd3264377"/>
+        <card number="1" name="Phyrexian Arena" setShortName="CC2" collectorNumber="4" uuid="b4142d3b-9c17-4a26-949e-3fc3e600fd1c"/>
+        <card number="1" name="The Soul Stone" setShortName="OM1" collectorNumber="69" uuid="a54f47cd-d897-4da4-be67-aa8eb71bdac5"/>
+    </zone>
+</cockatrice_deck>

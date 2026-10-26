@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:23:12 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 12:42:03 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Eluge, the Shoreless Sea</bannerCard>
     <comments></comments>
     <tags/>
@@ -9,24 +10,34 @@
         <card number="1" name="Eluge, the Shoreless Sea"/>
     </zone>
     <zone name="main">
-        <card number="16" name="Island"/>
-        <card number="1" name="Mystic Sanctuary"/>
+        <card number="1" name="Boseiju, Who Shelters All" setShortName="V12" collectorNumber="2" uuid="e01b7141-9576-445b-bcd4-00d79850a4dd"/>
+        <card number="1" name="Aetherize" setShortName="PLST" collectorNumber="DDO-36" uuid="74823154-01ec-457c-95a4-4ff03d832ea2"/>
+        <card number="16" name="Island" setShortName="ACR" collectorNumber="303" uuid="68dbf10c-a813-4f76-9066-b3cdd9cfd5d4"/>
+        <card number="1" name="Arcane Signet" setShortName="BRC" collectorNumber="132" uuid="d5a30a51-3afb-45e9-aab6-40fec44ec55a"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="PLST" collectorNumber="CHK-279" uuid="87c59ce9-84f1-493d-ac5a-302b2c18b9bd"/>
+        <card number="1" name="Shadowspear" setShortName="PLST" collectorNumber="THB-236" uuid="769326d4-60af-4b19-85d9-d96d3acdb56e"/>
+        <card number="1" name="Mystic Sanctuary" setShortName="MKC" collectorNumber="277" uuid="67652446-6d12-4e2a-bb51-ba685f2e79d1"/>
+        <card number="1" name="Capsize" setShortName="TMP" collectorNumber="55" uuid="e538b359-d893-422d-9d60-5f3e8ee0fa9e"/>
+        <card number="1" name="Cryptic Command" setShortName="IMA" collectorNumber="48" uuid="30f6fca9-003b-4f6b-9d6e-1e88adda4155"/>
+        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="PLST" collectorNumber="THS-223" uuid="1ac9577f-dd41-4e1a-a96b-6b615297425a"/>
         <card number="1" name="Maze of Ith"/>
         <card number="1" name="Riptide Laboratory"/>
-        <card number="1" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" name="Vedalken Shackles" setShortName="5DN" collectorNumber="164" uuid="cef06f56-a7a8-4c0f-8755-56b46d2aa82c"/>
+        <card number="1" name="Rogue's Passage" setShortName="CMM" collectorNumber="426" uuid="481c877e-0188-427f-8de2-25ad82d7cadb"/>
         <card number="1" name="Nesting Grounds"/>
+        <card number="1" name="War Room" setShortName="CMM" collectorNumber="1054" uuid="dd2f5f65-4ab7-43c8-8a14-422fcfac80df"/>
+        <card number="1" name="Temple of the False God" setShortName="MKC" collectorNumber="305" uuid="2d21d25e-830a-4d32-b292-c24cdab7516a"/>
         <card number="1" name="Lórien Revealed"/>
-        <card number="1" name="Snapcaster Mage"/>
         <card number="1" name="Reality Shift"/>
-        <card number="1" name="Arcane Signet"/>
         <card number="1" name="Cyber Conversion"/>
         <card number="1" name="Teferi's Time Twist"/>
+        <card number="1" name="Snapcaster Mage" setShortName="PLST" collectorNumber="ISD-78" uuid="12917e60-cea1-460b-b3f1-8d47cc24afdc"/>
         <card number="1" name="Snap"/>
-        <card number="1" name="Capsize"/>
+        <card number="1" name="Stormtide Leviathan" setShortName="M15" collectorNumber="80" uuid="a0fde11c-ee26-4005-87f0-300f2be838fc"/>
+        <card number="1" name="Reins of Power" setShortName="STH" collectorNumber="41" uuid="21a9242f-0516-4dae-8cbc-1f7f78931782"/>
         <card number="1" name="Archmage's Charm"/>
         <card number="1" name="Tempest Djinn"/>
         <card number="1" name="Chrome Host Seedshark"/>
-        <card number="1" name="Vedalken Shackles"/>
         <card number="1" name="Burnished Hart"/>
         <card number="1" name="Commander's Sphere"/>
         <card number="1" name="Seasinger"/>
@@ -40,10 +51,7 @@
         <card number="1" name="Sakashima the Impostor"/>
         <card number="1" name="Displacer Kitten"/>
         <card number="1" name="Inscription of Insight"/>
-        <card number="1" name="Aetherize"/>
         <card number="1" name="Ojer Pakpatiq, Deepest Epoch"/>
-        <card number="1" name="Reins of Power"/>
-        <card number="1" name="Cryptic Command"/>
         <card number="1" name="Rewind"/>
         <card number="1" name="Floodgate"/>
         <card number="1" name="Blatant Thievery"/>
@@ -61,7 +69,6 @@
         <card number="1" name="Finale of Revelation"/>
         <card number="1" name="The Flood of Mars"/>
         <card number="1" name="Hurkyl's Final Meditation"/>
-        <card number="1" name="Stormtide Leviathan"/>
         <card number="1" name="High Fae Trickster"/>
         <card number="1" name="Spelljack"/>
         <card number="1" name="Gather Specimens"/>
@@ -73,8 +80,6 @@
         <card number="1" name="Sea Gate Restoration"/>
         <card number="1" name="Castle Vantress"/>
         <card number="1" name="Myriad Landscape"/>
-        <card number="1" name="Temple of the False God"/>
-        <card number="1" name="War Room"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="In Too Deep"/>
         <card number="1" name="Aethersnatch"/>
@@ -82,13 +87,9 @@
         <card number="1" name="Spectral Deluge"/>
         <card number="1" name="Sudden Substitution"/>
         <card number="1" name="Tidal Barracuda"/>
-        <card number="1" name="Boseiju, Who Shelters All" setShortName="LTC" collectorNumber="359" uuid="bafe3253-feed-4cb9-a13c-9a9105462a8b"/>
-        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
         <card number="1" name="Slip Out the Back" setShortName="CLU" collectorNumber="99" uuid="d9d9fbbb-ed6c-45f7-a1d8-f9d29ae7930f"/>
         <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
         <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>
-        <card number="1" name="Rogue's Passage" setShortName="CLB" collectorNumber="913" uuid="e1f1dd27-be41-4bfa-b59d-3a002647f1ad"/>
-        <card number="1" name="Minamo, School at Water's Edge" setShortName="LTC" collectorNumber="369" uuid="798c0faf-0de2-4397-8f03-2120d2a35351"/>
         <card number="1" name="Secret of Bloodbending" setShortName="TLA" collectorNumber="69" uuid="9bb928ae-f636-4aee-9146-a7885e6a8976"/>
         <card number="1" name="Spirit Water Revival" setShortName="TLA" collectorNumber="73" uuid="0c019e76-c88e-4d1b-a546-0f4e462ef44a"/>
         <card number="1" name="Kefnet's Last Word" setShortName="HOU" collectorNumber="39" uuid="4d7e5103-ee7d-40d7-bcd4-c5d1a48e9821"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 14:18:39 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 13:24:20 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="77e548c9-8bed-40c3-bcdd-9d97a82c885d">Fire Lord Ozai</bannerCard>
@@ -14,16 +14,23 @@
         <card number="1" name="Havengul Laboratory" setShortName="SLX" collectorNumber="9" uuid="823b019e-10c0-4712-8167-d4f37a71e782"/>
         <card number="1" name="Bloodstained Mire" setShortName="MH3" collectorNumber="216" uuid="579743fe-f71e-4cb2-8629-d6b02ed1591d"/>
         <card number="1" name="Bloodsoaked Insight" setShortName="MH3" collectorNumber="252" uuid="0a08e0d2-1e60-47f5-9228-4c11a127089d"/>
+        <card number="1" name="Command Beacon" setShortName="OTC" collectorNumber="279" uuid="4ff61202-fb5e-4cea-a5ea-168505ac31e1"/>
         <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
         <card number="1" name="Supernatural Stamina" setShortName="2X2" collectorNumber="93" uuid="69a0278b-3198-4c8d-b20c-f42e8b1569f4"/>
+        <card number="1" name="Daily Bugle Building" setShortName="OM1" collectorNumber="180" uuid="eba92a05-06f1-4978-a92e-925739c20f8c"/>
+        <card number="1" name="Dark Fortress" setShortName="MSH" collectorNumber="264" uuid="c16fd43c-7c47-4c1b-860f-91146532e89d"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
         <card number="1" name="Rakdos Signet" setShortName="AA1" collectorNumber="10" uuid="afaf490c-70f4-4e9f-9cf5-176403215c31"/>
+        <card number="1" name="Haunted Ridge" setShortName="MID" collectorNumber="282" uuid="91f67a64-b97d-473a-be9d-c8044ff86605"/>
+        <card number="1" name="Rings of Brighthearth" setShortName="MPS" collectorNumber="21" uuid="3c7c38ea-a1a4-47dd-9d73-a84872b57736"/>
+        <card number="1" name="Rise of the Deathbringer" setShortName="FRA" collectorNumber="63" uuid="811719ad-b5a3-4d31-8c6f-5dbdfccf7c1f"/>
         <card number="1" name="Animate Dead" setShortName="30A" collectorNumber="92" uuid="cccab61e-11af-441b-8f85-a9b4f1f721cf"/>
         <card number="1" name="Transmogrant's Crown" setShortName="BRO" collectorNumber="125" uuid="dc913ed6-3032-4b45-a6c1-6a4208a7e00a"/>
         <card number="1" name="Hunted Horror" setShortName="CLB" collectorNumber="758" uuid="02f74866-d0ea-42ce-bc44-500219fb73d4"/>
         <card number="1" name="Return the Favor" setShortName="OTJ" collectorNumber="142" uuid="a9cc02d1-799d-42aa-9bc2-4c05452b63b4"/>
         <card number="1" name="Bulk Up" setShortName="FDN" collectorNumber="80" uuid="977dcc50-da10-4281-b522-9240c1204f5d"/>
         <card number="1" name="Blessing of Leeches" setShortName="PLST" collectorNumber="BOK-62" uuid="bb7ee03d-60e1-4b03-a298-363f6d8e5fa2"/>
+        <card number="1" name="Undying Malice" setShortName="FDN" collectorNumber="528" uuid="97b3cf11-e352-4ee1-8c03-13898f576ef9"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Plague Reaver" setShortName="CMR" collectorNumber="143" uuid="230b9bc8-29c8-49cb-b4f5-1aceeda8bf45"/>
         <card number="1" name="Taurean Mauler" setShortName="AFC" collectorNumber="143" uuid="ed75b280-c7c5-404f-bbad-c19dff3e6975"/>
@@ -37,8 +44,8 @@
         <card number="1" name="Traxos, Scourge of Kroog" setShortName="BRC" collectorNumber="170" uuid="513fd010-db79-4aa4-8186-776fc3e27750"/>
         <card number="1" name="Yargle, Glutton of Urborg" setShortName="CMM" collectorNumber="202" uuid="8febc0fe-c52d-4b6a-9d18-e1e4a43b6dc3"/>
         <card number="1" name="Alena, Kessig Trapper" setShortName="PLST" collectorNumber="CMR-160" uuid="312a2a8d-2d84-4c4b-b2c4-cbc4e8300312"/>
-        <card number="4" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
-        <card number="5" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="3" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
+        <card number="4" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="LTC" collectorNumber="375" uuid="4116f1c7-9191-4d92-81ca-54d9ae3c8166"/>
         <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
         <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
@@ -49,9 +56,7 @@
         <card number="1" name="Dragonskull Summit" setShortName="DMC" collectorNumber="207" uuid="8c5a9cb7-6c97-47fd-acd0-bc6dd11b77b4"/>
         <card number="1" name="Badlands" setShortName="30A" collectorNumber="273" uuid="c5335e87-57e3-4da6-aba0-619628120f47"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
-        <card number="1" name="Haunted Ridge" setShortName="DBL" collectorNumber="263" uuid="e0652666-0b36-4e65-8c5b-8b7b25c6e6fd"/>
         <card number="1" name="Feign Death" setShortName="AFR" collectorNumber="103" uuid="32af7061-fca6-4a06-be3c-01881e6b96f7"/>
-        <card number="1" name="Undying Malice" setShortName="DBL" collectorNumber="401" uuid="f94218a8-a509-4aa4-9ee3-3a76833e307c"/>
         <card number="1" name="Not Dead After All" setShortName="WOE" collectorNumber="101" uuid="d01a2b68-efe6-4027-846d-db7b19d9eef6"/>
         <card number="1" name="The Soul Stone" setShortName="OM1" collectorNumber="69" uuid="a54f47cd-d897-4da4-be67-aa8eb71bdac5"/>
         <card number="1" name="Doubling Cube" setShortName="PLST" collectorNumber="10E-321" uuid="2b7002f2-6846-4a53-921e-663ca5f99363"/>
@@ -62,7 +67,6 @@
         <card number="1" name="The Last Agni Kai" setShortName="PTLA" collectorNumber="144s" uuid="62e81e36-8333-429a-a723-ea9461359b4c"/>
         <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
         <card number="1" name="Mithril Coat" setShortName="LTR" collectorNumber="245" uuid="0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec"/>
-        <card number="1" name="Rings of Brighthearth" setShortName="LTC" collectorNumber="352" uuid="730d64cf-e71b-46dd-8e26-d2dec2608fc0"/>
         <card number="1" name="Relic Golem" setShortName="ZNR" collectorNumber="249" uuid="0b59c75b-d8f8-4f95-9030-ed73c67d988e"/>
         <card number="1" name="Electro, Assaulting Battery" setShortName="OM1" collectorNumber="76" uuid="5b12f23c-54b2-4b28-8434-c3f509a204d7"/>
         <card number="1" name="Hunted Bonebrute" setShortName="MKM" collectorNumber="87" uuid="a4ca0e10-8b7c-4ce2-888b-752fc909757a"/>
@@ -76,7 +80,6 @@
         <card number="1" name="Anticausal Vestige" setShortName="EOE" collectorNumber="1" uuid="35372b69-6086-44e0-9f7c-681e362e5142"/>
         <card number="1" name="Mana Geyser" setShortName="GN3" collectorNumber="84" uuid="fd805298-9dbf-4294-a0f9-b3532167c341"/>
         <card number="1" name="Malignus" setShortName="PLST" collectorNumber="AVR-148" uuid="ca52fe78-8840-487b-93f6-14198423d55f"/>
-        <card number="1" name="Electrodominance" setShortName="OTP" collectorNumber="23" uuid="6d550bc9-2cb5-4947-a48d-2c92b5c72541"/>
         <card number="1" name="Ozai, the Phoenix King" setShortName="PTLA" collectorNumber="235s" uuid="b3156dcd-2630-4a1b-8d16-89ed8ff85fb6"/>
         <card number="1" name="Avatar Roku, Firebender" setShortName="TLE" collectorNumber="112" uuid="b1fced2b-eba2-4e70-8f1c-6d3c973b6a8d"/>
         <card number="1" name="Hanweir Battlements" setShortName="INR" collectorNumber="279" uuid="8c0acb91-edfc-43a5-af77-6614327fce43"/>
@@ -85,7 +88,6 @@
         <card number="1" name="Tibalt's Trickery" setShortName="KHM" collectorNumber="153" uuid="dd921e27-3e08-438c-bec2-723226d35175"/>
         <card number="1" name="Cursed Mirror" setShortName="BRC" collectorNumber="115" uuid="a29473ee-1a11-42b8-8d14-34051208f35b"/>
         <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
-        <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
         <card number="1" name="Mines of Moria" setShortName="LTR" collectorNumber="257" uuid="0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f"/>
         <card number="1" name="Wand of Wonder" setShortName="CLB" collectorNumber="204" uuid="df67ec01-9d4c-4ae1-9c8a-f94d649c81bc"/>
         <card number="1" name="Ebondeath, Dracolich" setShortName="AFR" collectorNumber="100" uuid="e6b3f460-92ba-4af0-aad9-cf86615d4177"/>

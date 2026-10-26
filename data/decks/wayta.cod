@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 17:31:41 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 15:30:35 2026</lastLoadedTimestamp>
     <deckname>wayta</deckname>
     <format></format>
     <bannerCard providerId="">Wayta, Trainer Prodigy</bannerCard>
@@ -10,24 +10,35 @@
         <card number="1" name="Wayta, Trainer Prodigy"/>
     </zone>
     <zone name="main">
+        <card number="1" name="Asceticism" setShortName="PLST" collectorNumber="SOM-110" uuid="72eefa85-39de-4f9f-aba1-7520b358c6c4"/>
         <card number="1" name="Black Panther, Most Dangerous" setShortName="MSC" collectorNumber="584" uuid="a10f1578-2b8a-49c6-ab59-dd2c5fb1d69f"/>
+        <card number="1" name="Caltrops" setShortName="UDS" collectorNumber="129" uuid="a9cf74e4-31d2-4cd2-8f3a-b2141301f686"/>
         <card number="3" name="Forest"/>
         <card number="2" name="Mountain"/>
+        <card number="1" name="Final Showdown" setShortName="OTJ" collectorNumber="312" uuid="94397320-b814-487f-aca2-537517ff9eff"/>
+        <card number="1" name="Hexhaven Invigorator" setShortName="FRA" collectorNumber="106" uuid="9a446cae-e93c-4574-8ffd-7688f9729a8a"/>
+        <card number="1" name="Tragic Arrogance" setShortName="PLST" collectorNumber="ORI-38" uuid="a7452070-668c-4f15-91b6-08a0a5344ccc"/>
         <card number="2" name="Plains"/>
+        <card number="1" name="Shadowspear" setShortName="PLST" collectorNumber="THB-236" uuid="769326d4-60af-4b19-85d9-d96d3acdb56e"/>
+        <card number="1" name="Pariah" setShortName="PLST" collectorNumber="10E-33" uuid="8f477cb8-c1f0-4a1c-9396-5e955f653888"/>
+        <card number="1" name="Grove of the Burnwillows" setShortName="ZNE" collectorNumber="25" uuid="82fb5274-c11a-465b-b14f-8f35495482e4"/>
         <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Khalni Ambush" setShortName="ZNR" collectorNumber="192" uuid="99535539-aa73-41ed-86ab-21c97b92620d"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Brushland"/>
+        <card number="1" name="Overgrown Farmland" setShortName="MID" collectorNumber="283" uuid="a46aa097-ad92-4f9a-be52-e4e485a8fe99"/>
+        <card number="1" name="Ill-Tempered Loner" setShortName="VOW" collectorNumber="378" uuid="4a1ce3cd-380a-4ecc-b837-7ffeaccd5c91"/>
         <card number="1" name="Temple Garden"/>
+        <card number="1" name="Rockfall Vale" setShortName="MID" collectorNumber="284" uuid="3bfcc5d4-babd-4b66-95fa-c5ec6c49e93a"/>
         <card number="1" name="Heroic Sacrifice" setShortName="MSC" collectorNumber="18" uuid="ec7bd155-1dd6-4fc3-870f-e0905f8c6d42"/>
         <card number="1" name="Windswept Heath"/>
-        <card number="1" name="Savannah"/>
+        <card number="1" name="Savannah" setShortName="LEB" collectorNumber="281" uuid="0e9aeaa8-9a75-4719-992f-cbb316f72175"/>
+        <card number="1" name="Sundown Pass" setShortName="SOS" collectorNumber="305" uuid="ac70c9ae-5115-46db-9ef8-05c475c88154"/>
         <card number="1" name="Wooded Foothills"/>
-        <card number="1" name="Grove of the Burnwillows"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Taiga"/>
         <card number="1" name="Rootbound Crag"/>
         <card number="1" name="Gideon's Sacrifice"/>
-        <card number="1" name="Shadowspear"/>
         <card number="1" name="Marauding Raptor"/>
         <card number="1" name="Rolling Earthquake"/>
         <card number="1" name="Stormwild Capridor"/>
@@ -51,17 +62,12 @@
         <card number="1" name="Flumph"/>
         <card number="1" name="Powerstone Minefield"/>
         <card number="1" name="Prizefight"/>
-        <card number="1" name="Ill-Tempered Loner"/>
-        <card number="1" name="Pariah"/>
         <card number="1" name="Sungrass Prairie"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Spitemare"/>
-        <card number="1" name="Caltrops"/>
         <card number="1" name="Jetmir's Garden"/>
         <card number="1" name="Plateau"/>
         <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Sundown Pass"/>
-        <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Spiteful Banditry"/>
         <card number="1" name="Klauth's Will"/>
         <card number="1" name="Dawn's Truce"/>
@@ -73,17 +79,14 @@
         <card number="1" name="Screaming Nemesis"/>
         <card number="1" name="Kessig Wolf Run"/>
         <card number="1" name="Skyshroud Claim"/>
-        <card number="1" name="Tragic Arrogance"/>
         <card number="1" name="Unexplained Absence"/>
         <card number="1" name="Chaos Warp"/>
         <card number="1" name="Twinflame Tyrant"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Balduvian Trading Post"/>
         <card number="1" name="Mithril Coat"/>
         <card number="1" name="Shielded by Faith"/>
-        <card number="1" name="Final Showdown"/>
         <card number="1" name="Wrathful Raptors"/>
         <card number="1" name="Spiteful Sliver"/>
         <card number="1" name="Saber Ants"/>
@@ -92,16 +95,13 @@
         <card number="1" name="Pain for All" setShortName="EOE" collectorNumber="151" uuid="d2948913-817b-4715-92d5-ed3cde347be7"/>
         <card number="1" name="Boros Charm" setShortName="FDN" collectorNumber="721" uuid="e0d8c9f6-cbbd-4694-b100-01cfb81036cc"/>
         <card number="1" name="Arid Mesa" setShortName="MH2" collectorNumber="244" uuid="25ac5405-df7b-4097-914a-022cb18e20d4"/>
-        <card number="1" name="Asceticism" setShortName="LTC" collectorNumber="233" uuid="bde335c5-0e87-43c9-bef6-423e4d1caf35"/>
         <card number="1" name="Professor Hojo" setShortName="FIC" collectorNumber="69" uuid="107ffe2e-47eb-43de-bc9e-c68013b62912"/>
-        <card number="1" name="Siegehorn Ceratops" setShortName="PRIX" collectorNumber="171p" uuid="284eccf9-957a-40a7-8f0a-7f71422055e1"/>
         <card number="1" name="Tamiyo's Safekeeping" setShortName="NEO" collectorNumber="211" uuid="fd4b7ee2-de65-4288-872d-486065a4f226"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Strength of Will" setShortName="OM1" collectorNumber="116" uuid="24b3e1b0-a6af-46da-820a-439a292f7de0"/>
         <card number="1" name="Sakura-Tribe Elder" setShortName="BLC" collectorNumber="236" uuid="3696297a-b068-4e89-a62c-6cd5ad437618"/>
         <card number="1" name="Structural Assault" setShortName="PSNC" collectorNumber="126p" uuid="40f05069-09df-4123-a8d8-8a8bd8186d63"/>
         <card number="1" name="Fable of the Mirror-Breaker" setShortName="NEO" collectorNumber="141" uuid="24c0d87b-0049-4beb-b9cb-6f813b7aa7dc"/>
-        <card number="1" name="Khalni Ambush" setShortName="PIO" collectorNumber="181" uuid="ecc4939e-2541-49db-b84f-f902fe9e2524"/>
         <card number="1" name="Seedborn Muse" setShortName="MKC" collectorNumber="186" uuid="f4a9cb46-d4e0-46f2-973f-09275ba0d99c"/>
         <card number="1" name="Moment's Peace" setShortName="PLST" collectorNumber="TD0-A80" uuid="05087bc1-ac45-4405-9074-8272a321ab86"/>
         <card number="1" name="Ertha Jo, Frontier Mentor" setShortName="OTJ" collectorNumber="203" uuid="a4e81be6-6447-4f1e-be00-6fcdb2ab35af"/>

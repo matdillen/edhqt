@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 16:57:59 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 16:05:25 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="">Feather, the Redeemed</bannerCard>
@@ -8,12 +8,18 @@
     <tags/>
     <zone name="main">
         <card number="1" name="Death to Our Enemies" setShortName="MSH" collectorNumber="127" uuid="f2a8f518-c0b5-4e15-aab2-49b5ef29fb41"/>
+        <card number="1" name="Arcane Signet" setShortName="DSC" collectorNumber="92" uuid="211a1d86-7257-4621-ae05-c2b235c063f0"/>
+        <card number="1" name="Danitha, Sword of Hope" setShortName="FRA" collectorNumber="196" uuid="d5cb9810-3c2d-4ae4-b8b6-0155ca3f47ad"/>
         <card number="3" name="Mountain"/>
+        <card number="1" name="Chromatic Lantern" setShortName="BRR" collectorNumber="73" uuid="0de8874b-478a-4b8c-928e-862e52e43aa3"/>
+        <card number="1" name="Boros Signet" setShortName="CLU" collectorNumber="220" uuid="df8388ee-5d1d-4144-a8b1-e555da72ad6b"/>
         <card number="5" name="Plains"/>
         <card number="1" name="Sokenzan, Crucible of Defiance"/>
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Command Tower"/>
+        <card number="1" name="Mavinda, Students' Advocate" setShortName="STX" collectorNumber="291" uuid="e32e0bb1-073f-4583-ad9c-1dc0c7eb8ef8"/>
         <card number="1" name="Battlefield Forge"/>
+        <card number="1" name="Talisman of Conviction" setShortName="CMM" collectorNumber="978" uuid="293a58b9-2cf5-4898-8261-b7c51edc2051"/>
         <card number="1" name="Loki, God of Lies" setShortName="MSC" collectorNumber="512" uuid="b519a04b-64a6-456f-b02a-a54be50342be"/>
         <card number="1" name="Shatterskull Smashing"/>
         <card number="1" name="Plateau"/>
@@ -21,24 +27,22 @@
         <card number="1" name="Reflecting Pool"/>
         <card number="1" name="Labyrinth Champion"/>
         <card number="1" name="Storm-Kiln Artist"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="PLST" collectorNumber="CHK-282" uuid="eb444c1e-0655-4251-9ecf-ad03473c6bb5"/>
         <card number="1" name="Fell the Mighty"/>
         <card number="1" name="The Vision" setShortName="MSH" collectorNumber="255" uuid="2961cf20-33c8-4e66-9d0f-6daca8ea7880"/>
         <card number="1" name="Heroic Sacrifice" setShortName="MSC" collectorNumber="18" uuid="ec7bd155-1dd6-4fc3-870f-e0905f8c6d42"/>
+        <card number="1" name="Sundown Pass" setShortName="SOS" collectorNumber="305" uuid="ac70c9ae-5115-46db-9ef8-05c475c88154"/>
         <card number="1" name="The Vision and Scarlet Witch" setShortName="MSC" collectorNumber="707" uuid="930afb5f-54b7-4cca-8c28-3e48938f3a43"/>
         <card number="1" name="HULK SMASH!" setShortName="MSH" collectorNumber="135" uuid="374ffb3e-0753-4682-936a-ae6921ace475"/>
         <card number="1" name="Birgi, God of Storytelling"/>
-        <card number="1" name="Mavinda, Students' Advocate"/>
         <card number="1" name="Monastery Mentor"/>
         <card number="1" name="Onward // Victory"/>
         <card number="1" name="Soul's Fire"/>
         <card number="1" name="Arcbond"/>
         <card number="1" name="Eerie Interlude"/>
         <card number="1" name="Coalition Relic"/>
-        <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Shelter"/>
         <card number="1" name="Temur Battle Rage"/>
-        <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Boros Signet"/>
         <card number="1" name="Livewire Lash"/>
         <card number="1" name="Reckless Charge"/>
         <card number="1" name="Loran's Escape"/>
@@ -54,7 +58,6 @@
         <card number="1" name="Sacred Foundry"/>
         <card number="1" name="Fists of Flame"/>
         <card number="1" name="Chandra's Ignition"/>
-        <card number="1" name="Talisman of Conviction"/>
         <card number="1" name="Reckless Rage"/>
         <card number="1" name="Heal"/>
         <card number="1" name="Urabrask"/>
@@ -71,7 +74,6 @@
         <card number="1" name="Decanter of Endless Water"/>
         <card number="1" name="Legion Leadership"/>
         <card number="1" name="Unexplained Absence"/>
-        <card number="1" name="Sundown Pass"/>
         <card number="1" name="Clever Concealment"/>
         <card number="1" name="Crimson Wisps"/>
         <card number="1" name="Rabid Gnaw"/>
@@ -80,7 +82,6 @@
         <card number="1" name="Leyline of Resonance"/>
         <card number="1" name="Ephemeral Shields"/>
         <card number="1" name="Arena of Glory"/>
-        <card number="1" name="Frontline Heroism"/>
         <card number="1" name="Giggling Skitterspike"/>
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Generous Gift"/>
@@ -88,7 +89,6 @@
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Balefire Liege" setShortName="2X2" collectorNumber="180" uuid="3ed13445-c9a0-4f17-aa69-af353679e6a7"/>
         <card number="1" name="Mirrorwing Dragon" setShortName="INR" collectorNumber="165" uuid="409aa60d-ce4f-4019-b5b9-702ab94ed429"/>
-        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="LTC" collectorNumber="374" uuid="f6cd3fbc-908d-4653-a133-e35843a5ac65"/>
         <card number="1" name="Lindblum, Industrial Regency // Mage Siege" setShortName="FIN" collectorNumber="312" uuid="b2ae92d9-7047-424e-a482-2311888a8c56"/>
         <card number="1" name="Eiganjo Castle" setShortName="PLST" collectorNumber="CHK-275" uuid="cf4691a5-074d-42c2-af22-881d141b79e8"/>
         <card number="1" name="Eiganjo, Seat of the Empire" setShortName="NEO" collectorNumber="268" uuid="c375a022-5b57-496d-a802-e4ea8376e9e4"/>

@@ -1,30 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 16:35:30 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 15:12:41 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="">Reyhan, Last of the Abzan</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="side">
-        <card number="1" name="Reyhan, Last of the Abzan"/>
-        <card number="1" name="Bruse Tarl, Boorish Herder"/>
+        <card number="1" name="Bruse Tarl, Boorish Herder" setShortName="PZ2" collectorNumber="56" uuid="f988e82c-73a3-45a2-b257-386545f496e2"/>
+        <card number="1" name="Reyhan, Last of the Abzan" setShortName="CM2" collectorNumber="13" uuid="8afad106-a49b-4910-959e-228c109ea983"/>
     </zone>
     <zone name="main">
+        <card number="1" name="Akroma's Will" setShortName="LCC" collectorNumber="125" uuid="608cdbdb-6f7e-438a-bab0-0e7782435f0f"/>
         <card number="1" name="Titanic Brawl"/>
-        <card number="1" name="Winding Constrictor"/>
         <card number="1" name="Cursed Wombat"/>
-        <card number="1" name="Together Forever"/>
+        <card number="1" name="Shadowspear" setShortName="THB" collectorNumber="345" uuid="131cb967-9569-4fbf-8143-c410d3a94538"/>
         <card number="1" name="Hardened Scales"/>
         <card number="1" name="Rishkar, Peema Renegade"/>
+        <card number="1" name="The Ozolith" setShortName="IKO" collectorNumber="237" uuid="9341ed06-53db-4604-b60a-3ea9129afbc2"/>
         <card number="1" name="Evolution Witness"/>
         <card number="1" name="Stalwart Successor"/>
         <card number="1" name="Rhythm of the Wild"/>
         <card number="1" name="Taurean Mauler"/>
         <card number="1" name="Invigorating Hot Spring"/>
+        <card number="1" name="Gyre Sage" setShortName="MIC" collectorNumber="140" uuid="b4b3160e-5f88-456d-913e-a55e072e6326"/>
+        <card number="1" name="Halana and Alena, Partners" setShortName="FDN" collectorNumber="659" uuid="b649f459-c9dc-495d-8703-b685996bb80c"/>
+        <card number="1" name="Together Forever" setShortName="MOC" collectorNumber="212" uuid="2b22e344-97ae-4e25-9bf9-004ac30c2fd6"/>
         <card number="1" name="Pir, Imaginative Rascal"/>
         <card number="1" name="Branching Evolution"/>
         <card number="1" name="Captured by Lagacs"/>
+        <card number="1" name="Overgrown Farmland" setShortName="MID" collectorNumber="283" uuid="a46aa097-ad92-4f9a-be52-e4e485a8fe99"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Selfless Squire"/>
         <card number="1" name="Corpsejack Menace"/>
@@ -37,6 +42,7 @@
         <card number="1" name="Damning Verdict"/>
         <card number="1" name="Uncivil Unrest"/>
         <card number="1" name="Forest"/>
+        <card number="1" name="Winding Constrictor" setShortName="AER" collectorNumber="140" uuid="107c8aa8-c8f8-4cbf-821b-bd2cb33354f0"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Sacred Foundry"/>
@@ -47,7 +53,6 @@
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Temple Garden"/>
         <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Savai Triome"/>
@@ -57,11 +62,9 @@
         <card number="1" name="Bayou"/>
         <card number="1" name="Karn's Bastion"/>
         <card number="1" name="Revitalizing Repast"/>
-        <card number="1" name="The Ozolith"/>
         <card number="1" name="Ozolith, the Shattered Spire"/>
         <card number="1" name="Innkeeper's Talent"/>
         <card number="1" name="Incubation Druid"/>
-        <card number="1" name="Gyre Sage"/>
         <card number="1" name="Conclave Mentor"/>
         <card number="1" name="Hollowmurk Siege"/>
         <card number="1" name="Managorger Hydra"/>
@@ -69,7 +72,6 @@
         <card number="1" name="Kami of Whispered Hopes"/>
         <card number="1" name="Forgotten Ancient"/>
         <card number="1" name="Felisa, Fang of Silverquill"/>
-        <card number="1" name="Halana and Alena, Partners"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="All Will Be One"/>
         <card number="1" name="Kalonian Hydra"/>
@@ -80,7 +82,6 @@
         <card number="1" name="Season of Gathering" setShortName="BLB" collectorNumber="192" uuid="71dd3c27-e0d5-434e-a0f3-4a95245e21c2"/>
         <card number="1" name="Maester Seymour" setShortName="FIC" collectorNumber="68" uuid="f6a4267b-aa76-4dec-bc72-252236c44968"/>
         <card number="1" name="Herd Heirloom" setShortName="PTDM" collectorNumber="144p" uuid="5579a3ac-7fdb-4204-b44e-fe0174f78cfa"/>
-        <card number="1" name="Shadowspear" setShortName="LTC" collectorNumber="353" uuid="0e818a8b-d0b1-4524-91b7-89ee03d12e41"/>
         <card number="1" name="Garruk's Uprising" setShortName="AFC" collectorNumber="159" uuid="7de1015f-8371-4fa6-817f-d10d11d50093"/>
         <card number="1" name="Stomping Ground" setShortName="CLU" collectorNumber="281" uuid="3c54b71a-f4cb-4418-b886-5253151ad36a"/>
         <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
@@ -104,7 +105,6 @@
         <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
         <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
         <card number="1" name="Isolated Chapel" setShortName="DMR" collectorNumber="249" uuid="d359281b-b509-41be-a820-c7ac9f36f27f"/>
-        <card number="1" name="Akroma's Will" setShortName="FCA" collectorNumber="21" uuid="fc9c542d-ff46-4193-9972-68287879a8a0"/>
         <card number="1" name="Redirect Lightning" setShortName="PTLA" collectorNumber="151s" uuid="bb439d44-be40-49aa-9ca1-0f2e8206f32e"/>
         <card number="1" name="Opal Palace" setShortName="40K" collectorNumber="286" uuid="eb4e0145-c339-4c60-aacf-67d8e785df49"/>
         <card number="1" name="Master Warcraft" setShortName="CMR" collectorNumber="447" uuid="a95749cf-dd12-4bca-a74d-01301b9b76df"/>

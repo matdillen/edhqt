@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:06:34 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 13:45:25 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Volo, Guide to Monsters</bannerCard>
     <comments></comments>
     <tags/>
@@ -10,15 +11,22 @@
     </zone>
     <zone name="main">
         <card number="1" name="Prosperous Innkeeper"/>
+        <card number="1" name="Ancient Tomb" setShortName="PLST" collectorNumber="TMP-315" uuid="2189b1cb-94c4-4477-a5ef-17a1ae2c6708"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Thieving Skydiver"/>
         <card number="1" name="Gilded Drake"/>
+        <card number="1" name="Command Beacon" setShortName="OTC" collectorNumber="279" uuid="4ff61202-fb5e-4cea-a5ea-168505ac31e1"/>
         <card number="1" name="Heroic Intervention"/>
+        <card number="1" name="Dreamroot Cascade" setShortName="INR" collectorNumber="277" uuid="4d413c29-e7df-4943-8a38-92ad3de4f507"/>
         <card number="1" name="Druid's Deliverance"/>
         <card number="1" name="Familiar's Ruse"/>
+        <card number="4" name="Island" setShortName="INR" collectorNumber="291" uuid="4f8d16ec-cba6-43b7-be97-5ab184941e29"/>
         <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Cemetery Prowler" setShortName="PVOW" collectorNumber="191p" uuid="269c0bf3-a1fe-429c-911c-9a65b5b0da63"/>
         <card number="1" name="City of Death"/>
         <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Mystifying Maze" setShortName="C17" collectorNumber="264" uuid="faeeb2f8-0aa1-4f3e-848d-f4233996055b"/>
+        <card number="1" name="Three Steps Ahead" setShortName="OTJ" collectorNumber="323" uuid="be980c3b-b4ab-4ed7-9f61-d8db54c226d9"/>
         <card number="1" name="Man-o'-War"/>
         <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Amphin Mutineer"/>
@@ -41,7 +49,6 @@
         <card number="1" name="Astral Dragon"/>
         <card number="1" name="Bane of Progress"/>
         <card number="6" name="Forest"/>
-        <card number="4" name="Island"/>
         <card number="1" name="Waterlogged Grove"/>
         <card number="1" name="Lumbering Falls"/>
         <card number="1" name="Botanical Sanctum"/>
@@ -49,8 +56,6 @@
         <card number="1" name="Yavimaya Coast"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Breeding Pool"/>
-        <card number="1" name="Command Beacon"/>
-        <card number="1" name="Mystifying Maze"/>
         <card number="1" name="Academy Ruins"/>
         <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Jwari Disruption"/>
@@ -69,7 +74,6 @@
         <card number="1" name="Season of Weaving"/>
         <card number="1" name="Irenicus's Vile Duplication"/>
         <card number="1" name="Spark Double"/>
-        <card number="1" name="Three Steps Ahead"/>
         <card number="1" name="For the Common Good"/>
         <card number="1" name="Rootcast Apprenticeship"/>
         <card number="1" name="Dino DNA"/>
@@ -80,7 +84,6 @@
         <card number="1" name="Momentous Fall"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Littjara Mirrorlake"/>
-        <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Fierce Guardianship"/>
         <card number="1" name="Elminster's Simulacrum"/>
         <card number="1" name="Bramble Sovereign"/>
@@ -91,11 +94,9 @@
         <card number="1" name="Aggressive Biomancy" setShortName="M3C" collectorNumber="69" uuid="24cf121b-c6ad-4425-a2fc-7ce185cd30ef"/>
         <card number="1" name="Quantum Riddler" setShortName="EOE" collectorNumber="72" uuid="120be808-ff3b-4fca-96a1-4db6b9825856"/>
         <card number="1" name="Starwinder" setShortName="EOE" collectorNumber="79" uuid="27d1a010-5790-4b35-9fdc-0e366eed021d"/>
-        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
         <card number="1" name="See Double" setShortName="MOM" collectorNumber="77" uuid="41634103-7b58-4feb-84b7-90a07a7b474f"/>
         <card number="1" name="Springheart Nantuko" setShortName="MH3" collectorNumber="171" uuid="54a3ea87-005e-4985-b2a5-21711d0b71c0"/>
         <card number="1" name="Lithoform Engine" setShortName="BRC" collectorNumber="146" uuid="c579956f-900a-4574-a68b-3c1d92ea67b6"/>
-        <card number="1" name="Cemetery Prowler" setShortName="DBL" collectorNumber="458" uuid="ecbc55f2-1269-4306-821b-7694288d0639"/>
         <card number="1" name="Aboleth Spawn" setShortName="CLB" collectorNumber="612" uuid="01693860-2f79-4777-b2f5-5ebfbff8ad42"/>
         <card number="1" name="Willow Satyr" setShortName="ME3" collectorNumber="139" uuid="2afe33f6-d93b-4ca5-bf21-396efbb9b94f"/>
         <card number="1" name="Sink into Stupor" setShortName="MH3" collectorNumber="241" uuid="5358b87a-1a29-426d-b165-40c97da2c14d"/>

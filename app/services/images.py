@@ -1,15 +1,23 @@
 from pathlib import Path
-from typing import Dict, Optional
+from typing import Dict, Iterable, Optional, Tuple
 import os
 import time
 import requests
 import csv
+import re
 
 # scryfall API endpoint for exact name lookup
 SCRYFALL_NAMED_URL = "https://api.scryfall.com/cards/named"
 # Default app image cache directory
 APP_IMG_CACHE = Path("data/img")
 APP_IMG_INDEX = "data/img_index.csv"
+COCKATRICE_CACHE_IMPORT = APP_IMG_CACHE / "cockatrice-cache"
+IMAGE_SUFFIXES = (".jpg", ".jpeg", ".png", ".webp")
+IMAGE_SIGNATURES = (
+    (b"\xff\xd8\xff", ".jpg"),
+    (b"\x89PNG\r\n\x1a\n", ".png"),
+    (b"RIFF", ".webp"),
+)
 
 def ensure_app_cache_dir(path: Optional[Path] = None) -> Path:
     """Ensure the app's own image cache directory exists and return it."""
@@ -97,7 +105,9 @@ def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = APP_IM
     lookup: Dict[str, str] = {}
 
 
-    def _scan(folder: Optional[Path]):
+    import_dir = ensure_app_cache_dir(COCKATRICE_CACHE_IMPORT) if app_cache_dir else None
+
+    def _scan(folder: Optional[Path], extract_cockatrice_cache: bool = True):
         if not folder:
             return
         folder = Path(folder)
@@ -106,9 +116,15 @@ def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = APP_IM
         for root, _, files in os.walk(folder):
             for f in files:
                 lf = f.lower()
-                if lf.endswith((".jpg", ".jpeg", ".png")):
+                path = Path(root) / f
+                if lf.endswith(IMAGE_SUFFIXES):
                     name = safe_stem(os.path.splitext(f)[0])
-                    lookup[name] = str(Path(root) / f)
+                    lookup[name] = str(path)
+                elif extract_cockatrice_cache and lf.endswith(".d") and import_dir:
+                    imported = import_cockatrice_cache_file(path, import_dir)
+                    if imported:
+                        name, image_path = imported
+                        lookup[name] = str(image_path)
 
 
     # 1) User-provided folder from config
@@ -116,12 +132,90 @@ def build_image_lookup(primary_dir: Path, app_cache_dir: Optional[Path] = APP_IM
 
 
     # 2) App's own cache
-    _scan(ensure_app_cache_dir(app_cache_dir))
+    _scan(ensure_app_cache_dir(app_cache_dir), extract_cockatrice_cache=False)
 
 
     return lookup
 
-def get_image_lookup(source_directory: Optional[str] = None) -> Dict[str, str]:
+
+def build_image_lookup_from_dirs(source_dirs: Iterable[Optional[Path]], app_cache_dir: Optional[Path] = APP_IMG_CACHE) -> Dict[str, str]:
+    """Build a single image lookup from several image/cache roots."""
+    lookup: Dict[str, str] = {}
+    for source_dir in source_dirs:
+        if source_dir:
+            lookup.update(build_image_lookup(Path(source_dir), app_cache_dir=app_cache_dir))
+    return lookup
+
+
+def import_cockatrice_cache_file(cache_file: Path, output_dir: Path = COCKATRICE_CACHE_IMPORT) -> Optional[Tuple[str, Path]]:
+    """Extract an image embedded in a Cockatrice/Qt network cache .d file.
+
+    Cockatrice stores Scryfall HTTP responses as Qt cache entries: metadata first,
+    then the raw image payload. The leading metadata means QPixmap and browsers
+    should not read the .d file directly, so this normalizes it into a regular
+    image file and returns (safe card key, image path).
+    """
+    try:
+        raw = Path(cache_file).read_bytes()
+    except OSError:
+        return None
+
+    filename = _cache_content_filename(raw)
+    if not filename:
+        return None
+
+    image_offset, extension = _embedded_image_offset(raw)
+    if image_offset < 0:
+        return None
+
+    set_code, card_key = _card_key_from_cache_filename(filename)
+    if not card_key:
+        return None
+
+    target_dir = output_dir / safe_stem(set_code or "_unknown")
+    target_dir.mkdir(parents=True, exist_ok=True)
+    target = target_dir / f"{card_key}{extension}"
+    if not target.exists():
+        target.write_bytes(raw[image_offset:])
+    return card_key, target
+
+
+def _embedded_image_offset(raw: bytes) -> Tuple[int, str]:
+    found = [item for item in ((raw.find(signature), extension) for signature, extension in IMAGE_SIGNATURES) if item[0] >= 0]
+    if not found:
+        return -1, ""
+    return min(found, key=lambda item: item[0])
+
+
+def _cache_content_filename(raw: bytes) -> str:
+    match = re.search(rb'filename="?([^"\x00\r\n;]+)"?', raw)
+    if not match:
+        return ""
+    try:
+        return match.group(1).decode("utf-8")
+    except UnicodeDecodeError:
+        return match.group(1).decode("cp1252", errors="ignore")
+
+
+def _card_key_from_cache_filename(filename: str) -> Tuple[str, str]:
+    stem = Path(filename).stem.strip().lower()
+    pieces = [piece for piece in stem.split("-") if piece]
+    if len(pieces) < 3:
+        return "", safe_stem(stem)
+
+    set_code = pieces[0]
+    collector_end = 1
+    while collector_end + 1 < len(pieces) and _looks_like_collector_piece(pieces[collector_end + 1]):
+        collector_end += 1
+
+    card_name = " ".join(pieces[collector_end + 1:])
+    return set_code, safe_stem(card_name)
+
+
+def _looks_like_collector_piece(piece: str) -> bool:
+    return bool(re.fullmatch(r"[a-z]*\d+[a-z]*|[a-z]", piece or ""))
+
+def get_image_lookup(source_directory: Optional[object] = None) -> Dict[str, str]:
     """
     Retrieves a lookup dictionary from a CSV. If a source_directory is provided,
     it regenerates the lookup and updates the CSV file.
@@ -129,8 +223,10 @@ def get_image_lookup(source_directory: Optional[str] = None) -> Dict[str, str]:
     
     # Scenario A: Update the CSV with new data from build_image_lookup
     if source_directory:
-        # Assuming build_image_lookup is defined globally or imported
-        image_lookup = build_image_lookup(source_directory)
+        if isinstance(source_directory, (str, Path)):
+            image_lookup = build_image_lookup(Path(source_directory))
+        else:
+            image_lookup = build_image_lookup_from_dirs(source_directory)
         
         with open(APP_IMG_INDEX, mode='w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)

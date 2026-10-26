@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 14:05:57 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 15:19:31 2026</lastLoadedTimestamp>
     <deckname>jaheira</deckname>
     <format></format>
     <bannerCard providerId="">Jaheira, Friend of the Forest</bannerCard>
@@ -12,22 +12,28 @@
     </zone>
     <zone name="main">
         <card number="1" name="Helm of Possession"/>
+        <card number="1" name="Akroma's Will" setShortName="LCC" collectorNumber="125" uuid="608cdbdb-6f7e-438a-bab0-0e7782435f0f"/>
         <card number="1" name="Canoptek Scarab Swarm"/>
         <card number="1" name="Anointed Procession"/>
         <card number="1" name="Royal Talon Fighter Jet" setShortName="MSC" collectorNumber="24" uuid="e94da91d-6c76-4909-91e3-2f8d97398654"/>
+        <card number="1" name="Duty Beyond Death" setShortName="TDM" collectorNumber="10" uuid="2e92640d-768b-4357-905f-bea017d351cc"/>
         <card number="1" name="Humility"/>
-        <card number="1" name="Parallel Lives"/>
+        <card number="1" name="Kabira Takedown" setShortName="ZNR" collectorNumber="19" uuid="366e9845-019d-47cc-adb8-8fbbaad35b6d"/>
+        <card number="1" name="Staff of the Storyteller" setShortName="ONC" collectorNumber="10" uuid="ab1d1461-1625-4163-aacd-a939f4871fad"/>
+        <card number="1" name="Throne of the God-Pharaoh" setShortName="PAKH" collectorNumber="237s" uuid="6a029306-10c6-4b39-bebe-a7160b6d4f4c"/>
         <card number="1" name="Aura Shards"/>
         <card number="1" name="Mirror Entity"/>
+        <card number="1" name="Overgrown Farmland" setShortName="MID" collectorNumber="283" uuid="a46aa097-ad92-4f9a-be52-e4e485a8fe99"/>
+        <card number="1" name="Parallel Lives" setShortName="ISD" collectorNumber="199" uuid="01033dae-fec1-41f2-b7f2-cc6a43331790"/>
+        <card number="1" name="Nissa's Expedition" setShortName="C21" collectorNumber="200" uuid="815701df-3ed1-417a-bd9a-fdb9f4802c39"/>
         <card number="1" name="Beastmaster Ascension"/>
         <card number="1" name="Scute Swarm"/>
+        <card number="1" name="Savannah" setShortName="CEI" collectorNumber="281" uuid="75e4bacd-5963-49a8-95e3-67341c1f07a9"/>
         <card number="1" name="Arachnogenesis"/>
         <card number="1" name="Tribute to the World Tree"/>
         <card number="1" name="Mentor of the Meek"/>
         <card number="1" name="Harvest Season"/>
         <card number="1" name="Horn of Valhalla // Ysgard's Call"/>
-        <card number="1" name="Throne of the God-Pharaoh"/>
-        <card number="1" name="Staff of the Storyteller"/>
         <card number="1" name="Mirrex"/>
         <card number="1" name="Hall of Heliod's Generosity"/>
         <card number="1" name="Temple Garden"/>
@@ -53,7 +59,6 @@
         <card number="1" name="Awaken the Woods"/>
         <card number="1" name="Martial Coup"/>
         <card number="1" name="Ojer Taq, Deepest Foundation"/>
-        <card number="1" name="Nissa's Expedition"/>
         <card number="1" name="Shamanic Revelation"/>
         <card number="1" name="Camaraderie"/>
         <card number="1" name="Secure the Wastes"/>
@@ -61,7 +66,6 @@
         <card number="1" name="White Sun's Twilight"/>
         <card number="1" name="Conqueror's Pledge"/>
         <card number="1" name="Three Tree City"/>
-        <card number="1" name="Overgrown Farmland"/>
         <card number="1" name="Moonshaker Cavalry"/>
         <card number="1" name="Avenger of Zendikar"/>
         <card number="1" name="Illustrious Wanderglyph"/>
@@ -74,15 +78,12 @@
         <card number="1" name="Caretaker's Talent"/>
         <card number="1" name="Fountainport"/>
         <card number="1" name="Elesh Norn"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="Oran-Rief, the Vastwood"/>
         <card number="1" name="Hornet Queen"/>
-        <card number="1" name="Savannah"/>
         <card number="1" name="Crisis of Conscience"/>
         <card number="1" name="Season of the Burrow"/>
         <card number="1" name="Everything Comes to Dust"/>
         <card number="1" name="Entrapment Maneuver"/>
-        <card number="1" name="Duty Beyond Death"/>
         <card number="1" name="Call the Coppercoats"/>
         <card number="1" name="Elspeth, Storm Slayer"/>
         <card number="1" name="Idol of Oblivion"/>
@@ -90,7 +91,6 @@
         <card number="1" name="Bennie Bracks, Zoologist"/>
         <card number="1" name="Wooded Bastion" setShortName="PLST" collectorNumber="2XM-332" uuid="4040f465-9220-4e5d-98ff-7a13cec2dba2"/>
         <card number="1" name="Champions from Beyond" setShortName="FIC" collectorNumber="11" uuid="d1031ce5-063f-4c38-a6a9-abc15d254dfc"/>
-        <card number="1" name="Kabira Takedown" setShortName="PIO" collectorNumber="19" uuid="deeb3dc0-49c4-4699-9125-00520235d370"/>
         <card number="1" name="Exalted Sunborn" setShortName="EOE" collectorNumber="15" uuid="7e1fe101-f634-41e5-9aa4-e8d7474535dc"/>
         <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
         <card number="1" name="Strength of the Harvest" setShortName="MH3" collectorNumber="258" uuid="a7143aa7-b16d-4e63-910c-6ceec55483f3"/>

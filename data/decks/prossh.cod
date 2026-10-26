@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Mon May 18 12:20:41 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 15:32:48 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="25260f47-2daa-4177-9950-ee792beffffc">Prossh, Skyraider of Kher</bannerCard>
@@ -11,21 +11,27 @@
     </zone>
     <zone name="main">
         <card number="1" name="Agent of the Iron Throne" setShortName="CLB" collectorNumber="107" uuid="5a5984d3-1e76-4d97-9373-b59cfa9c38ae"/>
+        <card number="1" name="Ashnod's Altar" setShortName="BRR" collectorNumber="67z" uuid="f35ff4b7-c55a-4ede-ae73-b6c648d25613"/>
         <card number="1" name="Anger" setShortName="AFC" collectorNumber="113" uuid="0c7ce363-3f57-49ed-b89a-f12bb5227ab4"/>
         <card number="1" name="Marionette Apprentice" setShortName="MH3" collectorNumber="100" uuid="d16f8670-f038-400a-83e7-a53a7f8c47ac"/>
         <card number="1" name="Immoral Bargain" setShortName="SOC" collectorNumber="47" uuid="fc01f092-80fb-4643-8ada-c2e5aeb68658"/>
         <card number="1" name="Blood Artist" setShortName="2X2" collectorNumber="70" uuid="693dd112-d04a-4404-8fce-74f7e5497312"/>
         <card number="1" name="Cryptolith Rite" setShortName="INR" collectorNumber="189" uuid="0a4e707f-b760-434d-ba97-a0fe651f3f6a"/>
+        <card number="1" name="Gardenize" setShortName="FRA" collectorNumber="103" uuid="930b89c3-4433-48de-829f-20fc3dbfced9"/>
+        <card number="1" name="Command Beacon" setShortName="OTC" collectorNumber="279" uuid="4ff61202-fb5e-4cea-a5ea-168505ac31e1"/>
+        <card number="1" name="Goblin Bombardment" setShortName="TMP" collectorNumber="179" uuid="179e954f-1d90-4ef4-b800-25845cc338e2"/>
         <card number="1" name="Jeska's Will" setShortName="CLB" collectorNumber="799" uuid="3308993d-8bfb-477a-887a-89ed35577f57"/>
         <card number="1" name="Altar of Bhaal // Bone Offering" setShortName="CLB" collectorNumber="109" uuid="37bd2e21-b292-4c86-bd01-010d4a1af7b2"/>
+        <card number="1" name="Haunted Ridge" setShortName="MID" collectorNumber="282" uuid="91f67a64-b97d-473a-be9d-c8044ff86605"/>
         <card number="1" name="Agate Instigator" setShortName="BLC" collectorNumber="21" uuid="9f838603-f7cd-497d-8d2b-d4cca03c1af7"/>
         <card number="1" name="Earthcraft" setShortName="TMP" collectorNumber="222" uuid="9dda7531-82a1-4f49-8858-601ddbc6e2bc"/>
         <card number="1" name="Roar of Resistance" setShortName="ONC" collectorNumber="15" uuid="f5eb9570-6203-4a03-9a3e-e5c679df5903"/>
+        <card number="1" name="Parallel Lives" setShortName="ISD" collectorNumber="199" uuid="01033dae-fec1-41f2-b7f2-cc6a43331790"/>
         <card number="1" name="Impact Tremors" setShortName="FDN" collectorNumber="717" uuid="d0b7cecf-b51b-4d30-b7e9-cd7976271e07"/>
         <card number="1" name="Pause for Reflection" setShortName="GRN" collectorNumber="140" uuid="3cfcf84c-a30c-4c4f-9f8c-ee807661e499"/>
+        <card number="1" name="The Meathook Massacre" setShortName="INR" collectorNumber="387" uuid="09dbe391-a817-4347-986f-13849746db56"/>
         <card number="1" name="Myth Unbound" setShortName="C18" collectorNumber="32" uuid="b88ca71b-de1f-497c-b094-8fe954cf8223"/>
         <card number="1" name="Mahadi, Emporium Master" setShortName="CLB" collectorNumber="282" uuid="c3da2b1a-76c5-4d36-bdf8-025b86f61eb5"/>
-        <card number="1" name="Ashnod's Altar" setShortName="BCHR" collectorNumber="92" uuid="5ce31f0e-f5de-4b01-83a9-28ed441cb99b"/>
         <card number="1" name="Mayhem Devil" setShortName="DSC" collectorNumber="225" uuid="087ff277-902f-4285-93b6-dc18e6d4fe15"/>
         <card number="1" name="Stormclaw Rager" setShortName="MOM" collectorNumber="254" uuid="3b00c6e1-dfda-4c47-b1d8-4c114a921477"/>
         <card number="1" name="Chatterfang, Squirrel General" setShortName="BLC" collectorNumber="82" uuid="2bb8c103-37c3-4c5f-9b3f-48d8b2292783"/>
@@ -52,7 +58,6 @@
         <card number="1" name="Bloodsoaked Insight" setShortName="MH3" collectorNumber="252" uuid="0a08e0d2-1e60-47f5-9228-4c11a127089d"/>
         <card number="1" name="Dragonskull Summit" setShortName="DMC" collectorNumber="207" uuid="8c5a9cb7-6c97-47fd-acd0-bc6dd11b77b4"/>
         <card number="1" name="Bloodstained Mire" setShortName="MH3" collectorNumber="216" uuid="579743fe-f71e-4cb2-8629-d6b02ed1591d"/>
-        <card number="1" name="Haunted Ridge" setShortName="DBL" collectorNumber="263" uuid="e0652666-0b36-4e65-8c5b-8b7b25c6e6fd"/>
         <card number="1" name="Blood Crypt" setShortName="CLU" collectorNumber="274" uuid="a01e1e92-feb3-4880-bcf3-9e1ac90911b8"/>
         <card number="2" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="2" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
@@ -61,7 +66,6 @@
         <card number="1" name="Phyrexian Tower" setShortName="MH3" collectorNumber="303" uuid="0b47f6d2-9f65-47a4-bfc4-15619befe53d"/>
         <card number="1" name="Rogue's Passage" setShortName="CLB" collectorNumber="913" uuid="e1f1dd27-be41-4bfa-b59d-3a002647f1ad"/>
         <card number="1" name="Westvale Abbey" setShortName="INR" collectorNumber="287" uuid="5fbc6091-a161-45b0-9932-543b569caaee"/>
-        <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
         <card number="1" name="Spymaster's Vault" setShortName="MH3" collectorNumber="230" uuid="3d5fbb30-abfc-4e79-8ce5-bbb04a241c9f"/>
         <card number="1" name="Bayou" setShortName="30A" collectorNumber="274" uuid="538dfd90-5215-4aa0-8e10-1e6fd9f717c8"/>
         <card number="1" name="Overgrown Tomb" setShortName="CLU" collectorNumber="278" uuid="2c92e23a-329e-41f9-b5ca-577050be0b7e"/>
@@ -78,7 +82,6 @@
         <card number="1" name="Dragon Broodmother" setShortName="PLST" collectorNumber="ARB-53" uuid="e178108d-7347-405c-91ac-64bb012aa443"/>
         <card number="1" name="Springleaf Parade" setShortName="ECC" collectorNumber="19" uuid="44265489-645a-43b0-bc1f-726905b06876"/>
         <card number="1" name="Blood for the Blood God!" setShortName="40K" collectorNumber="108" uuid="f41d59f6-7fbe-4e67-8098-190b01281fe0"/>
-        <card number="1" name="The Meathook Massacre" setShortName="DBL" collectorNumber="112" uuid="dce4819c-7f2f-4bed-b02d-d2b7a6c2ad9a"/>
         <card number="1" name="Dictate of Erebos" setShortName="PIO" collectorNumber="91" uuid="ec2265b7-1851-4e35-ade5-582054570747"/>
         <card number="1" name="Black Market" setShortName="CLB" collectorNumber="739" uuid="78c80c6d-f3ae-48d3-ba6a-b9b738e1affb"/>
         <card number="1" name="Mazirek, Kraul Death Priest" setShortName="EOC" collectorNumber="122" uuid="1522122b-e4bf-4dba-b22c-efa18bc6c33b"/>
@@ -86,7 +89,6 @@
         <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
         <card number="1" name="Doubling Season" setShortName="CMM" collectorNumber="283" uuid="1cdd8e69-5a71-4933-914e-dfede7b1ac93"/>
         <card number="1" name="Korvold, Fae-Cursed King" setShortName="EOC" collectorNumber="120" uuid="607c1793-8e5a-4ebf-87c6-7f9c99bbd29a"/>
-        <card number="1" name="Parallel Lives" setShortName="MAR" collectorNumber="36" uuid="0c9c514f-f506-4b2c-af58-79922834cde7"/>
         <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Arachnogenesis" setShortName="CMM" collectorNumber="272" uuid="ef6b1fd8-7c0b-4736-a100-cabd82052227"/>
@@ -101,10 +103,8 @@
         <card number="1" name="Body Count" setShortName="NCC" collectorNumber="34" uuid="024bf289-2802-4f11-aebf-9373ffbd9c46"/>
         <card number="1" name="Tibalt's Trickery" setShortName="KHM" collectorNumber="153" uuid="dd921e27-3e08-438c-bec2-723226d35175"/>
         <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
-        <card number="1" name="Goblin Bombardment" setShortName="MAR" collectorNumber="23" uuid="7ebd1f51-2db6-4c3f-95cb-8035a410a8e8"/>
         <card number="1" name="Zulaport Cutthroat" setShortName="BLC" collectorNumber="190" uuid="340efd40-6e1d-440e-b209-9b4993884e1d"/>
         <card number="1" name="Skullclamp" setShortName="40K" collectorNumber="248" uuid="04733881-38a3-404c-837f-fad3fc5a5647"/>
         <card number="1" name="Purphoros, God of the Forge" setShortName="CMM" collectorNumber="246" uuid="4736a2c4-c89c-48db-a104-6303e7e2eee8"/>
-        <card number="1" name="Tribute to the World Tree" setShortName="MOM" collectorNumber="211" uuid="c0cdeaba-fc21-44e6-bf99-aa1ff379401b"/>
     </zone>
 </cockatrice_deck>

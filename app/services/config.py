@@ -2,13 +2,15 @@ import json
 from pathlib import Path
 
 class AppConfig:
-    def __init__(self, decks_folder: str, db_path: str, image_folder: str, cache_file: str):
+    def __init__(self, decks_folder: str, db_path: str, image_folder: str, cache_file: str, cockatrice_cache_folder: str = ""):
         # path to dir with .cod deck files
         self.decks_folder = Path(decks_folder)
         # path to sqlite db file
         self.db_path = Path(db_path)
         # path to folder with saved scryfall images, using cockatrice's old caching system
         self.image_folder = Path(image_folder)
+        # path to Cockatrice's Qt network cache with .d files, optional
+        self.cockatrice_cache_folder = Path(cockatrice_cache_folder) if cockatrice_cache_folder else None
         # path to csv file with cached card data
         self.cache_file = Path(cache_file)
 
@@ -20,5 +22,6 @@ class AppConfig:
             decks_folder=cfg.get("decks_folder", "./decks"),
             db_path=cfg.get("db_path", "./allprintings.sqlite"),
             image_folder=cfg.get("image_folder", "./images"),
-            cache_file=cfg.get("cache_file", "./card_cache.csv")
+            cache_file=cfg.get("cache_file", "./card_cache.csv"),
+            cockatrice_cache_folder=cfg.get("cockatrice_cache_folder", "")
         )

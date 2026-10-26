@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Feb 11 21:06:38 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 15:40:42 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Sydri, Galvanic Genius</bannerCard>
     <comments></comments>
     <tags/>
@@ -9,17 +10,24 @@
         <card number="1" name="Sydri, Galvanic Genius"/>
     </zone>
     <zone name="main">
+        <card number="1" name="Avenge" setShortName="MSC" collectorNumber="11" uuid="8b385779-bc6b-4f67-8724-d8ae136d1436"/>
         <card number="1" name="Tezzeret, Betrayer of Flesh"/>
         <card number="1" name="Weatherlight"/>
         <card number="1" name="Shorikai, Genesis Engine"/>
         <card number="1" name="Research Thief"/>
+        <card number="1" name="Dovin's Veto" setShortName="TSR" collectorNumber="375" uuid="2392b542-5ae6-4d0e-808c-734f1d06afa4"/>
+        <card number="1" name="Final Showdown" setShortName="OTJ" collectorNumber="312" uuid="94397320-b814-487f-aca2-537517ff9eff"/>
+        <card number="1" name="Return to the Light Realms" setShortName="FRA" collectorNumber="20" uuid="9e72f397-2384-40f1-882b-f627664d97df"/>
         <card number="1" name="Canoptek Spyder"/>
+        <card number="1" name="Deserted Beach" setShortName="MID" collectorNumber="281" uuid="c092d9c5-538f-4667-9070-bdce7f8b522a"/>
         <card number="1" name="Parhelion II"/>
         <card number="1" name="Metalwork Colossus"/>
         <card number="1" name="Dance of the Manse"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Shimmer Myr"/>
         <card number="1" name="Liberator, Urza's Battlethopter"/>
+        <card number="1" name="Inventors' Fair" setShortName="PLST" collectorNumber="KLD-247" uuid="a4ba795a-8a08-4853-a7ca-cf3883a6f667"/>
+        <card number="2" name="Island" setShortName="WOE" collectorNumber="269" uuid="6245d2f8-8ef0-4d2a-9abb-99839dc3abf0"/>
         <card number="1" name="Peacewalker Colossus"/>
         <card number="1" name="Kotori, Pilot Prodigy"/>
         <card number="1" name="Greasefang, Okiba Boss"/>
@@ -27,13 +35,15 @@
         <card number="1" name="Swan Song"/>
         <card number="1" name="Talisman of Dominance"/>
         <card number="1" name="Talisman of Hierarchy"/>
+        <card number="1" name="Shattered Sanctum" setShortName="VOW" collectorNumber="283" uuid="9885da74-30bd-461d-98ca-0dc72d817dbd"/>
         <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Baleful Strix"/>
-        <card number="1" name="Unlicensed Hearse"/>
         <card number="1" name="Reckoner Bankbuster"/>
+        <card number="1" name="Snow-Covered Plains" setShortName="SLD" collectorNumber="1" uuid="3066cc8b-7a5a-4822-a202-dd560a4fda85"/>
         <card number="1" name="Jhoira's Toolbox"/>
         <card number="1" name="Godless Shrine"/>
         <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Unlicensed Hearse" setShortName="PSNC" collectorNumber="246s" uuid="6af0fdcb-2c7a-402e-8a1a-bd53509e2926"/>
         <card number="1" name="Drowned Catacomb"/>
         <card number="1" name="Watery Grave"/>
         <card number="1" name="Academy Ruins"/>
@@ -48,9 +58,7 @@
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Tundra"/>
-        <card number="2" name="Island"/>
         <card number="1" name="Plains"/>
-        <card number="1" name="Snow-Covered Plains"/>
         <card number="1" name="Swamp"/>
         <card number="1" name="Mysterious Limousine"/>
         <card number="1" name="Deluxe Dragster"/>
@@ -72,16 +80,12 @@
         <card number="1" name="Archway of Innovation"/>
         <card number="1" name="Underground Sea"/>
         <card number="1" name="Shipwreck Marsh"/>
-        <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Simulacrum Synthesizer"/>
-        <card number="1" name="Final Showdown"/>
         <card number="1" name="Unidentified Hovership"/>
         <card number="1" name="Redress Fate"/>
         <card number="1" name="Dawn's Truce"/>
         <card number="1" name="Arcane Denial"/>
         <card number="1" name="Teferi's Protection"/>
-        <card number="1" name="Dovin's Veto"/>
-        <card number="1" name="Deserted Beach"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="Tune Up"/>
         <card number="1" name="Interface Ace"/>
@@ -100,12 +104,9 @@
         <card number="1" name="Uthros Research Craft" setShortName="EOC" collectorNumber="7" uuid="6ade097b-349f-4876-bdc8-7bcd051e9952"/>
         <card number="1" name="Reins of Power" setShortName="CLB" collectorNumber="734" uuid="9b5730aa-c74a-4c74-bb1b-a133a3c353ec"/>
         <card number="1" name="Cosmic Intervention" setShortName="KHC" collectorNumber="3" uuid="933c4a54-5c3a-496b-aa35-edf791155d8d"/>
-        <card number="1" name="Karmic Justice" setShortName="WOT" collectorNumber="7" uuid="45078d81-91ea-402c-ab3c-8464fc2ebb42"/>
-        <card number="1" name="Inventors' Fair" setShortName="EOS" collectorNumber="21" uuid="06b24278-4d20-4d74-8be8-c8078e0a1873"/>
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
         <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
         <card number="1" name="Ethersworn Sphinx" setShortName="MH2" collectorNumber="195" uuid="315ae21a-4d95-488e-812b-0d018219af6c"/>
         <card number="1" name="Sunfall" setShortName="MOM" collectorNumber="349" uuid="b961b23d-a16f-4126-9293-2906dc2aba79"/>
-        <card number="1" name="Unstoppable Plan" setShortName="DFT" collectorNumber="72" uuid="aaeb5981-7e6a-4ffd-bb02-4757b2e92f08"/>
     </zone>
 </cockatrice_deck>

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 19:45:09 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 15:11:38 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Reki, the History of Kamigawa</bannerCard>
     <comments></comments>
     <tags/>
@@ -13,24 +14,27 @@
         <card number="1" name="War Room"/>
         <card number="1" name="Yavimaya Hollow"/>
         <card number="1" name="Tyrite Sanctum"/>
+        <card number="1" name="Ugin, the Spirit Dragon" setShortName="M21" collectorNumber="285" uuid="a11e75a0-17f0-429a-a77a-268fe6257010"/>
+        <card number="1" name="Khalni Ambush" setShortName="ZNR" collectorNumber="192" uuid="99535539-aa73-41ed-86ab-21c97b92620d"/>
+        <card number="1" name="Wrenn and Seven" setShortName="DSC" collectorNumber="207" uuid="213ac11e-f28f-46ed-b387-d83f59d2a82e"/>
         <card number="1" name="Buried Ruin"/>
-        <card number="1" name="Khalni Ambush"/>
         <card number="1" name="Yavimaya, Cradle of Growth"/>
         <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="PLST" collectorNumber="THS-223" uuid="1ac9577f-dd41-4e1a-a96b-6b615297425a"/>
         <card number="1" name="Demolition Field"/>
         <card number="1" name="Okina, Temple to the Grandfathers"/>
         <card number="1" name="Boseiju, Who Endures"/>
         <card number="1" name="Winding Canyons"/>
-        <card number="1" name="Nykthos, Shrine to Nyx"/>
         <card number="1" name="Blast Zone"/>
         <card number="1" name="Oviya Pashiri, Sage Lifecrafter"/>
+        <card number="1" name="Nissa, Vastwood Seer" setShortName="PLST" collectorNumber="ORI-189" uuid="aa4103ef-4778-41da-99f5-fa590074cd52"/>
+        <card number="1" name="Shadowspear" setShortName="PLST" collectorNumber="THB-236" uuid="769326d4-60af-4b19-85d9-d96d3acdb56e"/>
         <card number="1" name="The Filigree Sylex"/>
         <card number="1" name="Blackblade Reforged"/>
         <card number="1" name="Jolrael, Mwonvuli Recluse"/>
         <card number="1" name="Shigeki, Jukai Visionary"/>
         <card number="1" name="Mithril Coat"/>
         <card number="1" name="Azusa, Lost but Seeking"/>
-        <card number="1" name="Nissa, Vastwood Seer"/>
         <card number="1" name="Rhonas's Monument"/>
         <card number="1" name="Gwenna, Eyes of Gaea"/>
         <card number="1" name="Dosan the Falling Leaf"/>
@@ -44,13 +48,11 @@
         <card number="1" name="Traxos, Scourge of Kroog"/>
         <card number="1" name="Thran Temporal Gateway"/>
         <card number="1" name="Vorinclex"/>
-        <card number="1" name="Wrenn and Seven"/>
         <card number="1" name="Throne of Eldraine"/>
         <card number="1" name="Vivien Reid"/>
         <card number="1" name="Multani, Yavimaya's Avatar"/>
         <card number="1" name="Old Gnawbone"/>
         <card number="1" name="The Great Henge"/>
-        <card number="1" name="Ugin, the Spirit Dragon"/>
         <card number="1" name="The Tarrasque"/>
         <card number="1" name="Kamahl's Druidic Vow"/>
         <card number="1" name="Excalibur, Sword of Eden"/>
@@ -76,7 +78,6 @@
         <card number="1" name="Growing Rites of Itlimoc"/>
         <card number="1" name="Bitterthorn, Nissa's Animus"/>
         <card number="1" name="Eladamri, Korvecdal"/>
-        <card number="1" name="Shadowspear"/>
         <card number="1" name="Gerrard's Hourglass Pendant"/>
         <card number="1" name="Sword of the Animist"/>
         <card number="1" name="Mox Amber"/>

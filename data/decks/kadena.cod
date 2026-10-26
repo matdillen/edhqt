@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Wed Apr 15 00:20:44 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 12:01:41 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Kadena, Slinking Sorcerer</bannerCard>
     <comments></comments>
     <tags/>
@@ -11,15 +12,16 @@
     <zone name="main">
         <card number="2" name="Swamp"/>
         <card number="3" name="Forest"/>
-        <card number="3" name="Island"/>
         <card number="1" name="Obscuring Aether"/>
         <card number="1" name="Nervous Gardener"/>
         <card number="1" name="Grim Haruspex"/>
         <card number="1" name="Hunted Bonebrute"/>
+        <card number="1" name="Dreamroot Cascade" setShortName="VOW" collectorNumber="282" uuid="2997c3b1-0255-41be-9189-03da53838f63"/>
         <card number="1" name="Ainok Survivalist"/>
         <card number="1" name="Willbender"/>
         <card number="1" name="Stratus Dancer"/>
         <card number="1" name="Cyber Conversion"/>
+        <card number="3" name="Island" setShortName="ACR" collectorNumber="104" uuid="a76f785d-1972-4bd6-8a43-848d51068712"/>
         <card number="1" name="Exit Specialist"/>
         <card number="1" name="Den Protector"/>
         <card number="1" name="Vesuvan Shapeshifter"/>
@@ -34,6 +36,7 @@
         <card number="1" name="Scroll of Fate"/>
         <card number="1" name="Song of the Dryads"/>
         <card number="1" name="Become Anonymous"/>
+        <card number="1" name="Radagast of Rhosgobel" setShortName="HOB" collectorNumber="136" uuid="5741bbad-a6e4-45e0-b827-73f48c9975bf"/>
         <card number="1" name="Zimone, Mystery Unraveler"/>
         <card number="1" name="Bane of the Living"/>
         <card number="1" name="Printlifter Ooze"/>
@@ -78,7 +81,6 @@
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Tropical Island"/>
-        <card number="1" name="Dreamroot Cascade"/>
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Fierce Guardianship"/>
@@ -102,6 +104,5 @@
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Aveline de Grandpré" setShortName="ACR" collectorNumber="40" uuid="db3b4f73-e241-4d60-a877-25327092c291"/>
         <card number="1" name="Flotsam // Jetsam" setShortName="MKM" collectorNumber="247" uuid="c1500cbf-5619-465e-a97b-75e676ce789b"/>
-        <card number="1" name="Animal Attendant" setShortName="TLE" collectorNumber="128" uuid="a3e6ff4d-bf7d-488f-a02f-f40e7f8761ca"/>
     </zone>
 </cockatrice_deck>

@@ -1126,7 +1126,10 @@ class MainWindow(QMainWindow):
 
     def _refresh_image_cache(self):
         """Walk through the image directories to rebuild the image lookup cache."""
-        self.image_lookup = get_image_lookup(self.config.image_folder)
+        image_sources = [self.config.image_folder]
+        if self.config.cockatrice_cache_folder:
+            image_sources.append(self.config.cockatrice_cache_folder)
+        self.image_lookup = get_image_lookup(image_sources)
         
     def _refresh_decklists_from_file(self):
         """Refresh commanders and their color identity from the .cod files."""

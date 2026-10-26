@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 13:37:15 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 18:26:45 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="">Commodore Guff</bannerCard>
@@ -11,37 +11,47 @@
     </zone>
     <zone name="main">
         <card number="1" name="Ugin, the Ineffable"/>
-        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="1" name="Face Yourself" setShortName="FRA" collectorNumber="83" uuid="3ccf8f64-19bd-4fdf-b70a-30a042bacf2f"/>
         <card number="1" name="Karn Liberated"/>
+        <card number="1" name="Comeuppance" setShortName="MKC" collectorNumber="58" uuid="b63d828d-4f62-424b-969a-00dcc4651b56"/>
+        <card number="1" name="Identity Echo" setShortName="FRA" collectorNumber="87" uuid="e600b33b-8916-43dd-95d3-d7cbf874933d"/>
+        <card number="1" name="Dack Fayden" setShortName="MED" collectorNumber="RA6" uuid="5335ad67-5145-48f5-b5af-19996c4d11c0"/>
+        <card number="1" name="Dovin's Veto" setShortName="TSR" collectorNumber="375" uuid="2392b542-5ae6-4d0e-808c-734f1d06afa4"/>
+        <card number="1" name="Elspeth, Knight-Errant" setShortName="MMA" collectorNumber="13" uuid="746d56ef-7ac5-403b-bca3-1cd267de97df"/>
+        <card number="1" name="Deserted Beach" setShortName="MID" collectorNumber="281" uuid="c092d9c5-538f-4667-9070-bdce7f8b522a"/>
+        <card number="1" name="Way of the Pyromancer" setShortName="FRA" collectorNumber="254" uuid="c1a00020-7c14-4503-a057-5763704bb83e"/>
+        <card number="1" name="Arena of the Ancients" setShortName="ME3" collectorNumber="188" uuid="68ebdcc2-4449-4b10-82fb-51f5e14eab37"/>
+        <card number="1" name="Final Showdown" setShortName="OTJ" collectorNumber="312" uuid="94397320-b814-487f-aca2-537517ff9eff"/>
         <card number="1" name="Chandra, Awakened Inferno"/>
+        <card number="1" name="Narset of the Ancient Way" setShortName="PIKO" collectorNumber="195p" uuid="ad5e2013-f14d-4792-9e8d-770056c3b8ed"/>
+        <card number="1" name="Reins of Power" setShortName="STH" collectorNumber="41" uuid="21a9242f-0516-4dae-8cbc-1f7f78931782"/>
         <card number="1" name="Karn's Temporal Sundering"/>
         <card number="1" name="Sarkhan the Masterless"/>
+        <card number="3" name="Island" setShortName="PIP" collectorNumber="848" uuid="0480b669-e72b-4b21-b0f3-09d78abe421c"/>
+        <card number="1" name="The Theorist, Jace Beleren" setShortName="FRA" collectorNumber="43" uuid="20bb8c55-4b0b-425f-8201-b54fa2fdde86"/>
         <card number="1" name="Oath of Gideon"/>
         <card number="1" name="Oath of Teferi"/>
+        <card number="1" name="Ugin, the Spirit Dragon" setShortName="M21" collectorNumber="285" uuid="a11e75a0-17f0-429a-a77a-268fe6257010"/>
         <card number="1" name="Urza's Ruinous Blast"/>
+        <card number="1" name="Kor Haven" setShortName="NEM" collectorNumber="141" uuid="3d5529ca-5c20-4dfd-8595-96d6dfa6debe"/>
         <card number="1" name="The Mind Stone" setShortName="MSH" collectorNumber="21" uuid="87f1e69a-6d74-4982-afda-82613637799a"/>
         <card number="1" name="Jace, the Mind Sculptor"/>
+        <card number="1" name="Theorist's Sanctum" setShortName="FRA" collectorNumber="191" uuid="22db5bba-46c9-4a26-821d-303ddb386ea4"/>
         <card number="1" name="Chandra, Torch of Defiance"/>
         <card number="1" name="The Wandering Emperor"/>
-        <card number="1" name="Elspeth, Knight-Errant"/>
         <card number="1" name="Thran Temporal Gateway"/>
         <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Wrath of God"/>
         <card number="1" name="Supreme Verdict"/>
-        <card number="1" name="Dack Fayden"/>
+        <card number="1" name="Stormcarved Coast" setShortName="VOW" collectorNumber="284" uuid="3e589848-2c25-43e8-a940-7769f7936815"/>
         <card number="1" name="Teferi, Time Raveler"/>
         <card number="1" name="Lae'zel, Vlaakith's Champion"/>
-        <card number="1" name="Flux Channeler"/>
         <card number="1" name="Propaganda"/>
         <card number="1" name="Ghostly Prison"/>
         <card number="1" name="Honor-Worn Shaku"/>
-        <card number="1" name="Arena of the Ancients"/>
-        <card number="1" name="Dovin's Veto"/>
         <card number="1" name="Teferi's Time Twist"/>
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Boros Signet"/>
         <card number="1" name="Azorius Signet"/>
-        <card number="1" name="Jwari Disruption"/>
         <card number="1" name="Tundra"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Flooded Strand"/>
@@ -58,7 +68,6 @@
         <card number="1" name="Battlefield Forge"/>
         <card number="1" name="Plateau"/>
         <card number="1" name="Arid Mesa"/>
-        <card number="3" name="Island"/>
         <card number="2" name="Mountain"/>
         <card number="3" name="Plains"/>
         <card number="1" name="Interplanar Beacon"/>
@@ -66,7 +75,6 @@
         <card number="1" name="Jaya's Phoenix"/>
         <card number="1" name="Chandra, Legacy of Fire"/>
         <card number="1" name="Elspeth, Sun's Champion"/>
-        <card number="1" name="Narset of the Ancient Way"/>
         <card number="1" name="Vronos, Masked Inquisitor"/>
         <card number="1" name="All Will Be One"/>
         <card number="1" name="Teferi, Master of Time"/>
@@ -76,29 +84,21 @@
         <card number="1" name="Teferi, Temporal Archmage"/>
         <card number="1" name="Teferi's Protection"/>
         <card number="1" name="Plaza of Heroes"/>
-        <card number="1" name="Kor Haven"/>
         <card number="1" name="Farewell"/>
-        <card number="1" name="Karmic Justice"/>
         <card number="1" name="Spark Double"/>
         <card number="1" name="Ripples of Potential"/>
         <card number="1" name="Gatewatch Beacon"/>
-        <card number="1" name="Comeuppance"/>
         <card number="1" name="Clifftop Retreat"/>
-        <card number="1" name="Stormcarved Coast"/>
         <card number="1" name="Sacred Foundry"/>
-        <card number="1" name="Deserted Beach"/>
-        <card number="1" name="Final Showdown"/>
         <card number="1" name="Island Sanctuary"/>
         <card number="1" name="An Offer You Can't Refuse"/>
         <card number="1" name="Aetheric Amplifier"/>
         <card number="1" name="Ajani, Nacatl Pariah" setShortName="MH3" collectorNumber="237" uuid="0d16e8e0-31b2-4389-afd6-783c501f6fa0"/>
-        <card number="1" name="Reins of Power" setShortName="CLB" collectorNumber="734" uuid="9b5730aa-c74a-4c74-bb1b-a133a3c353ec"/>
         <card number="1" name="Promise of Loyalty" setShortName="BLC" collectorNumber="148" uuid="bc537e6b-17bd-4908-a7b2-a4efa4f20c02"/>
         <card number="1" name="Humility" setShortName="TPR" collectorNumber="16" uuid="55ad6a45-a840-45ba-89ad-066e20e983f3"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
         <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
         <card number="1" name="Radstorm" setShortName="PIP" collectorNumber="37" uuid="d778cdec-8fc7-4174-bae1-4c8e8ccdfab3"/>
-        <card number="1" name="Overburden" setShortName="PCY" collectorNumber="39" uuid="7e6cf6b6-b4c1-4742-9be4-b3b15fbb0202"/>
         <card number="1" name="Thought Vessel" setShortName="40K" collectorNumber="259" uuid="ebf52151-9b4b-40c3-945b-8c32d13e1ad3"/>
         <card number="1" name="Great Hall of the Citadel" setShortName="LTR" collectorNumber="254" uuid="219c7b57-b62b-42d1-85d9-4b57624a3f54"/>
         <card number="1" name="Ral, Crackling Wit" setShortName="BLB" collectorNumber="230" uuid="acfde780-899a-4c5b-a39b-f4a3ff129103"/>

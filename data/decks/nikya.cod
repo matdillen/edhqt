@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Sun May 3 02:49:00 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 16:16:10 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="90ff41a6-6604-4953-a43d-816c4568b742">Nikya of the Old Ways</bannerCard>
     <comments></comments>
     <tags/>
@@ -9,30 +10,31 @@
         <card number="1" name="Nikya of the Old Ways" setShortName="PRNA" collectorNumber="193s" uuid="90ff41a6-6604-4953-a43d-816c4568b742"/>
     </zone>
     <zone name="main">
+        <card number="1" name="Ancient Tomb" setShortName="PLST" collectorNumber="TMP-315" uuid="2189b1cb-94c4-4477-a5ef-17a1ae2c6708"/>
         <card number="1" name="Duskwatch Recruiter" setShortName="INR" collectorNumber="193" uuid="4ef68479-ab2e-4a60-886c-ad007b64f185"/>
         <card number="1" name="Goblin Anarchomancer" setShortName="MH2" collectorNumber="200" uuid="633a3423-501d-4b22-95a6-743233be521e"/>
         <card number="1" name="Sakura-Tribe Elder" setShortName="BLC" collectorNumber="236" uuid="3696297a-b068-4e89-a62c-6cd5ad437618"/>
         <card number="1" name="Eternal Witness" setShortName="2X2" collectorNumber="145" uuid="76d7fa2c-4dbc-4e9e-9448-5bf8bbee95d6"/>
         <card number="1" name="Wood Elves" setShortName="DCI" collectorNumber="1" uuid="de62160b-3a29-48ed-9dfc-fd1464147f35"/>
         <card number="1" name="Goblin Sharpshooter" setShortName="SLD" collectorNumber="18" uuid="ad66330e-166c-4613-b788-e5c2f052cd9d"/>
+        <card number="1" name="Beorn the Fierce" setShortName="HOB" collectorNumber="119" uuid="367d5f8b-77ee-47f7-bc71-972d62c280a9"/>
         <card number="1" name="Clifftop Lookout" setShortName="BLB" collectorNumber="168" uuid="662d3bcc-65f3-4c69-8ea1-446870a1193d"/>
         <card number="1" name="Summon: Fenrir" setShortName="FIN" collectorNumber="203" uuid="93feb9d5-d004-4598-a448-b3488c869c05"/>
         <card number="1" name="Heartwood Storyteller" setShortName="PLST" collectorNumber="FUT-127" uuid="b05444b4-ef67-40a0-aaf8-3ed86b4af2cc"/>
-        <card number="1" name="Greater Tanuki" setShortName="CMM" collectorNumber="897" uuid="a51fb4b3-9926-4e06-b107-a7a39584fa7a"/>
-        <card number="1" name="Bloomvine Regent" setShortName="TDM" collectorNumber="381" uuid="081f2de5-251a-41c9-a62f-11487f54d355"/>
         <card number="1" name="Yavimaya Dryad" setShortName="TSR" collectorNumber="247" uuid="9807f9a8-a994-4fb2-ad33-3d80d9702bfe"/>
+        <card number="1" name="Darksteel Angel" setShortName="FRC" collectorNumber="13" uuid="0c33024e-9473-4d5b-8433-9898380282c4"/>
         <card number="1" name="Farhaven Elf" setShortName="LTC" collectorNumber="243" uuid="c187b12a-391b-41fb-9728-053909f69f66"/>
         <card number="1" name="Topiary Stomper" setShortName="J25" collectorNumber="730" uuid="420a077c-1660-4921-9c0c-724ca8e33916"/>
-        <card number="1" name="Howlpack Piper" setShortName="DBL" collectorNumber="472" uuid="de7b7d93-fe69-4b18-b398-cf1a61eed175"/>
         <card number="1" name="Bonecrusher Giant // Stomp" setShortName="CLB" collectorNumber="781" uuid="b5b71cd2-de35-451f-b16e-2e3936169407"/>
         <card number="1" name="Halana, Kessig Ranger" setShortName="CMR" collectorNumber="231" uuid="6bee6eb2-2708-4596-86ad-40eea88dbb6b"/>
+        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="PLST" collectorNumber="THS-223" uuid="1ac9577f-dd41-4e1a-a96b-6b615297425a"/>
         <card number="1" name="Vizier of the Menagerie" setShortName="FDN" collectorNumber="649" uuid="3010ec33-c3f6-42ce-ad5a-e149e5c9a805"/>
         <card number="1" name="Temur Sabertooth" setShortName="NCC" collectorNumber="315" uuid="c3a5a175-e963-42cc-a0ba-d8914bb93c00"/>
         <card number="1" name="Undermountain Adventurer" setShortName="CLB" collectorNumber="260" uuid="541f53a3-521f-4463-a0b6-758a45d8f661"/>
-        <card number="1" name="Kessig Cagebreakers" setShortName="J22" collectorNumber="681" uuid="3d305e7c-81b2-460e-8f56-63cfbb018f15"/>
         <card number="1" name="Wandering Archaic" setShortName="PSTX" collectorNumber="6s" uuid="a662a862-c592-4c5b-9728-279d04be22bf"/>
         <card number="1" name="Ohran Frostfang" setShortName="CMM" collectorNumber="309" uuid="0d2fbeb1-6446-48ca-afe1-d1869a36e389"/>
         <card number="1" name="Tendershoot Dryad" setShortName="BLC" collectorNumber="242" uuid="3a60bdb4-53b3-46f2-b7a1-7954117b42a1"/>
+        <card number="1" name="Training Compound" setShortName="MSH" collectorNumber="275" uuid="c91e28db-307f-462a-88aa-581d10e77f10"/>
         <card number="1" name="Silverback Elder" setShortName="DMU" collectorNumber="177" uuid="b987664f-0b74-4c0a-b306-14767a55559a"/>
         <card number="1" name="Genesis" setShortName="SLC" collectorNumber="2002" uuid="f9052ad9-a8b3-4fa3-8cbe-223b306c8328"/>
         <card number="1" name="Acidic Slime" setShortName="AFC" collectorNumber="151" uuid="2a6d791f-11c1-44ce-8084-591250b9f802"/>
@@ -42,7 +44,9 @@
         <card number="1" name="Kogla and Yidaro" setShortName="MOM" collectorNumber="244" uuid="b760ebdf-bea6-4c43-a187-4a02ebf95ebf"/>
         <card number="1" name="Cityscape Leveler" setShortName="BRO" collectorNumber="233" uuid="67a87278-4c82-4056-8354-253d86b0ef3d"/>
         <card number="1" name="Sire of Seven Deaths" setShortName="FDN" collectorNumber="1" uuid="8d8432a7-1c8a-4cfb-947c-ecf9791063eb"/>
+        <card number="1" name="Howlpack Piper" setShortName="PRM" collectorNumber="95425" uuid="19fb5f20-5bc0-4678-85c2-8e3f8c51fc52"/>
         <card number="1" name="Craterhoof Behemoth" setShortName="CMM" collectorNumber="280" uuid="e8f4435a-8604-45b5-a537-dfdfcb922e16"/>
+        <card number="1" name="Kozilek, the Great Distortion" setShortName="CMM" collectorNumber="2" uuid="c41554e7-2a07-4cc7-b01b-44deed08e588"/>
         <card number="1" name="Stonehoof Chieftain" setShortName="CMM" collectorNumber="325" uuid="3451dd0f-8cea-409f-8d56-f13e6aa424f6"/>
         <card number="1" name="Apex Devastator" setShortName="M3C" collectorNumber="220" uuid="ca9783bc-0e1b-42da-b0f3-89dd0db83743"/>
         <card number="1" name="Old Gnawbone" setShortName="AFR" collectorNumber="197" uuid="77ceba8b-de19-4db8-b5a7-f5df49bf241f"/>
@@ -53,20 +57,17 @@
         <card number="1" name="Genesis Hydra" setShortName="MOC" collectorNumber="298" uuid="69467d04-6c7d-44d1-88c4-9721741d6034"/>
         <card number="1" name="Genesis Wave" setShortName="FDN" collectorNumber="221" uuid="d46f7ddb-f986-4f1f-b096-ae1a02d0bdc8"/>
         <card number="1" name="Artisan of Kozilek" setShortName="CMM" collectorNumber="801" uuid="9312fada-fc31-46ac-b6a1-cfffd776856f"/>
-        <card number="1" name="Primal Surge" setShortName="AVR" collectorNumber="189" uuid="4278f7bd-afff-4a1d-a0bb-bf9ce3ad5a2e"/>
         <card number="1" name="Disciple of Freyalise" setShortName="MH3" collectorNumber="250" uuid="a8e9ea5a-5e10-4b77-baef-0352ff035483"/>
+        <card number="1" name="Simulacrum Shaper" setShortName="FRA" collectorNumber="113" uuid="7c725702-8696-4e5a-8318-62f5e2616d52"/>
         <card number="1" name="Boseiju, Who Endures" setShortName="NEO" collectorNumber="266" uuid="2135ac5a-187b-4dc9-8f82-34e8d1603416"/>
         <card number="1" name="Labyrinth of Skophos" setShortName="MKC" collectorNumber="272" uuid="388169df-4cce-452d-9215-e3f814ff4fdf"/>
         <card number="1" name="Blast Zone" setShortName="BRO" collectorNumber="258" uuid="c5e911be-8166-4263-8c57-e86358b8ceb8"/>
-        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
         <card number="1" name="Sea Gate Wreckage" setShortName="CMM" collectorNumber="1028" uuid="1c137634-7531-4573-9bfa-623d8edf839c"/>
-        <card number="1" name="Fungal Reaches" setShortName="TSR" collectorNumber="279" uuid="1a3580d6-345a-46ba-a327-0e924989d6b1"/>
         <card number="1" name="Fire-Lit Thicket" setShortName="FIC" collectorNumber="392" uuid="bcab849e-336d-490f-8dd2-0936fba2afbe"/>
         <card number="5" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
         <card number="5" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
         <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
         <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
-        <card number="1" name="Nykthos, Shrine to Nyx" setShortName="EA2" collectorNumber="24" uuid="920bbc28-1a57-4dc3-86e9-6a491a4afa1e"/>
         <card number="1" name="Evendo, Waking Haven" setShortName="EOE" collectorNumber="253" uuid="2fa09104-acbe-4410-b101-2fe6ac28efde"/>
         <card number="1" name="Temple of the False God" setShortName="40K" collectorNumber="300" uuid="f824b459-7720-4277-8a70-b1f5f4c8324c"/>
         <card number="1" name="Arena of Glory" setShortName="MH3" collectorNumber="215" uuid="dd148edc-9e43-41aa-bb50-f912115d3e72"/>

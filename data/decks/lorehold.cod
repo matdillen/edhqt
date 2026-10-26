@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 17:09:48 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 15:39:04 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="71a6701f-40f1-43ef-bff5-a5907fd67cd6">Lorehold, the Historian</bannerCard>
@@ -12,26 +12,28 @@
     <zone name="main">
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
         <card number="1" name="Library of Leng" setShortName="30A" collectorNumber="254" uuid="f0535e83-d55a-4195-9a40-ec5acfe8d9ff"/>
-        <card number="1" name="Pyroblast" setShortName="MB2" collectorNumber="198" uuid="2dea1e46-9786-429f-ad57-d608c006f508"/>
+        <card number="1" name="Boros Signet" setShortName="CLU" collectorNumber="220" uuid="df8388ee-5d1d-4144-a8b1-e555da72ad6b"/>
+        <card number="1" name="Command Beacon" setShortName="OTC" collectorNumber="279" uuid="4ff61202-fb5e-4cea-a5ea-168505ac31e1"/>
         <card number="1" name="Molecule Man" setShortName="MSC" collectorNumber="9" uuid="ee64d0dd-e3d8-4abc-b9d6-b19c505fbfa1"/>
         <card number="1" name="Sensei's Divining Top" setShortName="2X2" collectorNumber="314" uuid="e5142b7a-e580-4737-a4aa-2590f6610ceb"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Terminus" setShortName="DSC" collectorNumber="70" uuid="4c53c684-37f9-4b95-88be-a42b9600c47c"/>
-        <card number="1" name="Boros Signet" setShortName="AA1" collectorNumber="2" uuid="57629f57-e765-4fd1-9273-f08495e46bc8"/>
         <card number="1" name="Return the Favor" setShortName="OTJ" collectorNumber="142" uuid="a9cc02d1-799d-42aa-9bc2-4c05452b63b4"/>
         <card number="1" name="Scroll Rack" setShortName="PLST" collectorNumber="TMP-308" uuid="7bae726c-40b3-4f68-8ca7-0400a92d0495"/>
+        <card number="1" name="Mizzix's Mastery" setShortName="OTC" collectorNumber="175" uuid="4fa2d7f2-05b3-468f-9f2c-a61b46bad88e"/>
         <card number="1" name="Fable of the Mirror-Breaker" setShortName="NEO" collectorNumber="141" uuid="24c0d87b-0049-4beb-b9cb-6f813b7aa7dc"/>
         <card number="1" name="Livaan, Cultist of Tiamat" setShortName="CLB" collectorNumber="188" uuid="616c5b52-94bc-48e3-8e4f-e2db1eca7536"/>
         <card number="1" name="Victory Chimes" setShortName="C21" collectorNumber="274" uuid="9cb27fb1-41b1-49b8-bb3b-2c8a011ae7a9"/>
         <card number="1" name="Squee, Goblin Nabob" setShortName="CMM" collectorNumber="258" uuid="12d6d674-40aa-42d7-88b3-f65603ecaa1e"/>
         <card number="1" name="Ghostly Prison" setShortName="MKC" collectorNumber="67" uuid="eea3623d-1d39-4045-acdb-f0fb184ccbc8"/>
+        <card number="1" name="Return to the Light Realms" setShortName="FRA" collectorNumber="20" uuid="9e72f397-2384-40f1-882b-f627664d97df"/>
         <card number="1" name="Wildfire Devils" setShortName="SCD" collectorNumber="170" uuid="3c876360-3608-422a-b709-84b32be8daa0"/>
         <card number="1" name="Thran Dynamo" setShortName="BLC" collectorNumber="290" uuid="6455b185-aa5e-45e1-951e-f6eef517daf2"/>
         <card number="1" name="Surly Badgersaur" setShortName="C20" collectorNumber="57" uuid="7ba507e2-fe5e-4947-aada-20184aa09700"/>
         <card number="1" name="Wild Ricochet" setShortName="SCD" collectorNumber="169" uuid="ecbe8717-07a1-4145-9cd4-b98b145c2d4c"/>
+        <card number="1" name="Tragic Arrogance" setShortName="PLST" collectorNumber="ORI-38" uuid="a7452070-668c-4f15-91b6-08a0a5344ccc"/>
         <card number="1" name="Goldspan Dragon" setShortName="J22" collectorNumber="550" uuid="0c67a683-4e1d-4a64-952d-a1c27a34ed1d"/>
         <card number="1" name="Bonehoard Dracosaur" setShortName="LCI" collectorNumber="134" uuid="2220ed60-3f8f-4dd2-8319-6a06896a5350"/>
-        <card number="1" name="Tragic Arrogance" setShortName="FIC" collectorNumber="258" uuid="a479784c-3f94-4950-8928-6a1e57bb6627"/>
         <card number="1" name="Urza's Ruinous Blast" setShortName="BRC" collectorNumber="79" uuid="3baeeb19-c4f4-4e4f-97e0-52b2e512b26b"/>
         <card number="1" name="Reverse the Sands" setShortName="C16" collectorNumber="75" uuid="b6d56ce1-fb5d-47c6-961d-65b544a48b32"/>
         <card number="1" name="Approach of the Second Sun" setShortName="PLST" collectorNumber="AKH-4" uuid="d363a81c-0509-47ad-bb48-8bdcbb233bfc"/>
@@ -59,7 +61,6 @@
         <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
         <card number="1" name="Boros Charm" setShortName="FDN" collectorNumber="721" uuid="e0d8c9f6-cbbd-4694-b100-01cfb81036cc"/>
         <card number="1" name="Olórin's Searing Light" setShortName="LTC" collectorNumber="503" uuid="7496ad0f-fc6d-4154-ac42-c2471e72ed88"/>
-        <card number="1" name="Mizzix's Mastery" setShortName="FCA" collectorNumber="41" uuid="8a139398-4d42-4715-8a5a-c446bf665a2e"/>
         <card number="1" name="Primal Amulet" setShortName="PXTC" collectorNumber="243" uuid="9235dfc1-19bf-4923-84f7-721018514866"/>
         <card number="1" name="Promise of Loyalty" setShortName="BLC" collectorNumber="148" uuid="bc537e6b-17bd-4908-a7b2-a4efa4f20c02"/>
         <card number="1" name="Fated Clash" setShortName="FIC" collectorNumber="449" uuid="bd84f688-a2bb-4f1e-ae24-1a5cf8a05445"/>
@@ -90,7 +91,6 @@
         <card number="1" name="Witch Enchanter" setShortName="MH3" collectorNumber="239" uuid="62061e7c-cf19-4f03-b8fa-2bdba62d6b0b"/>
         <card number="1" name="Zhalfirin Void" setShortName="AFC" collectorNumber="273" uuid="d481d871-d1e3-439b-bfd5-5b2212f9b0c8"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
-        <card number="1" name="Command Beacon" setShortName="FCA" collectorNumber="64" uuid="2670653e-fcaa-46e3-b3bf-cb8e8b981a9c"/>
         <card number="1" name="Rumble Arena" setShortName="TLA" collectorNumber="277" uuid="3f5d2c38-663c-4f64-8cfc-c102462e82ef"/>
         <card number="1" name="The Grey Havens" setShortName="LTR" collectorNumber="255" uuid="dd698f10-b0fc-42fc-84ec-f5a0d96bfa1d"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 22:47:59 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 15:53:49 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Isshin, Two Heavens as One</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
+        <card number="1" name="Ancient Tomb" setShortName="PLST" collectorNumber="TMP-315" uuid="2189b1cb-94c4-4477-a5ef-17a1ae2c6708"/>
         <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Akroma's Will" setShortName="LCC" collectorNumber="125" uuid="608cdbdb-6f7e-438a-bab0-0e7782435f0f"/>
+        <card number="1" name="Farewell" setShortName="MKC" collectorNumber="64" uuid="114d2180-093b-4838-97ad-badbc8ee50b0"/>
+        <card number="1" name="Adeline, Resplendent Cathar" setShortName="J25" collectorNumber="57" uuid="21a0e852-7855-4a6b-8eca-191a8e83023a"/>
+        <card number="1" name="Mercadia's Downfall" setShortName="PLST" collectorNumber="MMQ-205" uuid="70cc9f80-b52c-4b81-a03b-8f5c8849d07f"/>
+        <card number="1" name="Reconnaissance" setShortName="ACR" collectorNumber="82" uuid="f203ce7d-a079-44b8-bfda-4c63ec79b82d"/>
         <card number="1" name="Isolated Chapel"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Exotic Orchard"/>
@@ -20,6 +27,7 @@
         <card number="1" name="Plains"/>
         <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Laelia, the Blade Reforged"/>
+        <card number="1" name="Haunted Ridge" setShortName="MID" collectorNumber="282" uuid="91f67a64-b97d-473a-be9d-c8044ff86605"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Scrubland"/>
@@ -27,10 +35,11 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Nivea, Beloved Battlemage" setShortName="MBC" collectorNumber="3" uuid="9a845742-a20d-4332-aaa8-d6cd2d5f482b"/>
         <card number="1" name="Hellrider"/>
         <card number="1" name="Hero of Bladehold"/>
         <card number="1" name="Inferno Titan"/>
-        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Shattered Sanctum" setShortName="VOW" collectorNumber="283" uuid="9885da74-30bd-461d-98ca-0dc72d817dbd"/>
         <card number="1" name="Hanweir Garrison"/>
         <card number="1" name="Combat Calligrapher"/>
         <card number="1" name="Crackling Doom"/>
@@ -58,21 +67,17 @@
         <card number="1" name="Vault of the Archangel"/>
         <card number="1" name="Otharri, Suns' Glory"/>
         <card number="1" name="Fellwar Stone"/>
-        <card number="1" name="Farewell"/>
         <card number="1" name="Mishra, Claimed by Gix"/>
         <card number="1" name="Restless Bivouac"/>
         <card number="1" name="Iroas, God of Victory"/>
         <card number="1" name="Breeches, Eager Pillager"/>
         <card number="1" name="Anim Pakal, Thousandth Moon"/>
-        <card number="1" name="Akroma's Will"/>
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Careening Mine Cart"/>
         <card number="1" name="Chivalric Alliance"/>
         <card number="1" name="Karlach, Fury of Avernus"/>
         <card number="1" name="Curse of Opulence"/>
-        <card number="1" name="Adeline, Resplendent Cathar"/>
         <card number="1" name="Fable of the Mirror-Breaker"/>
-        <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Agrus Kos, Spirit of Justice"/>
         <card number="1" name="Kellogg, Dangerous Mind"/>
         <card number="1" name="Phelia, Exuberant Shepherd"/>
@@ -90,12 +95,9 @@
         <card number="1" name="Voice of Victory"/>
         <card number="1" name="Ainok Strike Leader"/>
         <card number="1" name="Dawn's Truce" setShortName="BLB" collectorNumber="9" uuid="8f72bfa0-efef-48ce-aff8-d5818ed71ba6"/>
-        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
         <card number="1" name="Battle Angels of Tyr" setShortName="CLB" collectorNumber="9" uuid="4c91dbf4-94fa-45d0-b8ed-a778b11d789b"/>
         <card number="1" name="Great Train Heist" setShortName="OTJ" collectorNumber="125" uuid="357dd9b2-5d2d-49f6-86f0-f5c4d63474dd"/>
-        <card number="1" name="Deadly Rollick" setShortName="CMM" collectorNumber="147" uuid="0e13f735-54fa-42b6-aea4-ced33811d7d4"/>
         <card number="1" name="Arabella, Abandoned Doll" setShortName="DSK" collectorNumber="208" uuid="f683d5a1-b8bf-446f-9fe3-88a4398bf3cf"/>
-        <card number="1" name="Shattered Sanctum" setShortName="DBL" collectorNumber="531" uuid="3b946b07-78f3-4546-947d-4b20f9e1b3ba"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
         <card number="1" name="Smellerbee, Rebel Fighter" setShortName="TLE" collectorNumber="125" uuid="5aef6ece-929b-4636-b32e-58f91741b869"/>
         <card number="1" name="Firebender Ascension" setShortName="TLA" collectorNumber="137" uuid="2929b702-03c6-4cf0-a3f7-61b27f4803be"/>
@@ -103,7 +105,6 @@
         <card number="1" name="Adept Watershaper" setShortName="ECL" collectorNumber="3" uuid="6e53f246-8347-4632-9d5b-4aeb12f7b762"/>
         <card number="1" name="Kinscaer Sentry" setShortName="ECL" collectorNumber="22" uuid="333bf101-14e8-4753-99bc-9174f42c4122"/>
         <card number="1" name="Sardian Avenger" setShortName="BRC" collectorNumber="23" uuid="593b4a4f-5644-44be-9bfe-752732ffe59e"/>
-        <card number="1" name="Sinkhole Surveyor" setShortName="PTDM" collectorNumber="93p" uuid="1580519d-c44d-4404-a438-cb9e278abe5f"/>
         <card number="1" name="Excava, the Risen Past" setShortName="SOC" collectorNumber="2" uuid="d47ebf19-b3fa-48a2-851a-254d32b0305a"/>
     </zone>
     <zone name="side">

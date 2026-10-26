@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 17:17:17 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 12:43:13 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="01a543f0-72fe-4a30-a4a0-356971c1c68a">Tyvar the Bellicose</bannerCard>
@@ -12,25 +12,29 @@
     <zone name="main">
         <card number="1" name="Kindred Dominance" setShortName="CMM" collectorNumber="169" uuid="af613b69-b9f6-4221-a21b-c8e4b0f010f1"/>
         <card number="1" name="The Great Henge" setShortName="CMM" collectorNumber="294" uuid="6340e0f3-7f9c-4d71-8daf-e1be5505eb5b"/>
+        <card number="1" name="Heroic Intervention" setShortName="AFC" collectorNumber="161" uuid="c5e72882-dbf8-42d2-9a98-31f2f71e2ed9"/>
+        <card number="1" name="Legolas's Quick Reflexes" setShortName="LTC" collectorNumber="493" uuid="851c0167-04ba-4d15-b0fa-c211bd8826f1"/>
+        <card number="1" name="Malakir Rebirth" setShortName="ZNR" collectorNumber="111" uuid="609d3ecf-f88d-4268-a8d3-4bf2bcf5df60"/>
+        <card number="1" name="Elven Passage" setShortName="HOB" collectorNumber="181" uuid="dd1fd2ab-2565-4798-a832-fc849df82f74"/>
         <card number="1" name="Allosaurus Shepherd" setShortName="2X2" collectorNumber="132" uuid="7afa0ee5-a0b8-472e-9991-09402ddb5de3"/>
         <card number="1" name="Haunting Voyage" setShortName="KHM" collectorNumber="98" uuid="2ac5bca0-35fe-47be-a78c-d5eac68a3bfa"/>
         <card number="1" name="Patriarch's Bidding" setShortName="MH2" collectorNumber="275" uuid="317686d8-b762-4598-b74a-8b1fa6b899ba"/>
         <card number="1" name="Elvish Dreadlord" setShortName="CMR" collectorNumber="121" uuid="1f452927-4d04-4c1d-9d88-19901fd06937"/>
         <card number="1" name="Ruthless Winnower" setShortName="KHC" collectorNumber="10" uuid="886ef13a-4f9d-425b-a071-6366cdb637c8"/>
+        <card number="1" name="Season of Gathering" setShortName="BLB" collectorNumber="192" uuid="71dd3c27-e0d5-434e-a0f3-4a95245e21c2"/>
+        <card number="1" name="The Ten Rings" setShortName="MSH" collectorNumber="251" uuid="2332bc91-b0f2-4911-844d-d1cc915cd6c8"/>
         <card number="1" name="Return of the Wildspeaker" setShortName="AFC" collectorNumber="168" uuid="2b809f30-5ea5-4b09-92ee-13cb4404b095"/>
+        <card number="1" name="Torment of Hailfire" setShortName="PLST" collectorNumber="HOU-77" uuid="6a814cf1-a882-4a66-9eae-4d327685d3a3"/>
         <card number="1" name="Seedborn Muse" setShortName="MKC" collectorNumber="186" uuid="f4a9cb46-d4e0-46f2-973f-09275ba0d99c"/>
         <card number="1" name="Beast Whisperer" setShortName="CLU" collectorNumber="158" uuid="daf4bcd2-3ae4-4803-9ea1-3bcc3de5ca59"/>
         <card number="1" name="Dionus, Elvish Archdruid" setShortName="J25" collectorNumber="52" uuid="5a3dfd71-9ec0-4842-b99d-c1833679f0c5"/>
         <card number="1" name="Wirewood Channeler" setShortName="PLST" collectorNumber="LGN-144" uuid="bd9f8f0d-d274-44f2-8f6d-855b8d60f2ad"/>
         <card number="1" name="Crippling Fear" setShortName="CLB" collectorNumber="745" uuid="0c5bc7db-0627-410b-bc27-970e1fa6789e"/>
         <card number="1" name="Elven Chorus" setShortName="LTR" collectorNumber="160" uuid="616cfb94-3faf-44fe-bf04-e90643765e48"/>
-        <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
         <card number="1" name="Realmwalker" setShortName="CMM" collectorNumber="909" uuid="d0c65ef6-93b4-448b-bf1c-01fe263cc39d"/>
         <card number="1" name="Reclamation Sage" setShortName="FDN" collectorNumber="231" uuid="1918ea65-ab7f-4d40-97fd-a656c892a2a1"/>
         <card number="1" name="Ezuri, Renegade Leader" setShortName="PLST" collectorNumber="C14-195" uuid="ad74bb11-9e62-49e3-8cd0-5e312dc0bcaa"/>
-        <card number="1" name="Gwenna, Eyes of Gaea" setShortName="BRO" collectorNumber="185" uuid="7ee387b7-18e4-41b7-aefe-f2b5954e3051"/>
         <card number="1" name="Llanowar Tribe" setShortName="GN3" collectorNumber="102" uuid="c53d8be8-8a16-4d2d-b0cf-dae5c8e7af89"/>
-        <card number="1" name="Llanowar Visionary" setShortName="J25" collectorNumber="684" uuid="c2635b0c-c990-4cce-9ac4-97602a757cf0"/>
         <card number="1" name="Tyvar, Jubilant Brawler" setShortName="ONE" collectorNumber="218" uuid="66605fe1-9a20-4c95-b53e-1249cedb978b"/>
         <card number="1" name="Mirage Mirror" setShortName="CMM" collectorNumber="962" uuid="cb1252c2-b951-4125-93a2-9282b607b6a4"/>
         <card number="1" name="Thousand-Year Elixir" setShortName="PLST" collectorNumber="LRW-263" uuid="9c91e8ff-c131-49c5-ae10-18b46c4b9cb6"/>
@@ -39,25 +43,23 @@
         <card number="1" name="Elvish Archdruid" setShortName="FDN" collectorNumber="219" uuid="341da856-7414-403b-b2e3-4bebd58a5aa4"/>
         <card number="1" name="Shaman of Forgotten Ways" setShortName="DTK" collectorNumber="204" uuid="a3e9c8f7-2232-4a2a-8a00-0a2908bc7543"/>
         <card number="1" name="Marwyn, the Nurturer" setShortName="J25" collectorNumber="687" uuid="4c92e444-2a33-4e67-a8be-8cf5d564e589"/>
-        <card number="1" name="Elvish Champion" setShortName="PLST" collectorNumber="INV-186" uuid="d2cbbb9f-d4ab-4602-ab6e-54f92ea6e3a4"/>
         <card number="1" name="Song of the Dryads" setShortName="CMM" collectorNumber="324" uuid="161e66e3-0339-495c-bd06-0a799a254906"/>
         <card number="1" name="Masked Vandal" setShortName="PLST" collectorNumber="KHM-184" uuid="d6f47fe1-36c6-4af9-a9eb-f2919e8e3446"/>
         <card number="1" name="Priest of Titania" setShortName="MH3" collectorNumber="286" uuid="eb11921b-1b28-483f-a707-4de21a6daa31"/>
+        <card number="1" name="Topiary Lecturer" setShortName="SOS" collectorNumber="165" uuid="4f16a1c2-0a80-45e4-b025-3aa0c0b03812"/>
         <card number="1" name="Skemfar Avenger" setShortName="KHM" collectorNumber="109" uuid="fad2c6d4-03dd-4dab-861c-77c55bda0db7"/>
         <card number="1" name="Quest for Renewal" setShortName="WWK" collectorNumber="110" uuid="41b7ad82-1115-4f80-886a-3f59f568423f"/>
         <card number="1" name="Devoted Druid" setShortName="2X2" collectorNumber="143" uuid="1ab94f16-778d-4437-a1b9-2f67cd214cc0"/>
         <card number="1" name="Wall of Roots" setShortName="NCC" collectorNumber="319" uuid="d80940ad-8e36-4226-ad5f-b54487c75c76"/>
-        <card number="1" name="Leaf-Crowned Visionary" setShortName="DMU" collectorNumber="167" uuid="aa7bd814-9f88-4e01-932d-07ac1abc060e"/>
         <card number="1" name="Joraga Treespeaker" setShortName="PLST" collectorNumber="ROE-190" uuid="de6b6d2d-c2b0-421b-aad6-41e80d325fff"/>
         <card number="1" name="Wirewood Symbiote" setShortName="MH3" collectorNumber="288" uuid="d237f5cc-2b9b-4929-9697-72078bac4c77"/>
         <card number="1" name="Shang-Chi, Master of Kung Fu" setShortName="MSH" collectorNumber="187" uuid="2edbb62f-ad45-4422-850b-68dcc18b4c73"/>
-        <card number="1" name="Deathrite Shaman" setShortName="EA3" collectorNumber="15" uuid="2071ed5f-7a50-4b02-b6a4-f5c781ef9212"/>
+        <card number="1" name="Woodland Weavemaster" setShortName="HOB" collectorNumber="143" uuid="fe2b4bcf-56de-44d3-83af-aeb27f82c25e"/>
         <card number="1" name="Lavaspur Boots" setShortName="OTJ" collectorNumber="243" uuid="e50709de-e6ef-4dbc-af1e-290fed279f34"/>
         <card number="1" name="Elvish Mystic" setShortName="CMM" collectorNumber="284" uuid="75918859-c93f-41b4-9ad0-a4a96c389f0d"/>
         <card number="1" name="Llanowar Elves" setShortName="30A" collectorNumber="206" uuid="07c3165a-39a9-4928-803c-22b60552346c"/>
         <card number="2" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
         <card number="4" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
-        <card number="1" name="Boggart Trawler" setShortName="MH3" collectorNumber="243" uuid="d0d484a6-5610-4f1d-95ec-eda273c255e4"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
         <card number="1" name="Karn's Bastion" setShortName="CMM" collectorNumber="1007" uuid="875ca80a-3eb8-434c-8114-536caab23211"/>
         <card number="1" name="Volrath's Stronghold" setShortName="TPR" collectorNumber="248" uuid="f465ae5f-61f0-42c4-978f-841ba1226f56"/>
@@ -67,7 +69,6 @@
         <card number="1" name="Wirewood Lodge" setShortName="PLST" collectorNumber="DD1-26" uuid="cf3f4954-ab60-44a9-b2d6-a4be598e8ce6"/>
         <card number="1" name="Verdant Catacombs" setShortName="MH2" collectorNumber="260" uuid="94c229ea-90da-4aa0-bfda-b162fb3b5b8b"/>
         <card number="1" name="Nurturing Peatland" setShortName="ACR" collectorNumber="114" uuid="ab4b80c5-fe04-4e5e-9637-b745c2c8956b"/>
-        <card number="1" name="Golgari Rot Farm" setShortName="2X2" collectorNumber="324" uuid="5a9b093d-a483-4c7d-81b5-9c70c866bbb1"/>
         <card number="1" name="Woodland Cemetery" setShortName="BLC" collectorNumber="354" uuid="7ab2f083-b674-4f8d-897b-9dc84ff85658"/>
         <card number="1" name="Overgrown Tomb" setShortName="CLU" collectorNumber="278" uuid="2c92e23a-329e-41f9-b5ca-577050be0b7e"/>
         <card number="1" name="Llanowar Wastes" setShortName="BLC" collectorNumber="315" uuid="f01e0e0e-f8c1-416d-bf4b-2b7661924e9b"/>
@@ -84,7 +85,6 @@
         <card number="1" name="Viridian Joiner" setShortName="MRD" collectorNumber="138" uuid="b50679df-bf82-4bb2-9fe3-8ebd7a9decde"/>
         <card number="1" name="Incubation Druid" setShortName="FIC" collectorNumber="309" uuid="348d4546-3da5-4f78-82f3-9a79d2f9b0d1"/>
         <card number="1" name="Canopy Tactician" setShortName="KHM" collectorNumber="378" uuid="3eaf48c9-09bc-4d81-a3a5-432219a71754"/>
-        <card number="1" name="Gyre Sage" setShortName="FIC" collectorNumber="306" uuid="236c4e0d-1a54-4024-85ef-4d73028bfb87"/>
         <card number="1" name="Mutable Explorer" setShortName="ECL" collectorNumber="186" uuid="8f35d95a-caea-4d5e-b98e-55da1ba7c92d"/>
         <card number="1" name="Three Tree City" setShortName="BLB" collectorNumber="260" uuid="56f88a48-cced-4a9d-8c19-e4f105f0d8a2"/>
         <card number="1" name="Path of Ancestry" setShortName="40K" collectorNumber="287" uuid="5410dbe8-006d-4267-92f1-b9bd7b1069e3"/>

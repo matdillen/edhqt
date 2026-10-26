@@ -1,48 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:29:23 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 18:18:38 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Karlov of the Ghost Council</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
+        <card number="1" name="Ajani Resolute" setShortName="FRA" collectorNumber="195" uuid="a5e1a7dd-8c49-4435-935c-bcc78704082b"/>
         <card number="2" name="Swamp"/>
+        <card number="1" name="Clever Concealment" setShortName="ONC" collectorNumber="43" uuid="fb2f33e3-8055-4fd1-a060-c0cacc091641"/>
+        <card number="1" name="Ancient Tomb" setShortName="EXP" collectorNumber="36" uuid="f77d5b90-5ea1-403e-ab85-3040e1da933b"/>
+        <card number="1" name="Imp's Mischief" setShortName="CMM" collectorNumber="167" uuid="0eb0e8e7-266f-441e-b1cd-12b8ec3f7d71"/>
         <card number="6" name="Plains"/>
         <card number="1" name="Bojuka Bog"/>
         <card number="1" name="Seraph Sanctuary"/>
+        <card number="1" name="Archangel of Thune" setShortName="SLD" collectorNumber="1337" uuid="f6929b98-e81c-48b9-87d8-11c8830974ce"/>
         <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Return to the Ranks" setShortName="M15" collectorNumber="29" uuid="9fccce64-abac-4b90-bbe5-dbba8434b3b4"/>
+        <card number="1" name="Orzhov Signet" setShortName="BRC" collectorNumber="154" uuid="b99cac18-281d-437f-ae34-87a10b92c6e9"/>
+        <card number="1" name="Phyrexian Arena" setShortName="FDN" collectorNumber="386" uuid="844f9f00-b33a-434d-8293-3a4c9e614358"/>
         <card number="1" name="Silent Clearing"/>
         <card number="1" name="Radiant Fountain"/>
         <card number="1" name="Scoured Barrens"/>
         <card number="1" name="Caves of Koilos"/>
         <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Talisman of Hierarchy" setShortName="DRC" collectorNumber="142" uuid="8be0a06b-c2b6-4b78-9b14-9d854736c251"/>
         <card number="1" name="Leonin Elder"/>
+        <card number="1" name="Liliana the Faultless" setShortName="FRA" collectorNumber="200" uuid="70d8c400-87dc-4f15-808f-e54a95d779fc"/>
         <card number="1" name="Cleric Class"/>
         <card number="1" name="Soul Warden"/>
         <card number="1" name="Soul's Attendant"/>
         <card number="1" name="Sun Droplet"/>
         <card number="1" name="Tablet of the Guilds"/>
-        <card number="1" name="Orzhov Signet"/>
         <card number="1" name="Auriok Champion"/>
         <card number="1" name="Suture Priest"/>
         <card number="1" name="Daxos, Blessed by the Sun"/>
         <card number="1" name="Blood Artist"/>
+        <card number="1" name="Lunarch Veteran" setShortName="INR" collectorNumber="450" uuid="dc2f8bd7-1cc7-4678-9ef7-58f14996bdf8"/>
         <card number="1" name="Pristine Talisman"/>
         <card number="1" name="Kambal, Consul of Allocation"/>
+        <card number="1" name="Unflinching Hortimancer" setShortName="FRA" collectorNumber="23" uuid="63f82985-c9c2-4d0a-ac4f-560166bebd9f"/>
         <card number="1" name="Lurrus of the Dream-Den"/>
         <card number="1" name="Heliod, Sun-Crowned"/>
         <card number="1" name="Toxic Deluge"/>
-        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Ajani's Pridemate"/>
         <card number="1" name="Sheoldred, the Apocalypse"/>
         <card number="1" name="Greed"/>
+        <card number="1" name="Voice of the Blessed" setShortName="INR" collectorNumber="50" uuid="62534128-2a85-4a36-bc7b-e4f4c51fa1f6"/>
         <card number="1" name="Aetherflux Reservoir"/>
         <card number="1" name="Well of Lost Dreams"/>
         <card number="1" name="Paradise Plume"/>
-        <card number="1" name="Archangel of Thune"/>
         <card number="1" name="Sunscorch Regent"/>
         <card number="1" name="Righteous Cause"/>
-        <card number="1" name="Return to the Ranks"/>
         <card number="1" name="Patron of the Kitsune"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" name="Exemplar of Light"/>
@@ -50,19 +60,16 @@
         <card number="1" name="Ajani, Strength of the Pride"/>
         <card number="1" name="Crypt Ghast"/>
         <card number="1" name="Witch of the Moors"/>
-        <card number="1" name="Bloodthirsty Conqueror"/>
         <card number="1" name="Elenda's Hierophant"/>
         <card number="1" name="Black Market Connections"/>
         <card number="1" name="Flawless Maneuver"/>
         <card number="1" name="Enduring Innocence"/>
         <card number="1" name="Spectrum Sentinel"/>
-        <card number="1" name="Lunarch Veteran"/>
         <card number="1" name="Authority of the Consuls"/>
         <card number="1" name="Guide of Souls"/>
         <card number="1" name="Case of the Uneaten Feast"/>
         <card number="1" name="Blind Obedience"/>
         <card number="1" name="Amalia Benavides Aguirre"/>
-        <card number="1" name="Voice of the Blessed"/>
         <card number="1" name="Essence Channeler"/>
         <card number="1" name="Castle Locthwain"/>
         <card number="1" name="Vault of the Archangel"/>
@@ -72,35 +79,29 @@
         <card number="1" name="Austere Command"/>
         <card number="1" name="Kambal, Profiteering Mayor"/>
         <card number="1" name="Emeria's Call"/>
-        <card number="1" name="Fiendish Panda"/>
         <card number="1" name="Accursed Duneyard"/>
         <card number="1" name="Adventurer's Inn" setShortName="FIN" collectorNumber="271" uuid="f0da2ee1-986e-4cbf-92eb-d96fdb572ca5"/>
         <card number="1" name="Aerith Gainsborough" setShortName="FIN" collectorNumber="4" uuid="e86328b6-ded2-41df-8b6e-4a770e7b171e"/>
-        <card number="1" name="Excalibur II" setShortName="FIN" collectorNumber="257" uuid="d42e5fed-67ac-46d7-a5d4-78f661f3e8b4"/>
         <card number="1" name="Eiganjo Castle" setShortName="PLST" collectorNumber="CHK-275" uuid="cf4691a5-074d-42c2-af22-881d141b79e8"/>
         <card number="1" name="Haliya, Guided by Light" setShortName="EOE" collectorNumber="19" uuid="6f7c63ae-5df3-410f-8643-b8c69133ca9d"/>
         <card number="1" name="Prismatic Vista" setShortName="H1R" collectorNumber="40" uuid="991a1790-a3a2-4def-8848-cc698915a242"/>
         <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
         <card number="1" name="Marsh Flats" setShortName="MH2" collectorNumber="248" uuid="9db3ba6d-eb7f-4f5b-9a3b-c6239c3baa42"/>
-        <card number="1" name="Ancient Tomb" setShortName="EOS" collectorNumber="1" uuid="3afebe8a-9f21-4260-8e93-1ab1dff13c09"/>
         <card number="1" name="Surveyor's Scope" setShortName="CMA" collectorNumber="232" uuid="885aaf8f-648c-4709-ae63-714113ec2c8d"/>
         <card number="1" name="Sol Ring" setShortName="30A" collectorNumber="131" uuid="0ddf922b-2005-411c-9537-ab2884b54507"/>
         <card number="1" name="Lightning Greaves" setShortName="AFC" collectorNumber="331" uuid="1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0"/>
         <card number="1" name="Hour of Revelation" setShortName="ZNC" collectorNumber="17" uuid="ddb53e90-f91e-4da9-ab70-5460958c6c99"/>
-        <card number="1" name="Talisman of Hierarchy" setShortName="40K" collectorNumber="256" uuid="f1be61f4-84e6-4d7b-8755-2651edfe7c92"/>
         <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
-        <card number="1" name="Clever Concealment" setShortName="FIC" collectorNumber="236" uuid="4836e220-5c89-49fc-8918-a51adf026ab4"/>
         <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
         <card number="1" name="Gideon's Company" setShortName="WAR" collectorNumber="268" uuid="a0a64d2e-8b89-4642-84c2-b01dfe11312e"/>
         <card number="1" name="Leonardo, Cutting Edge" setShortName="TMT" collectorNumber="15" uuid="74c11ee3-19d1-4ad5-a727-1d74c565d6a5"/>
         <card number="1" name="Qala, Ajani's Pridemate" setShortName="J25" collectorNumber="32" uuid="3cf1e9ab-343d-462c-a71e-e12b101aa0b4"/>
-        <card number="1" name="Batwing Brume" setShortName="PLST" collectorNumber="EVE-81" uuid="31813db2-cc97-4c68-8933-829d3b9e036d"/>
         <card number="1" name="Decorum Dissertation" setShortName="PSOS" collectorNumber="78p" uuid="900a94ab-5193-4884-8dcc-2735c6a44bbd"/>
         <card number="1" name="Fell the Profane" setShortName="MH3" collectorNumber="244" uuid="a3cb782d-c459-468d-9779-9b5669abc337"/>
         <card number="1" name="Fix What's Broken" setShortName="PSOS" collectorNumber="188p" uuid="fc1c3151-28d2-401a-8e43-a6ad7eebe719"/>
         <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Karlov of the Ghost Council"/>
+        <card number="1" name="Karlov of the Ghost Council" setShortName="RVR" collectorNumber="193" uuid="f7c41011-a9eb-451c-a76d-67d2dcf47c52"/>
     </zone>
 </cockatrice_deck>

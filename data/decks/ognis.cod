@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 12:03:30 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 16:24:30 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="">Ognis, the Dragon's Lash</bannerCard>
@@ -11,24 +11,30 @@
         <card number="1" name="Tibalt's Trickery"/>
         <card number="1" name="Dolmen Gate"/>
         <card number="1" name="Stormclaw Rager"/>
+        <card number="1" name="Face Yourself" setShortName="FRA" collectorNumber="83" uuid="3ccf8f64-19bd-4fdf-b70a-30a042bacf2f"/>
         <card number="1" name="Braids, Arisen Nightmare"/>
+        <card number="1" name="Draconic Visitor" setShortName="FRA" collectorNumber="80" uuid="112f8478-bd89-4a14-9721-8ab750613129"/>
         <card number="1" name="Mimic Vat"/>
-        <card number="1" name="Gruesome Encore"/>
+        <card number="1" name="Falkenrath Aristocrat" setShortName="2XM" collectorNumber="195" uuid="57ac7f19-bf6f-4a87-ad39-6eb2553d2202"/>
+        <card number="1" name="Deathcap Glade" setShortName="SOS" collectorNumber="301" uuid="dca82673-3788-4b92-8605-bedda45e5b16"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Bow of Nylea"/>
         <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Grove of the Burnwillows" setShortName="ZNE" collectorNumber="25" uuid="82fb5274-c11a-465b-b14f-8f35495482e4"/>
+        <card number="1" name="Haunted Ridge" setShortName="MID" collectorNumber="282" uuid="91f67a64-b97d-473a-be9d-c8044ff86605"/>
         <card number="1" name="Hit-Monkey" setShortName="MSC" collectorNumber="723" uuid="7a253dc9-1593-4914-90ca-309aa3aed53d"/>
-        <card number="1" name="Falkenrath Aristocrat"/>
         <card number="1" name="Whip of Erebos"/>
         <card number="1" name="Questing Beast"/>
         <card number="1" name="Hate Mirage"/>
+        <card number="1" name="Rockfall Vale" setShortName="MID" collectorNumber="284" uuid="3bfcc5d4-babd-4b66-95fa-c5ec6c49e93a"/>
         <card number="1" name="Minsc &amp; Boo, Timeless Heroes"/>
         <card number="1" name="Macabre Mockery"/>
-        <card number="1" name="Vengevine"/>
         <card number="1" name="Goblin Heelcutter"/>
         <card number="1" name="The Gitrog, Ravenous Ride"/>
         <card number="1" name="Mass Mutiny"/>
         <card number="1" name="Zealous Conscripts"/>
+        <card number="1" name="Smaug the Impenetrable" setShortName="HOC" collectorNumber="9" uuid="55872bce-08ce-4d4f-8951-9fa230f3e160"/>
+        <card number="1" name="Smaug the Magnificent" setShortName="HOB" collectorNumber="110" uuid="6a5d8fad-2ffd-4645-8c49-907999b6cecf"/>
         <card number="1" name="Gaze of Granite"/>
         <card number="1" name="Klauth, Unrivaled Ancient"/>
         <card number="2" name="Swamp"/>
@@ -39,34 +45,29 @@
         <card number="1" name="Arena of Glory"/>
         <card number="1" name="Wooded Foothills"/>
         <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Vengevine" setShortName="WMC" collectorNumber="2013" uuid="956238ab-52ff-4787-aebc-efd13b6a2468"/>
         <card number="1" name="Stomping Ground"/>
         <card number="1" name="Taiga"/>
-        <card number="1" name="Grove of the Burnwillows"/>
         <card number="1" name="Overgrown Tomb"/>
         <card number="1" name="Woodland Cemetery"/>
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Deathcap Glade"/>
         <card number="1" name="Bayou"/>
         <card number="1" name="Badlands"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Blood Crypt"/>
-        <card number="1" name="Haunted Ridge"/>
         <card number="1" name="Captain Lannery Storm"/>
         <card number="1" name="Seize the Spotlight"/>
         <card number="1" name="Krenko, Baron of Tin Street"/>
         <card number="1" name="The Balrog, Durin's Bane"/>
         <card number="1" name="Rankle and Torbran"/>
-        <card number="1" name="Ambuscade Shaman"/>
         <card number="1" name="Ohran Frostfang"/>
         <card number="1" name="Toski, Bearer of Secrets"/>
         <card number="1" name="Craterhoof Behemoth"/>
-        <card number="1" name="Old Gnawbone"/>
         <card number="1" name="Heroic Intervention"/>
         <card number="1" name="Druids' Repository"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Dragonskull Summit"/>
-        <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Xorn"/>
         <card number="1" name="Kellogg, Dangerous Mind"/>
         <card number="1" name="Klauth's Will"/>
@@ -90,7 +91,6 @@
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Deflecting Swat" setShortName="CMM" collectorNumber="214" uuid="b4b36435-55b3-4615-8812-af41d4fc64d9"/>
         <card number="1" name="Skyshroud Claim" setShortName="CMM" collectorNumber="321" uuid="a0e12f0e-ab41-4413-8b88-9bde907fab22"/>
-        <card number="1" name="Realm-Scorcher Hellkite" setShortName="PWOE" collectorNumber="145s" uuid="872d1a98-0b29-415b-b734-7afebb8b6830"/>
         <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
         <card number="1" name="Agadeem's Awakening" setShortName="ZNR" collectorNumber="90" uuid="67f4c93b-080c-4196-b095-6a120a221988"/>
         <card number="1" name="Shadow the Hedgehog" setShortName="SLD" collectorNumber="2086" uuid="6c184959-a1e5-40d7-8faa-99310c4156ef"/>

@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri May 1 23:42:03 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Wed Jul 29 15:17:16 2026</lastLoadedTimestamp>
     <deckname></deckname>
+    <format></format>
     <bannerCard providerId="">Teysa Karlov</bannerCard>
     <comments></comments>
     <tags/>
     <zone name="main">
         <card number="1" name="Talisman of Hierarchy"/>
-        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Kaya the Inexorable" setShortName="PKHM" collectorNumber="218p" uuid="459c4a00-35eb-4cb4-8cee-e7d8a8152c4a"/>
+        <card number="1" name="Attrition" setShortName="UDS" collectorNumber="52" uuid="e3eb615b-249d-433f-a521-8310e8784b5d"/>
         <card number="1" name="Undead Augur"/>
+        <card number="1" name="Ashnod's Altar" setShortName="BRR" collectorNumber="67z" uuid="f35ff4b7-c55a-4ede-ae73-b6c648d25613"/>
+        <card number="1" name="Dictate of Erebos" setShortName="PLST" collectorNumber="JOU-65" uuid="354356c1-7b25-4d27-8887-ef9fe68bb76b"/>
         <card number="1" name="Abyssal Gatekeeper"/>
+        <card number="1" name="Athreos, God of Passage" setShortName="PLST" collectorNumber="JOU-146" uuid="a9c87b4d-6e19-4b28-9041-821289f9cd1a"/>
         <card number="1" name="Spawning Pit"/>
+        <card number="1" name="Orzhov Signet" setShortName="BRC" collectorNumber="154" uuid="b99cac18-281d-437f-ae34-87a10b92c6e9"/>
         <card number="1" name="Zulaport Cutthroat"/>
         <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Hostile Hostel" setShortName="MID" collectorNumber="379" uuid="14d27a38-6ed1-499e-ab30-26e04a56c071"/>
+        <card number="1" name="The Meathook Massacre" setShortName="INR" collectorNumber="387" uuid="09dbe391-a817-4347-986f-13849746db56"/>
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Hallowed Spiritkeeper"/>
-        <card number="1" name="Attrition"/>
         <card number="1" name="Corpse Augur"/>
         <card number="1" name="Falkenrath Noble"/>
         <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Shattered Sanctum" setShortName="INR" collectorNumber="283" uuid="89bec47e-811d-4540-9834-8b9670e00c5c"/>
         <card number="1" name="Grave Pact"/>
         <card number="1" name="Archon of Justice"/>
-        <card number="1" name="Kaya the Inexorable"/>
         <card number="1" name="Junji, the Midnight Sky"/>
         <card number="1" name="Ogre Slumlord"/>
-        <card number="1" name="Dictate of Erebos"/>
-        <card number="1" name="Kokusho, the Evening Star"/>
+        <card number="1" name="Kokusho, the Evening Star" setShortName="MMA" collectorNumber="89" uuid="06a80365-1613-4d26-abe3-8cec0d40146b"/>
         <card number="1" name="Massacre Wurm"/>
         <card number="5" name="Plains"/>
         <card number="3" name="Swamp"/>
@@ -51,20 +57,16 @@
         <card number="1" name="Cruel Celebrant"/>
         <card number="1" name="Ministrant of Obligation"/>
         <card number="1" name="Liliana, Dreadhorde General"/>
-        <card number="1" name="The Meathook Massacre"/>
         <card number="1" name="Black Market"/>
         <card number="1" name="Body Launderer"/>
         <card number="1" name="Luminous Broodmoth"/>
-        <card number="1" name="Athreos, God of Passage"/>
         <card number="1" name="Elenda, the Dusk Rose"/>
         <card number="1" name="Drivnod, Carnage Dominus"/>
         <card number="1" name="Bastion of Remembrance"/>
-        <card number="1" name="Ashnod's Altar"/>
         <card number="1" name="Phyrexian Altar"/>
         <card number="1" name="Altar of Dementia"/>
         <card number="1" name="Fanatical Devotion"/>
         <card number="1" name="Living Death"/>
-        <card number="1" name="Shattered Sanctum"/>
         <card number="1" name="Volrath's Stronghold"/>
         <card number="1" name="Inkshield"/>
         <card number="1" name="Ashen Rider"/>
@@ -77,7 +79,6 @@
         <card number="1" name="Yawgmoth, Thran Physician"/>
         <card number="1" name="High-Society Hunter"/>
         <card number="1" name="Arcane Signet"/>
-        <card number="1" name="Hostile Hostel"/>
         <card number="1" name="Valkyrie's Call"/>
         <card number="1" name="Witch Enchanter"/>
         <card number="1" name="Sothera, the Supervoid" setShortName="EOE" collectorNumber="115" uuid="e99d6fc0-dcf2-4b25-81c2-02c230a36246"/>

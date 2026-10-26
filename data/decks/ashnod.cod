@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 12:02:04 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 18:49:01 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31">Ashnod the Uncaring</bannerCard>
@@ -10,21 +10,33 @@
         <card number="1" name="Ashnod the Uncaring" setShortName="BRC" collectorNumber="4" uuid="a76e8ab8-33bf-4a5a-b6a2-7046301b6c31"/>
     </zone>
     <zone name="main">
+        <card number="1" name="Blasphemous Act" setShortName="BRC" collectorNumber="113" uuid="310abe1d-153e-44c7-974c-441a2fbc19bf"/>
+        <card number="1" name="Arc Reactor" setShortName="MSH" collectorNumber="243" uuid="339acb17-4b8e-4836-9cc5-8a0a946ebc73"/>
         <card number="1" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
-        <card number="2" name="Snow-Covered Swamp" setShortName="MB2" collectorNumber="118" uuid="632e2c82-0122-4f87-bb83-88064fbb91ab"/>
+        <card number="1" name="Attrition" setShortName="UDS" collectorNumber="52" uuid="e3eb615b-249d-433f-a521-8310e8784b5d"/>
+        <card number="1" name="Extinction Event" setShortName="PRM" collectorNumber="80881" uuid="8367297b-0e14-480c-9f7e-b9d6c6df668a"/>
+        <card number="1" name="Goblin Bombardment" setShortName="TMP" collectorNumber="179" uuid="179e954f-1d90-4ef4-b800-25845cc338e2"/>
+        <card number="1" name="Corpse Dance" setShortName="TMP" collectorNumber="116" uuid="76ae81ea-13e3-4ab8-b956-4c7b139a5e9c"/>
+        <card number="1" name="Craterclaw Colossus" setShortName="FRA" collectorNumber="78" uuid="47793a51-08c6-4ad2-a7e5-a4484d83a5cd"/>
+        <card number="1" name="Arcbound Ravager" setShortName="DST" collectorNumber="100" uuid="72c1a731-7854-42b1-8719-ac3c2a269c1f"/>
         <card number="2" name="Mountain" setShortName="30A" collectorNumber="292" uuid="3306a711-b83e-4509-8363-1d9dac83f511"/>
-        <card number="1" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="1" name="Reins of Power" setShortName="STH" collectorNumber="41" uuid="21a9242f-0516-4dae-8cbc-1f7f78931782"/>
         <card number="1" name="Forensic Gadgeteer" setShortName="MKM" collectorNumber="57" uuid="97d08a15-e61c-4421-a541-c68a4f87cb74"/>
         <card number="1" name="Executioner's Capsule" setShortName="BRC" collectorNumber="104" uuid="73a54823-a5fd-4055-a435-a6bdbd6bedff"/>
+        <card number="1" name="Island" setShortName="PLST" collectorNumber="LCI-396" uuid="5679b9cc-5fee-49bb-8378-09e4943c42c0"/>
         <card number="1" name="Wayfarer's Bauble" setShortName="40K" collectorNumber="261" uuid="57ead261-d358-419e-b832-086439c5e793"/>
         <card number="1" name="Retrofitter Foundry" setShortName="DRC" collectorNumber="136" uuid="fcddaf73-0242-4db8-817b-d65c17119372"/>
-        <card number="1" name="Mnemonic Sphere" setShortName="BRC" collectorNumber="88" uuid="6dd6a9d8-6ac3-49be-a87e-4d91fa8d96a3"/>
         <card number="1" name="Moriok Replica" setShortName="SOM" collectorNumber="178" uuid="480311ae-b9af-4fb7-881b-35566598cf07"/>
         <card number="1" name="Loki's Scepter" setShortName="MSC" collectorNumber="56" uuid="57e90938-9225-4c15-b4fb-aad2cced2e6a"/>
         <card number="1" name="Unstable Obelisk" setShortName="40K" collectorNumber="260" uuid="f79d90f8-fb86-4846-833a-63c0496221e0"/>
+        <card number="1" name="Goblin Welder" setShortName="ULG" collectorNumber="80" uuid="6171e136-1167-4329-acb2-6853d3a814e5"/>
         <card number="1" name="Neurok Replica" setShortName="DDU" collectorNumber="59" uuid="76114dda-811c-41b2-995b-9e80115cc8c8"/>
+        <card number="1" name="Mind Stone" setShortName="BRC" collectorNumber="148" uuid="6ff5cc3e-0179-442e-a0b0-48063dd59fb3"/>
+        <card number="2" name="Snow-Covered Island" setShortName="SLD" collectorNumber="2" uuid="3d7c3929-cd56-448d-9752-6d5f9d1fd778"/>
         <card number="1" name="Survey Mechan" setShortName="EOE" collectorNumber="245" uuid="9b4278ea-6cd8-45ad-b024-daf3dedd29e0"/>
+        <card number="1" name="Snow-Covered Mountain" setShortName="SLD" collectorNumber="4" uuid="685a9d6d-497b-44a1-963f-501d61ea7f66"/>
         <card number="1" name="Hedron Archive" setShortName="40K" collectorNumber="240" uuid="2feb16d2-7406-45ab-9595-e6c48fc47bf5"/>
+        <card number="2" name="Snow-Covered Swamp" setShortName="SLD" collectorNumber="3" uuid="5dce8b37-50da-4f21-9664-e4d6ce6c4e3c"/>
         <card number="1" name="Metalwork Colossus" setShortName="BRC" collectorNumber="147" uuid="df3e046e-ff1b-4bee-8611-229d0088f5a1"/>
         <card number="1" name="Auton Soldier" setShortName="WHO" collectorNumber="36" uuid="4cc35b82-a233-4460-968e-d90980fb2074"/>
         <card number="1" name="Mass Mutiny" setShortName="OTC" collectorNumber="174" uuid="b817473f-599d-45bb-a3b0-a96986ec5102"/>
@@ -32,23 +44,17 @@
         <card number="1" name="Scrap Mastery" setShortName="CM2" collectorNumber="116" uuid="bc6d966e-fa6b-4eb4-b854-7425f5553518"/>
         <card number="1" name="Canoptek Scarab Swarm" setShortName="40K" collectorNumber="150" uuid="3ce2021c-1422-4901-a554-2d4fab72c8e4"/>
         <card number="1" name="Domineering Will" setShortName="CLB" collectorNumber="719" uuid="e8c3836d-a08b-424c-aefe-e1585161edf7"/>
-        <card number="1" name="Reins of Power" setShortName="CLB" collectorNumber="734" uuid="9b5730aa-c74a-4c74-bb1b-a133a3c353ec"/>
         <card number="1" name="Trading Post" setShortName="BRC" collectorNumber="169" uuid="f01fae0b-1042-4cd6-bccb-37e30dae9a28"/>
         <card number="1" name="Krark-Clan Ironworks" setShortName="MB2" collectorNumber="224" uuid="d43f43f4-5551-4fe8-bff9-c72ad76008fa"/>
-        <card number="1" name="Attrition" setShortName="MP2" collectorNumber="19" uuid="948bcca4-6e7a-4884-82f8-21926db8bdd5"/>
         <card number="1" name="Phyrexian Altar" setShortName="2X2" collectorNumber="311" uuid="95d9f93c-50a8-41a9-be98-d1900bf1c12f"/>
         <card number="1" name="Scrap Trawler" setShortName="BRR" collectorNumber="49" uuid="38bc3e3d-f07b-4ee9-8bb6-060ac82f07eb"/>
-        <card number="1" name="Corpse Dance" setShortName="TPR" collectorNumber="89" uuid="aaed9b00-f6a1-4023-b9b9-22d904fe5271"/>
         <card number="1" name="Skeleton Shard" setShortName="HOP" collectorNumber="127" uuid="ee0d0da7-70de-4174-8f71-3e8861270dfb"/>
         <card number="1" name="Junk Diver" setShortName="MH3" collectorNumber="293" uuid="6b5d53cb-bf80-43b0-b839-b11a64ff4c1b"/>
         <card number="1" name="Commander's Sphere" setShortName="40K" collectorNumber="233" uuid="790882a8-a1b7-421a-b840-045bd12a0a55"/>
         <card number="1" name="Wizard Replica" setShortName="HOP" collectorNumber="129" uuid="ed9b6a66-2ec4-44e6-b29b-f08768dca9cc"/>
-        <card number="1" name="Liquimetal Torque" setShortName="BRC" collectorNumber="145" uuid="ca37bdbb-cd35-4d04-a28b-d5eb1f9c2dc3"/>
         <card number="1" name="Arcane Signet" setShortName="40K" collectorNumber="227" uuid="44ff370e-b72d-4a6c-b6dd-8434820559cc"/>
         <card number="1" name="Baleful Strix" setShortName="AFC" collectorNumber="177" uuid="3e417331-84ec-4513-8022-e93ffc260a38"/>
         <card number="1" name="Myr Retriever" setShortName="PLST" collectorNumber="CM2-203" uuid="33940107-e210-4334-a409-48ab591af2ec"/>
-        <card number="1" name="Mind Stone" setShortName="40K" collectorNumber="244" uuid="c729606e-5b13-4699-b7c8-feca69c91f62"/>
-        <card number="1" name="Goblin Bombardment" setShortName="MH2" collectorNumber="279" uuid="e262f55e-9239-4a97-a19e-9b08fb34502e"/>
         <card number="1" name="Spawning Pit" setShortName="J22" collectorNumber="136" uuid="d1f1ece0-83be-4f46-8c17-3fb0af900b7a"/>
         <card number="1" name="Culling Dais" setShortName="2XM" collectorNumber="246" uuid="54dc8c2a-928d-465e-8f76-82a90cc66854"/>
         <card number="1" name="Supernatural Stamina" setShortName="2X2" collectorNumber="93" uuid="69a0278b-3198-4c8d-b20c-f42e8b1569f4"/>
@@ -71,12 +77,9 @@
         <card number="1" name="Xander's Lounge" setShortName="PSNC" collectorNumber="260p" uuid="5728a46b-5e12-4abd-97c2-d94734a7ee77"/>
         <card number="1" name="Exotic Orchard" setShortName="40K" collectorNumber="278" uuid="ec9c7011-694b-4705-b85c-bf4edf26e437"/>
         <card number="1" name="Arena of Glory" setShortName="MH3" collectorNumber="215" uuid="dd148edc-9e43-41aa-bb50-f912115d3e72"/>
-        <card number="1" name="Snow-Covered Mountain" setShortName="MB2" collectorNumber="119" uuid="c55fd65e-7701-447f-a42b-942eadccae3d"/>
         <card number="1" name="Goblin Engineer" setShortName="H1R" collectorNumber="16" uuid="cae12ba4-80d9-4c2d-af64-d88d003a0d6f"/>
-        <card number="1" name="Goblin Welder" setShortName="SLD" collectorNumber="1617" uuid="c427b231-3419-407c-803f-d6bcc37efb1d"/>
         <card number="1" name="Chaos Defiler" setShortName="40K" collectorNumber="110" uuid="1c0f2873-5849-4cab-855a-2fbbc41dbb6c"/>
         <card number="1" name="Vexing Bauble" setShortName="MH3" collectorNumber="212" uuid="29f11089-658f-42e6-aeb0-09b512ad2479"/>
-        <card number="2" name="Snow-Covered Island" setShortName="J22" collectorNumber="833" uuid="fe6b4706-5452-4c50-872d-2d04f96407a8"/>
         <card number="1" name="Mana Vault" setShortName="2X2" collectorNumber="308" uuid="c1a31d52-a407-4ded-bfca-cc812f11afa0"/>
         <card number="1" name="Phyrexian Dragon Engine" setShortName="BRO" collectorNumber="163a" uuid="e2b826be-4256-4fd6-ad4d-6c80933ee940"/>
         <card number="1" name="An Offer You Can't Refuse" setShortName="BLC" collectorNumber="170" uuid="b9ee82ee-4899-496e-80a6-e3403f6b364f"/>
@@ -97,14 +100,11 @@
         <card number="1" name="Blood Crypt" setShortName="CLU" collectorNumber="274" uuid="a01e1e92-feb3-4880-bcf3-9e1ac90911b8"/>
         <card number="1" name="Scalding Tarn" setShortName="MH2" collectorNumber="254" uuid="71e491c5-8c07-449b-b2f1-ffa052e6d311"/>
         <card number="1" name="Reliquary Tower" setShortName="40K" collectorNumber="291" uuid="fc07ad3a-982a-4bfc-b2e7-8e6e340ed32c"/>
-        <card number="1" name="Arcbound Ravager" setShortName="PL23" collectorNumber="6" uuid="73e50280-5202-43a8-9b80-14feaf0ea9fe"/>
         <card number="1" name="Dungeoneer's Pack" setShortName="CLB" collectorNumber="312" uuid="aa74e656-480a-4c1b-963d-1b207075c27f"/>
         <card number="1" name="Chaos Warp" setShortName="2X2" collectorNumber="105" uuid="0c20d8d5-a54a-4d81-9211-e82a10abdde2"/>
         <card number="1" name="Myr Battlesphere" setShortName="BRC" collectorNumber="151" uuid="e225aa6b-bcf0-4672-8c95-b18e39e0b826"/>
         <card number="1" name="Otawara, Soaring City" setShortName="NEO" collectorNumber="271" uuid="486d7edc-d983-41f0-8b78-c99aecd72996"/>
         <card number="1" name="Slip Out the Back" setShortName="CLU" collectorNumber="99" uuid="d9d9fbbb-ed6c-45f7-a1d8-f9d29ae7930f"/>
         <card number="1" name="Blasphemous Edict" setShortName="FDN" collectorNumber="57" uuid="11040ecd-3153-4029-b42b-1441bc51ec34"/>
-        <card number="1" name="Blasphemous Act" setShortName="40K" collectorNumber="204" uuid="23ed787e-8034-45c7-b4cf-1a05d300beea"/>
-        <card number="1" name="Extinction Event" setShortName="MAR" collectorNumber="65" uuid="f6bcf690-c532-4d2d-8458-78a5613a6090"/>
     </zone>
 </cockatrice_deck>

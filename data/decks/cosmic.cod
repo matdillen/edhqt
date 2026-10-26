@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Oct 26 18:49:48 2026</lastLoadedTimestamp>
+    <deckname></deckname>
+    <format></format>
+    <bannerCard providerId="b2996f07-9dbc-444f-aaae-710866da2b4b">Cosmic Spider-Man</bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="side">
+        <card number="1" name="Cosmic Spider-Man" setShortName="OM1" collectorNumber="154" uuid="b2996f07-9dbc-444f-aaae-710866da2b4b"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Baxter Building" setShortName="MSH" collectorNumber="261" uuid="1abc652f-8e9d-4df7-bc4e-d8b515a40fec"/>
+        <card number="1" name="Kindred Judgment" setShortName="FRA" collectorNumber="13" uuid="6f9f814b-8249-4e48-a05e-4c84060fe6fb"/>
+        <card number="1" name="Breeding Pool" setShortName="CLU" collectorNumber="275" uuid="5656d6f2-ca19-452d-870c-d5e7a3dc9432"/>
+        <card number="1" name="Cascading Cataracts" setShortName="DMC" collectorNumber="202" uuid="2f3fbd9b-91ab-4691-a916-e20db8ebc513"/>
+        <card number="1" name="Cavern of Souls" setShortName="2X2" collectorNumber="320" uuid="e697ea72-e10e-4fed-be8f-8c6455cc3fc8"/>
+        <card number="1" name="Flawless Maneuver" setShortName="CMM" collectorNumber="24" uuid="ab12f69e-1491-47a8-8c46-d85bbf637ff6"/>
+        <card number="1" name="City of Brass" setShortName="2X2" collectorNumber="321" uuid="bed4a63d-632a-4a3a-b35f-f8e155237d27"/>
+        <card number="1" name="Command Tower" setShortName="40K" collectorNumber="270" uuid="7cf39d35-1426-4edb-98ae-d1f1a470629f"/>
+        <card number="1" name="Flooded Strand" setShortName="MH3" collectorNumber="220" uuid="8f85e12c-196b-4459-b81f-0c9c854e9f57"/>
+        <card number="1" name="Forest" setShortName="30A" collectorNumber="295" uuid="a1dff5ca-1589-4baa-8dd7-447e82e24dc3"/>
+        <card number="1" name="Island" setShortName="30A" collectorNumber="286" uuid="4eea2b47-130a-4bd0-b936-981bee1ebe8c"/>
+        <card number="1" name="Ketria Triome" setShortName="PLST" collectorNumber="IKO-250" uuid="e5b1b1dc-523c-4fce-baea-6f13971cc03b"/>
+        <card number="1" name="Mana Confluence" setShortName="EA2" collectorNumber="22" uuid="d80f82c0-e13c-4bac-bcb3-e1766e2d8d69"/>
+        <card number="1" name="Misty Rainforest" setShortName="MH2" collectorNumber="250" uuid="88231c0d-0cc8-44ec-bf95-81d1710ac141"/>
+        <card number="1" name="Mutavault" setShortName="CLB" collectorNumber="903" uuid="52cc2f10-142d-4e6a-984e-b25f566cc960"/>
+        <card number="1" name="Path of Ancestry" setShortName="40K" collectorNumber="287" uuid="5410dbe8-006d-4267-92f1-b9bd7b1069e3"/>
+        <card number="1" name="Polluted Delta" setShortName="MH3" collectorNumber="224" uuid="6e288374-2b71-4ace-b1d2-a19fee6cb4af"/>
+        <card number="1" name="Raffine's Tower" setShortName="PSNC" collectorNumber="254p" uuid="f47199c3-e7d3-4cfd-acbb-287adf526ba7"/>
+        <card number="1" name="Raugrin Triome" setShortName="IKO" collectorNumber="251" uuid="02138fbb-3962-4348-8d31-faaefba0b8b2"/>
+        <card number="1" name="Sacred Foundry" setShortName="CLU" collectorNumber="279" uuid="83893cda-546c-445e-b32c-c972354ccec2"/>
+        <card number="1" name="Savannah" setShortName="30A" collectorNumber="276" uuid="3af5afd0-1b5b-4055-9d90-87356090911f"/>
+        <card number="1" name="Scrubland" setShortName="30A" collectorNumber="277" uuid="eb9a95ba-4c64-4547-b497-d06f3b9a397f"/>
+        <card number="1" name="Secluded Courtyard" setShortName="CMM" collectorNumber="1030" uuid="cb0da3a5-12fb-4ff0-9894-fdabdfa4d860"/>
+        <card number="1" name="Steam Vents" setShortName="CLU" collectorNumber="280" uuid="a8619bc1-04e8-4395-aff5-6ac5917fd4f1"/>
+        <card number="1" name="Swamp" setShortName="30A" collectorNumber="289" uuid="004e232c-ea3d-4a8c-bf16-234ac09e4567"/>
+        <card number="1" name="Swarmyard" setShortName="BLC" collectorNumber="133" uuid="5dd51c2a-99ad-4866-9e0c-162746cb04d3"/>
+        <card number="1" name="Taiga" setShortName="30A" collectorNumber="278" uuid="e53c3622-1000-4727-9473-bacf20c8d682"/>
+        <card number="1" name="The World Tree" setShortName="PLST" collectorNumber="KHM-275" uuid="d93769a3-9419-4f60-8a75-495050ba4fa3"/>
+        <card number="1" name="Three Tree City" setShortName="BLB" collectorNumber="260" uuid="56f88a48-cced-4a9d-8c19-e4f105f0d8a2"/>
+        <card number="1" name="Tropical Island" setShortName="30A" collectorNumber="279" uuid="2d9d4f2e-5a41-410d-b1c3-47e4aca07177"/>
+        <card number="1" name="Unclaimed Territory" setShortName="40K" collectorNumber="304" uuid="0d167949-2fd2-4b85-b2fa-f598b55b4915"/>
+        <card number="1" name="Underground Sea" setShortName="30A" collectorNumber="281" uuid="cbde3041-fb76-4dc8-9cdf-359ad955fd73"/>
+        <card number="1" name="Verdant Catacombs" setShortName="MH2" collectorNumber="260" uuid="94c229ea-90da-4aa0-bfda-b162fb3b5b8b"/>
+        <card number="1" name="Volcanic Island" setShortName="30A" collectorNumber="282" uuid="12f74d08-d020-4c89-a1a2-0815b8b65755"/>
+        <card number="1" name="Windswept Heath" setShortName="MH3" collectorNumber="235" uuid="bd1d13f7-fd38-4f0b-a8e0-1eac78668117"/>
+        <card number="1" name="Zagoth Triome" setShortName="IKO" collectorNumber="259" uuid="cc520518-2063-4b57-a0d4-10cf62a7175e"/>
+        <card number="1" name="Collective Inferno" setShortName="ECL" collectorNumber="132" uuid="1ec084cc-997d-4079-b445-8f701ec3c277"/>
+        <card number="1" name="Chronicle of Victory" setShortName="ECL" collectorNumber="253" uuid="b3c2d68d-690b-41e7-99ed-2d20c7e0a9b4"/>
+        <card number="1" name="Lolth, Spider Queen" setShortName="AFR" collectorNumber="112" uuid="420a5689-d73e-4dda-82fd-8b8897ff5b55"/>
+        <card number="1" name="Germination Practicum" setShortName="PSOS" collectorNumber="149p" uuid="9a1d12c2-6eff-482d-abc2-859009e33da4"/>
+        <card number="1" name="Cryptic Gateway" setShortName="DMR" collectorNumber="218" uuid="c872e2b4-3ca9-4649-b863-17c0c4065f63"/>
+        <card number="1" name="Doom Weaver" setShortName="VOC" collectorNumber="34" uuid="08c79a77-810d-4ee2-8afc-18ddfba41ad1"/>
+        <card number="1" name="Kindred Summons" setShortName="AFC" collectorNumber="163" uuid="54c0cc74-0a5c-40ee-961b-ade71719937a"/>
+        <card number="1" name="Collective Restraint" setShortName="PLST" collectorNumber="INV-49" uuid="a7e60999-8d45-468d-ad6e-de8826afad1a"/>
+        <card number="1" name="Springleaf Parade" setShortName="ECC" collectorNumber="19" uuid="44265489-645a-43b0-bc1f-726905b06876"/>
+        <card number="1" name="Patriarch's Bidding" setShortName="MH2" collectorNumber="275" uuid="317686d8-b762-4598-b74a-8b1fa6b899ba"/>
+        <card number="1" name="Gwenom, Remorseless" setShortName="OM1" collectorNumber="56" uuid="fcd9da8a-e36f-4ae1-9a5d-b72ad9c27397"/>
+        <card number="1" name="Kindred Discovery" setShortName="CLB" collectorNumber="81" uuid="5a5462e9-c602-4431-a845-f7c6cafbc3cf"/>
+        <card number="1" name="Raise the Palisade" setShortName="HOC" collectorNumber="18" uuid="2a7b9598-9234-4621-90e4-f578f2f84983"/>
+        <card number="1" name="Swarmyard Massacre" setShortName="BLC" collectorNumber="20" uuid="8486f472-afad-4fdd-a57a-d20d8871b543"/>
+        <card number="1" name="Moritte of the Frost" setShortName="PLST" collectorNumber="KHM-223" uuid="9c83dfd6-bf06-4291-89a3-924c3e9ab3f9"/>
+        <card number="1" name="Overwhelming Stampede" setShortName="DSC" collectorNumber="192" uuid="cbb081ca-75ab-40e4-b071-50ed387c90e4"/>
+        <card number="1" name="Omni-Changeling" setShortName="ECL" collectorNumber="62" uuid="f29ce8f9-42a3-43fa-8197-666cc26e2c76"/>
+        <card number="1" name="Vanquisher's Banner" setShortName="CMM" collectorNumber="982" uuid="8162961c-bfe0-4e30-bad4-f473bf582f21"/>
+        <card number="1" name="Door of Destinies" setShortName="LTC" collectorNumber="277" uuid="ef038cae-d00b-42f4-81ae-09929b05d881"/>
+        <card number="1" name="Chromatic Lantern" setShortName="40K" collectorNumber="232" uuid="e068501e-59d6-4c64-99f4-f3c2aacd5d4d"/>
+        <card number="1" name="Obelisk of Urd" setShortName="ZNC" collectorNumber="115" uuid="c610beb6-6fd5-4230-ae74-240a005d5c8c"/>
+        <card number="1" name="Arasta of the Endless Web" setShortName="BLC" collectorNumber="205" uuid="6dda8d6b-fd31-4908-a953-20c180a33e56"/>
+        <card number="1" name="Kindred Boon" setShortName="LCC" collectorNumber="129" uuid="a9d21710-3006-45a0-9af2-275159bb5315"/>
+        <card number="1" name="Chameleon Colossus" setShortName="AFC" collectorNumber="153" uuid="15401ca4-f6cd-400e-8e5e-ea47493b56a4"/>
+        <card number="1" name="Silklash Spider" setShortName="CMA" collectorNumber="145" uuid="0edd614b-f85f-476c-bf55-ad2db5c30cd7"/>
+        <card number="1" name="Herald's Horn" setShortName="40K" collectorNumber="241" uuid="e7ac5242-6b78-438f-b609-ccd5970481e8"/>
+        <card number="1" name="Harmonized Crescendo" setShortName="ECL" collectorNumber="54" uuid="2715e0c0-9913-4bea-9a42-ad1164f6130a"/>
+        <card number="1" name="Progenitor's Icon" setShortName="LCC" collectorNumber="68" uuid="f5e04597-c1b6-4561-aba2-5a8c3185463d"/>
+        <card number="1" name="Urza's Incubator" setShortName="DMR" collectorNumber="239" uuid="d8122161-1608-4af4-9aca-7f22c2f746aa"/>
+        <card number="1" name="Arachnogenesis" setShortName="CMM" collectorNumber="272" uuid="ef6b1fd8-7c0b-4736-a100-cabd82052227"/>
+        <card number="1" name="Amazing Spider-Girl" setShortName="MSC" collectorNumber="583" uuid="794dda34-8bc5-4cb9-8460-07f93426dd34"/>
+        <card number="1" name="Roaming Throne" setShortName="LCI" collectorNumber="258" uuid="32fd8b7c-baf3-4d3d-be6f-044a917b11a0"/>
+        <card number="1" name="Sweet-Gum Recluse" setShortName="CLB" collectorNumber="835" uuid="2d3c6325-450d-47f3-a69b-cdfc25ae65e6"/>
+        <card number="1" name="Fierce Guardianship" setShortName="CMM" collectorNumber="94" uuid="f7f3dd95-bd14-4e0f-a388-444f9cf1b0dc"/>
+        <card number="1" name="Thantis, the Warweaver" setShortName="PLST" collectorNumber="C18-46" uuid="ff540cf0-5514-45fd-907c-85a2308bbb59"/>
+        <card number="1" name="Protective Sphere" setShortName="INV" collectorNumber="26" uuid="ef5ef13e-1cf0-42a9-95d0-30ade254d6a8"/>
+        <card number="1" name="Chomping Changeling" setShortName="ECL" collectorNumber="172" uuid="e187dcc6-19ad-4cf6-94b4-daf07f5144e5"/>
+        <card number="1" name="Shelob, Child of Ungoliant" setShortName="LTR" collectorNumber="230" uuid="a14c4b29-3363-45ce-9190-0f79e1a0ef7f"/>
+        <card number="1" name="Shelob, Dread Weaver" setShortName="LTC" collectorNumber="29" uuid="83944c19-6f9b-4043-9eeb-1a4ca452f698"/>
+        <card number="1" name="Skyfisher Spider" setShortName="BLC" collectorNumber="261" uuid="e18927dd-c50c-4fb2-8d4c-d0f853b68294"/>
+        <card number="1" name="Llanowar Greenwidow" setShortName="DMU" collectorNumber="169" uuid="81f90e4d-f60f-4175-830f-c2ce04c5a945"/>
+        <card number="1" name="And They Shall Know No Fear" setShortName="40K" collectorNumber="9" uuid="84d1bcef-907c-4c3a-8b52-6e633fa19667"/>
+        <card number="1" name="Selfless Safewright" setShortName="ECL" collectorNumber="193" uuid="ac95b1c3-9eb2-4f80-bb32-72b36817d622"/>
+        <card number="1" name="Decisive Denial" setShortName="OTP" collectorNumber="42" uuid="54ee0802-62c1-46ac-907e-82ace59fbddb"/>
+        <card number="1" name="Spider-Man, Web-Spinner" setShortName="MSC" collectorNumber="832" uuid="acf20da5-e460-4191-ad68-eae398bb7c5d"/>
+        <card number="1" name="Obelisk Spider" setShortName="PLST" collectorNumber="HOU-141" uuid="e0b62c2f-566c-47fb-a2ad-da375da98598"/>
+        <card number="1" name="Ruins Recluse" setShortName="MOM" collectorNumber="336" uuid="c0c0fdf5-2f56-4480-9ccb-84471b3e5331"/>
+        <card number="1" name="Superior Spider-Man" setShortName="OM1" collectorNumber="140" uuid="0f193a36-d452-4503-937c-90fb55a99ab4"/>
+        <card number="1" name="Scarlet Spider, Ben Reilly" setShortName="OM1" collectorNumber="126" uuid="a6d9b8d6-1e97-4e9c-b0c4-3b71734134a4"/>
+        <card number="1" name="Sensational Spider-Man" setShortName="SPE" collectorNumber="25" uuid="7a938fa9-cba2-4773-9be9-db1e37aa001f"/>
+        <card number="1" name="Spectacular Spider-Man" setShortName="LMAR" collectorNumber="2" uuid="818a5c98-8740-43b1-a42a-6d2382138df8"/>
+        <card number="1" name="March of Swirling Mist" setShortName="NEO" collectorNumber="61" uuid="100171d8-7436-44c8-b4cb-0101ffa05c25"/>
+        <card number="1" name="Spider-Ham, Peter Porker" setShortName="OM1" collectorNumber="118" uuid="b1c95ee4-b60d-4868-b7e3-204849a8f544"/>
+        <card number="1" name="Spider-Man, Brooklyn Visionary" setShortName="OM1" collectorNumber="122" uuid="eb4fc620-2c48-46d9-9046-157285e820a6"/>
+        <card number="1" name="Spider-Punk" setShortName="OM1" collectorNumber="85" uuid="774d48ab-181b-4190-9956-67706bea9b27"/>
+        <card number="1" name="Spinner of Souls" setShortName="FDN" collectorNumber="112" uuid="f50a8dec-b079-4192-9098-6cdc1026c693"/>
+        <card number="1" name="Taurean Mauler" setShortName="AFC" collectorNumber="143" uuid="ed75b280-c7c5-404f-bbad-c19dff3e6975"/>
+        <card number="1" name="Masked Vandal" setShortName="PLST" collectorNumber="KHM-184" uuid="d6f47fe1-36c6-4af9-a9eb-f2919e8e3446"/>
+        <card number="1" name="Cover of Darkness" setShortName="ACR" collectorNumber="89" uuid="512263f7-975a-4107-b58f-6c8ec85e375e"/>
+        <card number="1" name="Spider Manifestation" setShortName="OM1" collectorNumber="144" uuid="0f6824b0-02d3-4b2a-bf74-61bd38e7e632"/>
+        <card number="1" name="Twitching Doll" setShortName="DSK" collectorNumber="201" uuid="416c025b-e40e-4d95-a774-ba3961f43808"/>
+        <card number="1" name="Mirkwood Spider" setShortName="LTR" collectorNumber="178" uuid="ad961ba1-c74f-4a44-87fe-b30e2b63e378"/>
+        <card number="1" name="Leyline Binding" setShortName="DMU" collectorNumber="24" uuid="3c3ac3dd-35db-447f-8674-37b4680a1ef7"/>
+    </zone>
+</cockatrice_deck>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp>Fri Jul 24 17:05:06 2026</lastLoadedTimestamp>
+    <lastLoadedTimestamp>Mon Oct 26 16:11:34 2026</lastLoadedTimestamp>
     <deckname></deckname>
     <format></format>
     <bannerCard providerId="">Livaan, Cultist of Tiamat</bannerCard>
@@ -13,20 +13,26 @@
     <zone name="main">
         <card number="6" name="Mountain"/>
         <card number="6" name="Forest"/>
+        <card number="1" name="Shadowspear" setShortName="THB" collectorNumber="345" uuid="131cb967-9569-4fbf-8143-c410d3a94538"/>
         <card number="1" name="Boundless Realms"/>
+        <card number="1" name="Ghalta the Unstoppable" setShortName="FRA" collectorNumber="260" uuid="1d535b5f-c916-4f16-89a7-9477578826d2"/>
         <card number="1" name="Brass's Bounty"/>
         <card number="1" name="Epic Fight" setShortName="MSH" collectorNumber="351" uuid="444303ce-b9c1-49be-86ca-8a7e39f06e7c"/>
+        <card number="1" name="Halana and Alena, Partners" setShortName="FDN" collectorNumber="659" uuid="b649f459-c9dc-495d-8703-b685996bb80c"/>
+        <card number="1" name="Grove of the Burnwillows" setShortName="ZNE" collectorNumber="25" uuid="82fb5274-c11a-465b-b14f-8f35495482e4"/>
         <card number="1" name="Mana Geyser"/>
         <card number="1" name="Soul's Majesty"/>
+        <card number="1" name="Mizzix's Mastery" setShortName="OTC" collectorNumber="175" uuid="4fa2d7f2-05b3-468f-9f2c-a61b46bad88e"/>
         <card number="1" name="Soul's Might"/>
         <card number="1" name="Overwhelming Stampede"/>
         <card number="1" name="Hunter's Prowess"/>
         <card number="1" name="Garruk, Primal Hunter"/>
-        <card number="1" name="Xenagos, God of Revels"/>
-        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Seize the Day" setShortName="ODY" collectorNumber="220" uuid="98d03ec3-2279-4266-a3bd-4cebdcb04d70"/>
+        <card number="1" name="Rockfall Vale" setShortName="MID" collectorNumber="284" uuid="3bfcc5d4-babd-4b66-95fa-c5ec6c49e93a"/>
         <card number="1" name="Fungal Sprouting"/>
         <card number="1" name="Terramorph"/>
         <card number="1" name="The Scarlet Witch" setShortName="MSH" collectorNumber="151" uuid="407e8993-e56d-477d-ab85-d10a2522eab3"/>
+        <card number="1" name="Xenagos, God of Revels" setShortName="LCC" collectorNumber="295" uuid="6f1bc3bb-46da-492a-850c-f1f588ad8d18"/>
         <card number="1" name="Minsc &amp; Boo, Timeless Heroes"/>
         <card number="1" name="Return the Favor" setShortName="OTJ" collectorNumber="142" uuid="a9cc02d1-799d-42aa-9bc2-4c05452b63b4"/>
         <card number="1" name="Erratic Cyclops"/>
@@ -36,12 +42,10 @@
         <card number="1" name="Rush of Blood"/>
         <card number="1" name="Spikeshot Elder"/>
         <card number="1" name="Manaplasm"/>
-        <card number="1" name="Embercleave"/>
         <card number="1" name="Fling"/>
         <card number="1" name="Temur Battle Rage"/>
         <card number="1" name="Unleash Fury"/>
         <card number="1" name="Dreadhorde Arcanist"/>
-        <card number="1" name="Shadowspear"/>
         <card number="1" name="Berserk"/>
         <card number="1" name="Ricochet Trap"/>
         <card number="1" name="Become Immense"/>
@@ -51,7 +55,6 @@
         <card number="1" name="Sheltered Thicket"/>
         <card number="1" name="Skarrg, the Rage Pits"/>
         <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Grove of the Burnwillows"/>
         <card number="1" name="Marwyn, the Nurturer"/>
         <card number="1" name="Traverse the Outlands"/>
         <card number="1" name="Volcanic Salvo"/>
@@ -67,7 +70,6 @@
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Mosswort Bridge"/>
         <card number="1" name="Taiga"/>
-        <card number="1" name="Rockfall Vale"/>
         <card number="1" name="Harmonic Prodigy"/>
         <card number="1" name="Chandra's Ignition"/>
         <card number="1" name="Rishkar's Expertise"/>
@@ -75,9 +77,7 @@
         <card number="1" name="Ghalta, Primal Hunger"/>
         <card number="1" name="Season of Gathering"/>
         <card number="1" name="Deflecting Swat"/>
-        <card number="1" name="Halana and Alena, Partners"/>
         <card number="1" name="Tanuki Transplanter"/>
-        <card number="1" name="Seize the Day"/>
         <card number="1" name="Bulk Up"/>
         <card number="1" name="Hanweir Battlements"/>
         <card number="1" name="Chaos Warp"/>
